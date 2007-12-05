@@ -3,6 +3,7 @@ A.18.
 08.02.2006
 14.02.2006
 03.04.2007
+12.11.2007
 A.18. Beschäftigung
 18.0. §§ 18 f. setzen die Aufhebung des Anwerbestopps für Hochqualifizierte um (§ 19), während an dem Anwerbestopp für gering (§ 18 Abs. 3 i.V.m. § 17-24 BeschV) und „normal“ Qualifizierte (§ 18 Abs. 4 i.V.m. § 25-31 BeschV) festgehalten wird. Wie bisher in § 9 AAV werden auch weiterhin Angehörige bestimmter Staaten und sonstige Personengruppen (Deutsche Volkszugehörige mit Aufnahmebescheid - § 33 BeschV -, Monteure - §§ 35 ff. BeschVE -, Grenzgänger) privilegiert.
 18.1.1. bis 18.1.2. frei
@@ -13,9 +14,11 @@ Wenn die Zustimmung der Bundesagentur für Arbeit vorliegt bzw. die Beschäftigu
 Anders sind die Fälle zu bewerten, in denen der Ausländer bei einer Firma beschäftigt wird, die zwar ihren Hauptsitz im Ausland allerdings einen Betriebssitz oder eine Niederlassung im Inland hat. Hier kommt die Erteilung einer Aufenthaltserlaubnis nach §§ 18, 19 in Verbindung mit einer Vorschrift der BeschV sehr wohl in Betracht. Bestehen Zweifel, ob ein Betriebssitz im Inland besteht, ist bei zustimmungspflichtigen Beschäftigungen die Arbeitsagentur, bei zustimmungsfreien Beschäftigungen die Senatsverwaltung für Wirtschaft zu beteiligen.
 18.2.1.3. Wird ein Betroffener, der eine Arbeitserlaubnis zum Zweck der Beschäftigung bei einem bestimmten Arbeitgeber erhalten hat, arbeitslos, so gilt Folgendes:
 Die Erteilung einer AE zum Zwecke der Suche eines Arbeitsplatzes kommt nicht in Betracht. Dem Betroffenen kann statt dessen eine Fiktionsbescheinigung für bis zu 6 Monaten ausgestellt werden. Die Dauer der Fiktionsbescheinigung sollte von der Dauer der bisherigen Beschäftigung sowie davon abhängig gemacht werden, ob die allgemeinen Erteilungsvoraussetzungen gem. § 5 Abs. 1 erfüllt sind und ob der Ausländer über genügend Mittel verfügt, um seinen Lebensunterhalt – etwa auf Grund des Bezugs von Arbeitslosengeld – zu sichern.
-In diesen Fällen wird in die Fiktionsbescheinigung zur Erleichterung der Arbeitsplatzsuche "Beschäftigung nur nach Erlaubnis der Ausländerbehörde (§ 4 Abs. 2 AufenthG). Selbstständige Tätigkeit nicht gestattet."
+In diesen Fällen wird in die Fiktionsbescheinigung zur Erleichterung der Arbeitsplatzsuche
+"Beschäftigung nur nach Erlaubnis der Ausländerbehörde (§ 4 Abs. 2 AufenthG)."
 eingetragen.
-Wird erneut ein Arbeitsplatz gefunden, ist die Fiktionsbescheinigung sodann für die Dauer eines Zustimmungsverfahrens bei der Arbeitsagentur zu verlängern. Wird die Zustimmung erteilt oder ist die Tätigkeit zustimmungsfrei, so ist die AE ohne erneute Ausreise zu erteilen (§ 39 Nr. 1 AufenthV). Andernfalls ist der Antrag auf Erteilung der AE zu versagen.
+Bezüglich der Möglichkeit der selbständigen Tätigkeit ist grundsätzlich die Regelung aus der Aufenthaltserlaubnis gem. § 18 in die Fiktionsbescheinigung zu übernehmen (zur Möglichkeit der selbständigen Tätigkeit bei Personen, die eine Aufenthaltserlaubnis nach § 18 besitzen vgl. A.21.6.).
+Wird erneut ein Arbeitsplatz gefunden oder wird nunmehr eine Aufenthaltserlaubnis nach § 21 Abs. 1 oder 5 beantragt, ist die Fiktionsbescheinigung sodann für die Dauer eines Zustimmungsverfahrens bei der Arbeitsagentur bzw. das Beteiligungsverfahren nach § 21 Abs. 1 S. 4 zu verlängern. Ggf. ist die Aufenthaltserlaubnis ohne erneute Ausreise zu erteilen (§ 39 Nr. 1 AufenthV). Andernfalls ist der Antrag auf Erteilung der Aufenthaltserlaubnis zu versagen.
 Sprechen Personen - insbesondere Inhaber von Aufenthaltserlaubnissen nach § 16 Abs. 1 und Abs. 4 vor - und beantragen die Erteilung einer Aufenthaltserlaubnis nach § 18 i.V.m. §§ 2 -15 BeschV (zustimmungsfreie Tätigkeiten) kann die Aufenthaltserlaubnis bei Vorliegen der Erteilungsvoraussetzungen auch dann erteilt werden, wenn
 - der Ort der Beschäftigung außerhalb Berlin- Brandenburgs liegt, solange der Ausländer nachweislich noch in Berlin gemeldet ist, und/oder
 - die Tätigkeit ausweislich des Arbeitsvertrages erst innerhalb der nächsten drei Monate begonnen werden soll.

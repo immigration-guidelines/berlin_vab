@@ -1,11 +1,11 @@
 A.60a.
-23.03.2007 A.60a.
-27.03.2007
-02.04.2007
+02.04.2007 A.60a.
 25.04.2007
 24.05.2007
 2. ÄndG
 11.09.2007
+05.11.2007
+09.11.2007
 A.60a. Vorübergehende Aussetzung der Abschiebung (Duldung)
 60a.1.1. Die nach § 60a Abs. 1 S. 1 mögliche Aussetzung ist auf maximal 6 Monate begrenzt. Zuständig ist hier SenInn.
 60a.1.2. Gemäß § 60a Abs. 1 S. 2 sind nach 6 Monaten nur Entscheidungen gem. § 23 Abs. 1 möglich.
@@ -68,7 +68,7 @@ Die Ankündigungspflicht besteht weiterhin für den Fall des Widerrufs einer Dul
 Abschiebungen in folgende Staaten sind derzeit vor dem Hintergrund der aktuellen politischen Lage und/oder der fehlenden bzw. unzureichenden Flugverbindung nicht möglich:
 • Irak – Bagdad (s. aber nachfolgend)
 • Sri Lanka - Colombo
-• Guinea - Conakri
+•
 U.a. in die nachfolgend aufgeführten Staaten sind begleitete und unbegleitete Rückführungen möglich:
 • Burundi – Bujumbura (begleitete Rückf. nur im Einzelfall)
 • Haiti – Port-au-Prince (begleitete Rückf. nur im Einzelfall)
@@ -99,7 +99,7 @@ Der Aufenthalt ausreisepflichtiger ausländischer Staatsangehöriger, deren zwan
 während Drogentherapie nach § 35 BTM-G
 Grundsätzlich bedarf ein vollziehbar ausreisepflichtiger ausländischer Strafgefangener auch während des Freiganges oder bei Zurückstellung der Strafvollstreckung nach § 35 BTMG keiner Duldung, weil er aufgrund der richterlich angeordneten Haft nicht für eine Abschiebung zur Verfügung steht.
 Jedoch haben Strafgefangene, die sich im Freigang befinden, um einem Beschäftigungsverhältnis nachzugehen oder sich einer Drogentherapie zu unterziehen, immer wieder erhebliche Probleme, weil andere Behörden einen Freigängerausweis nicht als ausländerbehördliche Bescheinigung über einen aufenthaltsrechtlichen Status akzeptieren. Insofern besteht für diesen Personenkreis auch ein schützenswertes Interesse an einer Bescheinigung über die Aussetzung der Abschiebung.
-Daraus folgt, dass der Aufenthalt vollziehbar ausreisepflichtiger ausländischer Freigänger auf Antrag zu dulden ist. Gleiches gilt für vollziehbar ausreisepflichtige ausländische Strafgefangene, die sich unter Zurückstellung der Strafvollstreckung einer Drogentherapie unterziehen. Die Ausübung einer Beschäftigung ist nur zu erlauben, wenn die Bundesagentur für Arbeit zugestimmt hat oder es sich um eine zustimmungsfreie Tätigkeit handelt Die Aufnahme eines Studiums oder einer sonstigen Berufsausbildung ist nicht zuzulassen. Bei Freigängern ist bei der Anwendung des § 11 BeschVerfV immer davon auszugehen, dass sie das Ausreisehindernis Strafvollzug im Sinne der Vorschrift nicht zu vertreten haben, da ansonsten der Freigang zur Beschäftigung gänzlich ausgeschlossen wäre. Dies kann nicht die Absicht des Verordnungsgebers gewesen sein. Insofern gilt hier für diese Personengruppe ein anderer Maßstab als bei § 25 Abs. 5. Die Erteilung einer AE nach § 25 Abs. 5 kommt nicht in Betracht, weil der Betroffene das aus der begangenenen Straftat resultierende Ausreisehindernis selbst zu vertreten hat. Bzgl. § 10 BeschVerfV sind auch Zeiten des Strafvollzugs ohne Duldung oder Titel auf die Frist anzurechnen.
+Daraus folgt, dass der Aufenthalt vollziehbar ausreisepflichtiger ausländischer Freigänger auf Antrag zu dulden ist. Gleiches gilt für vollziehbar ausreisepflichtige ausländische Strafgefangene, die sich unter Zurückstellung der Strafvollstreckung einer Drogentherapie unterziehen. Die Ausübung einer Beschäftigung ist nur zu erlauben, wenn die Bundesagentur für Arbeit zugestimmt hat oder es sich um eine zustimmungsfreie Tätigkeit handelt Die Aufnahme eines Studiums oder einer sonstigen Berufsausbildung ist nicht zuzulassen. Bei Freigängern ist bei der Anwendung des § 11 BeschVerfV immer davon auszugehen, dass sie das Ausreisehindernis Strafvollzug im Sinne der Vorschrift nicht zu vertreten haben, da ansonsten der Freigang zur Beschäftigung gänzlich ausgeschlossen wäre. Dies kann nicht die Absicht des Verordnungsgebers gewesen sein. Insofern gilt hier für diese Personengruppe ein anderer Maßstab als bei § 25 Abs. 5. Die Erteilung einer AE nach § 25 Abs. 5 kommt nicht in Betracht, weil der Betroffene das aus der begangenenen Straftat resultierende Ausreisehindernis selbst zu vertreten hat. Bzgl. § 10 S. 1 bzw. S. 3 BeschVerfV sind auch Zeiten des Strafvollzugs ohne Duldung oder Titel auf die Frist anzurechnen. Die im Zusammenhang mit der Anwendung des § 10 S. 3 BeschVerfV erklärte Globalzustimmung der Bundesagentur für Arbeit gilt nicht für Freigänger im Strafvollzug.
 Ausländischen Strafgefangenen, denen im Rahmen von Vollzugslockerungen Ausgang gewährt wird, um sich bspw. auf Wohnungssuche zu begeben, ist auf Antrag ebenfalls eine Duldung (Nebenbestimmungen wie oben) auszustellen.
 Eine Duldung kommt nicht in Betracht für Personen, für die keine örtliche Zuständigkeit gem. § 3 Abs. 1 Nr. 3 a) VwVfG besteht. Entsprechendes gilt für Personen, die durch eine Ausländerbehörde eines anderen Bundeslandes geduldet wurden. Hier gilt die räumliche Beschränkung des § 61 Abs. 1 gem. § 51 Abs. 6 grundsätzlich fort.
 Zur Erläuterung:
@@ -108,4 +108,3 @@ Nichts anderes gilt, wenn sich ein geduldeter Ausländer unter Verstoß gegen di
 Stellen Strafgefangene, die als Freigänger einem Beschäftigungsverhältnis nachgehen bzw. die sich unter Zurückstellung der Strafvollstreckung einer Drogentherapie unterziehen, einen Duldungsantrag, ohne dass nach den obigen Ausführungen die örtliche Zuständigkeit der ABH Berlin besteht, so sind diese an die örtlich zuständige Ausländerbehörde zu verweisen.
 Auf Antrag ist die Zustimmung zur Erweiterung der räumlichen Beschränkung für die Dauer des Beschäftigungsverhältnisses längstens jedoch bis zum Strafende bzw. der Drogentherapie auf das Land Berlin zu erteilen.
 Bei ausländischen Strafgefangenen, deren Ausreisepflicht nicht vollziehbar ist (sofortige Vollziehung der Ausweisung wurde noch nicht angeordnet, Wegfall der Vollziehbarkeit aufgrund der Einlegung eines Rechtsbehelfs mit Suspensiveffekt oder aufgrund einer verwaltungsgerichtlichen Entscheidung nach § 80 Abs. 5 VwGO) ist die Erteilung einer Duldung nicht zulässig. Ihnen ist auf Antrag die Nicht-Vollziehbarkeit der Ausreiseverpflichtung mit Vordr. L 4048 zu bescheinigen (Nebenbestimmungen wie oben, bei vorangegangenem Aufenthaltstitel wie dort).
-A.60a.s.3. - weggefallen -

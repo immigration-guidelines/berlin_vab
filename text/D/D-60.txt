@@ -1,6 +1,8 @@
 D.60.
 20.07.2005 D.60.
 20.12.2005
+01.10.2007
+11.10.2007
 D.60. Auflagen
 60.1. Asylbewerbern wird die Aufnahme eines Studiums oder einer sonstigen Berufsausbildung inklusive berufsvorbereitender Maßnahmen grundsätzlich nicht gestattet.
 In den nachstehenden aufgeführten Fällen sind Ausnahmen von diesem Grundsatz zugelassen:
@@ -30,9 +32,21 @@ Die Aufenthaltsgestattung ist bei der Berufsausbildung nach erfolgter Zustimmung
 zu versehen.
 Bei der Teilnahme an berufsvorbereitenden Maßnahmen ist die Auflagenerweiterung zunächst auf Inhalt und Dauer der berufsvorbereitenden Maßnahme zu beschränken („Beschäftigung nicht gestattet mit Ausnahme der Tätigkeit als … bei…. bis zum … “). Über die Erlaubnis zur Berufsausbildung ist erst zu entscheiden, wenn ein entsprechender Ausbildungsvertrag vorgelegt wird. Die Aufnahme der Berufsausbildung ist zu erlauben, sofern die o.g. Voraussetzungen erfüllt sind.
 60.1.4. Beendigung der Ausbildung, des Asylverfahrens und des Aufenthalts
-Ist das Studium oder die sonstige Berufsausbildung eines Asylbewerbers bei negativem Abschluss des Asylverfahrens noch nicht beendet, ist eine Aufenthaltserlaubnis nach § 25 Abs. 4 S. 1 AufenthG zu erteilen, sofern der Lebenusunterhalt weiter gesichert ist. Die Erteilung einer AE nach den §§ 16, 17 AufenthG ist nach § 10 Abs. 3 S. 1 AufenthG ausgeschlossen. Etwas anderes gilt nur in den Fällen, in denen der Asylantrag nach § 30 Abs. 3 abgelehnt wurde (vgl. § 10 Abs. 3 S. 2 AufenthG). Hier ist eine Fortsetzung des Studiums ausgeschlossen.
-Hat der Ausländer keinen gültigen Pass, ist die Aufenthaltserlaubnis auf 6 Monate zu befristen und der Ausländer aufzufordern, sich innerhalb dieses Zeitraums einen Pass zu beschaffen oder zumindest entsprechende Bemühungen nachzuweisen. Kommt er dem nicht nach, so ist die Aufenthaltserlaubnis nicht zu verlängern. Für den Übergangszeitraum bzw. wenn innerhalb des Übergangszeitraums nachgewiesen wird, dass ein Pass in zumutbarer Weise nicht erlangt werden kann, ist ein Ausweisersatz auszustellen. Die AE ist mit der üblichen Studienbindung zu versehen, in Fällen der Berufsausbildung mit der auflösenden Bedingung
-„Die Aufenthaltserlaubnis erlischt mit Beendigung der Berufsausbildung bei der Fa….“.
+Ist das Asylverfahren erfolglos abgeschlossen worden, ist die Fortsetzung des Studiums oder der sonstigen Berufsausbildung durch Erteilung einer Aufenthaltserlaubnis gem. § 16 Abs. 1 bzw. § 17 zu ermöglichen, so
+- die o.g. Voraussetzungen sowie
+- die sonstigen allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 und Abs. 4 vorliegen, und
+- eine Aufenthaltserlaubnis aus humanitären Gründen - etwa nach § 25 Abs. 5 wegen eines nicht zu vertretenden Ausreisehindernisses - zu erteilen wäre.
+§ 10 Abs. 3 S. 1 (unanfechtbare Ablehnung oder Rücknahme eines Asylantrages) hindert die Erteilung der Aufenthaltserlaubnis gem. § 16 Abs. 1 bzw. § 17 in diesen Fällen nicht, da dem Ausländer in einem solchen Fall ja eine Aufenthaltserlaubnis aus humanitären Gründen zu erteilen wäre. Liegen die o.g. Voraussetzungen für die Erteilung der Erlaubnis nach § 16 Abs. 1 bzw. § 17 ansonsten vor, so ist nach einer logischen Sekunde die Aufenthaltserlaubnis auch in diesen Fällen nach § 16 Abs. 1 bzw. § 17 zu erteilen.
+Fehlt es an einer der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 bzw. Abs. 4 (insbesondere der Paßpflicht) ist immer in einem zweiten Schritt zu prüfen, ob eine Aufenthaltserlaubnis aus humanitären Gründen - etwa nach § 25 Abs. 5 - zu erteilen ist. In diesem Fall ist immer auch die Fortsetzung des Studiums bzw. der Ausbildung zu ermöglichen, so die unter D.60.1.2 bzw. D.60.1.3 genannten Voraussetzungen auch weiterhin vorliegen.
+Kommt auch die Erteilung einer Aufenthaltserlaubnis aus humanitären Gründen nicht in Betracht, ist die Fortsetzung des Studiums oder der sonstigen Berufsausbildung als dringender persönlicher Grund im Sinne des § 60a Abs. 2 Satz 3 AufenthG anzusehen und durch Erteilung einer Duldung zu ermöglichen, so die unter D.60.1.2 bzw. D.60.1.3 genannten Voraussetzungen auch weiterhin vorliegen.
+Die Aufenthaltserlaubnis aus humanitären Gründen bzw. die Duldung ist im Falle des Studiums mit folgenden Auflagen zu versehen:
+"Studium an einer Hochschule im Land Berlin in der Fachrichtung … gestattet."
+"Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
+„Beschäftigung nur nach Erlaubnis der Ausländerbehörde. Selbstständige Tätigkeit nicht gestattet.
+In Fällen der Berufsausbildung ist die Duldung mit der auflösenden Bedingung
+„Die Duldung erlischt mit Beendigung der Berufsausbildung bei der Fa….".
+zu versehen.
+Etwas anderes gilt allerdings dann, wenn die Erteilung einer Aufenthaltserlaubnis nach § 10 Abs. 3 S. 2 oder § 11 Abs. 1 ausgeschlossen wäre. Hier ist in jedem Fall eine negative Ermessensentscheidung zu treffen und zu versuchen, den Aufenthalt zu beenden.
 Eine Besonderheit gilt für die Teilnahme von Asylbewerbern an Schulausbildungen, die eine starke Ähnlichkeit zur Berufsausbildung aufweisen (z.B. MDQM II). In diesen Fällen ist nach Abschluss des Asylverfahrens die Fortsetzung der Ausbildung nur unter den in VAB A.25.S.2. genannten Voraussetzungen zu ermöglichen.
 Die Entscheidung über den Aufenthalt nach Beendigung des Studiums oder der sonstigen Ausbildung ergeht nach den allgemeinen ausländerrechtlichen Bestimmungen.
 60.1.5. Unterrichtung des BAMF

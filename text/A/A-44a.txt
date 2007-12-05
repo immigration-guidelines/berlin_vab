@@ -4,6 +4,8 @@ A.44a
 25.01.2006
 14.03.2007
 2. ÄndG
+05.11.2007
+08.11.2007
 A.44a. Verpflichtung zur Teilnahme an einem Integrationskurs
 44a.1.0. Mit dem Inkrafttreten des 2. ÄndG wurde der § 44a Abs. 1 vollständig neu gefasst. Ziel der Neufassung ist ausweislich der Gesetzesbegründung die Harmonisierung der aufenthalts- und sozialrechtlichen Verpflichtungen zur Teilnahme am Integrationskurs. Durch diese Harmonisierung wird zudem ein Ineinandergreifen der Sanktionsmechanismen in den Fällen der Verletzung der Teilnahmepflicht ermöglicht.
 In Satz 1 werden die unterschiedlichen Verpflichtungsarten aufgezählt. Dabei liegen die Verpflichtungen nach den Nummern 1 und 3 in der Zuständigkeit der Ausländerbehörde, nach Nummer 2 hingegen in der Zuständigkeit des Jobcenters.
@@ -31,6 +33,7 @@ Ausnahmsweise kann es jedoch davon abweichende Regelungen treffen. Dies ist insb
 Der Betroffene ist vorzuladen und die Auflage
 „Verpflichtung zur unverzüglichen Anmeldung und Teilnahme an einem Integrationskurs“
 ist gebührenfrei zu streichen und zu siegeln. Eines förmlichen Bescheides bedarf es in diesen Fällen nicht.
+Mit diesem Verfahren werden Doppelverpflichtungen bzw. das Nebeneinander von Berechtigung und Verpflichtung weitgehend ausgeschlossen. Somit ist eine Anfrage beim BAMF bzw. dem zuständigen Jobcenter vor der Verpflichtung entgegen den Anwendungshinweisen des BMI zum 2. Änderungsgesetz - RdNr. 275 - grundsätzlich entbehrlich.
 44a.2.0. Ist der Ausländer gem. § 44 a Abs. 1 S. 1 Nr. 1 teilnahmeverpflichtet oder soll er gem. § 44 a Abs. 1 S. 1 Nr. 3 zur Teilnahme verpflichtet werden, so ist § 44 a Abs. 2 sowie 2a durch die Ausländerbehörde zu prüfen.
 44a.2.1. bis 44.2.2. frei
 44a.2.3. Eine Befreiung von der Teilnahmepflicht gem. § 44 a Abs. 2 Nr. 3 sollte nur in Ausnahmefällen erfolgen, etwa wenn die Voraussetzungen des § 9 Abs. 2 Satz 3 vorliegen (vgl. dort).
@@ -40,8 +43,9 @@ In einem solchen Fall ist die Auflage zur Verpflichtung entsprechend um den Zusa
 ..., ausgenommen der Teilnahme am Orientierungskurs.“
 zu ergänzen.
 44a.3.0. Die Ausländerbehörde wird vom Kursträger vom Kursantritt aller teilnahmeverpflichteten Ausländer unterrichtet (§ 8 Abs. 4 IntV). Dies soll einzelfallbezogen geschehen. Die Unterrichtungen sollten zur Akte genommen werden. Eine Überwachung im Einzelfall, ob Teilnahmeverpflichtete einen Kurs begonnen und/oder den Abschlusstest erfolgreich abgelegt haben, sollte im Regelfall aus Gründen der Verwaltungseffizienz nicht stattfinden.
-Desweiteren werden nach jedem Kursabschnitt von 100 Stunden die Personen vom Kursträger an die Ausländerbehörde gemeldet, die ihrer Teilnahmepflicht nicht nachgekommen sind (§ 8 Abs. 4 IntV).
-Teilt der Kursträger den Beginn eines Kurses und sodann die Nichtteilnahme oder das Nichtbestehen des Abschlusstestes mit, so wird der Ausländer auf dem Postweg erneut mit Hilfe der Textvorlage "Integrationskurs - keine Teilnahme" beraten. Dies gilt allerdings nicht in den Fällen des § 25 Abs. 1 -3 bzw. § 25 Abs. 4 a, da in diesen Fällen eine Sanktionierung nach § 8 Abs. 3 ausgeschlossen ist (vgl. § 8 Abs. 4). Aus Gründen der Verwaltungseffizienz sollte aber zuvor nicht gesondert geprüft werden, ob die Verletzung der Teilnahmepflicht von ihm zu vertreten war (vgl. § 44 a Abs. 3 S. 1).
+Des Weiteren werden nach jedem Kursabschnitt von 100 Stunden die Personen vom Kursträger an die Ausländerbehörde gemeldet, die ihrer Teilnahmepflicht nicht nachgekommen sind (§ 8 Abs. 4 IntV).
+Teilt der Kursträger den Beginn eines Kurses und sodann die Nichtteilnahme mit, so wird der Ausländer auf dem Postweg nun mit Hilfe der Textvorlage "Integrationskursbelehrung" beraten. Dies gilt allerdings nicht in den Fällen des § 25 Abs. 1 -3 bzw. § 25 Abs. 4 a, da in diesen Fällen eine Sanktionierung nach § 8 Abs. 3 ausgeschlossen ist (vgl. § 8 Abs. 4). Aus Gründen der Verwaltungseffizienz sollte aber zuvor nicht gesondert geprüft werden, ob die Verletzung der Teilnahmepflicht von ihm zu vertreten war (vgl. § 44 a Abs. 3 S. 1).
+Hat der Ausländer ordnungsgemäß am Kurs teilgenommen, aber dann den Abschlusstest nicht absolviert oder bestanden, soll er auch in diesem Fall mit Hilfe der Textvorlage „Integrationskursbelehrung“ beraten werden. Konsequenzen ergeben sich nur mittelbar durch den grundsätzlichen Ausschluss von der Niederlassungserlaubnis oder Einschränkungen bei der Einbürgerung.
 Im Übrigen findet eine Wiedervorlage der Fälle, in denen Teilnahmeverpflichtungen ausgesprochen wurden, nicht statt.
 Eine gesonderte Vorladung oder Mittel des Verwaltungszwanges sollten nur in Ausnahmefällen erfolgen.
 Handelt es sich um einen Teilnahmeverpflichteten gem. § 44 a Abs. 1 S. 1 Nr. 2 wird die Mitteilung des Kursträgers unverzüglich und ohne weitere Prüfung an das Jobcenter weitergeleitet (vgl. § 8 Abs. 4 IntV).
