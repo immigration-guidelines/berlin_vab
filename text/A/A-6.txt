@@ -3,6 +3,7 @@ A.6.
 20.09.2006
 10.01.2007
 19.04.2007
+20.12.2007
 A.6. Visum
 6.0. Es existieren folgende Kategorien des Schengen-Visums:
 A: Visum für den Flughafentransit (Berechtigung zum Aufenthalt im Transitbereich eines Flughafens während der Zwischenlandung),
@@ -64,7 +65,15 @@ Sechsmonatszeitraums
 Eine Verlängerung nach § 6 Abs. 3 S. 3 ist stets dem AZR mitzuteilen (bei Verlängerung bis zu drei Monaten ist dies nicht erforderlich).
 6.4.1. bis 6.4.3. frei
 6.S. Anwendbarkeit des SDÜ auf die beigetretenen Staaten
-Mit Wirkung vom 01.05.2004 sind die Tschechische Republik, die Slowakische Republik, Estland, Lettland, Litauen, Ungarn, Polen, Slowenien, Malta und Zypern und mit Wirkung vom 01.01.2007 Bulgarien und Rumänien der EU beigetreten. Die Bestimmungen des SDÜ sind ab dem Tag des Beitritts auch für diese Staaten bindend und in ihnen anzuwenden mit Ausnahme der
+Mit Wirkung vom 01.05.2004 sind die Tschechische Republik, die Slowakische Republik, Estland, Lettland, Litauen, Ungarn, Polen, Slowenien, Malta und Zypern und mit Wirkung vom 01.01.2007 Bulgarien und Rumänien der EU beigetreten. Die Bestimmungen des SDÜ sind ab dem Tag des Beitritts grundsätzlich auch für diese Staaten bindend. Ausgenommen war zunächst jedoch die Anwendung der
 • Art. 18 (Nationale Visa berechtigen nicht zur Durchreise durch den Schengenraum, um sich in das entsprechende Beitrittsland zu begeben),
 • Art. 21 (Nationale Aufenthaltstitel berechtigen nicht zum Touristenaufenthalt von drei Monaten im übrigen Schengenraum und
 • Art. 96 (Keine Ausschreibung nationaler Fahndungen im SIS).
+Mit Wirkung vom 21.12.2007 gehören die Tschechische Republik, die Slowakische Republik, Estland, Lettland, Litauen, Ungarn, Polen, Slowenien und Malta zu den nunmehr 24 Schengenvollanwenderstaaten, d.h., die Art. 18, 21 und 96 SDÜ finden Anwendung. In diesem Zusammenhang sind folgende Übergangsregelungen von Bedeutung:
+• Die vorgenannten neuen Mitgliedstaaten können ab 21.12.07 Schengenvisa ausstellen.
+• Reisen mit einem Schengenvisum, das vor dem 21.12.2007 von einem "alten" Schengenstaat (z.B. Deutschland) ausgestellt wurde und das noch gültig ist, sind ab dem 21.12.2007 in alle 24 Schengen-Staaten möglich. Das Visum gilt weiterhin als einheitliches Schengenvisum und berechtigt nach dem 21.12.2007 auch zur Einreise in die "neuen" Schengen-Staaten.
+• Reisen in alle 24 Schengen-Staaten mit einem Visum, das vor dem 21.12.2007 von einem "neuen" Schengen-Staat (z.B. Polen) ausgestellt wurde und noch gültig ist, sind auch nach dem 21.12.2007 nicht möglich. Polen, Ungarn, Lettland, Estland, Litauen, Slowakei, Malta, Slowenien und Tschechien können erst ab dem 21.12.2007 Schengenvisa ausstellen, die eine freie Reise im Gebiet der Schengener Staaten ermöglichen. Visa, die von diesen Staaten vor dem 21.12.2007 erteilt wurden, gelten nicht als Schengenvisa fort, sondern bleiben grundsätzlich nur für das Gebiet des ausstellenden Staates gültig. Ausnahmen sind im Bereich des Transits zwischen den neuen Schengen-Vollanwenderstaaten möglich.
+• Inhaber der von den neun neuen EU-Mitgliedstaaten ausgestellten Aufenthaltstitel können sich ab dem 21.12.2007 für Zeiträume von bis zu drei Monaten in allen Schengen-Staaten aufhalten. Dies gilt auch in Bezug auf Aufenthaltstitel, die bereits vor dem 21.12.2007 ausgestellt wurden. Umgekehrt berechtigen die Aufenthaltstitel der „alten“ Schengen-Staaten auch zu visumfreien Aufenthalten in den „neuen“ Schengen-Staaten.
+• Bereits seit dem 01.09.2007 können die neuen Mitgliedstaaten auf alle Daten des SIS und damit auch auf Daten zur Einreiseverweigerung nach Art. 96 SDÜ zugreifen. Sie sind aber bis zum 21.12.2007 nicht verpflichtet, Staatsangehörigen dritter Länder, die von einem anderen Mitgliedstaat im SIS zur Einreiseverweigerung ausgeschrieben wurden, die Einreise in ihr Hoheitsgebiet zu verweigern oder sie aus ihrem Hoheitsgebiet zu entfernen. Seit dem 13.12.2007 dürfen die neuen Mitgliedstaaten eigene Ausschreibungen nach Art. 96 SDÜ in das SIS einstellen
+Ab 21.12.2007 gilt die Sperrwirkung einer aktiven Ausschreibung nach Art. 96 für alle 24 Vollanwenderstaaten unabhängig vom Zeitpunkt der Ausschreibung.
+• Die weiteren EU-Staaten Zypern, Rumänien und Bulgarien werden den Schengen-Besitzstand erst zu einem späteren Zeitpunkt vollständig anwenden.

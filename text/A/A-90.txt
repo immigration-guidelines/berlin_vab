@@ -4,19 +4,20 @@ A.90.
 06.06.2006
 29.06.2006
 2. ÄndG
+09.01.2008
+16.06.2008
 A.90. Übermittlungen durch Ausländerbehörden
-90.0. Leider können die Sozialämter anhand der früher erteilten Aufenthaltsbefugnisse nicht erkennen, auf welcher neuen Rechtsgrundlage diese nach dem 01.01.2005 fortgelten, da wir überwiegend keine Rechtsgrundlage nach dem AuslG eingetragen haben.
-Mit der Sozialverwaltung wurde vereinbart, dass Anfragen nicht mehr in Form von Listen gehalten werden, sondern einzelfallbezogen auf einem einheitlichen Formblatt. Dieses bietet die Möglichkeit, die neue Rechtsgrundlage durch bloßes Ankreuzen mitzuteilen. Weiter sind die Sozialämter gebeten worden, jeder Anfrage eine Kopie des Klebeetiketts beizufügen. So kann in den Fällen, in denen tatsächlich eine Rechtsgrundlage eingetragen worden ist, die Beantwortung beschleunigt werden.
+90.0. Die Sozialämter können anhand der früher erteilten Aufenthaltsbefugnisse nicht erkennen, auf welcher neuen Rechtsgrundlage diese nach dem 01.01.2005 fortgelten, da wir überwiegend keine Rechtsgrundlage nach dem AuslG eingetragen haben.
+Mit der Sozialverwaltung wurde vereinbart, dass Anfragen einzelfallbezogen auf einem einheitlichen Formblatt.gehalten werden Dieses bietet die Möglichkeit, die neue Rechtsgrundlage durch bloßes Ankreuzen mitzuteilen. Weiter sind die Sozialämter gebeten worden, jeder Anfrage eine Kopie des Klebeetiketts beizufügen. So kann in den Fällen, in denen tatsächlich eine Rechtsgrundlage eingetragen worden ist, die Beantwortung beschleunigt werden.
 Die Jobcenter sind zur Bestimmung ihrer Zuständigkeit in Abgrenzung zu den Sozialämtern ebenfalls auf Mitteilungen darüber angewiesen, auf welcher Rechtsgrundlage eine Aufenthaltsbefugnis nach altem Recht erteilt worden ist. Auf einer Veranstaltung am 23.05.2005 wurde mit den Jobcentern vereinbart, dass diese entsprechende Anfragen ebenfalls ausschließlich nach dem mit der Sozialverwaltung vereinbarten Verfahren halten.
-Künftig wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60 a die Bescheinigung ausgestellt wurde. Eine genauere Bezeichnung nach den Absätzen des § 60 bleibt jedoch außer Betracht.
-Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 4 AsylbLG leistungsberechtigt ist.
+Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. ...Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
 90.1. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.1.1. Ergeben sich im Einzelfall etwa im Rahmen der Vorsprache des Betroffenen konkrete Anhaltspunkte für eine Beschäftigung von Ausländern, ohne dass diese über einen entsprechenden Titel nach § 4 Abs. 3 verfügen bzw. diese Beschäftigung (noch) nicht erlaubt wurde, so sind die Agenturen für Arbeit für die Verfolgung dieser Ordnungswidrigkeit nach § 404 Abs. 3 SGB III zuständig. Diese sind gem. § 90 Abs. 1 Nr. 1 unter Angabe der Anhaltspunkte entsprechend zu informieren. Maßgeblich für die örtliche Zuständigkeit ist der Ort der Beschäftigung (§ 12 BeschVerfV analog).
 90.1.2. bis 90.2. frei
 90.3.1. Ausschlaggebend für die Ermittlung des Personenkreises, bei dem die Datenübermittlung ohne Ersuchen erfolgt, ist allein die Zugehörigkeit zum Personenkreis des § 1 AsylbLG. Er umfasst u. a. folgende für uns zu beachtende Personengruppen:
 • Ausländer, die eine AG nach dem AsylVfG besitzen,
 • Ausländer, die eine Duldung nach § 60a besitzen,
-• Ausländer, die eine AE nach § 23 Abs. 1, § 24 wegen des Krieges in ihrem Heimatland oder nach § 25 Abs. 4 S. 1 oder 5 besitzen,
+• Ausländer, die eine AE nach § 23 Abs. 1, § 24 wegen des Krieges in ihrem Heimatland oder nach § 25 Abs. 4 S. 1, 4a oder 5 besitzen,
 • Ausländer, die vollziehbar ausreisepflichtig sind, auch wenn eine Abschiebungsandrohung noch nicht oder nicht mehr vollziehbar ist,
 • Ehegatten oder minderjährige Kinder der vorgenannten Personen, ohne dass sie selbst die Voraussetzungen erfüllen, und
 • Ausländer, die einen Folgeantrag nach § 71 AsylVfG oder einen Zweitantrag nach § 71a AsylVfG stellen.
@@ -26,11 +27,11 @@ Die Übermittlung erfolgt auch in den Fällen, in denen wir keine konkrete Kennt
 Schreiben „Doppelidentität“ zur Verfügung.
 90.3.3. Gem. § 90 Abs. 3 besteht bei Leistungsberechtigten nach dem AsylbLG grundsätzlich auch eine Übermittlungspflicht von Daten der Bundesagentur für Arbeit. Einer gesonderten Übermittlung bedarf es allerdings nicht, weil sich die Angaben zur Beschäftigung aus dem Aufenthaltstitel ergeben.
 90.3.4. Nach § 90 Abs. 3 besteht ebenfalls eine Datenübermittlungspflicht in Fällen des Verdachts auf unberechtigten Sozialhilfebezug (§ 1a AsylbLG, sog. um/zu-Regelung).
-Der Verbindungsstelle Soziales - LKA 23 VSS 1 - sind daher die Daten neueingereister Ausländer mitzuteilen, die im AE-Antrag angeben, ihren Lebensunterhalt von Sozialhilfe bestreiten zu wollen. Anträge illegal eingereister Ausländer sind erst nach erfolgter Verteilung auf das Land Berlin der VSS zu übersenden. Für die Mitteilung steht das Schreiben - VSS - zur Verfügung, dem eine Ablichtung des AE- Antrages beizufügen ist.
+Der Verbindungsstelle Soziales zum LKA 25 - VSS - sind daher die Daten neueingereister Ausländer mitzuteilen, die im AE-Antrag angeben, ihren Lebensunterhalt von Sozialhilfe bestreiten zu wollen. Anträge illegal eingereister Ausländer sind erst nach erfolgter Verteilung auf das Land Berlin der VSS zu übersenden. Für die Mitteilung steht das Schreiben - VSS - zur Verfügung, dem eine Ablichtung des AE- Antrages beizufügen ist.
 Um einen ungerechtfertigten Sozialhilfebezug solcher Ausländer zu vermeiden, die im Rahmen ihres Asylgesuchs einem anderen Bundesland zugewiesen wurden, der Verteilungsentscheidung aber bislang keine Folge geleistet haben, sind Durchschriften von Bescheiden, mit denen die Betroffenen aufgefordert werden, sich an den Ort ihrer Verteilung zu begeben, ebenfalls an die VSS zu übermitteln. Dies gilt allerdings nur in den Fällen, in denen Leistungsbezieher vor ihrer Asylantragstellung einen anderen Status innehatten.
 90.3.5. Gemäß § 2 AsylbLG ist Ausländern, die über eine Dauer von 36 Monaten, Leistungen nach § 3 AsylbLG erhalten haben, erhöhte Hilfe nach dem SGB XII zu gewähren, wenn diese die Dauer des Aufenthaltes nicht rechtsmissbräuchlich selbst beeinflusst haben.
 Um Nachfragen in jedem Einzelfall zu vermeiden, gibt die Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz in Abstimmung mit unserer Behörde ein Rundschreiben als Orientierungshilfe bei der praktischen Umsetzung des § 2 AsylbLG an die Sozialämter heraus, das grundsätzliche Regelungen beinhaltet.
-Bei Inhabern einer AE nach §§ 23 Abs. 1, 24 oder 25 Abs. 4 oder 5 ist davon auszugehen, dass diese ihre Aufenthaltsdauer nicht rechtsmissbräuchlich beeinflusst haben. Die Rechtsgrundlage, die zur Erteilung des Titels führte, ist im Etikett vermerkt und damit für das Sozialamt offenkundig; einer gesonderten Mitteilung bedarf es daher nicht.
+Bei Inhabern einer AE nach §§ 23 Abs. 1, 24 oder 25 Abs. 4, 4a oder 5 ist davon auszugehen, dass diese ihre Aufenthaltsdauer nicht rechtsmissbräuchlich beeinflusst haben. Die Rechtsgrundlage, die zur Erteilung des Titels führte, ist im Etikett vermerkt und damit für das Sozialamt offenkundig; einer gesonderten Mitteilung bedarf es daher nicht.
 Bei ausländischen Staatsangehörigen, die die Dauer ihres Aufenthaltes rechtsmissbräuchlich selbst beeinflusst haben, indem sie z.B. bei der Passbeschaffung nicht ausreichend mitwirken, ist die Duldung oder sonstige Bescheinigung (z.B. GÜB) immer mit dem rechtlichen Hinweis
 „Erwerbstätigkeit nicht gestattet“
 zu versehen, um die rechtsmissbbräuchliche Beeinflussung und damit einen Ausschluss von den Leistungen nach § 2 AsylbLG für die Leistungsbehörden sichtbar zu machen; eine gesonderte Mitteilung ist damit auch hier entbehrlich.
@@ -40,43 +41,41 @@ Daneben besteht für die Leistungsbehörden die Möglichkeit, sich weitere Infor
 Für diese Fälle regelt § 8 IntV die Datenübermittlung. Nach § 8 Abs. 1 IntV ist danach die Stelle, die die Teilnahme angeregt hat, von der ABH über die festgestellte Teilnahmeverpflichtung zu unterrichten. Die Unterrichtung erfolgt im Form der Übersendung einer Kopie der „Bestätigung zur Vorlage beim Kursträger“.
 90.3.7. Sonstige Umstände und Maßnahmen im Sinne des § 90 Abs. 3 werden nur auf begründetes Ersuchen mitgeteilt, weil sich die Leistungsberechtigung eines Betroffenen für die Sozialämter in der Regel aus der vorgelegten Bescheinigung ergibt. Ebenso wenig bedarf es der automatischen Übermittlung von Daten über erteilte AE, erfolgte Ausreisen und Einlieferung in Abschiebungshaft.
 Auch die Mitteilung über das Vorliegen einer Verpflichtungserklärung gem. § 68 Abs. 1 erfolgt grundsätzlich nur auf Ersuchen, das an II Ord 3 zu richten ist. Etwas anderes gilt, wenn wir von einem tatsächlichen Sozialhilfebezug des Betroffenen Kenntnis erlangen. In diesen Fällen hat die Unterrichtung unverzüglich ohne Ersuchen zu erfolgen (§ 68 Abs. 4).
-90.3.8. Die Zuständigkeiten der einzelnen Sozialämter ergeben sich aus § 10 AsylbLG i. V. m. den Ausführungsvorschriften über die örtliche Zuständigkeit auf dem Gebiet der Sozialhilfe.
-Danach gilt für Altfälle im einzelnen folgendes:
-• Asylbewerber im laufenden Asylverfahren: ZLA
-• Abgelehnte Asylbewerber mit GÜB
-- für 6 Monate ab Ausstellung der GÜB: ZLA
-- nach Ablauf der 6 Monate: Sozialamt nach Geburtsdatum (siehe unten)
-• Illegal Aufhältliche, Geduldete und Bürgerkriegsflüchtlinge: Sozialamt nach Geburtsdatum (siehe unten)
+90.3.8. Die Zuständigkeiten der einzelnen Sozialämter ergeben sich aus § 10 AsylbLG i. V. m. den Ausführungsvorschriften über die Zuständigkeit für die Leistungsgewährung nach dem AsylbLG.
+Danach gilt im Einzelnen folgendes:
+1. Zuständigkeit des LAGeSo
+Das LAGeSo ist zuständig für die Gewährung von Leistungen an folgende Personenkreise:
+• Asylbewerber im laufenden Asylverfahren und Asylfolgeantragsteller,
+• abgelehnte Asylbewerber mit GÜB,
+• Personen, die nach § 24 zum vorübergehenden Schutz aufgenommen werden – im Rahmen einer Erstversorgung,
+• Personen, die als illegal Eingereiste nach § 15a AufenthG in andere Bundesländer weiterzuleiten sind – hier Leistungsgewährung bis zur Umsetzung der Verteilentscheidung,
+• Personen, die als Opfer von Menschenhandel in entsprechenden Strafverfahren als
+Zeugen/Zeuginnen aussagen sollen sowie ggf. sie begleitende Kinder.
+2. Zuständigkeit der Sozialämter
+Öffentliche Leistungen für sonstige Anspruchsberechtigte nach § 1 AsylblG werden von den Sozialämtern der Bezirke gewährt. Die örtliche Zuständigkeit richtet sich unabhängig vom melderechtlichen Eintrag nach dem Geburtsdatum (s. nachfolgende Tabelle).
 Bei Ehepaaren/Familien richtet sich die Zuständigkeit nach dem Geburtsdatum (bzw. dem Anfangsbuchstaben des Familiennamens) des älteren von ihnen.
-Die Zuständigkeit der Sozialämter für Personen ohne aktuelle melderechtliche Erfassung richtet sich nach der zukünftigen Wohnsitznahme, sofern ein Mietvertrag bereits abgeschlossen wurde oder der Abschluss unmittelbar bevorsteht. Kann ein entsprechender Nachweis nicht erbracht werden, richtet sich die Zuständigkeit nach dem Geburtsdatum (s. nachfolgende Tabelle).
 Bei den sogenannten 00er-Fällen (kein konkretes Geburtsdatum, nur Geburtsjahr bekannt) richtet sich die Zuständigkeit nach den Anfangsbuchstaben des Familiennamens (s. ebenfalls nachfolgende Aufstellung).
 Bei Namen wie z. A. “Ben”, “El”, „Al“, „Abou“, „Abu“ oder „von“ gilt der Anfangsbuchstabe des darauffolgenden Namens, auch wenn beide Namen mit einem Bindestrich verbunden sind.
+Beantragen Ehegatten oder andere in Bedarfsgemeinschaft (eheähnlicher Gemeinschaft) lebende (auch gleichgeschlechtliche) Personen ohne eine Anmeldung für Berlin öffentliche Leistungen, richtet sich die Zuständigkeit nach dem Geburtsdatum bzw. Anfangsbuchstaben des Familiennamens des Älteren von ihnen. Lässt sich jedoch für einen von ihnen eine Anmeldung ermitteln, richtet sich die Zuständigkeit für alle Beteiligten hiernach.
 BEZIRK GEBURTSDATUM BUCHSTABE
-Mitte 01.01. – 16.01. A
-Mitte 17.01. – 01.02. C
-Mitte 02.02. – 17.02. B
-Pankow 18.02. – 04.02. D
-Friedrichshain-Kreuzberg 05.02. – 20.02. E
-Friedrichshain-Kreuzberg 21.02. – 05.04. F
-Charlottenburg-Wilmersdorf 06.04. – 21.04. G
+Mitte 01.01. – 17.02. A, B, C
+Pankow 18.02. – 04.03. und D, S - Schu, W
+29.09. - 30.10.
+Friedrichshain-Kreuzberg 05.03. – 05.04. E, F
+Charlottenburg-Wilmersdorf 06.04. – 21.04. und G, K
+08.05. - 23.05.
 Spandau 22.04. – 07.05. H
-Charlottenburg-Wilmersdorf 08.05. – 23.05. K
-Steglitz-Zehlendorf 24.05. – 08.06. L
-Tempelhof-Schöneberg 09.06. – 24.06. M
-Steglitz-Zehlendorf 25.06. – 10.07. N
-Tempelhof-Schöneberg 11.07. – 26.07. Schv - Sz
+Steglitz-Zehlendorf 24.05. – 08.06. und L, N
+25.06. - 10.07.
+Tempelhof-Schöneberg 09.06. – 24.06. und M, Schv - Sz
+11.07. - 26.07.
 Neukölln 27.07. – 11.08. P
-Treptow-Köpenick 12.08. – 27.08. Q,R
-Treptow-Köpenick 28.08. – 12.09. T
-Lichtenberg- 13.09. – 28.09. U,V
-Hohenschönhausen
-Pankow 29.09. – 14.10. W
-Pankow 15.10. – 30.10. S – Schu
+Treptow-Köpenick 12.08. – 12.09. Q, R, T
+Lichtenberg 13.09. – 28.09. und J, U,V
+02.12. - 16.12.
 Reinickendorf 31.10. – 15.11. O
-Marzahn-Hellersdorf 16.11. – 01.12. I
-Lichtenberg- 02.12. – 16.12. J
-Hohenschönhausen
-Marzahn-Hellersdorf 17.12. – 31.12. X,Y,Z
+Marzahn-Hellersdorf 16.11. – 01.12. und I, X, Y, Z
+17.12. - 31.12.
 90.4. frei
 90.5.0. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutzrichtlinie vor (vgl. hierzu A.25.4a.).
 90.5.1. bis 90.5.3. frei

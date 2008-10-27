@@ -8,7 +8,7 @@ A 6
 A 7
 A 8
 A 9
-A 9 a-9 c
+A 9 a-a 9 c
 A 10
 A 11
 A 12
@@ -144,6 +144,7 @@ C 12
 C 13
 C 14
 C 15
+D 5
 D 9
 D 13
 D 14
@@ -170,6 +171,7 @@ E Afghan 2
 E Afghan 3
 E Bos 1
 E Bos2
+E Georgien 1
 E Guinea 1
 E Hongkong 1
 E Irak 1
@@ -177,6 +179,7 @@ E Irak 2
 E Irak 3
 E Iran 1
 E Israel 1
+E Kasachstan 1
 E Kongo 1
 E Lib 1
 E Lib 2
@@ -199,3 +202,4 @@ E Türk 3
 E Türk 4
 E Ukr 1
 E Ukr 2
+E Usbekistan 1

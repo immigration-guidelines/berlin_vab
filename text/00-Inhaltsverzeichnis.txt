@@ -2,14 +2,13 @@ VAB
 VORLÄUFIGE ANWENDUNGSHINWEISE
 DER
 AUSLÄNDERBEHÖRDE BERLIN
-Erstellt am 03.12.2007
+Erstellt am 27.10.2008
 Landesamt für Bürger- und
 Ordnungsangelegenheiten
 Ausländerbehörde Berlin
 Friedrich-Krause-Ufer 24
 13353 Berlin
 Inhaltsverzeichnis
-INHALTSVERZEICHNIS
 ÜBERSICHT ZU DEN ÄNDERUNGEN
 A.1.
 A.2.
@@ -20,7 +19,7 @@ A.6.
 A.7.
 A.8.
 A.9.
-A.9.A-9.C.
+A.9.A-A.9.C.
 A.10.
 A.11.
 A.12.
@@ -159,6 +158,7 @@ C.12.
 C.13.
 C.14.
 C.15.
+D.5.
 D.9.
 D.13.
 D.14.
@@ -173,8 +173,8 @@ D.43.
 D.55.
 D.56.
 D.58.
-D.60.
 -5-
+D.60.
 D.61.
 D.68-70.
 D.71.
@@ -186,6 +186,7 @@ E.AFGHAN.2.
 E.AFGHAN.3.
 E.BOS.1
 E.BOS2
+E.GEORGIEN.1.
 E.GUINEA.1
 E.HONGKONG.1
 E.IRAK.1
@@ -193,6 +194,7 @@ E.IRAK.2
 E.IRAK.3
 E.IRAN.1
 E.ISRAEL.1.
+E.KASACHSTAN.1.
 E.KONGO.1.
 E.LIB.1
 E.LIB.2
@@ -213,235 +215,142 @@ E.TÜRK.1.
 E.TÜRK.2.
 E.TÜRK.3.
 E.TÜRK.4.
+-6-
 E.UKR.1
 E.UKR.2
--6-
-Übersicht zu den Änderungen
-Änderung Fundstelle Erläuterung
-vom
-29.11.2007 A.39.1.1. zentrale Zuständigkeit der ZAV Bonn für
-Zustimmungsanfragen bei angestellten Künstlern
-28.11.2007 E.Myanmar.1. Ausweitung des Abschiebungsstopps auf Straftäter
-28.11.2007 A.29.2.1., A.43.0.6., neue Anschrift der BAMF-Außenstelle Berlin
-A.49.s.1.1.
-20.11.2007 A.31.2.2. Konkretisierung des Begriffs der "besonderen Härte" durch OVG Berlin-Brandenburg
-19.11.2007 E.Türk.1. Aktuelle Rechtsprechung des EuGH zum Verlust der Rechte aus Art. 7 ARB 1/80
-19.11.2007 A.9.2.6. OVG Berlin-Brandenburg zur mangelnden Privilegierung nach § 9 Abs. 2 Satz 6 im Falle der nur eingeschränkten
-Erwerbfähigkeit
-19.11.2007 A.104a Klarstellung und Konkretisierung
-19.11.2007 A.2.3.1.9 f.; A.32.0 Zur Bonitätsprüfung bei sich verpflichtenden Stielfeltern
-19.11.2007 B.AufenthV.52.7.0 Aktualisierung bzgk. chinesischen MBA- Stundenten an der FHW
-14.11.2007 A.53.2; A.54.1. Zu den Folgen eines Aufschiebens der Entscheidung über die Bewährung bei Verurteilung zu einer Jugendstrafe nach § 57
-JGG
-13.11.2007 A.51.4. AE´s gem. § 16 erlöschen nicht bei bis zu 2 Gastsemestern an ausländischen Hochschulen
-13.11.2007 A.30.1.3 sowie Änderungen beim Erfordernis einfacher deutscher
-A.44.1.2 und Sprachkenntnisse beim Ehegattenachzug und Ausschluß
-A.44.3.1.2 vom Anspruch auf einen Integrationskurs insbesondere für Ehegatten von Studierenden
-13.11.2007 E.Lib.3. Zur Möglichkeit der freiwilligen Ausreise bei Personen, die sich rechtmäßig aufgehalten haben und über ein gültiges
-DDV mit Rückkehrberechtigung verfügen
-12.11.2007 B.AufenthV.52.7.0 Gebührenbefreiung für Familienangehörige von Mitarbeitern der TAIPEH- Vertretung sowie für Inhaber von
-Diplomatenpässen bei der Verlängerung eines Visums
-12.11.2007 9a.- 9c. Überarbeitung der Regelung insbesondere bezogen auf anrechenbare Aufenthaltszeiten, Fragen zur angemessenen
-Altersversorgung und zum gesicherten Lebensunterhalt
-12.11.2007 A.38a. Zur Bezeichnung des Daueraufenthalts-EG durch andere Signatarstaaten - redaktionelle Änderung
-12.11.2007 A.21.4. Erteilung einer NE gem. § 21 Abs. 4 S. 2 anAltfälle nur nach vorheriger Beteiligung der für Wirtschaft zuständigen
-Senatsverwaltung.
-12.11.2007 A.16.1.2. Sogenannte Vorpraktika zählen nicht zur Studienvorbereitung und sind im Ausland zu absolvieren.
-12.11.2007 A.18.2.1.3 Zur Möglichkeit der selbständigen Tätigkeit während eines rechtmäßigen Aufenthalts gem. § 81 Abs. 4 von Ausländern,
-die zuvor eine Erlaubnis nach § 18 besaßen.
-09.11.2007 B.AufenthV.55.1.1.1. Ausstellung eines Ausweisersatzes für die Dauer des Herstellungsverfahrens eines biometrischen Reiseausweises
-09.11.2007 E.Guinea.1., Rückführungen nach Guinea sind wieder möglich.
-A.60a.s.1.
+E.USBEKISTAN.1
 -7-
-06.11.2007 A.12.2.2 Zum Verfahren bei Zuzug von Inhabern humanitärer Aufenthaltserlaubnisse mit einer wohnsitzbeschränkenden
-Auflage
-05.11.2007 A.2.3.1.10., Die AE erlischt auch bei Bezug von Leistungen nach dem
-A.2.3.1.11., A.2.3.5., A. AsylbLG (Ergänzung der auflösenden Bedingung) 12.2.1.1., A.16.5.1.3.
-05.11.2007 A.2.3.1.10, A.32.0. Die Krankenversicherung des pflichtversicherten Stiefelternteils umfasst neben den leiblichen auch Stiefkinder
-05.11.2007 A.21.5; A.30.1.2; Unbeachtlichkeit der Anwendungshinweise des BMI zur
-A.44a.1.3 Umsetzung des 2. Änderungsgesetzes vom 2.10.2007
-05.11.2007 A.33.1. Zur Ausübung des Ermessens bei Ausreisepflicht eines Elternteiles
-05.11.2007 A.12.2.2 Zum Verfahren bei Zuzug von Inhabern humanitärer Aufenthaltserlaubnisse mit einer wohnsitzbeschränkenden
-Auflage
-05.11.2007 A.60a.s.2 Globalzustimmung der Bundesagentur für Arbeit gilt nicht für Freigänger im Strafvollzug
-01.11.2007 A.72. Verfahren bei Änderung des Zielstaates und zur Beteiligung des BAMF bei geltend gemachten zielstaatsbezogenen
-Abschiebungshindernissen nach § 60 Abs. 2-5, 7 bzw. in den
-Fällen des § 25 Abs. 3 S.2 Buchst. a bis d - die entspr.
-Formbriefe befinden sich in der Überarbeitung
-01.11.2007 A.62. Klarstellung zu den neuen § 62 Abs. 2 Satz 5 und § 62 Abs. 4 und zur Inhaftnahme von vietnamesischen
-Staatsangehörigen
-31.10.2007 A.50.s.3. / A.51. Verzicht auf Aufenthaltstitel zum Zwecke der geförderten freiwilligen Rückkehr (insb. REAG/GARP)
-30.10.2007 E.Myanmar.1. Abschiebungen nach Myanmar werden für die Dauer von drei Monaten ausgesetzt
-30.10.2007 A.38a. Überarbeitung der Bezeichnungen für den "Daueraufenthalt- EG" in den jeweiligen Amtssprachen
-23.10.2007 E.Tschet.1. Bei DÜ-Überstellungen keine Vorlagepflicht, aber fmdl. Unterrichtung SenInnSport
-22.10.2007 A.20.6. Notwendigkeit des Eintrags "Forscher" in den Fällen des § 20
-19.10.2007 A.104.a. Anrechenbarkeit von Freibetragen nach § 11 SGB II / Asylbewerber / Täuschungs- und Verzögerungshandlungen
-vor dem jeweils gültigen Einreisestichtag
-19.10.2007 A.9.2.1. Anrechenbarkeit von Aufenthaltszeiten bei ehemaligen Studierenden im Zusammenhang mit der Erteilung einer
-Niederlassungserlaubnis
-18.10.2007 B.AufenthV.53. Ausübung des Ermessens der Befreiung oder Ermäßigung von Gebühren
-17.10.2007 A.44.4.2. Redaktionelle Änderung
-16.10.2007 B.AufenthV.5-11 Zur Zumutbarkeit für Leistungsbezieher nach dem SGB II, XII oder dem AsylbLG die Passgebühren des Heimatstaates zu
-zahlen
-15.10.2007 A.30.1.3 Zur Erforderlichkeit von einfachen Sprachkenntnissen bei Schwangeren
-11.10.2007 A.104.4.1 Keine Ausstellung von Flüchtlingausweisen in den Fällen des § 104 Abs. 4
-11.10.2007 A.21.4.2 Zur Ausübung des Ermessens in den Fällen des § 21 Abs. 4
-11.10.2007 A.15a.0 Zur Anwendung des § 15a
-11.10.2007 A.7.1.3 Zur Prüfung eines Regelausnahmefalles bei Rentnern mit
+Übersicht zu den Änderungen
+Änderung Fundstelle
+vom
+27.10.2008 A.51.4. Voraussetzungen für ein Auslandsjahr ausländischer Schülerinnen und Schüler
+09.10.2008 A.26.4.4.2 Zur Frage der Ermittlung des gesicherten
+Lebensunterhalts in den Fällen des § 26 Abs. 4 i.V.m. §
+35
+08.10.2008 A.27.1a.1. Verfahren zur Anfechtung der Vaterschaft
+08.10.2008 A.2.3.1.10 Nachhaltigkeit des Einkommens zur
+Lebensunterhaltssicherung - bei der Berechnung von
+Trinkgeldern, sind in bestimmten Branchen 10 % des
+Bruttoeinkommens als glaubhaft zu unterstellen
+07.10.2008 A.2.3.5.; D.60. Redaktionelle Änderung auf Grund der erhöhten Bafög-Sätze; Geltung des § 16 Abs. 3 AufenthG für Studenten mit einer
+Aufenthaltsgestattung
+02.10.2008 B.AufenthV.28.3.6. Auf Lebenspartner von Schweizern findet grundsätzlich das AufenthG Anwendung, soweit sie nicht eigenständig
+freizügigkeitsberechtigt sind
+02.10.2008 C.2.4.2.; Die Durchführung des Visumverfahrens für
+B.AufenthV.79 drittstaatsangehörige Familienangehörige von Unionsbürger bzw. EWR-Bürgern obliegt gem. § 79 AufenthV allein den
+Auslandsvertretungen
+01.10.2008 A.11.1.3.4., Tabelle Redaktionelle Anpassung auf das 2. ÄndG; Trennung zwischen Kindern von anerkannten Asylberechtigten,
+Kontigentflüchtlingen und Kindern von anderen
+25.09.2008 A.2.3.1.1.; Zum Begriff der Sicherung des Lebensunterhalts (Beachtung
+A.2.3.1.10; A.2.3.11; einer Bagatellgrenze; zur Anrechenbarkeit von Trinkgeldern,
+A.2.3.4.1 zur Problematik von Arbeitsverträgen mit mehr als 48
+Stunden Wochenarbeitszeit, Prüfung des gesicherten
+Lebensunterhalts bei beabsichtigter Aufnahme einer
+Erwerbstätigkeit durch einen
+nachziehenden Familienangehörigen).
+25.09.2008 A.28.1.3 Redaktionelle Änderung
+25.09.2008 A.30.3. Änderung der Ermessensleitlinien
+25.09.2008 A.51.1.1.6 sowie Zur Anwendung des § 51 Abs. 4 bei Auslandsaufenthalten 51.4 zum Zweck des Schulbesuchs oder des Studiums
+22.09.2008 A.27.1.a Der einseitig gebliebene Wille eines Ehepartners begründet keine den Schutz des Art. 6 GG genießende eheliche
+Lebensgemeinschaft
+17.09.2008 A.33.0. § 29 Abs. 1 -3 ist in den Fällen des § 33 nicht anwendbar.
+12.09.2008 A.32.4.1 Redaktionelle Änderung
+12.09.2008 C.2.4.2., C.3.1.1. Zu den Auswirkungen des EuGH Urteils Metock C-127/08 vom 25.07.2008
+04.09.2008 A.34..1.- 34.3. Zur Anwendung des § 34 Abs. 3 bei Personen, die sich in einer Ausbildung im Sinne des § 35 Abs. 1 Nr. 3 befinden
+03.09.2008 A.53.s.1. Redaktionelle Änderungen
+29.08.2008 A.60a.2.3. zur systematischen Stellung des Abschiebungsverbotes "faktischer Inländer"
+29.08.2008 A.104a.3.2. zum Begriff der besonderen Härte
+28.08.2008 A.31. Kein Anspruch auf das Eingliederungsjahr bei Besitz eines (ggf. gemäß § 81 Abs. 4) fortgeltenden Visums
 -8-
-nicht gesichertem Lebensunterhalt
-11.10.2007 A.35.1.2 Prognoseentscheidung im Rahmen des § 35 Abs. 1 S. 2 Nr. 3 bei Auszubildenden in Lehrberufen
-11.10.2007 A.2.3.1.2 und Berechnung des gesicherten Lebensunterhalts bei
-A.2.3.1.8 Nutzung von Wohneigentum bzw. unetngeltlicher
-Überlassung von Wohnraum
-11.10.2007 A.25.s.2 Zur Zustimmungsfreiheit von Beschäftigungen gem. § 27 Abs. 3 i.V.m. § 13 Abs. 2 SGB VIII (Maßnahmen der Kinder- und
-Jugendhilfe)
-11.10.2007 A.25.s.2; D.60.1.4. Zur Fortsetzung des Studiums bzw. einer Berufsausbildung nach erfolglosem Abschluss eines
-Asylverfahrens bzw. Erlöschen einer
-Aufenthaltserlaubnis aus humanitären Gründen oder
-Wegfall eines Ausreisehindernisses oder
-Abschiebungsverbotes.
-10.10.2007 E.Türk.1. Ergänzung um die Verwaltungspraxis bestätigende Rechtsprechung
-10.10.2007 A.26.4.1.4; A.26.4.4.2 Redaktionelle Änderung
-10.10.2007 A.16.2.1.4. Grundsätzlich keine erneute Erteilung einer AE gem. § 16 Abs. 1 nach AE gem. § 16 Abs. 4 AufenthG
-10.10.2007 A.101.2. Fortgeltung von nach altem Recht erteilten Titeln für in Deutschland geborene Kinder
-04.10.2007 A.2.3. Redaktionelle Änderung
-28.09.2007; A.10.3.2; A.25.s.2; Zur Sperrwirkung des § 10 Abs. 3 S. 1 und 2 AufenthG
-01.10.2007 A.33.1.; D.60.1.4. sowie zu den Folgen der Erteilung einer Aufenthaltserlaubnis trotz Vorliegens der Sperrwirkung
-27.09.2007 C.8.1.1. Ausweispflicht nicht mit sog. Roten "Identitätsausweis" der Republik Österreich erfüllbar
-27.09.2007 D.58.1.1.2 Redaktionelle Änderung
-24.09.2007 A.5.1.2; A.5.2.2.; Zum Absehen von den allgemeinen
-A.9.2.1.4; Erteilungsvoraussetzungen des § 5 Abs. 1 Nr. 2 und § 5 Abs. B.AufenthV.39.3 2 S. 1
-24.09.2007 A.16.1.a Redaktionelle Änderung
-18.09.2007 A.61. Räumliche Beschränkung bei vollziehbarer Ausreisepflicht auch bei GÜB I
-17.09.2007 B.AufenthV.39.3 Redaktionelle Änderung
-17.09.2007 A.33.1. Übergangsregelung für vor dem Inkrafttreten des 2. ÄndG im Bundesgebiet geborene Kinder von rechtmäßig aufhältlichen
-Vätern
-17.09.2007 A.16.4.3. Zur gesetzlichen Möglichkeit der Beschäftigung von Hochschulabsolventen
-17.09.2007 A.30.1.3 Zur Anwendung des § 30 Abs. 1 Satz 3
-17.09.2007 C.6. C.7. Gem. BVerwG-Beschluss 1 C 21.07 vom 04.09.2007 bestehen Ausweisungen und Abschiebungen alten Rechts
-von Unionsbürgern und ihren Familienangehörigen über den
-01.01.2005 hinaus fort. Befristungen richten sich nach A.11.
-13,09.2007 A.25.5. Redaktionelle Änderung
-11.09.2007 A.60a.2.1. Kein Abschiebungverbot aufgrund familiärer Lebensgemeinschaft zu einem Inhaber einer
-Aufenthaltserlaubnis gemäß § 23a Abs. 1 AufenthG
-11.09.2007 E.Türk.1. Verlust des Aufenthaltsrecht aus Art. 7 ARB 1/80 auch bei
--9-
-unfreiwilligem nicht nur vorübergehendem Auslandsaufenthalt
-- etwa Verbüßung einer Strafhaft im Heimatstaat.
-11.09.2007 A.60a.s.3. Aufhebung des Abschiebungsstopps zum Vorgriff auf die gesetzliche Bleiberechtsregelung des 2. ÄndG
-11.09.2007 A.2.3.2. Wohngeld wird bei der Prüfung der LU-Sicherung nicht berücksichtigt
-11.09.2007 A.25.5.1.2. Redaktionelle Änderung zur Ermessensausübung
-10.09.2007 A.60a.s.1./E.Guinea.1. Rückführungen nach Guinea sind derzeit i.S.v. § 60a Abs. 2 Satz 1 tatsächlich unmöglich.
-06.09.2007 A.2.3.1.6 VG bestätigt Nichtanrechenbarkeit von Einkommen bei Überschreiten der nach dem Arbeitszeitgesetz zulässigen
-Höchstarbeitszeit.
-06.09.2007 A.21.6. Zur Möglichkeit der selbstständigen Tätgikeit bei Inhabern einer AE nach § 25 Abs. 4 S. 1 und 5
-04.09.2007 B.AufenthV.39.5. § 39 Nr. 5 findet keine Anwendung in solchen Fällen, in denen dem Ausländer eine Duldung ausschließlich (!)
-deshalb erteilt worden ist, um ihm eine Eheschließung im
-Bundesgebiet zu ermöglichen.
-04.09.2007 A.12. - Bestätigung unserer Rechtsauffassung zur
-mangelnden aufschiebenden Wirkung eines
-Widerspruchs gegen eine zu Aufenthalstitel oder
-Duldung verfügte auflösende Bedingung durch das OVG
-Berlin-Brandenburg
-- zur Frage, ob ein Aufenthaltstitel bzw. die
-Fiktionswirkung auch dann erlischt, wenn vor Eintritt
-einer auflösenden Bedingung ein Verlängerungsantrag
-gestellt worden ist
-04.09.2007 A.51.1.6; A.32.0 Zum Erlöschen der Aufenthaltserlaubnis bei Schulbesuch und Studium im Ausland
-30.08.2007 A.25.4a.1.2 Möglichkeit der Ausübung einer Beschäftigung für Opferzeuginnen
-29.08.2007 A.38a.0 Zum Daueraufenthalt-EG anderer Anwenderstaaten
-29.08.2007 A.30.1.1.2. zu den Anforderungen an die einfachen Sprachkenntnisse
-29.08.2007 E.Irak.2. Modifikation des Abschiebungsstopps für irakische Staatsangehörige
-29.08.2007 B.BeschVerfV.7. zum Umgang mit geltend gemachten Traumatisierungen
-28.08.2007 Gesamte VAB Änderungen durch das 2. ÄndG zum
-Zuwanderungsgesetz wurden blau und kursiv
-vorgenommen
-15.08.2007 E.SriLanka.1. Abschiebungsstopp nach SriLanka um weitere drei Monate verlängert.
-13.08.2007 E.Türk.1. Redaktionelle Änderung
-06.08.2007 A.9.3.1. Zur Anwendung des Ehegattenprivilegs bei
-krankheitsbedingter Erwerbsunfähigkeit eines Ehegatten
-02.08.2007 A.51.4.1 Zur Auslegung des § 51 Abs. 4 bei Inhabern einer Niederlassungserlaubnis
-02.08.2007 B.BeschV Änderung des § 15 BeschV (Entsendete Arbeitnehmer)
-01.08.2007 A.70 Zur Verjährung von Abschiebungskosten
-25.07.2007 A.81.4. Zu den Schengentiteln zählt auch die Fiktionsbescheinigung gem. § 81 Abs. 4 AufenthG
-25.07.2007 B.AufenthV.22 Redaktionelle Anpassung bzgl. des Verfahrens bei Ausstellung von Reisendenlisten
-23.07.2007 A.9.2.6. Redaktionelle Anpassung
-17.07.2007 A.2.3.1. sowie A.7.1.3 Prüfung des gesicherten Lebensunterhalts bei lebensälteren Erwerbstätigen
-17.07.2007 A.81.5. Zu Problemen bei der Wiedereinreise mit nur noch wenige Tage gültigen Fiktionsbescheinigungen
-17.07.2007 A.21.1.0.2 Einfügen der auflösenden Bedingung "Erlischt mit dem Bezug von Leistungen nach dem SGB II oder SGB XII“.
-bei AE- Erteilung gem. § 21 für Künstler, bei denen die
-Sicherung des Lebensunterhalts zweifelhaft ist.
-17.07.2007 A.9.s.1 Zuständigkeit für Inhaber von Erlaubnissen Daueraufenthalt- EG anderer EU- Mitgliedstaaten liegt bei IV Z 3- 7
-16.07.2007 A.28.2.1. atypischer Fall bei noch nicht vollständig beglichenen Abschiebungskosten
-16.07.2007 A.2.3.1. Klarstellung, dass die Freibeträge gemäß SGB II bei der Entscheidung über eine Niederlassungserlaubnis auch dann
-zu berücksichtigen sind, wenn im Ermessen von der
-Lebensunterhaltssicherung abgesehen werden könnte (Fälle
-des § 26 Abs. 4 i.V.m. § 5 Abs. 3, letzter Hlbs.).
-16.07.2007 A.5. Redaktionelle Klarstellung zu § 5 Abs. 1 Nr. 2 AufenthG: Der Ausweisungsgrund nach § 55 Abs. 2 Nr. 6 liegt nur dann vor,
-wenn der Ausländer für sich oder seine Familienangehörigen
-Leistungen nach dem SGB XII bezieht.
-16.07.2007 C.11 Anspruch auf Teilnahme an einem Integrationskurs ggf. auch für Unionsbürger gem. § 11 Abs. 1 S. 3 FreizügG/EU
-13.07.2007 A.60.7.1., A.72.2.7. Ärztliche Untersuchung von ausländischen Staatsangehörigen auf Reise- bzw. Flugfähigkeit,
-Zusammenarbeit mit den Pol.ärztlichen Dienst und zur zeitlich
-befristeten Übernahme von Behandlungskosten im
-Herkunftsland
-10.07.2007 A.51.2.1. positive Lebensunterhaltssicherung für die Bescheinigung über den Fortbestand der NE; Rentenbescheide
-ausländischer Rentenversicherungsträger reichen nicht aus
-10.07.2007 C.5.3. Erläuterungen zur Übertragung von
-Freizügigkeitsbescheinigungen durch die Bürgerämter
-09.07.2007 A.31.2.2. Keine Unzumutbarkeit des Festhaltens an der ehelichen Lebensgemeinschaft bei regulären Trennungsgründen wie
-Untreue
-04.07.2007 B.BeschVerfV.9. Klarstellung, dass Globalzustimmung nur für § 9 Abs. 1 Nr. 2 BeschVerfV gilt
-04.07.2007 B.AufenthV.50 Gebührensatz bei Erteilung einer Niederlassungserlaubnis zugunsten eines Minderjährigen gem. § 26 Abs. 4 S. 4 i.V.m.
-§ 35 Abs. 1 S. 1
-03.07.2007 A.2.3.1.2. Regelsatzerhöhung ab 01.07.2007 (Einkommensrechner wurde entspr. angepasst)
-02.07.2007 A.30.3. Neue Rechtsprechung des BVerfG zum von § 30 Abs. 3 eröffneten Versagungsermessen, Konsequenzen für
-Erteilungsdauer
-28.06.2007 A.2.3.1.5. Trinkgelder werden nicht auf das eigene Einkommen angerechnet
-27.06.2007 B.AufenthV.5.-11. Zur Ausstellung eines Reiseausweises für Ausländer an Familienangehörige anerkannter iranischer Asylberechtigter,
-die auch die deutsche Staatsangehörigkeit besitzen
-26.06.2007 D.72.1.1 Redaktionelle Anpassung
-25.06.2007 A.9.s.1 Mitteilungspflichten gegenüber dem BAMF auf Grund der Daueraufenthaltsrichtlinie
-25.06.2007 A.26.4 Zur Ausübung des Ermessens gem. § 26 Abs. 4; zum Begriff des Kindes im Sinne des § 26 Abs. 4 S. 4
-22.06.2007 D.58.1.1.2., Zur Ausstellung von Reiseausweisen für Ausländer an B.AufenthV.5.-11. Asylbewerber zum Zweck der Auslandsklassen- oder Jugendreise
-22.06.2007 E.Lib.3. Klarstellender Hinweis auf § 5 Abs. 3 AufenthG bei der Ermessensausübung zu Lasten des Antragstellers wegen Ist-
-und Regelausweisungsgründen
-22.06.2007 A.28.1.2. Redaktionelle Änderung
-21.06.2007 A.16.2.1.4 Voraussetzungen für die Zulässigkeit eines Magisterstudienganges nach Erwerb eines Diploms
-21.06.2007 D.13.s.2. Geänderte Tel.nummern im Ref. 430 des BAMF
-(DÜ/EURODAC)
-21.06.2007 A.58.s.1. Zum Inkrafttreten div. Rückübernahmeabkommen
-20.06.2007 A.28. Gerichtliche Bestätigung unserer Rechtsauffassung, wonach auch im Rahmen von § 28 Abs. 2 die
-Regelerteilungsvoraussetzungen des § 5 gelten
-20.06.2007 A.31. Bestätigung der hiesigen Rechtsauffassung, wonach § 31 nur die Verlängerung einer zum Ehegattennachzug AE nach dem
-6. Abschnitt ermöglicht durch das OVG Berlin-Brandenburg
-19.06.2007 A.10.3.2 Zur Anwendbarkeit des § 10 Abs. 3 S. 2 bei Entscheidung des BAFl/BAMF vor dem 01.10.2005 sowie Folgen vom
-Absehen des § 10 Abs. 3 S. 2 für die Zukunft
-19.06.2007 B.AufenthV.55; Redaktionelle Änderung
-E.Syrien.1
-15.06.2007 A.2.3.1.7 Ergänzung zur Prüfung ausreichenden
+zum Ehegattennachzug
+28.08.2008 A.53.s.1. Allgemeine Hinweise zur Ausweisung nach den aktuellen Anforderungen der obergerichtlichen
+Rechtsprechung
+27.08.2008 A.12.2.1.2. zu den rechtlichen Folgen des Eintritts auflösender Bedingungen
+27.08.2008 A.2.3.1. und 4. Definition von Leistungen Dritter, Änderungen der Anmerkungen zu Nebenbestimmungen (auflösende
+Bedingung bei Leistungsbezug) und zum
+Familiennachzug aufgrund Verpflichtungserklärung
+27.08.2008 A.26.4.1.4. Ergänzung um Hinweis zur Anrechnung von Duldungszeiten
+21.08.2008 A.39.1.1.3. Geänderte Zuständigkeit der Arbeitsagentur für inhaftierte Freigänger
+20.08.2008 A.31.2.2. Konkretisierung des Begriffs der besonderen Härte durch das OVG Berlin-Brandenburg
+19.08.2008 E.Georgien.1. Vorübergehende Aussetzung der Abschiebung wegen der kriegerische Auseinandersetzungen in Georgien
+12.08.2008 A.60a.2.3.1.,
+Duldung des Aufenthaltes von Schwangeren drei Monate vor
+A.62.2.1.0.2.,
+und drei Monate nach der Geburt
+A.62.2.1.0.4.
+12.08.2008 E.Srilanka.1. Verlängerung der Anordnung nach § 60a Abs. 1 AufenthG für weitere drei Monate
+06.08.2008 B.BeschVerfV.11. OVG NRW zur Zumutbarkeit zum Zwecke der Identitätsklärung einen Rechtsanwalt im Heimatstaat zu
+beauftragen
+06.08.2008 B.AufenthV.4., Deutsche Reiseausweise für Kinder sind unabhängig B.AufenthV.60. vom Lebensalter des Kindes immer mit einem Lichtbild zu versehen.
+05.08.2008 A.28.1.3. Zur Versagung des Ehegattennachzugs zu Deutschen gem. § 28 Abs. 1 S. 3
+05.08.2008 B.AufenthV.22. Auch Schüler, die im Besitz eines Protokollausweises sind, können in die Reisendenliste aufgenommen werden.
+04.08.2008 A.2.3.1.12 Zum Begriff des ausreichenden
 Krankenversicherungsschutzes
-11.06.2007 C.7. Redaktionelle Änderung
-08.06.2007 A.2.3.1.5. Zur Anrechenbarkeit von Trinkgeldern
-08.06.2007 A.30.3. Neue Rechtsprechung des BVerfG zum von § 30 Abs. 3 eröffneten Versagungsermessen
-05.06.2007 E.Afghan.2. Die statistische Erfassung von Erteilung und Versagung von Aufenthaltstiteln ist nicht mehr erforderlich
-05.06.2007 A.21.0. Der Erwerb oder Besitz einer Immobilie rechtfertigt nicht die Erteilung einer AE nach § 21
-30.05.2007 A.2.3.1. Zum Umgang mit dem Einkommensrechner, wenn eine Person mehrere Einkommen (Haupt- und Nebenjob) hat,
-Klarstellung
-24.05.2007 A.60a.s.1., Abschiebungsstopp nach Sri Lanka auf Anordnung der E.SriLanka.1. Senatsverwaltung für Inneres und Sport für zunächst 3 Monate
-22.05.2007 A.26.4.1.4 Anrechnung von Gestattungszeiten auf die 7- Jahresfrist des § 26 Abs. 4
-22.05.2007 E.Lib.3. Zum Verfahren der Sicherheitsanfragen
-16.05.2007 A.2.3.2.5 Keine Berücksichtigung des Pflegegeldes als Einkommen bei der Pflege nahestehender Personen.
-16.05.2007 B.BeschV.25- 31. Aufenthaltserlaubnis für Spezialitätenköche kann bei vorliegender Zustimmung ohne erneute Anfrage verlängert
-werden
-16.05.2007 A.2.3.1.2 Gesicherter Lebensunterhalt auch bei älteren Erwerbstätigen trotz mangelnder Altersvorsorge
-15.05.2007 A.2.3.1.7 Zum ausreichenden Krankenversicherungsschutz bei selbstständig Tätigen
-15.05.2006 A.2.3.2.6 Zur Sicherung des Lebensunterhalts bei Bezug von Arbeitslosengeld I
-15.05.2007 A.25.5.1.2 sowie Zur Beachtlichkeit von Straftaten jugendlicher Intensivtäter E.Lib.3.II.1 und von Heranwachsenden bei der Erteilung einer
-Aufenthaltserlaubnis nach § 25 Abs. 5
-08.05.2007/ B.AufenthV.55.1.1.1 Redaktionelle Klarstellung
-10.05.2007
-08.05.2007 A.12.5.1.2 Redaktionelle Klarstellung
-03.05.2007 D.72.1. Erlöschen der Rechtsstellung gem. § 72 Abs. 1 AsylVfG wird aus Gründen der Rechtsklarheit immer mit Bescheid
-festgestellt.
+01.08.2008 A.84.2.2. Zur Möglichkeit der Erwerbstätigkeit während der Dauer eines einstweiligen Rechtsschutzverfahrens
+22.07.2008 E.Türk.1. Zum Erwerb von Rechten nach Art. 6 ARB 1/80 durch Studenten
+14.07.2008 A.73.2.2 Anpassung der Ausführungen an Neuregelung des § 73 Abs. 2
+14.07.2008 A.60a.2. OVG Berlin-Brandenburg: regelmäßig kein
+Abschiebungsverbot bei Weigerung eines erlaubt
+aufhältlichen Elternteiles zur Aufrechterhaltung der familiären
+Lebensgemeinschaft zwischen dem anderen
+ausreisepflichtigen Elternteil und einem gemeinsamen Kind,
+ins Ausland zu ziehen
+14.07.2008 A.7.1.3. Zur Anwendung des § 7 Abs. 1 S. 3 bei vermögenden Ausländern, die hier ihren Lebensabend verbringen möchten
+14.07.2008 A.9.4.3 Zur Anrechenbarkeit der Geltungsdauer von
+Aufenthaltserlaubnissen von Ehegatten Studierender
+bei der Erteilung einer Niederlassungserlaubnis gem. §
+9 AufenthG
+14.07.2008 A.5.1.1. OVG Berlin-Brandenburg bestätigt, dass eine schlechte
+-9-
+Arbeitsmarktlage nicht geeignet ist, einen Ausnahmefall von
+der
+Regelerteilungsvoraussetzung Lebensunterhaltssicherung zu
+begründen
+11.07.2008 A.26.4.3. Klarstellung zur Anrechnung von Gestattungszeiten auf den geforderten siebenjährigen Aufenthalt
+09.07.2008 A.30.1.1.2. OVG Berlin-Brandenburg zu verfassungsrechtlichen Bedenken gegenüber dem Erfordernis einfacher
+deutscher Sprachkenntnisse
+09.07.2008 A.61.1.1. zur Bedeutung besonderer Regelungen zur örtlichen Zuständigkeit anderer Bundesländer
+09.07.2008 D.56.3.1./D.56.3.2. asylverfahrensrechtliche Umverteilung ist nach rechtskräftigem Abschluss des Asylverfahrens nicht
+mehr möglich / zum Erlöschen der
+asylverfahrensrechtlichen räumlichen Beschränkung
+08.07.2008 A.51.4 Zur Glaubhaftmachung eines Auslandsaufenthalts von Studierenden im Interesse Deutschlands
+08.07.2008 A.2.3.1. Überarbeitung der Hinweise zur
+Lebensunterhaltssicherungsprognose
+08.07.2008 A.27.3.1. zur Ausübung des von § 27 Abs. 3 Satz 1 eröffneten Ermessens
+01.07.2008 A.104a.1.1.2 Fehlende hinreichende Sprachkenntnisse führen bei einer Prüfung nach dem 1.7.2008 nicht zur Ablehnung des Antrags,
+so der Antrag vor dem 1.7.2008 - Antragsstichtag - gestellt
+wurde.
+01.07.2008 B.AufenthV.22; Redaktionelle Änderungen zur besseren Verständlichkeit
+D.58.1.1.2
+26.06.2008 E.Serb.5. Seit dem 16.06.2008 keine Ausstellung von UNMIK Pässen mehr.
+24.06.2008 B.AufenthV.15.-16. Besonderheit des SV mit El Salvador hervorgehoben
+24.06.2008 A.25.s.4. Entfall der EQUAL-BRIDGE Weisung
+20.06.2008 A.35.2. Umgang mit vorzulegenden Zeugnissen
+19.06.2008 B.AufenthV.5.-11. Zur Zumutbarkeit der Passbeschaffung bei transsexuellen Ausländern
+19.06.2008 A.35.1.2 Zur Prüfung des § 35 Abs. 1 S. 2 Nr. 3
+16.06.2008 A.2.3.1.2. Änderung der Regelsätze zum 01.07.2008
+16.06.2008 B.AufenthV.28. Klarstellungen zum Verfahren der Feststellung des Verlusts des Freizügigkeitsrechts bei Schweizern und ihren
+Familienangehörigen
+16.06.2008 D.5.0. Telef. Hotline des BAMF für Nachfragen in Asylverfahren
+16.06.2008 A.90.3.4., Geändertes Stellenzeichen der Verbindungsstelle Soziales B.BeschVerfV.11.0. VSS - Anpassung der Formschreiben ist beauftragt u. 11.1.5.
+12.06.2008 A.1.2.3 Wegfall der privilegierenden Regelung für
+Familienangehörige von Angehörigen von NATO-
+Streitkräften
+11.06.2008 B.AufenthV.5.-11. Zur Versagung eines Reiseausweises gem. § 5 Abs. 3 AufenthV i.V.m. § 7 Abs. 1 Nr. 2 PassG - Unzumutbarkeit der
+Passbeschaffung wegen drohender Strafverfolgung oder -
+vollstreckung.
+10.06.2008 A.104.a Ergänzung der Integrationsvereinbarung um einen Hinweis auf die mögliche Unterstützung der Jobcenter bei der
+Eingliederung in den Arbeitsmarkt
+04.06.2008 A.51.1.6. Zur Auslegung des Begriffs "vorübergehender Grund"
+04.06.2008 A.2.3.1. / A.9. Zu den besonderen Anforderungen an die Lebensunterhaltssicherungsprognose im Rahmen der
+Prüfung der Erteilungsvoraussetzungen für eine
+Niederlassungserlaubnis
+27.05.2008 C.3.2.; C.4a.1. Klarstellung zur Gültigkeit des ordre public auch für Ehen/Lebenspartnerschaften mit Unionsbürgern; Klarstellung
+zum Erwerb des Daueraufenthaltsrechts durch
+Familienangehörige
+09.05.2008 E.SriLanka.1. Aussetzung der Abschiebung für drei Monate (Anordnung SenInnSport nach § 60a Abs. 1 AufenthG)
+09.05.2008 A.28.1.0 Zur Anwendung des FreizügG/EU beim Familiennachzug zu Deutschen
+07.05.2008 A.38a. Verzicht auf Dokumentation einer von einem EU-Mitgliedstaat erteilten Erlaubnis zum Daueraufenthalt-EG bei Übertragung
+einer gem. § 38a erteilten AE in neuen Pass
+02.05.2008 A.104a.1.1.4. Zum Erfordernis der Rücknahme sämtlicher Rechtsbehelfe beim Absehen von Täuschungshandlungen im Rahmen der
+wertenden Gesamtbetrachtung
