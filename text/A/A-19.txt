@@ -3,6 +3,7 @@ A.19.
 11.01.2006
 16.03.2006
 14.01.2008
+13.01.2009
 A.19. Niederlassungserlaubnis für Hochqualifizierte
 19.0. Bei dieser NE kommt der allgemein für Niederlassungserlaubnisse geltende § 9 Abs. 1 zur Anwendung (Auskunft BMI vom 18.07.2002). Erforderlich ist in jedem Fall ein konkretes Arbeitsplatzangebot (vgl. § 18 Abs. 5).
 19.1. Erteilungsvoraussetzungen/Zustimmung der obersten Landesbehörde
@@ -13,5 +14,5 @@ A.19. Niederlassungserlaubnis für Hochqualifizierte
 Aus Gründen der Verwaltungseffizienz ist in den Fällen des § 19 Abs. 2 Nr. 1 und 2 nicht die Wissenschaftsverwaltung zu beteiligen, sondern sind die gesetzlichen Voraussetzungen in eigener Zuständigkeit zu prüfen.
 19.2.1. Von einer besonderen wissenschaftlichen Qualifikation im Sinne des § 19 Abs. 2 Nr. 1 sollte immer dann ausgegangen werden, wenn der Ausländer entweder über eine überdurchschnittlich hohe Qualifikation oder über Kenntnisse in einem sehr speziellen Fachgebiet von überdurchschnittlich hoher Bedeutung verfügt. In jedem Fall ist zumindest Voraussetzung, dass er regelmäßig in international erscheinenden Fachzeitschriften publiziert.
 19.2.2. Die herausragende Funktion bei Lehrpersonen nach Nr. 2 ist bei Lehrstuhlinhabern und Institutsdirektoren gegeben. Die herausgehobene Funktion bei wissenschaftlichen Mitarbeitern ist gegeben, wenn sie eigenständig und verantwortlich wissenschaftliche Projekt- oder Arbeitsgruppen leiten.
-19.2.3. Bezüglich des § 19 Abs. 2 Nr. 3 gilt ebenfalls, dass die Wirtschaftsverwaltung nicht zu beteiligen ist. Die in Bezug genommene Beitragsbemessungsgrenze liegt ab 1.1.2008 bei 3.600,00 Euro pro Monat/
-43.200 Euro pro Jahr und wird jährlich angeglichen. Damit ist Voraussetzung für die Erteilung nach § 19 Abs. 2 Nr. 3 ein Bruttoeinkommen von 7.200 Euro pro Monat/ 86.400 Euro pro Jahr.
+19.2.3. Bezüglich des § 19 Abs. 2 Nr. 3 gilt ebenfalls, dass die Wirtschaftsverwaltung nicht zu beteiligen ist. Die in Bezug genommene Beitragsbemessungsgrenze (West) liegt ab 1.1.2009 bei 5.400,00 Euro pro Monat/ 64.800 Euro pro Jahr und wird jährlich angeglichen.
+Wurde dem Ausländer die NE gem. § 19 Abs. 2 Nr. 3 nur deshalb erteilt, weil er nach dem 01.01.2009 gegenüber seinem Arbeitgeber falsche oder unvollständige Angaben bei Abschluss des Arbeitsvertrages gemacht hat, setzt er einen Ausweisungsgrund gem. § 55 Abs. 2 Nr. 1a. Neben der möglichen Ausweisung sind die Rücknahme der Niederlassungserlaubnis gem. § 48 VwVfG und eine Strafanzeige gem. § 95 Abs. 2 Nr. 2 zu prüfen.

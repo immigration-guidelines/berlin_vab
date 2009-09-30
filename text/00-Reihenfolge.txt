@@ -8,7 +8,7 @@ A 6
 A 7
 A 8
 A 9
-A 9 a-a 9 c
+A 9 a - a 9 c
 A 10
 A 11
 A 12
@@ -19,6 +19,7 @@ A 15a
 A 16
 A 17
 A 18
+A 18 a
 A 19
 A 20
 A 21
@@ -177,13 +178,17 @@ E Hongkong 1
 E Irak 1
 E Irak 2
 E Irak 3
+E Irak 4
 E Iran 1
 E Israel 1
 E Kasachstan 1
+E Kirgisien 1
 E Kongo 1
+E Kos1
 E Lib 1
 E Lib 2
 E Lib 3
+E Mont1
 E Myanmar 1
 E Rumänien 1
 E Russ 1
@@ -193,7 +198,7 @@ E Serb 2
 E Serb 3
 E Serb 4
 E Serb 5
-E SriLanke 1
+E SriLanka 1
 E Syrien 1
 E Tschet 1
 E Türk 1

@@ -6,14 +6,30 @@ A.90.
 2. ÄndG
 09.01.2008
 16.06.2008
+01.12.2008
+17.07.2009
 A.90. Übermittlungen durch Ausländerbehörden
-90.0. Die Sozialämter können anhand der früher erteilten Aufenthaltsbefugnisse nicht erkennen, auf welcher neuen Rechtsgrundlage diese nach dem 01.01.2005 fortgelten, da wir überwiegend keine Rechtsgrundlage nach dem AuslG eingetragen haben.
-Mit der Sozialverwaltung wurde vereinbart, dass Anfragen einzelfallbezogen auf einem einheitlichen Formblatt.gehalten werden Dieses bietet die Möglichkeit, die neue Rechtsgrundlage durch bloßes Ankreuzen mitzuteilen. Weiter sind die Sozialämter gebeten worden, jeder Anfrage eine Kopie des Klebeetiketts beizufügen. So kann in den Fällen, in denen tatsächlich eine Rechtsgrundlage eingetragen worden ist, die Beantwortung beschleunigt werden.
-Die Jobcenter sind zur Bestimmung ihrer Zuständigkeit in Abgrenzung zu den Sozialämtern ebenfalls auf Mitteilungen darüber angewiesen, auf welcher Rechtsgrundlage eine Aufenthaltsbefugnis nach altem Recht erteilt worden ist. Auf einer Veranstaltung am 23.05.2005 wurde mit den Jobcentern vereinbart, dass diese entsprechende Anfragen ebenfalls ausschließlich nach dem mit der Sozialverwaltung vereinbarten Verfahren halten.
-Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. ...Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
+90.0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
 90.1. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
+90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden/Sozialleistungsträger. Soweit im Einzelfall – etwa auf Grund von Äußerungen des Betroffenen im Rahmen einer Vorsprache oder durch Vorlage von Unterlagen - konkrete Anhaltspunkte für einen Übermittlungstatbestand des § 90 Abs. 1 Nr. 1 -3 vorliegen, ist eine Mitteilung zwingend. Konkrete Anhaltspunkte sind bereits dann gegeben, wenn Tatsachen darauf schließen lassen, dass einer der unter § 90 Abs. 1 Nr. 1 bis 3 genannten Verstöße begangen worden ist. Erforderlich sind konkrete Anhaltspunkte; bloße Vermutungen reichen nicht aus.
+Die Daten sind an die jeweils zuständigen Leistungsbehörden/Sozialleistungsträger zu übermitteln. Dies sind insbesondere die Bundesagentur für Arbeit, die Jobcenter und Sozialämter der Bezirke, aber auch die Träger der gesetzlichen Kranken- oder Rentenversicherung.
+Merke: Schon auf Grund des Anwendungsbereichs des Aufenthaltsgesetzes (§§ 1, 2 Abs. 1 AufenthG) müssen konkrete Anhaltspunkte für einen Verstoß eines Ausländers, auch eines Unionsbürgers oder freizügigkeitsberechtigten Drittstaatsangehörigen (§ 11 Abs. 1 S. 1 FreizügG/EU) vorliegen.
+Daraus folgt, dass Verstöße von Deutschen gegen die leistungsrechtliche Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2 SGB I somit auch dann nicht mitgeteilt werden dürfen, wenn sie im Rahmen der ausländerbehördlichen Tätigkeit (etwa bei Abgabe einer Verpflichtungserklärung gem. § 68 AufenthG oder bei Prüfung des gesicherten Lebensunterhalts eines Ausländers) rechtmäßig zur Kenntnis gelangt sind. In einem solchen Fall ist die Ausländerbehörde allerdings nicht gehindert ggf. Strafanzeige wegen des Verdachts einer Straftat (hier Verdacht auf Betrug bzw. versuchten Betrugs gem. § 263 StGB zulasten des jeweiligen Sozialleistungsträgers) beim Polizeipräsidenten in Berlin zu stellen.
+In einer Mitteilung ist jeweils anzugeben:
+- die Personalien, die zur Identifizierung des betroffenen Ausländers erforderlich sind,
+- Aktenzeichen der Leistungsbehörde/des Sozialleistungsträgers, soweit bekannt,
+- Tatsachen, die die konkreten Anhaltspunkte für einen Verstoß gem. § 90 Abs. 1 Nr. 1 -3 begründen.
 90.1.1. Ergeben sich im Einzelfall etwa im Rahmen der Vorsprache des Betroffenen konkrete Anhaltspunkte für eine Beschäftigung von Ausländern, ohne dass diese über einen entsprechenden Titel nach § 4 Abs. 3 verfügen bzw. diese Beschäftigung (noch) nicht erlaubt wurde, so sind die Agenturen für Arbeit für die Verfolgung dieser Ordnungswidrigkeit nach § 404 Abs. 3 SGB III zuständig. Diese sind gem. § 90 Abs. 1 Nr. 1 unter Angabe der Anhaltspunkte entsprechend zu informieren. Maßgeblich für die örtliche Zuständigkeit ist der Ort der Beschäftigung (§ 12 BeschVerfV analog).
-90.1.2. bis 90.2. frei
+90.1.2. Gem. § 60 Abs. 1 Satz 1 Nr. 2 SGB I hat derjenige, der Sozialleistungen beantragt oder erhält, Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen. Es handelt sich um Sachverhalte, die für die Gewährung, Höhe und den Fortbestand der Leistung von Bedeutung sind.
+Ein solcher Sachverhalt liegt etwa bei Beziehern von Arbeitslosengeld II (Hartz IV) bzw. Leistungen nach dem SGB XII vor, wenn ausweislich des Leistungsbescheides oder auf Grund von Angaben des Betroffenen konkrete Anhaltspunkte dafür bestehen, dass
+- der Leistungsbehörde auf Grund der Gewährung voller Leistungen nicht bekannt sein kann, dass der Leistungsempfänger mit seiner ein Einkommen erwirtschaftenden Lebensgefährtin in einer eheähnlichen Bedarfsgemeinschaft lebt, dies aber tatsächlich der Fall ist,
+- volle Leistungen auch für minderjährige ledige Kind bezogen werden, obwohl von einem anderen unterhaltspflichtigen Elternteil Unterhalt gezahlt wird,
+- die Wohnungsmiete durch die Leistungsbehörde mit überwiesen wird, obwohl keine oder in einer anderen Wohnug ein deutlich geringere Miete gezahlt wird,
+- im Antrag auf Leistungsbezug wahrheitswidrig angegeben worden sein muss, dass kein Vermögen in Geld- oder Anlagewerten vorhanden ist, weil volle Leistungen gewährt werden, obwohl solche Werte vorhanden sind,
+- volle Leistungen bezogen werden, aber zusätzlich Einkünfte aus Erwerbstätigkeit erzielt werden,
+- volle Leistungen für Ehepartner und/oder Kinder bezogen wurden oder werden, die aus einem seiner Natur nach nicht vorübergehenden Grund ausgereist sind oder sich für mehr als drei Wochen im Ausland aufgehalten haben, ohne dass dies der Leistungsbehörde angezeigt worden ist.
+Merke: Ist zweifelhaft, ob ein Lebenssachverhalt grundsätzlich der Mitwirkungspflicht unterliegt, so ist dies ohne Angaben personenbezogener Daten ggf. über die Generalie bei dem jeweiligen Sozialleistungsträger abzuklären. Erst danach hat ggf. die Mitteilung gem. § 90 Abs. 1 Nr. 2 zu erfolgen.
+90.1.3. bis 90.2. frei
 90.3.1. Ausschlaggebend für die Ermittlung des Personenkreises, bei dem die Datenübermittlung ohne Ersuchen erfolgt, ist allein die Zugehörigkeit zum Personenkreis des § 1 AsylbLG. Er umfasst u. a. folgende für uns zu beachtende Personengruppen:
 • Ausländer, die eine AG nach dem AsylVfG besitzen,
 • Ausländer, die eine Duldung nach § 60a besitzen,
@@ -76,6 +92,6 @@ Lichtenberg 13.09. – 28.09. und J, U,V
 Reinickendorf 31.10. – 15.11. O
 Marzahn-Hellersdorf 16.11. – 01.12. und I, X, Y, Z
 17.12. - 31.12.
-90.4. frei
-90.5.0. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutzrichtlinie vor (vgl. hierzu A.25.4a.).
-90.5.1. bis 90.5.3. frei
+90.4. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutzrichtlinie vor (vgl. hierzu A.25.4a.).
+90.4.1. bis 90.4.3. frei
+90.5. siehe A.27.1a.
