@@ -1,12 +1,11 @@
 D.60.
-20.07.2005 D.60.
-20.12.2005
-01.10.2007
+01.10.2007 D.60.
 11.10.2007
 13.02.2008
 07.10.2008
 20.01.2009
 07.04.2009
+09.12.2009
 D.60. Auflagen
 60.1. Asylbewerbern wird die Aufnahme eines Studiums oder einer sonstigen Berufsausbildung inklusive berufsvorbereitender Maßnahmen nur unter eingeschränkten Voraussetzungen
 gestattet. Damit wird im Rahmen des vom § 60 Abs. 1 AsylVfG eröffneten Ermessens den gesetzgeberischen Wertungen des § 8 Abs. 2 und 2a BAFöG Rechnung getragen, wonach
@@ -25,7 +24,7 @@ Die Aufnahme eines Studiums wird vor rechtskräftigem Abschluss des Asylverfahre
 Verwaltungsgericht oder das Oberverwaltungsgericht in der Hauptsache entscheidet.
 Bezüglich der Höhe des Einkommens und des Nachweises des gesicherten Lebensunterhaltes sind die Ausführungen unter VAB A.2.3.5. für Studenten und Sprachschüler zu beachten. Grundsätzlich genügt es daher nicht, eine schriftliche Erklärung darüber abzugeben, dass keine Leistungen nach dem AsylbLG/SGB II in Anspruch genommen werden. Ausnahmen gelten allerdings, für Altfälle, in denen wir in der Vergangenheit eine solche Erklärung als Nachweis der Sicherung des Lebensunterhalts haben genügen lassen. Akzeptieren wir eine Erklärung so ist diese zur Ausländerakte zu nehmen; eine Kopie erhält die ZLA.
 Die Aufenthaltsgestattung ist mit folgenden Auflagen zu versehen:
-"Studium an einer Hochschule im Land Berlin in der Fachrichtung … gestattet."
+"Studium an einer staatlich anerkannten Hochschule gestattet."
 "Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
 „Beschäftigung, die insgesamt 90 Tage oder 180 halbe Tage im Jahr nicht überschreitet, sowie Ausübung studentischer Nebentätigkeit gestattet.“
 „Selbstständige Tätigkeit nicht gestattet.“
@@ -53,7 +52,7 @@ Fehlt es an einer der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 bzw.
 A.25.s.1.).
 Kommt die Erteilung einer Aufenthaltserlaubnis aus humanitären Gründen nicht in Betracht, ist die Fortsetzung des Studiums oder der sonstigen Berufsausbildung als dringender persönlicher Grund im Sinne des § 60a Abs. 2 Satz 3 AufenthG anzusehen und durch Erteilung einer Duldung zu ermöglichen, so der Lebensunterhalt weiterhin gesichert ist oder der Betroffene Ansprüche auf BAFöG hätte, d.h. der Student sich seit mindestens vier Jahren ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufgehalten hat (§ 8 Abs. 2a BAFöG). § 55 Abs. 3 AsylVfG findet nach Sinn und Zweck der entsprechenden Regelungen des BAFöG in diesem Zusammenhang keine Anwendung.
 Die Duldung ist im Falle des Studiums mit folgenden Auflagen zu versehen:
-"Studium an einer Hochschule im Land Berlin in der Fachrichtung … gestattet."
+"Erlischt mit Beendigung des Studiums an einer staatlich anerkannten Hochschule."
 "Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
 „Beschäftigung nur nach Erlaubnis der Ausländerbehörde. Selbstständige Tätigkeit nicht gestattet“.
 In Fällen der Berufsausbildung ist die Duldung mit der auflösenden Bedingung

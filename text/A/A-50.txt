@@ -4,6 +4,7 @@ A.50.
 30.01.2006
 02.04.2007
 31.10.2007
+26.11.2009 VwV
 A.50. Ausreisepflicht
 50.1. frei
 50.2.1. Die Vollziehbarkeit der Ausreisepflicht (siehe § 58 Abs. 2) betrifft die Frage, ab welchem Zeitpunkt die Verpflichtung zur Ausreise auch zwangsweise im Wege der Abschiebung durchgesetzt werden kann und durchzusetzen ist.
@@ -11,7 +12,12 @@ Eine Aufenthaltserlaubnis gem. § 25 Abs. 5 S. 1 kann erst bei vollziehbarer Aus
 Den Betroffenen ist bis zur Vollziehbarkeit der Ausreisepflicht eine Bescheinigung über die mangelnde Vollziehbarkeit der Ausreisepflicht (LABO 4048) zu erteilen. Die Nebenbestimmungen, die zuvor galten, sind in die Bescheinigung zu übernehmen. In der Bescheinigung muss analog § 4 Abs. 2 S. 2 auch immer eine Aussage zur Möglichkeit der Erwerbstätigkeit enthalten sein. Dabei ist § 84 Abs. 2 S. 2 als maßgebliche Rechtsvorschrift heranzuziehen.
 50.2.2. Auf der Grundlage eines Beschlusses des Abgeordnetenhauses, wonach grundsätzlich kein ausreisepflichtiger ausländischer Staatsangehöriger in sein Herkunftsland zurückgeführt werden soll, ohne dass dem Betroffenen eine ausreichende Impfprophylaxe für das jeweilige Zielland angeboten worden ist, ist dieser grundsätzlich immer darauf hinzuweisen, dass es in seiner Verantwortung liegt, sich über den bei seiner Rückkehr angezeigten Impfschutz zu informieren verbunden mit der Anregung, sich hierüber entsprechend ärztlich beraten zu lassen. Durch das Impfangebot soll gewährleistet werden, dass Betroffene nach Möglichkeit die gleiche Immunisierung erhalten wie im Herkunftsland verbliebene Landsleute. Hinsichtlich der Einzelheiten des Verfahrens wird auf A.62.S. verwiesen.
 50.2.3. Für die Durchsetzung der Ausreisepflicht bei Schwangerschaft vgl. A.60a.2..
-50.2.1. bis 50.5. frei
+50.2.1. bis 50.2.4. frei
+50.3. Hat das Verwaltungsgericht oder das Oberverwaltungsgericht die aufschiebende Wirkung eines Rechtsbehelfs angeordnet oder hatte der Rechtsbehelf von vornherein aufschiebende Wirkung (z.B. in Fällen isolierter Ausweisung oder Verkürzung ohne Anordnung des Sofortvollzugs), so entfällt die Vollziehbarkeit des Bescheides und die Ausreisefrist wird unterbrochen. Zur Frage des Wiedereintritts der Vollziehbarkeit und zum dann gebotenen Verfahren, vgl. A.59.0..
+Beachte: Eine Unterbrechung der Ausreisefrist im Sinne des § 50 Abs. 3 tritt nicht ein, wenn die aufschiebende Wirkung eines Rechtsbehelfs in der ersten Instanz angeordnet und der
+entsprechende Beschluss des Verwaltungsgerichts in einem Beschwerdeverfahren aufgehoben wird. Hier hat mit Aufhebung des verwaltungsgerichtlichen Beschlusses von vornherein keine aufschiebende Wirkung bestanden.
+50.4. frei
+50.5. Die Anzeigepflicht für einen Wohnungswechsel besteht ebenso wie die Pflicht zur Passüberlassung schon mit der Ausreisepflicht und hängt nicht von deren Vollziehbarkeit ab.
 50.6. Soweit ausreisepflichtige Personen vorsprechen und die Herausgabe eines eingezogenen Passes verlangen, um ein Girokonto zum Bezug von Leistungen nach dem SGB II oder SGB XII eröffnen zu können, so ist diesem Begehren nicht stattzugeben. Dies auch dann nicht, wenn entsprechende Schreiben einer Bank vorgelegt werden, dass die Notwendigkeit der Vorlage eines Passes oder Personalausweises verlangt.
 Banken müssen im Rechtsverkehr jede Bescheinigung von uns mit Lichtbild akzeptieren. Dies gilt insbesondere, wenn der Betroffene einen von uns ausgestellten Ausweisersatz besitzt.
 50.7.0. Nach der Rechtsauffassung des BMI in der Stellungnahme vom 27.10.2004, der wir uns anschließen, können auch Zurückgeschobene im SIS ausgeschrieben werden. Zwar nennt Art. 96 Abs. 3 SDÜ für eine Ausschreibung im SIS die Fälle der Ausweisung, Zurückweisung und Abschiebung. Die ausländerrechtliche Terminologie im Europarecht ist jedoch nicht immer deckungsgleich mit dem innerstaatlichen Recht. Dies gilt auch für die in Art. 96 SDÜ verwendeten Begriffe. Eine Zurückschiebung im Sinne des deutschen Rechts wird in ausländischen Rechtsordnungen vielfach als Abschiebungsmaßnahme angesehen, da die verfahrensmäßige Differenzierung zwischen Abschiebung und Zurückschiebung dort unbekannt ist.

@@ -1,8 +1,8 @@
 VAB
-VORLÄUFIGE ANWENDUNGSHINWEISE
+VERFAHRENSHINWEISE
 DER
 AUSLÄNDERBEHÖRDE BERLIN
-Erstellt am 30.09.2009
+Erstellt am 02.02.2010
 Landesamt für Bürger- und
 Ordnungsangelegenheiten
 Ausländerbehörde Berlin
@@ -48,8 +48,8 @@ A.31
 A.32.
 A.33.
 A.34.
-A.35.
 -2-
+A.35.
 A.36.
 A.37.
 A.38.
@@ -90,8 +90,8 @@ A.65
 A.66.
 A.67.
 A.68.
-A.69.
 -3-
+A.69.
 A.70.
 A.71.
 A.71A
@@ -132,8 +132,8 @@ A.101.
 A.102.
 A.103.
 A.104.
-A.104A
 -4-
+A.104A
 A.104B
 A.105.
 A.105A
@@ -174,8 +174,8 @@ D.43.
 D.55.
 D.56.
 D.58.
-D.60.
 -5-
+D.60.
 D.61.
 D.68-70.
 D.71.
@@ -195,6 +195,7 @@ E.IRAK.2
 E.IRAK.3
 E.IRAK.4
 E.IRAN.1
+E.IRAN.2
 E.ISRAEL.1.
 E.KASACHSTAN.1.
 E.KIRGISIEN.1.
@@ -215,9 +216,9 @@ E.SERB.4
 E.SERB.5
 E.SRILANKA.1
 E.SYRIEN.1.
+-6-
 E.TSCHET.1.
 E.TÜRK.1.
--6-
 E.TÜRK.2.
 E.TÜRK.3.
 E.TÜRK.4.
@@ -226,140 +227,211 @@ E.UKR.2
 E.USBEKISTAN.1
 -7-
 Übersicht zu den Änderungen
-Änderung vom Fundstelle
-16.09.2009 A.7.1.3. Zur Titelerteilung für die Ausbildung an einer jüdischen Ausbildungsstätte (Lauder Yeshurun)
-10.09.2009 A.60a.s.2; B.BeschVerfV.2 zur Möglichkeit der zustimmungsfreien Tätigkeit in und 4. Fällen der Berufsvorbereitung, bei einem
-freiwilligen sozialen oder ökologischen Jahr sowie
-im Strafvollzug
-03.09.2009 A.23.1.1 Redaktionelle Änderung
-01.09.2009 A.18.2.1.4./ B.BeschVerfV.0. Reichweite der arbeitsmarktrechtlichen und B.BeschVerfV.9.0. Verfestigung des § 9 BeschVerfV
-31.08.2009 A.10.3.2. Sperrwirkung des offensichtlich unbegründeten Asylantrages gilt nur, wenn die Asylablehnung
-nach dem 31.12.2004 bestandskräftig geworden
-ist
-31.08.2009 B.AufenthV. Ergänzung um Hinweise zum automatisierten Antragsverfahren auf der Grundlage der 4. VO zur
-Änderung der AufenthV
-25.08.2009 A.38a. zum Nachweis der Rechtsstellung eines langfristig Aufenthaltsberechtigten in Italien, Spanien oder in
-einem anderen EU-Mitgliedstaat
-13.08.2009 A.2.3.1.11. Lebensunterhaltssicherung durch
-Arbeitslosengeld I
-10.08.2009 A.72.2.8. Anfragen im Rahmen des
-Beteiligungsverfahren bearbeitet die Außenstelle
-Düsseldorf
-10.08.2009 B.AufenthV.39.3. Begriff des im Bundesgebiet
-entstandenen "Anspruchs" im Sinne von § 39
-Nr. 3 AufenthV stellt auf die wesentlichen,
-den Anspruch begründenden Tatsachen
-(Eheschließung, Geburt) ab
-04.08.2009 A.29.5., A.21.6. Klarstellung zur Möglichkeit der Ausübung einer Erwerbstätigkeit des nachziehenden
-Familienangehörigen
-28.07.2009 A.30.1.3 sowie A.44a.1.1.3 Zur Integrationskursverpflichtung von Ehegatten bei bereits geduldetem, gestattetem oder sonst
-erlaubten Aufenthalt im Inland
-28.07.2009 C.7.1.3. Herstellung des Einvernehmens mit der
-Staatsanwaltschaft vor der Abschiebung eines
-Unionsbürgers oder eines Familienangehörigen
-24.07.2009 A.38a.0 Redaktionelle Änderung
-23.07.2009 B.1. Redaktionelle Änderung
-21.07.2009 A.25.5.1. / A. 60a.2.2. Art. 6 GG als Abschiebungs- und / C.3.1.1. Ausreisehindernis, insbesondere bei
-Wahrnehmung des Umgangsrechts
-21.07.2009 A.53.s.1.5. Kein vollständiges Nachholen von gemäß Art. 8 EMRK gebotenen Ermessensentscheidungen im
-Verwaltungsstreitverfahren bei noch nicht
-bestandskräftigen Ausweisungen
-20.07.2009 A.16. OVG Berlin-Brandenburg zur Familiengründung während des Studiums
+Änderung Fundstelle
+vom
+01.02.2010 A.30.4. Aufenthaltsrechtliche Berücksichtigung einer Zweitehe beim Familiennachzug zu dt. Staatsangehörigen erst nach
+rechtskräftiger Scheidung bzw. Anerkennung der Erstehe
+nach dt. Recht.
+01.02.2010 A.33.1.1. Zur Ausübung des von § 33 Abs. 1 Satz AufenthG eröffneten Ermessens
+01.02.2010 A.2.3.2.1 - A.2.3.2.4 Textkürzung, da Erziehungsgeldanspruch ohne praktische Relevanz und Beseitigung eines redaktionellen Fehlers
+01.02.2010 A.68.2.1. Kopien der Verpflichtungserklärungen werden ab 15.02.2010 nicht mehr an II A 23 übersandt
+28.01.2010 E.Türk.1, Ziffer 2.2.2. Für das Aufenthaltsrecht aus Art. 7 Abs. 2 ARB 1/80 ist es unerheblich, ob sich das Kind des türkischen
+Arbeitnehmers vor Aufnahme der Berufsausbildung
+überhaupt im Bundesgebiet aufgehalten hatte oder dieses
+zuvor zu einem nicht nur vorübergehenden Zweck
+verlassen hatte.
+26.01.2010 A.3.2. Zuständigkeit für Ausnahme von der Passpflicht liegt ab 15.02.2010 beim BAMF
+21.01.2010 B.AufenthV.5. Klarstellender Hinweis zur Zumutbarkeit der Passbeschaffung in den Fällen des § 25 Abs. 3
+21.01.2010 A.60a.s.2 Redaktionelle Änderung - Wegfall der Verweise auf die überholte AuslG- VwV
+20.01.2010 D.71.1.0 Klarstellende Regelung zu den Nebenbestimmungen bei Asylfolgeantragstellern.
+14.01.2010 A.23.s.2., A.25.4.1.3., Umsetzung der Altfallregelung für ehemalige „unechte“ B.AufenthV.27 Ortskräfte an diplomatischen und berufskonsularischen Vertretungen in Deutschland
+14.01.2010 A.60a.s.1. Redaktionelle Änderung
+13.01.2010 A.27.1a.1.4 Zur örtlichen Zuständigkeit der bei möglichen Scheinvaterschaften anfechtungsberechtigten
+Behörde.
+11.01.2010 A.2.3.1.12, A.21.0., Ergänzungen zum Ausschluss von
+A.21.3., B.BeschV.4. Minderheitsbeteiligungen, neuer Höhe der
+Altersversorgung und zum ausreichenden
+Krankenversicherungsschutz bei Selbstständigen und
+Führungskräften
+11.01.2010 A.56.1.1.2. Gemäß Ziffer 56.1.2. AufenthG-VwV außer in den Fällen des § 37 AufenthG kein Ausweisungsschutz nach § 56
+Abs. 1 Nr. 2 AufenthG bei nicht nur vorübergehendem
+Verlassen des Bundesgebietes und Wiedereinreise als
+Volljähriger, Hinweise zur Ermessensausübung.
+08.01.2010 E.Iran.2., A.60a.s.1. Der Abschiebungsstopp in den Iran wurde von SenInnSport nicht verlängert, Weisung konnte daher
+entfallen
+08.01.2010 A.25.5.2. Durch die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 5 Satz 2 AufenthG trotz bestehender
+Sperrwirkung nach § 11 Abs. 1 AufenthG wird die
+Sperrwirkung nur für die Aufenthaltserlaubnis auf
+dieser Grundlage suspendiert, bleibt aber für die
 -8-
-20.07.2009 A.30.3. Konkretisierung des Ermessens anhand aktueller Rechtsprechung des OVG Berlin-Brandenburg
-20.07.2009 D.75. Ausschluss der aufschiebenden Wirkung gilt auch für Altfälle
-17.07.2009 A.43.0.6.; A.44a.2.3. Zur Unzumutbarkeit an einem Integrationskurs teilzunehmen, wenn Kinder zu betreuen sind.
-17.07.2009 A.90.1. Zur Datenübermittlung an Sozialleistungsträger und Leistungsbehörden gem. § 90 Abs. 1 Satz 1
-Nr. 2
-14.07.2009 B.AufenthV.28. Wiedereinführung der unbefristeten Aufenthaltserlaubnis-Schweiz
-08.07.2009 A.25.3.2.2 sowie 25.3.2.4 Zur Mitwirkungspflicht bei der Passbeschaffung in den Fällen des § 25 Abs. 3
-08.07.2009 E.Lib.2 Zur Ausstellung von Reiseausweisen für
-Ausländer für DDV- bzw. LP- Inhaber aus dem
-Libanon
-02.07.2009 B.AufenthV.53 Zur Gebührenerhebung bei der Beantragung und Erteilung von Niederlassungserlaubnissen und
-dem Bezug von Leistungen nach dem SGB II, XII
-oder dem AsylbLG
-01.07.2009 A.2.3.1.2. Erhöhung der Regelsätze nach dem SGB ab 01.07.2009
-30.06.2009 E.Irak.4., 4.2. Das in A.43.0.6. festgelegte Verfahren bei Integrationskursverpflichteten findet bei aus dem
-Irak aufgenommenen Flüchtlingen keine
-Anwendung
-26.06.2009 A.5.1.1. Zum Regel-Ausnahmeverhältnis bei der
-eigenständigen Lebensunterhaltssicherung
-25.06.2009 A.25.3.0, 25.4.0. sowie Zur Sperrwirkung des § 11 Abs. 1 beim Vorliegen 25.5.1.2 der Erteilungsvoraussetzungen des § 25 Abs. 3
-bzw. Abs. 4
-25.06.2009 A.26.4.4. Zur entsprechenden Anwendung des § 35
-AufenthG bei humanitären Titeln
-25.06.2009 A.30.1.1.2. Zur Verfassungsmäßigkeit der
-Sprachanforderungen an nachziehende Ehegatten
-25.06.2009 A.35.1.2. Zur Umsetzung des § 35 Abs. 1 S. 2
-25.06.2009 A.5.3.3. Hinweis gem. § 5 Abs. 3 S. 3 auch bei Titeln möglich, die nicht aus humanitären Gründen erteilt
-werden.
-25.06.2009 A.56.2.2 Zum besonderen Ausweisungsschutz bei
-Minderjährigen, deren Eltern das
-Personensorgerecht entzogen wurde.
-25.06.2009 E.Sri Lanka.1., Wegfall des Zustimmungserfordernisses SenInnSport zu einer beabsichtigten Abschiebung
-16. u. A.104a.6.2.1 Zur Anerkennung von öffentlich geförderten
-19.06.2009 Tätigkeiten bzw. Anrechenbarkeit von Einkünften
-aus solchen Tätigkeiten im Kontext des § 104 a
-11.06.2009 B.AufenthV.32., Anwendungshinweise zu den Working-Holiday- B.AufenthV.41. Abkommen mit Australien, Neuseeland, Japan
-und der Republik Korea sowie zur Jugendmobilität
-(Youth Mobility) - Vereinbarung mit Kanada
-05.06.2009 A.23a.2.1.7. Zur Verlängerung der Aufenthaltserlaubnis gem. § 23 a
-03.06.2009 A.72.3.1.2. Redaktionelle Änderung
+Erteilung eines Aufenthaltstitels auf einer anderen
+Rechtsgrundlage bestehen. Die spätere Erteilung
+einer Niederlassungserlaubnis auf der Grundlage von
+§ 26 Abs. 4 AufenthG ist hingegen nicht
+ausgeschlossen.
+07.01.2010 A.104a; A.104b; Umsetzung des IMK- Beschlusses vom 3./4.12.2009
+07.01.2010 A.66.2. keine Differenzierung nach Aufenthalts- und Ausreisekosten bei der Verpflichtungserklärung
+07.01.2010 A.90.3. Die Übermittlungspflichten an die Sozialbehörden sind in Berlin abschließend geregelt und gehen den
+Regelungen gemäß Ziffer 90.3.3. AufenthG-VwV vor.
+07.01.2010 A.53. Zum Maßstab für die Beurteilung der Wiederholungsgefahr nach der VwV, insbesondere bei terroristischen Taten.
+07.01.2010 A.51.1.8. Der Aufenthaltstitel nach § 25 Abs. 3 erlischt ausnahmsweise dann nicht gemäß § 51 Abs. 1 Nr. 8,
+wenn ein Abschiebungsverbot nach § 60 Abs. 2, 3
+oder Abs. 7 Satz 2 besteht, da dies Art. 24 Abs. 2 der
+RL 2004/83/EG vom 29.04.2004
+("Qualifikationsrichtlinie") widersprechen würde (vgl.
+Ziffer 51.1.7. AufenthG-VwV).
+07.01.2010 A.2.3.1.6. Für außerhalb einer Bedarfsgemeinschaft lebende minderjährige Kinder sind ab dem 01.01.2010 neue
+Mindestunterhaltssätze zu berücksichtigen.
+07.01.2010 A.25.5.3. verweigerte Abgabe einer sog. Freiwilligkeitserklärung gegenüber der Auslandsvertretung des Herkunftsstaates
+steht nach BVerwG einer Erteilung einer humanitären
+Aufenthaltserlaubnis nach § 25 Abs. 5 entgegen
+07.01.2010 A.85.0. Heranziehung des § 85 bei der Berechnung erforderlicher Aufenthaltserlaubniszeiten durch BVerwG bestätigt
+05.01.2010 A.18.4. / A.18a.1.1. / Qualifiziert ist eine Berufsausbildung in Anlehnung an § 25 B.BeschV.1.-16. BeschV in der zum 24.12.2009 in Kraft getretenen Fassung bereits bei einer Ausbildungsdauer von zwei -
+anstatt zuvor drei - Jahren
+21.12.2009 A.5.1.2 Zur Annahme eines Regel- Ausnahmefalles bei Vorliegen eines Ausweisungsgrundes
+18.12.2009 A.33 Zur Anwendung des § 33
+17.12.2009 C.3.5.1 Zur Berechnung der Ehebestandszeiten gem. § 3 Abs. 5 FreizügG/EU
+17.12.2009 A.2.3.5, A.16.1.5., Zur Geltungsdauer der Aufenthaltserlaubnisse nach § 16 Abs. 1
+17.12.2009 A.32.0 und 32.4 Redaktionelle Anpassung aus gesetzessystematischen Gründen
+17.12.2009 B.AufenthV.16. Erläuterungen zum Working-Holiday-Programm zwischen Deutschland und Hongkong
+16.12.2009 A.32.4. Kindesnachzug gem. § 32 Abs. 4 zu nicht oder nicht allein personensorgeberechtigten Elternteilen nach den VwV
+16.12.2009 A.2.3.1.14 Zur Bonitätsprüfung bei verheirateten
+Verpflichtungsgebern
+16.12.2009 B.AufenthV.31.1 Zum Zustimmungsverfahren bei der Erteilung von Visa gem. § 31 Abs. 1 AufenthV
+15.12.2009 A.61.1.1.3 Zum Verfahren und den Erfordernissen bei einem begehrten Wohnortwechsel eines Geduldeten
+15.12.2009 A.16.1.5. Erkennbare Studienfortschritte liegen vor, wenn der
 -9-
-27.05.2009 C.2.4.2., C.3.1., C.3.6. Verhältnis von Freizügigkeitsrecht zum Aufenthaltsrecht bei getrennt lebenden
-Familienangehörigen; Freizügigkeitsrecht von
-eingetragenen Lebenspartnern richtet sich nicht
-länger nach § 28 AufenthG
-27.05.2009 E.Bos.1., E.Serb.1. Redaktionelle Überarbeitung
-27.05.2009 E.Bos.2., E.Serb.5. Weisungen konnten angesichts des Zeitablaufes wegfallen
-27.05.2009 E.Kos.1., E.Mont.1. Die neuen Weisungen tragen der zwischenzeitlichen völkerrechtlichen
-Eigenständigkeit der ehemaligen Teilrepubliken
-Rechnung, E.Serb.1. wurde entsprechend
-entschlackt
-26.05.2009 A.55.2.2. Zur unerlaubten Erwerbstätigkeit von Inhabern von Schengentiteln (Art. 21 SDÜ)
-25.05.2009 A.30.1.3 Verfahren bei Personen, die trotz Visums zum Ehegattennachzug nicht über einfache
-Deutschkenntnisse verfügen
-18.05.2009 A.16.5.1.1. Zur Anwendung des § 16 Abs. 5
-15.05.2009 A.104a. Zu den Voraussetzungen bei der Verlängerung der Aufenthaltserlaubnis auf Probe gem. § 104 a
-Abs. 1 S. 1
-30.04.2009 A.33.0 sowie A.32.0. Zur Geltungsdauer der Aufenthaltserlaubnisse nach §§ 32, 33 - lediglich redaktionell -
-28.04.2009 A.16.4.1 Zur Geltungsdauer einer Erlaubnis zur
-Erwerbssuche gem. § 16 Abs. 4
-28.04.2009 A.26.3.2 Keine NE- Erteilung gem. § 26 Abs. 3
-trotz Auslaufens der Prüfffrist des § 73 Abs. 7
-AsylVfG in Altfällen ohne Mitteilung des BAMF
-gem. § 73 Abs. 2 a AsylVfG - Änderung der
-Regelung vom 11.02.09
-27.04.2009 A.32.0 sowie A.32.4.1 Zum Kindernachzug bei geteiltem Sorgerecht
-27.04.2009 A.4.1.1. / A.27.1a.1.5. / Anpassungen an das zum 02.11.2009 in Kraft
-A.51.1.3. getretene Gesetz zur Änderung des
-Staatsangehörigkeitsgesetzes (Regelungen zur
-Rücknahme von Einbürgerungen und
-Aufenthaltstiteln und zu den Auswirkungen der
-Rücknahme von Aufenthaltstiteln sowie einer
-Vaterschaftsanfechtung auf eine kraft
-Abstammung erworbene dt. Staatsangehörigkeit)
-20.04.2009 A.104a BVerwG bestätigt die bisherige Praxis, wonach bei § 104a Abs. 2 (Altfall AE für Volljährige und
-unbegeleitete Minderjährige) im Rahmen des von
-§ 5 Abs. 1 Nr. 2 und Abs. 3 Satz 2 eröffneten
-Ermessens die Maßstäbe insb. des § 104a Abs. 1
-Satz 2 Nr. 6 (Ausschlussgrund Straftaten) gelten
-15.04.2009 A.58.s.1. Vervollständigung der Aufstellungen über bi- und multilaterale Rückübernahmeabkommen
-07.04.2009 A.25.5.1.3. Auflösende Bedingung bei AE wg. dauerhafter Reisefähigkeit
-07.04.2009 A.25.s.1./A.60a.4./D.60.1. Überarbeitung der Regelungen zu Studium und Berufsausbildung bei Geduldeten, Gestatteten
-und Personen mit einer Aufenthaltserlaubnis nach
-§ 25 AufenthG
-07.04.2009 A.51.2.1. Klarstellung zur erleichterten Prüfung des gesicherten Lebensunterhaltes bei der
-Fortgeltungsbescheinigung für Rentner
-07.04.2009 A.60a.s.3. Überarbeitung der Regelungen zur Beendigung einer Schul- oder Berufsausbildung nach Wegfall
-des Abschiebungsverbotes
-oder Ausreisehindernisses
-06.04.2009 E.Lib.3. VG Berlin bestätigt die Rechtmäßigkeit der auflösenden Bedingung "Erlischt bei der Ausreise
-in den Libanon."
-06.04.2009 E.Serb.1.A. + B. Redaktionelle Änderungen; Rückführungen von Roma und Serben in die Republik Kosovo sind
-nun uneingeschränkt möglich; Adressaten für
-Rückübernahmeersuchen
-02.04.2009 A.9.4.3., A.9a.2.1.1. Zur Anrechnung von Zeiten des Besitzes einer Aufenthaltsbewilligung auf die zeitlichen
-Voraussetzungen der NE bzw. DA-EG
-01.04.2009 A.16.2.1 und 16.5.2 Zu Regelausnahmen von § 16 Abs. 2 S. 1
+Studierende in den zurückliegenden Fachsemestern
+Leistungspunkte gesammelt sowie an Prüfungen und.
+Pflichtpraktika teilgenommen hat
+14.12.2009 A.18.0. kein Aufenthaltsrecht aus dem Diskriminierungsverbot des Europa-Mittelmeer-Abkommens/Tunesien
+09.12.2009 D.60. Konkretisierung der Nebenbestimmungen zur
+Studienaufnahme in Korrespondenz zu A.16.
+08.12.2009 E.Serb.5. Keine Befreiung von der Visumpflicht ab 19.12.2009 für kosovarische Staatsangehörige mit serbischen, von der
+Koordinationsdirektion ausgestellten biometrischen
+Pässen
+03.12.2009 A.2.3.1.14 Zur Beachtung des bundeseinheitlichen Merkblattes zur Abgabe einer Verpflichtungserklärung
+03.12.2009 B.AufenthV.15- 16 Zum Sichtvermerksabkommen zwischen Deutschland und den USA
+03.12.2009 A.4.1.1 sowie Zum mangelnden Erfordernis eines Titels und einer
+A.60a.s.2 Duldung allein zum Zweck der Straf- und
+Untersuchungshaft
+03.12.2009 B.AufenthV.22 sowie 53 Redaktionelle Änderungen in Folge des Inkrafttretens der und 55 VwV
+03.12.2009 C.8.1. Zur Passpflicht bei Freizügigkeitsberechtigten
+03.12.2009 A.5.1.1. Zum Regelausnahmefall bei Inanspruchnahme einzelner Leistungen nach dem SGB II oder XII
+03.12.2009 B.AufenthV.5 Allgemeines zur Ausübung des Ermessens bei der Ausstellung von Reiseausweisen für Ausländer
+03.12.2009 A.2.3.5 Zur Sicherung des Lebensunterhalts bei Studierenden
+03.12.2009 A.21.0. Zum Begriff der selbständigen Tätigkeit
+03.12.2009 A.1.2.1.; C.1.0 Zum Anwendungsvorrang Europäischen Rechts sowie des FreizügG/EU
+02.12.2009 B.AufenthV.27 Keine Erteilung einer Erlaubnis gem. § 18 für eine Beschäftigung, die unter den Katalog des § 27 Abs. 1
+AufenthV fällt
+02.12.2009 A.16.2.1.3. sowie Zum Erfordernis konkretisierender Nebenbestimmungen 16.4.5. in der Erlaubnis gem. § 16 Abs. 1 sowie zur Berechnung der Gesamtstudiendauer in Fällen des § 16 Abs. 4
+02.12.2009 E.Türk.1 Zur Erteilung von Erlaubnissen nach § 4 Abs. 5 bei Studierenden
+01.12.2009 A.72.3., A.25.5.1.2. Einvernehmenserfordernis entsprechend § 72 Abs. 3 bei der Prüfung der Voraussetzungen des § 25 Abs. 5
+abweichend von der Sperrwirkung des § 11 Abs. 1, wenn
+diese Sperrwirkung von einer anderen Behörde ausgelöst
+wurde
+01.12.2009 A.25.4.2. Anforderungen an eine außergewöhnliche Härte im Sinne des § 25 Abs. 4 Satz 2
+01.12.2009 A.60a. Zur Abschiebung bei bevorstehender Geburt eines dt. Kindes
+01.12.2009 A.16., A.2.3.5. Anpassung an die VwV nach Abstimmung mit SenInnSport und den Hochschulen
+27.11.2009 A.11.1.3.7. Zur Befristung der Sperrwirkung bei wiederholter Abschiebung.
+27.11.2009 A.9.2.6. Zur Dauerhaftigkeit einer Erkrankung in den Fällen des § 9 Abs. 2 S. 6
+26.11.2009 A.11. / A. 53.s.1.3. Erfüllt ein Ausländer nach erfolgter Ausweisung erneut Ausweisungsgründe, ist dies im Rahmen der Bemessung
+der Sperrfrist zu berücksichtigen
+26.11.2009 A.46. Keine Einträge von Ordnungsverfügungen zur Förderung der Ausreise in Pässe
+26.11.2009 B.AufenthV5.-11. Zur Zumutbarkeit ein Passfoto mit Kopftuch zwecks Passbeschaffung zu fertigen
+26.11.2009 A.49.6.2. Kindgerechte Befragungen zur Identitätsklärung
+26.11.2009 A.49a.0. Fundpapiere werden ausnahmslos an die zuständige ABH weitergeleitet
+26.11.2009 A.59.0. / A.50.3. Erneute Ausreisefrist bei Wiedereintritt der Vollziehbarkeit
+24.11.2009 A.60a.2.5 Zur Geltungsdauer der Duldung
+22.11.2009 A.21. Anpassung an die VwV
+22.11.2009 A.19.2 Im Zweifel erfolgt Prüfung der Voraussetzungen des § 19 Abs. 2 Nr. 1 und 2 nur nach Stellungnahme der für
+Wissenschaft zuständigen Senatsverwaltung
+22.11.2009 A.17. Ausschluss der Verlängerung der AE gem. § 17, wenn Ausbildung entwicklungspolitischen Zwecken dient.
+22.11.2009 A.11.1.3.1 sowie Klarstellung, wonach entgegen den VwV nach Befristung
+A.11.1.3.3 der Sperrwirkung an verbrauchte Ausweisungsgründe
+nicht angeknüpft werden darf und allein offen stehende
+Rückführungskosten auch bei freizügigkeitsberechtigten
+Familienangehörigen von Unionsbürgern und Eltern
+minderjähriger, lediger deutscher Kinder für sich
+genommen keine Ablehnung der Befristung rechtfertigen.
+22.11.2009 E.Irak.4.; E.Israel.1. Anpassung an die VwV- Neuregelung zur wohnsitzbeschränkenden Auflage
+21.11.2009 A.102 Streichung der zeitlich überholten Ausführungen
+21.11.2009 A.104a Anpassung der Regelungen an die AufenthG- VwV
+21.11.2009 A.105.2 Aktualisierung der Ausführungen
+21.11.2009 A.16.5.2 Zulässiger Zweckwechsel bei Einreisen zum Zwecke der Aus- und Weiterbildung mit vorgeschaltetem Sprachkurs
+und Familiennachzug
+21.11.2009 A.32.4.1 Zur Weiterleitung von Prüfbitten von Auslandsvertretungen an hiesige Jugendämter
+17.11.2009 B.BeschVerfV.10.1.2.2. Redaktionelle Anpassung
+15.11.2009 A.9a.2.1.2.; A.38a.0. keine Erteilung einer DA-EG an nicht erwerbstätige Kinder; visafreier Nachzug von Familienangehörigen im Rahmen
+des § 39 Nr. 6 AufenthV
+13.11.2009 A.38.3. Ermessensausübung bei nicht erfüllter
+Regelerteilungsvoraussetzung der eigenständigen
+Lebensunterhaltssicherung
+13.11.2009 A.37.5. Gestattung einer selbstständigen Tätigkeit für Wiederkehrer im Rentenbezug
+13.11.2009 A.25.3.0., 25.3.1., Unterschiede zwischen den Abschiebungsverboten nach § 25.3.2.1. u. 2. 60 Abs. 2, 3 und 7 Satz 2, die durch die
+Qualifikationsrichtlinie vorgegeben werden, und denen
+des nationalen Rechts nach § 60 Abs. 5 und 7 Satz 1
+13.11.2009 A.22.1 Zuständigkeit der Auslandsvertretungen auch für Staatsangehörige, die ansonsten visafrei einreisen dürfen
+12.11.2009 E.Türk.1. Ziffer 4 Kein Aufenthaltsrecht aus Art. 10 ARB 1/80
+12.11.2009 A.5.3.2. Zum Absehen von der Passpflicht bei Inhabern humanitärer Titel und deren Familienangehörigen
+12.11.2009 A.16.5.2. Zur Anwendung des § 16 Abs. 5 S. 2 (zulässiger Zweckwechsel bei Einreisen zum Zwecke der Aus- und
+Weiterbildung mit vorgeschaltetem Sprachkurs)
+12.11.2009 A.26.3., A.26.4. Keine Anwendbarkeit des § 9 Abs. 2 in den durch § 26 Abs. 3, 4 geregelten Konstellationen
+12.11.2009 A.26.4.1.6. Anwendbarkeit des § 26 Abs. 4 auf Inhaber eine AE zu einem vorübergehenden Aufenthalt nach § 24, 25 Abs. 4
+Satz 2 und Abs. 4a
+12.11.2009 A.26.4.1.4. bzw. Zur Anrechenbarkeit von Gestattungszeiten bzw. zur
+26.4.3. Unterbrechung von Zeiten des Besitzes eines Titels bei der Prüfung eines NE- Antrags nach § 26 Abs. 4
+10.11.2009 A.32.0 zur Zustimmung auf Erteilung eines Visums / zur Erteilung einer AE für ein aufzunehmendes Kind zu
+Adoptionsbewerbern mit gewöhnlichem Aufenthalt in
+Berlin
+09.11.2009 A.85.0 § 85 bezieht sich auch auf die Unterbrechung der Zeiten des Besitzes von Aufenthaltstiteln
+09.11.2009 A.36.2. zum Nachzug von Eltern zu ihren minderjährigen ausländischen oder volljährigen Kindern sowie von
+volljährigen Kindern zu ihren Eltern
+09.11.2009 A.35.1.1., 1.2., 2. zur Anrechenbarkeit der Aufenthaltszeiten im Bundesgebiet von Inhabern eines nationalen Visums /
+fünfjähriger AE-Besitz zum Zeitpunkt der Entscheidung
+über die NE-Erteilung ist ausreichend / zur
+Nichtanrechnung von Schulbesuchszeiten im Ausland
+09.11.2009 A.33.0. zur Anwendung des § 33 im Falle des § 29 Abs. 3 Satz 3
+09.11.2009 A.31.4.1. Betreuung von Kleinkindern oder pflegebedürftigen Kindern als Regel- Ausnahmefall bei der allgemeinen
+Erteilungsvoraussetzung des § 5 Abs. 1 Nr.1
+09.11.2009 A.30.1.1. zur aufenthaltsrechtlichen Vorwirkung des Schutzgebotes des Art. 6 GG mit Blick auf den unmittelbar
+bevorstehenden Eheschließungstermin
+09.11.2009 A.29.5. Klarstellung zur Möglichkeit der Aufnahme einer selbstständigen Tätigkeit durch Ehegatten
+09.11.2009 A.28.1.1.3. zur aufenthaltsrechtlichen Vorwirkung des Schutzgebotes des Art. 6 GG hinsichtlich nachzugswilliger
+Ehegatten resp. Väter mit Blick auf den voraussichtlichen
+Geburtstermin
+09.11.2009 A.27.1a.1.3. zur Nichtanwendung von § 27 Abs. 1a Nr. 1 in Fällen des beantragten Familiennachzuges bei erfolgter
+Vaterschaftsanerkennung
+05.11.2009 B.AufenthV.5.-11. Zur Zumutbarkeit im Rahmen der Passpflicht Wehrdienst zu leisten
+05.11.2009 A.2.3.1.14 keine Verpflichtungserklärung bei Sicherung des Lebensunterhalts eines Kindes durch Stiefelternteil
+05.11.2009 A.2.3.1.12 Zum erforderlichen KV- Schutz bei kurzfristigen Aufenthalten
+05.11.2009 A.68.2.2.1 Sicherung des Lebensunterhalts mittels eines Schuldversprechens
+05.11.2009 A.2.3.2.9; A.30.3.; Bezug von Wohngeld und Sicherung des
+A.104a. Lebensunterhalts
+05.11.2009 A.28.1.0 Zur Auslegung des Begriff des gewöhnlichen Aufenthalts des Deutschen gem. § 28 Abs. 1 bei einem Aufenthalt in
+einem anderen Mitgliedsstaat der EU.
+05.11.2009 A.51.4. Zur Anwendung des § 51 Abs. 4 bei Familienangehörigen von deutschen Diplomaten
+05.11.2009 A.11.1.3. Übernahme der Ermessensleitlinien der AufenthG-VwV zu Befristungsentscheidungen
+05.11.2009 A.49.2 Zur Strafbarkeit gegen die Mitwirkungspflichten des § 49 Abs. 2
+05.11.2009 A.4.5.0 Zur Geltungdsdauer von Aufenthaltserlaubnissen gem. § 4 Abs. 5
+05.11.2009 B.AufenthV.5.-11. Zur Zumutbarkeit der Nachregistrierung und Urkundenberichtigung im Vorfeld der
+Passbeschaffung
+05.11.2009 A.9.2.6. Das Alter und altersbedingte
+Erwerbseinschränkungen rechtfertigen kein Absehen
+von der Lebensunterhaltssicherung im Sinne von § 9
+Abs. 2 Satz 6 AufenthG
+05.11.2009 A.12.2.; A.61.1.3 sowie Zur wohnsitzbeschränkenden Auflage bei Inhabern
+A.104a.4.2. humanitärer Titel - Umsetzung VwV
+03.11.2009 A.20.7. Ausschluss von Promotionsstudenten von einem Aufenthalt zum Zweck der Forschung
+02.11.2009 C.2.2., C.5.3.2., Verfahrensumstellung für arbeitsuchende Unionsbürger;
+C.5.3.3. ein gesonderter Nachweis ist nicht länger erforderlich
+30.10.2009 A.14. Anpassung an die VwV- AufenthG
+22.10.2009 A.54.5b. Hinweis auf den neuen Ausweisungsgrund des § 54 Nr. 5b AufenthG (Vorbereitung staatsgefährdender Gewalttaten,
+Stichwort "terroristische Ausbildungslager")
+22.10.2009 B.AufenthV.45.3. Bei jedem Wechsel des Aufenthaltszwecks ist eine höhere Gebühr von 40 Euro zu zahlen.
+21.10.2009 A.31.2.2. besondere Härten, die sich aus der Rückkehrverpflichtung ergeben, müssen einen Bezug zur Ehe aufweisen
+21.10.2009 A.7.2.2. zum Verhältnis von Verkürzung und möglichem Zweckwechsel
+13.10.2009 A.32.4.1. Hinweis auf das auch bei unerlaubt eingereisten Kindern erforderliche Verteilverfahren nach § 15a AufenthG.
+13.10.2009 A.9.2.1.2 Aus redaktionellen Gründen weggefallen.
+08.10.2009 E.Iran.2., A.60a.s.1. Aussetzung der Abschiebung in den Iran
+05.10.2009 A.44a.1.1.1. Klarstellende Regelung zur Integrationskursverpflichtung für Inhaber von Titeln gem. § 23 Abs. 2
