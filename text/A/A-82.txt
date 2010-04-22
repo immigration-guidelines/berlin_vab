@@ -2,9 +2,10 @@ A.82.
 20.07.2005 A.82.
 24.04.2007
 2. ÄndG
+18.02.2010
 A.82. Mitwirkung des Ausländers
 82.0. Aus § 82 Abs. 1 ergibt sich eine echte Rechtspflicht des Ausländers zur Mitwirkung. Abs. 3 enthält eine ganze Reihe Hinweispflichten für die Ausländerbehörden. Dazu wurde eine Reihe von Informationsblättern geschaffen, die den Sachgebieten zur Verfügung gestellt wurden und deren Aushändigung jeweils aktenkundig zu machen ist.
-Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit wird im Sachgebiet IV R 4 (Rückführung) konzentriert.
+Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit wird im Sachgebiet IV R 3 (Rückführung) konzentriert.
 82.1.1. bis 82.1.2. frei
 82.1.3. § 82 Abs. 1 Satz 3 ist durch das 2. ÄndG eingefügt worden. Kann über den Antrag eines Ausländers wegen fehlender oder unzureichender Angaben des Betroffenen nicht oder nur negativ entschieden werden, kann die Ausländerbehörde das Verfahren aussetzen und dem Betroffenen eine Frist für die notwendigen Angaben und Nachweise setzen. Verspätet vorgebrachte Angaben und Nachweise können unberücksichtigt bleiben. Die praktischen Auswirkungen der Gesetzesänderung für das Verwaltungsverfahren sind gering. So kommt der Ausländerbehörde weiterhin ein Entscheidungsspielraum zu, ob überhaupt ausgesetzt werden soll, oder ob es aufgrund des bisherigen Vortrages weniger am Nachweis bestimmter Erteilungsvoraussetzungen als vielmehr an den Erteilungsvoraussetzungen selbst fehlt.
 82.2. frei
@@ -12,11 +13,11 @@ Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer Anordnung einer ärztlich
 Es handelt sich im Einzelnen um
 • Information zur Abschiebung (M 11)
 Mit diesem Merkblatt wird der Ausländer auf die Rechtsfolgen einer Abschiebung und die Möglichkeit der Befristungsbeantragung hingewiesen (§ 11 Abs. 1 S. 3).
-Das Merkblatt ist dem Ausländer vor der Abschiebung auszuhändigen. Es ist daher bei „Alt-Fällen“ regelmäßig dem an das LKA gerichteten Ersuchen um Abschiebung m.d.B. um Aushändigung beizufügen.
+Das Merkblatt ist dem Ausländer vor der Abschiebung auszuhändigen. Es ist daher bei „Alt- Fällen“ regelmäßig dem an das LKA gerichteten Ersuchen um Abschiebung m.d.B. um Aushändigung beizufügen.
 In aufenthaltsbeendende Bescheide ist der Hinweis auf die Rechtsfolgen einer möglichen Abschiebung (Einreiseverbot, Schengenwirksamkeit, Befristungsantrag) sogleich aufzunehmen, so dass es für diese Fälle eines gesonderten Merkblattes nicht bedarf. Eines gesonderten Hinweises auf die Möglichkeit der Beantragung der Befristung der Wirkung einer Ausweisung bedarf es ebenfalls nicht, weil dieser Hinweis bereits schon seit längerer Zeit im Rahmen der Anhörung nach § 28 VwVfG gegeben wird.
 • Information über Verpflichtung zur Teilnahme an einem Integrationskurs
 Mit dem Merkblatt des Bundesamtes für Migration und Flüchtlinge wird der Ausländer zum einen auf seine festgestellte Verpflichtung zur Teilnahme an einem Integrationskurs und die sich aus § 82 Abs. 1 ergebende Nachweispflicht hingewiesen (§ 44a Abs. 1), zum anderen wird er über die Folgen einer Nichtteilnahme bzw. erfolglosen Teilnahme belehrt.
-Das Merkblatt ist im Rahmen der Vorsprache bei Feststellung der Teilnahmeberechtigung und - verpflichtung auszuhändigen.
+Das Merkblatt ist im Rahmen der Vorsprache bei Feststellung der Teilnahmeberechtigung und-verpflichtung auszuhändigen.
 Besteht eine Teilnahmeverpflichtung nach § 44a Abs. 1, ist dies durch eine Auflage zur AE deutlich zu machen.
 • Information über ausweisrechtliche Pflichten (M 48)
 Mit diesem Merkblatt wird der Ausländer auf seine Verpflichtungen zur Vorlage und Überlassung seiner Dokumente und anderer Unterlagen, die der Identitätsfeststellung dienlich sind, sowie auf die Möglichkeit der Durchsuchung seiner Person und seiner mitgeführten Sachen hingewiesen (§ 48 Abs. 1 und 3). Das Merkblatt enthält auch einen Hinweis auf die Ordnungswidrigkeit der Passverschleierung sowie auf die Strafbarkeit unrichtiger oder unvollständiger Angaben Angaben sowie auf die Möglichkeit der Ausweisung nach § 55 Abs. 2 Nr. 1 a) und b) bei unrichtigen oder unvollständigen Angaben oder fehlender Mitwirkung.
@@ -26,8 +27,7 @@ Mit diesem Merkblatt wird der Ausländer auf seine Verpflichtung zur Identitäts
 Das Merkblatt ist grundsätzlich bei jeder Erstvorsprache bzw. bei jedem Erstkontakt mit der Ausländerbehörde (Erstberatung im Abschiebungsgewahrsam) auszuhändigen.
 Von einer Aushändigung ist jedoch abzusehen, wenn schon bei der ersten Vorsprache erkennbar ist, dass die Voraussetzungen des § 49 für eine erkennungsdienstliche Behandlung nicht vorliegen. Dies ist immer anzunehmen bei der Vorsprache nach Einreise mit einem zustimmungsbedürftigen Visum (z.B. Studenten, Familiennachzug) oder in den Fällen der §§ 39 – 41 AufenthV.
 82.3.2. frei
-82.4.1. § 82 Abs. 4 Satz 1 stellt klar, dass u.a. zur Identitätsklärung nicht nur das Erscheinen vor den zuständigen Behörden und Vertretungen des Heimatstaates, sondern auch vor ermächtigten Bediensteten dieses Staates angeordnet werden darf. Diese Klarstellung betrifft vor allem Anhörungen durch Bedienstete des Heimatstaates, die insb. aus Praktikabilitätsgründen (Sammelvorführungen) in den Räumen dt. Behörden stattfinden. Auch in einem solchen Fall handelt es sich nicht um ein deutsches Verwaltungsverfahren, auf das insbesondere § 14 VwVfG anzuwenden wäre und in dem mithin ein Anspruch auf anwaltliche Vertretung besteht (vgl. OVG Berlin-Brandenburg, Beschluss vom 20.07.2006 – OVG 8 S 45.06 – sowie vom 18.04.2007 – OVG 2 N 87.07 – und Bayrischer VGH, Beschluss vom 10.10.2006 – M 25
-E 06.3724).
+82.4.1. § 82 Abs. 4 Satz 1 stellt klar, dass u.a. zur Identitätsklärung nicht nur das Erscheinen vor den zuständigen Behörden und Vertretungen des Heimatstaates, sondern auch vor ermächtigten Bediensteten dieses Staates angeordnet werden darf. Diese Klarstellung betrifft vor allem Anhörungen durch Bedienstete des Heimatstaates, die insb. aus Praktikabilitätsgründen (Sammelvorführungen) in den Räumen dt. Behörden stattfinden. Auch in einem solchen Fall handelt es sich nicht um ein deutsches Verwaltungsverfahren, auf das insbesondere § 14 VwVfG anzuwenden wäre und in dem mithin ein Anspruch auf anwaltliche Vertretung besteht (vgl. OVG Berlin-Brandenburg, Beschluss vom 20.07.2006 – OVG 8 S 45.06 – sowie vom 18.04.2007 – OVG 2 N 87.07 – und Bayrischer VGH, Beschluss vom 10.10.2006 – M 25 E 06.3724).
 82.4.2. bis 82.4.3. frei
 82.5.1. § 82 Abs. 5 ist die Rechtsgrundlage für die Verpflichtung eines Ausländers, ein aktuelles Lichtbild vorzulegen oder bei der Aufnahme eines solchen Bildes mitzuwirken sowie bei der Abnahme seiner Fingerabdrücke mitzuwirken, um Lichtbild und Fingerabdrücke in ein aufenthaltsrechtliches Dokument einbringen sowie für eine spätere Feststellung der Identität nutzen zu können.
 82.5.2. frei

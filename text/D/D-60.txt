@@ -7,10 +7,8 @@ D.60.
 07.04.2009
 09.12.2009
 D.60. Auflagen
-60.1. Asylbewerbern wird die Aufnahme eines Studiums oder einer sonstigen Berufsausbildung inklusive berufsvorbereitender Maßnahmen nur unter eingeschränkten Voraussetzungen
-gestattet. Damit wird im Rahmen des vom § 60 Abs. 1 AsylVfG eröffneten Ermessens den gesetzgeberischen Wertungen des § 8 Abs. 2 und 2a BAFöG Rechnung getragen, wonach
-Ausbildungsförderung Asylbewerbern – anders als unter bestimmten Voraussetzungen Geduldeten, vgl.
-A.60a.4. - grundsätzlich nicht gewährt wird.
+60.1. Asylbewerbern wird die Aufnahme eines Studiums oder einer sonstigen
+Berufsausbildung inklusive berufsvorbereitender Maßnahmen nur unter eingeschränkten Voraussetzungen gestattet. Damit wird im Rahmen des vom § 60 Abs. 1 AsylVfG eröffneten Ermessens den gesetzgeberischen Wertungen des § 8 Abs. 2 und 2a BAFöG Rechnung getragen, wonach Ausbildungsförderung Asylbewerbern – anders als unter bestimmten Voraussetzungen Geduldeten, vgl. A.60a.4. - grundsätzlich nicht gewährt wird.
 In allen außer den nachfolgend aufgeführten Fallgestaltungen ist die Aufenthaltsgestattung mit der Auflage
 „Studium nicht gestattet.“
 zu versehen.
@@ -19,10 +17,11 @@ Die die Aufnahme eines Studiums ausschließende Auflage ist auf Antrag ersatzlos
 60.1.2. Aufnahme eines Studiums vor rechtskräftigem Abschluss des Asylverfahrens
 Die Aufnahme eines Studiums wird vor rechtskräftigem Abschluss des Asylverfahrens durch Änderung der Auflage auf Antrag zugelassen, wenn
 • die Zulassungszusage einer Berliner Hochschule vorliegt,
-• nachgewiesen wird, dass der Lebensunterhalt während des Studiums ohne Inanspruchnahme von Leistungen nach dem AsylbLG/SGB II oder SBG XII finanziert wird, und
-• der Zeitpunkt des Abschlusses des Asylverfahrens unbestimmbar ist, weil gegen die Ablehnung des Asylantrags Klage erhoben wurde und nicht absehbar ist, wann das
-Verwaltungsgericht oder das Oberverwaltungsgericht in der Hauptsache entscheidet.
-Bezüglich der Höhe des Einkommens und des Nachweises des gesicherten Lebensunterhaltes sind die Ausführungen unter VAB A.2.3.5. für Studenten und Sprachschüler zu beachten. Grundsätzlich genügt es daher nicht, eine schriftliche Erklärung darüber abzugeben, dass keine Leistungen nach dem AsylbLG/SGB II in Anspruch genommen werden. Ausnahmen gelten allerdings, für Altfälle, in denen wir in der Vergangenheit eine solche Erklärung als Nachweis der Sicherung des Lebensunterhalts haben genügen lassen. Akzeptieren wir eine Erklärung so ist diese zur Ausländerakte zu nehmen; eine Kopie erhält die ZLA.
+• nachgewiesen wird, dass der Lebensunterhalt während des Studiums ohne
+Inanspruchnahme von Leistungen nach dem AsylbLG/SGB II oder SBG XII finanziert wird, und
+• der Zeitpunkt des Abschlusses des Asylverfahrens unbestimmbar ist, weil gegen die Ablehnung des Asylantrags Klage erhoben wurde und nicht absehbar ist, wann das Verwaltungsgericht oder das Oberverwaltungsgericht in der Hauptsache entscheidet.
+Bezüglich der Höhe des Einkommens und des Nachweises des gesicherten Lebensunterhaltes sind die Ausführungen unter VAB A.2.3.5. für Studenten und Sprachschüler zu
+beachten. Grundsätzlich genügt es daher nicht, eine schriftliche Erklärung darüber abzugeben, dass keine Leistungen nach dem AsylbLG/SGB II in Anspruch genommen werden. Ausnahmen gelten allerdings, für Altfälle, in denen wir in der Vergangenheit eine solche Erklärung als Nachweis der Sicherung des Lebensunterhalts haben genügen lassen. Akzeptieren wir eine Erklärung so ist diese zur Ausländerakte zu nehmen; eine Kopie erhält die ZLA.
 Die Aufenthaltsgestattung ist mit folgenden Auflagen zu versehen:
 "Studium an einer staatlich anerkannten Hochschule gestattet."
 "Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
@@ -32,8 +31,7 @@ Bezüglich der Auflage zu Arbeitszwecken findet entgegen § 61 Abs. 2 AsylVfG de
 60.1.3. Aufnahme einer sonstigen Berufsausbildung vor rechtskräftigem Abschluss des Asylverfahrens
 Eine sonstige Berufsausbildung (Lehre) oder die Teilnahme an einer berufsvorbereitenden Maßnahme wird vor rechtskräftigem Abschluss des Asylverfahrens durch Änderung der Auflage auf Antrag zugelassen, wenn
 • ein Ausbildungsvertrag bzw. ein Vertrag über die berufsvorbereitende Maßnahme vorliegt (bei berufsvorbereitenden Maßnahmen muss sich aus dem Vertrag der Inhalt und die Dauer der Maßnahme ergeben sowie ersichtlich sein, bis wann mit einer Entscheidung über die anschließende Aufnahme der eigentlichen Berufsausbildung zu rechnen ist),
-• der Zeitpunkt des Abschlusses des Asylverfahrens unbestimmbar ist, weil gegen die Ablehnung des Asylantrags Klage erhoben wurde und nicht absehbar ist, wann das
-Verwaltungsgericht oder das Oberverwaltungsgericht nach zugelassener Berufung in der Hauptsache entscheidet, und
+• der Zeitpunkt des Abschlusses des Asylverfahrens unbestimmbar ist, weil gegen die Ablehnung des Asylantrags Klage erhoben wurde und nicht absehbar ist, wann das Verwaltungsgericht oder das Oberverwaltungsgericht nach zugelassener Berufung in der Hauptsache entscheidet, und
 • die Zustimmung der Bundesagentur für Arbeit vorliegt.
 Der Bezug von Sozialhilfe/Jugendhilfe steht einer positiven Entscheidung nicht entgegen.
 Die Aufenthaltsgestattung ist bei der Berufsausbildung nach erfolgter Zustimmung der Bundesagentur für Arbeit mit den Auflagen
@@ -41,19 +39,16 @@ Die Aufenthaltsgestattung ist bei der Berufsausbildung nach erfolgter Zustimmung
 "Selbstständige Tätigkeit nicht gestattet.“
 zu versehen.
 Bei der Teilnahme an berufsvorbereitenden Maßnahmen ist die Auflagenerweiterung zunächst auf Inhalt und Dauer der berufsvorbereitenden Maßnahme zu beschränken („Beschäftigung nicht gestattet mit Ausnahme der Tätigkeit als … bei…. bis zum … “). Über die Erlaubnis zur Berufsausbildung ist erst zu entscheiden, wenn ein entsprechender Ausbildungsvertrag vorgelegt wird. Die Aufnahme der Berufsausbildung ist zu erlauben, sofern die o.g. Voraussetzungen erfüllt sind.
-60.1.4. Fortsetzung des Studiums oder der Berufsausbildung nach rechtskräftigem
-erfolglosem Abschluss des Asylverfahrens
+60.1.4. Fortsetzung des Studiums oder der Berufsausbildung nach rechtskräftigem erfolglosem Abschluss des Asylverfahrens
 Ist das Asylverfahren rechtskräftig erfolglos abgeschlossen worden, ist die Fortsetzung des Studiums oder der sonstigen Berufsausbildung durch Erteilung einer Aufenthaltserlaubnis gem. § 16 Abs. 1 bzw. § 17 zu ermöglichen, wenn
 • die o.g. Voraussetzungen (s. D.60.1.2. bzw. D.60.1.3.) sowie
 • die sonstigen allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 und Abs. 4 vorliegen,
 • und eine Aufenthaltserlaubnis aus humanitären Gründen - etwa nach § 25 Abs. 5 wegen eines nicht zu vertretenden Ausreisehindernisses - zu erteilen wäre.
 § 10 Abs. 3 S. 1 (unanfechtbare Ablehnung oder Rücknahme eines Asylantrages) hindert die Erteilung der Aufenthaltserlaubnis gem. § 16 Abs. 1 bzw. § 17 in diesen Fällen nicht, da dem Ausländer in einem solchen Fall ja eine Aufenthaltserlaubnis aus humanitären Gründen zu erteilen wäre. Liegen die o.g. Voraussetzungen für die Erteilung der Erlaubnis nach § 16 Abs. 1 bzw. § 17 ansonsten vor, so ist nach einer logischen Sekunde die Aufenthaltserlaubnis auch in diesen Fällen nach § 16 Abs. 1 bzw. § 17 zu erteilen.
-Fehlt es an einer der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 bzw. Abs. 4 (insbesondere dem gesicherten Lebensunterhalt) ist immer in einem zweiten Schritt zu prüfen, ob nicht unabhängig vom Studium etwa wegen eines dauerhaften vom Betroffenen nicht zu vertretenen Ausreisehindernisses ohnehin eine Aufenthaltserlaubnis aus humanitären Gründen - etwa nach § 25 Abs. 5 - zu erteilen ist. In diesem Fall ist immer auch die Fortsetzung des Studiums bzw. der Ausbildung zu ermöglichen (vgl.
-A.25.s.1.).
+Fehlt es an einer der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 bzw. Abs. 4 (insbesondere dem gesicherten Lebensunterhalt) ist immer in einem zweiten Schritt zu prüfen, ob nicht unabhängig vom Studium etwa wegen eines dauerhaften vom Betroffenen nicht zu vertretenen Ausreisehindernisses ohnehin eine Aufenthaltserlaubnis aus humanitären Gründen - etwa nach § 25 Abs. 5 - zu erteilen ist. In diesem Fall ist immer auch die Fortsetzung des Studiums bzw. der Ausbildung zu ermöglichen (vgl. A.25.s.1.).
 Kommt die Erteilung einer Aufenthaltserlaubnis aus humanitären Gründen nicht in Betracht, ist die Fortsetzung des Studiums oder der sonstigen Berufsausbildung als dringender persönlicher Grund im Sinne des § 60a Abs. 2 Satz 3 AufenthG anzusehen und durch Erteilung einer Duldung zu ermöglichen, so der Lebensunterhalt weiterhin gesichert ist oder der Betroffene Ansprüche auf BAFöG hätte, d.h. der Student sich seit mindestens vier Jahren ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufgehalten hat (§ 8 Abs. 2a BAFöG). § 55 Abs. 3 AsylVfG findet nach Sinn und Zweck der entsprechenden Regelungen des BAFöG in diesem Zusammenhang keine Anwendung.
 Die Duldung ist im Falle des Studiums mit folgenden Auflagen zu versehen:
-"Erlischt mit Beendigung des Studiums an einer staatlich anerkannten Hochschule."
-"Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
+"Erlischt mit Beendigung des Studiums an einer staatlich anerkannten Hochschule." "Die Gestattung des Studiums erlischt mit dem Bezug von Leistungen nach dem SGB II, SGB XII oder dem AsylbLG",
 „Beschäftigung nur nach Erlaubnis der Ausländerbehörde. Selbstständige Tätigkeit nicht gestattet“.
 In Fällen der Berufsausbildung ist die Duldung mit der auflösenden Bedingung
 „Die Duldung erlischt mit Beendigung der Berufsausbildung bei der Fa….".

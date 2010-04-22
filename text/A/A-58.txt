@@ -6,10 +6,10 @@ A.58.
 22.01.2008
 17.04.2008
 15.04.2009
+02.03.2010
 A.58. Abschiebung
 58.1. § 58 Abs. 1 ordnet unter den dort genannten Voraussetzungen die Vollziehung der Abschiebung an (keine Ermessen).
-Ein Ausländer, der sich unerlaubt im Bundesgebiet aufhält und nicht ausreisewillig ist oder dessen Abschiebung geboten ist, wird grundsätzlich in sein Herkunftsland abgeschoben. Sofern er einen noch gültigen Aufenthaltstitel eines anderen Schengen-Vertragsstaates besitzt, wird er dorthin abgeschoben. Für Unionsbürger und deren Familienangehörige gelten besondere Regelungen.
-Für Ausländer, die in einem anderen Schengen-Vertragsstaat ein erfolgloses Asylverfahren durchlaufen haben s. auch D.13.
+Ein Ausländer, der sich unerlaubt im Bundesgebiet aufhält und nicht ausreisewillig ist oder dessen Abschiebung geboten ist, wird grundsätzlich in sein Herkunftsland abgeschoben. Sofern er einen noch gültigen Aufenthaltstitel eines anderen Schengen-Vertragsstaates besitzt, wird er dorthin abgeschoben. Für Unionsbürger und deren Familienangehörige gelten besondere Regelungen. Für Ausländer, die in einem anderen Schengen-Vertragsstaat ein erfolgloses Asylverfahren durchlaufen haben s. auch D.13.
 58.2.0. Personen, die unerlaubt eingereist sind oder auf Grund eines vollziehbaren Verwaltungsaktes ausreisepflichtig sind, bleiben auch dann vollziehbar ausreisepflichtig, wenn sie einen Antrag auf Erteilung einer AE/NE stellen (vgl. Ausführungen bei § 81 Abs. 3 und 4).
 58.2.1.1. § 14 Abs. 1 zählt die vom AufenthG umfassten Tatbestände der unerlaubten Einreise abschließend auf, s. A.14. Auch eine gegen das Einreise- und Aufenthaltsverbot des § 7 Abs. 2 S. 1 FreizügG/EU erfolgte Einreise ist eine – wenn auch außerhalb des AufenthG geregelte - unerlaubte Einreise. Die Vollstreckung erfolgt – soweit das Verbot fortwirkt – nach § 58 Abs. 2 S. 1 Nr. 1 AufenthG i.V.m. § 11 Abs. 2 FreizügG/EU (dazu näher C.7).
 58.2.1.2. Gestrichen wurde durch das 2. ÄndG aus redaktionellen Gründen die Anknüpfung an den Antrag auf Verlängerung „nach Ablauf der Geltungsdauer“. Da ein solcher verspäteter Antrag grundsätzlich nicht dazu führt, dass die dort genannte Fortbestehensfiktion nach § 81 Abs. 4 eintritt, waren die nun gestrichenen Wörter zumindest missverständlich.
@@ -36,20 +36,22 @@ Die Richtlinie, die Entscheidung des Rates vom 23.02.2004, die im Zusammenhang m
 58.S.1. Rückübernahme- und Transitabkommen
 Nachfolgend sind die von der Bundesrepublik Deutschland geschlossenen Rückübernahme- und Transitabkommen aufgelistet, soweit sie hier verfügbar sind:
 MULTILATERAL
-• Übereinkommen zwischen den Regierungen des Königreiches Belgien, der Bundesrepublik Deutschland, der Französischen Republik, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreiches der Niederlande und der Republik Polen betreffend die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 29.02.1991, in Kraft seit 01.05.1991
-• Vereinbarung zwischen dem Inneministerium der Bundesrepublik Deutschland, dem Innenministerium der Republik Kroatien, der Regierung der Republik Österreich, dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien über die Gestattung der Durchreise und Durchbeförderung bosnisch-herzegowinischer Kriegsflüchtlinge vom 29.05.1996, in Kraft seit 01.07.1996
+• Übereinkommen zwischen den Regierungen des Königreiches Belgien, der
+Bundesrepublik Deutschland, der Französischen Republik, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreiches der Niederlande und der Republik Polen betreffend die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 29.02.1991, in Kraft seit 01.05.1991
+• Vereinbarung zwischen dem Inneministerium der Bundesrepublik Deutschland, dem Innenministerium der Republik Kroatien, der Regierung der Republik Österreich, dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien über die Gestattung der Durchreise und Durchbeförderung bosnisch-herzegowinischer
+Kriegsflüchtlinge vom 29.05.1996, in Kraft seit 01.07.1996
 • Vereinbarung zwischen der Regierung der Republik Albanien, dem Ministerrat von Bosnien und Herzegowina, der Regierung der Bundesrepublik Deutschland, der Regierung der Italienischen Republik, der Regierung der Republik Kroatien, der Regierung des Königreichs der Niederlande, der Österreichischen Bundesregierung, dem Schweizerischen Bundesrat, der Regierung der Republik Slowenien und der Regierung der Republik Ungarn über die Gestattung der Durchreise ausreisepflichtiger jugoslawischer Staatsangehöriger vom 21.02.2000
 • Abkommen zwischen der Europäischen Gemeinschaft und der Regierung der
 Sonderverwaltungsregion Hongkong der Volksrepublik China über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 27.11.2002 in Kraft seit 01.02.2004
 • Abkommen zwischen der Europäischen Gemeinschaft und der Sonderverwaltungsregion Macau der VR China über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 29.04.2004 in Kraft seit 01.06.2004
-• Abkommen zwischen der Europäischen Gemeinschaft und Sri Lanka über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 04.06.2004 in Kraft seit 01.05.2005
-• Abkommen zwischen der Europäischen Gemeinschaft und Albanien über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 14.04.2005 in Kraft seit 01.05.2006
+• Abkommen zwischen der Europäischen Gemeinschaft und Sri Lanka über die
+Rückübernahme von Personen mit unbefugtem Aufenthalt vom 04.06.2004 in Kraft seit 01.05.2005
+• Abkommen zwischen der Europäischen Gemeinschaft und Albanien über die
+Rückübernahme von Personen mit unbefugtem Aufenthalt vom 14.04.2005 in Kraft seit 01.05.2006
 • Abkommen zwischen der Europäischen Gemeinschaft und der Russischen Föderation über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 25.05.2006 in Kraft seit 01.06.2007
-• Abkommen zwischen der Europäischen Gemeinschaft und der Ukraine über die
-Rückübernahme von Personen vom 18.06.2007, in Kraft seit 01.01.2008
+• Abkommen zwischen der Europäischen Gemeinschaft und der Ukraine über die Rückübernahme von Personen vom 18.06.2007, in Kraft seit 01.01.2008
 • Abkommen zwischen der Europäischen Gemeinschaft und der ehemaligen jugoslawischen Republik Mazedonien über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 18.09.2007, in Kraft seit 01.01.2008
-• Abkommen zwischen der Europäischen Gemeinschaft und Bosnien und Herzegowina
-über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 18.09.2007, in Kraft seit 01.01.2008
+• Abkommen zwischen der Europäischen Gemeinschaft und Bosnien und Herzegowina über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 18.09.2007, in Kraft seit 01.01.2008
 • Abkommen zwischen der Europäischen Gemeinschaft und der Republik Montenegro über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 18.09.2007, in Kraft seit 01.01.2008
 • Abkommen zwischen der Europäischen Gemeinschaft und der Republik Serbien über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 18.09.2007, in Kraft seit 01.01.2008
 • Abkommen zwischen der Europäischen Gemeinschaft und der Republik Moldau über die Rückübernahme von Personen mit unbefugtem Aufenthalt vom 10.10.2007, in Kraft seit 01.01.2008
@@ -96,8 +98,9 @@ Ungarn 01.01.1999
 Vietnam 21.09.1995
 Die Abkommen können bei Bedarf bei IV R 21/22 eingesehen werden.
 58.S.2. Abschiebung bzw. Rückführung unbegleiteter Minderjähriger unter 18 Jahren Auf der Grundlage der Entschließung des Rates der Europäischen Union vom 26.06.1997 ist bei o.g. Personenkreis wie folgt zu verfahren:
-Vor jeder Abschiebung ist immer die deutsche Auslandsvertretung über den genauen Ankunftstermin des Minderjährigen ggf. unter Angabe der Wohnanschrift der gesetzlichen Vertreter im Heimatland zu unterrichten. Diese ist grundsätzlich zu bitten sicherzustellen, dass der Minderjährige unter 18 Jahren am Zielflughafen durch Verwandte oder die zuständigen staatlichen Stellen in Empfang genommen wird. Etwas anderes gilt nur bei bestehenden Rückübernahmeabkommen, sofern in diesen bestimmte, für erforderliche Sicherheits- und Schutzmaßnahmen zuständige Stellen festgelegt sind. In diesen Fällen ist im Rahmen des Rückübernahmeersuchens auf die erforderliche Inempfangnahme hinzuweisen.
-Bei 16- bis 18-jährigen Jugendlichen kann in der Regel aber auf die Bitte um Sicherstellung der kindgerechten Inobhutnahme verzichtet werden, wenn der Betroffene so hinreichend selbständig ist, dass er in der Lage ist, ohne Hilfe Erwachsener vom Zielort der Rückführung bis zum Aufenthaltsort seines gesetzlichen Vertreters, von Verwandten oder zu den zuständigen staatlichen Stellen zu gelangen.
+Vor jeder Abschiebung ist immer die deutsche Auslandsvertretung über den genauen Ankunftstermin des Minderjährigen ggf. unter Angabe der Wohnanschrift der gesetzlichen Vertreter im Heimatland zu unterrichten. Diese ist grundsätzlich zu bitten sicherzustellen, dass der Minderjährige unter 18 Jahren am Zielflughafen durch Verwandte oder die zuständigen staatlichen Stellen in Empfang genommen wird. Etwas anderes gilt nur bei bestehenden
+Rückübernahmeabkommen, sofern in diesen bestimmte, für erforderliche Sicherheits- und Schutzmaßnahmen zuständige Stellen festgelegt sind. In diesen Fällen ist im Rahmen des Rückübernahmeersuchens auf die erforderliche Inempfangnahme hinzuweisen.
+Bei Jugendlichen vom 16. bis vollendetem 18. Lebensjahr kann in der Regel aber auf die Bitte um Sicherstellung der kindgerechten Inobhutnahme verzichtet werden, wenn der Betroffene so hinreichend selbständig ist, dass er in der Lage ist, ohne Hilfe Erwachsener vom Zielort der Rückführung bis zum Aufenthaltsort seines gesetzlichen Vertreters, von Verwandten oder zu den zuständigen staatlichen Stellen zu gelangen.
 Bei Jugendlichen, die sich erst seit kurzer Zeit hier aufhalten und nachweislich in der Begleitung Erwachsener – z. A. über Schlepper/-organisationen oder in Begleitung Verwandter – in die Bundesrepublik gelangt sind, ist grundsätzlich von der Notwendigkeit einer Gewährleistung der kindgerechten Inobhutnahme auszugehen.
 Abschiebungen von unbegleiteten minderjährigen Ausländern, die das 18. Lebensjahr noch nicht vollendet haben, erfolgen grundsätzlich nur nach vorheriger Information des Vormundes. Erst wenn dieser sich weigert, mit unserer Behörde zu kooperieren oder ein Abschiebungsversuch nach zuvor erfolgter Einbeziehung des Vormundes gescheitert ist, kann die Abschiebung ohne Information des Vormundes erfolgen.
 Soweit der Betreuer oder Amtsvormund einen Aufschub der Abschiebung erbittet, um die kind- oder jugendgerechte Inobhutnahme im Heimatland zu gewährleisten, ist diesem Anliegen – auch bei nur telefonischer Anfrage - zu entsprechen.

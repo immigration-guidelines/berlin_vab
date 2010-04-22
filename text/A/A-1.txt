@@ -5,19 +5,12 @@ A.1.
 03.12.2009- VwV
 A.1. Zweck des Gesetzes; Anwendungsbereich
 1.1.1. bis 1.1.5. frei
-1.2.1. Das Europäische Gemeinschaftsrecht hat Anwendungsvorrang vor dem Aufenthaltsgesetz. Die Verordnungen und Entscheidungen des Rates und der Kommission haben eine unmittelbare Wirkung (Artikel 249 EGV). Dasselbe gilt für die Teile des SDÜ und die übrigen Bestimmungen des Schengen- Acquis, die durch den Amsterdamer Vertrag in Gemeinschaftsrecht überführt worden sind. Richtlinien der EU bzw. EG bedürfen der Umsetzung in innerstaatliches Recht. Sind Richtlinien nicht oder nicht ausreichend in innerstaatliches Recht umgesetzt worden, gelten nach Ablauf der Umsetzungsfrist die Regelungen der Richtlinie als unmittelbar anwendbar, die für eine Einzelfallanwendung inhaltlich unbedingt und hinreichend genau bestimmt sind und nicht selbst Verpflichtungen für den Einzelnen begründen.
-Ausländer, deren Rechtsstellung durch das Gesetz über die allgemeine Freizügigkeit von Unionsbürgern (Freizügigkeitsgesetz/EU - FreizügG/EU) geregelt ist, sind gemäß § 1 FreizügG/EU Staatsangehörige anderer Mitgliedstaaten der Europäischen Union (Unionsbürger)
-und ihre Familienangehörigen sowie Staatsangehörige der EWR-Staaten und ihre Familienangehörigen (§ 12 FreizügG/EU).
-Nr. 1.2.1.2. AufenthG-VwV stellt klar, dass auf Grund der fortschreitenden Einigung Europas und der weit reichenden Sonderstellung des Freizügigkeitsrechts Unionsbürger und ihre Familienangehörigen grundsätzlich vom Anwendungsbereich des Aufenthaltsgesetzes ausgenommen werden. Es ist auf diese Personen nur anwendbar, wenn dies ausdrücklich durch ein anderes Gesetz bestimmt ist. § 11 FreizügG/EU erklärt in drei Fällen das Aufenthaltsgesetz
-für anwendbar:
-- entsprechende Anwendung der in § 11 Absatz 1 Satz 1 bis 4 FreizügG/EU genannten
-Vorschriften auf Freizügigkeitsberechtigte,
-- entsprechende Anwendung des Aufenthaltsgesetzes, wenn dieses eine günstigere
-Rechtsstellung vermittelt als das FreizügG/EU (§ 11 Absatz 1 Satz 5 FreizügG/EU)
-oder
-- generelle Anwendung des Aufenthaltsgesetzes nach Feststellung des Nichtbestehens
-oder des Verlustes des Freizügigkeitsrechts (§ 11 Absatz 2 FreizügG/EU). Im übrigen siehe C.1.0. sowie
-C.11.
+1.2.1. Das Europäische Gemeinschaftsrecht hat Anwendungsvorrang vor dem Aufenthaltsgesetz. Die Verordnungen und Entscheidungen des Rates und der Kommission haben eine unmittelbare Wirkung (Artikel 249 EGV). Dasselbe gilt für die Teile des SDÜ und die übrigen Bestimmungen des Schengen-Acquis, die durch den Amsterdamer Vertrag in Gemeinschaftsrecht überführt worden sind. Richtlinien der EU bzw. EG bedürfen der Umsetzung in innerstaatliches Recht. Sind Richtlinien nicht oder nicht ausreichend in innerstaatliches Recht umgesetzt worden, gelten nach Ablauf der Umsetzungsfrist die Regelungen der Richtlinie als unmittelbar anwendbar, die für eine Einzelfallanwendung inhaltlich unbedingt und hinreichend genau bestimmt sind und nicht selbst Verpflichtungen für den Einzelnen begründen.
+Ausländer, deren Rechtsstellung durch das Gesetz über die allgemeine Freizügigkeit von Unionsbürgern (Freizügigkeitsgesetz/EU - FreizügG/EU) geregelt ist, sind gemäß § 1 FreizügG/EU Staatsangehörige anderer Mitgliedstaaten der Europäischen Union (Unionsbürger) und ihre Familienangehörigen sowie Staatsangehörige der EWR-Staaten und ihre Familienangehörigen (§ 12 FreizügG/EU).
+Nr. 1.2.1.2. AufenthG-VwV stellt klar, dass auf Grund der fortschreitenden Einigung Europas und der weit reichenden Sonderstellung des Freizügigkeitsrechts Unionsbürger und ihre Familienangehörigen grundsätzlich vom Anwendungsbereich des Aufenthaltsgesetzes ausgenommen werden. Es ist auf diese Personen nur anwendbar, wenn dies ausdrücklich durch ein anderes Gesetz bestimmt ist. § 11 FreizügG/EU erklärt in drei Fällen das Aufenthaltsgesetz für anwendbar:
+- entsprechende Anwendung der in § 11 Absatz 1 Satz 1 bis 4 FreizügG/EU genannten Vorschriften auf Freizügigkeitsberechtigte,
+- entsprechende Anwendung des Aufenthaltsgesetzes, wenn dieses eine günstigere Rechtsstellung vermittelt als das FreizügG/EU (§ 11 Absatz 1 Satz 5 FreizügG/EU) oder
+- generelle Anwendung des Aufenthaltsgesetzes nach Feststellung des Nichtbestehens oder des Verlustes des Freizügigkeitsrechts (§ 11 Absatz 2 FreizügG/EU). Im übrigen siehe C.1.0. sowie C.11.
 1.2.2. frei
 1.2.3. (...) Ausländische Mitarbeiter von Internationalen Organisationen im Bundesgebiet, wie sie in der nachstehend aufgeführten, vom beim Auswärtigen Amt für Protokollfragen zuständigen Referat zur Verfügung gestellten Liste eingetragen sind, bedürfen für ihren Aufenthalt im Bundesgebiet keines Aufenthaltstitels. Ihnen wird vom Protokoll des Auswärtigen Amtes ein Sonderausweis ausgestellt. Rechtsgrundlage sind jeweils internationale Abkommen, die bestimmen können, dass auch Familienangehörigen ein solcher Ausweis auszustellen ist und ebenso die Frage der Erwerbstätigkeit regeln können.
 • Eurocontrol
@@ -43,4 +36,3 @@ C.11.
 • Asiatische Entwicklungsbank, Frankfurt/Main
 • Deutsch-französisches Jugendwerk, Bad Honnef
 • Sekretariat der Klimarahmenkonvention, Bonn (19.02.1997)
-•
