@@ -2,10 +2,8 @@ A.70.
 01.08.2007 A.70.
 29.03.2010
 A.70. Verjährung von Abschiebungskosten
-A.70.1. Im Rahmen der Festsetzung von Abschiebungskosten ist zwischen der
-Festsetzungsverjährung, d.h dem Zeitraum zwischen Entstehen der Forderung und deren Festsetzung durch Bescheid, sowie der Fälligkeitsverjährung nach
-Festsetzung der Kosten durch Bescheid zu unterscheiden.
-Für die Festsetzung der Abschiebungskosten gilt mangels Spezialregelung die Regelung des § 20 Abs. 1 Satz 1 2. Alt. VwKostG. Danach müssen die Kosten spätestens vier Jahre nach ihrer Entstehung festgesetzt werden. Geschieht dies nicht, erlischt der Anspruch (vgl. VGH Mannheim, Urteil vom 30.07.2009 -13 S 919/09-; VG Berlin, Urteil vom 11.02.2010 – VG 27 K 60.09 -).
+A.70.1. Im Rahmen der Festsetzung von Abschiebungskosten ist zwischen der Festsetzungsverjährung, d.h dem Zeitraum zwischen Entstehen der Forderung und deren Festsetzung durch Bescheid, sowie der Fälligkeitsverjährung nach Festsetzung der Kosten durch Bescheid zu unterscheiden.
+Für die Festsetzung der Abschiebungskosten gilt mangels Spezialregelung die Regelung des § 20 Abs. 1 Satz 1 2. Alt. VwKostG. Danach müssen die Kosten spätestens im vierten Kalenderjahr nach ihrer Entstehung festgesetzt werden. Geschieht dies nicht, erlischt der Anspruch (vgl. VGH Mannheim, Urteil vom 30.07.2009 -13 S 919/09-; VG Berlin, Urteil vom 11.02.2010 – VG 27 K 60.09 -).
 Nach § 70 Abs. 1 verjähren die Ansprüche auf die in § 67 I und II AufenthG genannten Kosten sechs Jahre nach Fälligkeit. Abschiebungskosten werden gemäß § 17 VwKostG mit der Bekanntgabe der Kostenentscheidung (Leistungsbescheid) fällig, wenn die Behörde keinen späteren Zeitpunkt bestimmt.
 § 70 ist der hinsichtlich der Fälligkeitsverjährung ggü. § 20 Abs. Abs. 1 Satz 1 1. Alt. VwKostG die speziellere Regelung für die Ansprüche aus § 67 I und II AufenthG.
 A.70.2. Die in § 20 Abs. 3 VwKostG aufgeführten Umstände, die zur Unterbrechung - d.h. Aussetzen und Neubeginn - der Verjährungsfrist führen, werden durch § 70 Abs. 2 AufenthG ergänzt. Hinsichtlich der Hemmung der Verjährung - d.h. Aussetzen der Frist und Fortlauf nach Wegfall des Hemmnisses - ist § 20 Abs. 2 VwKostG anwendbar.
