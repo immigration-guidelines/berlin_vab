@@ -1,57 +1,61 @@
-A.90.
-20.07.2005 A.90.
-08.02.2006
-06.06.2006
-29.06.2006
-2. ÄndG
-09.01.2008
-16.06.2008
-01.12.2008
-17.07.2009
-07.01.2010 VwV
-24.02.2010
+VAB A 90
+VAB A 90
+Inhaltsverzeichnis
 A.90. Übermittlungen durch Ausländerbehörden
-90.0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
-90.1. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
-90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden/Sozialleistungsträger. Soweit im Einzelfall – etwa auf Grund von Äußerungen des Betroffenen im Rahmen einer Vorsprache oder durch Vorlage von Unterlagen - konkrete Anhaltspunkte für einen Übermittlungstatbestand des § 90 Abs. 1 Nr. 1 -3 vorliegen, ist eine Mitteilung zwingend. Konkrete Anhaltspunkte sind bereits dann gegeben, wenn Tatsachen darauf schließen lassen, dass einer der unter § 90 Abs. 1 Nr. 1 bis 3 genannten Verstöße begangen worden ist. Erforderlich sind konkrete Anhaltspunkte; bloße Vermutungen reichen nicht aus.
+90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
+90.3.1. Übermittlungsregelungen nach Absprache mit den Berliner Leistungsbehörden
+90.3.2. Doppel- oder Mehrfachidentität
+90.3.3. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
+90.3.4. "Um/zu"-Regelung
+90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland
+90.3.5. Leistungsgewährung nach 36 Monaten
+90.3.6. Datenübermittlung bei Integrationskursverpflichtung
+90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
+90.3.8. Zuständigkeiten der Sozialämter
+A.90. Übermittlungen durch Ausländerbehörden
+(07.01.2010; 24.02.2010)
+90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
+90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
+90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen
+Leistungsbehörden/Sozialleistungsträger. Soweit im Einzelfall – etwa auf Grund von Äußerungen des Betroffenen im Rahmen einer Vorsprache oder durch Vorlage von Unterlagen - konkrete Anhaltspunkte für einen Übermittlungstatbestand des § 90 Abs. 1 Nr. 1 -3 vorliegen, ist eine Mitteilung zwingend. Konkrete Anhaltspunkte sind bereits dann gegeben, wenn Tatsachen darauf schließen lassen, dass einer der unter § 90 Abs. 1 Nr. 1 bis 3 genannten Verstöße begangen worden ist. Erforderlich sind konkrete Anhaltspunkte; bloße Vermutungen reichen nicht aus.
 Die Daten sind an die jeweils zuständigen Leistungsbehörden/Sozialleistungsträger zu übermitteln. Dies sind insbesondere die Bundesagentur für Arbeit, die Jobcenter und Sozialämter der Bezirke, aber auch die Träger der gesetzlichen Kranken- oder Rentenversicherung.
 Merke: Schon auf Grund des Anwendungsbereichs des Aufenthaltsgesetzes (§§ 1, 2 Abs. 1 AufenthG) müssen konkrete Anhaltspunkte für einen Verstoß eines Ausländers, auch eines Unionsbürgers oder freizügigkeitsberechtigten Drittstaatsangehörigen (§ 11 Abs. 1 S. 1 FreizügG/EU) vorliegen.
 Daraus folgt, dass Verstöße von Deutschen gegen die leistungsrechtliche Mitwirkungspflicht nach § 60 Abs. 1 Satz 1 Nr. 2 SGB I somit auch dann nicht mitgeteilt werden dürfen, wenn sie im Rahmen der ausländerbehördlichen Tätigkeit (etwa bei Abgabe einer Verpflichtungserklärung gem. § 68 AufenthG oder bei Prüfung des gesicherten Lebensunterhalts eines Ausländers) rechtmäßig zur Kenntnis gelangt sind. In einem solchen Fall ist die Ausländerbehörde allerdings nicht gehindert ggf. Strafanzeige wegen des Verdachts einer Straftat (hier Verdacht auf Betrug bzw. versuchten Betrugs gem. § 263 StGB zulasten des jeweiligen Sozialleistungsträgers) beim Polizeipräsidenten in Berlin zu stellen.
 In einer Mitteilung ist jeweils anzugeben:
-- die Personalien, die zur Identifizierung des betroffenen Ausländers erforderlich sind,
-- Aktenzeichen der Leistungsbehörde/des Sozialleistungsträgers, soweit bekannt,
-- Tatsachen, die die konkreten Anhaltspunkte für einen Verstoß gem. § 90 Abs. 1 Nr. 1 -3 begründen.
+die Personalien, die zur Identifizierung des betroffenen Ausländers erforderlich sind,
+Aktenzeichen der Leistungsbehörde/des Sozialleistungsträgers, soweit bekannt,
+Tatsachen, die die konkreten Anhaltspunkte für einen Verstoß gem. § 90 Abs. 1 Nr. 1 -3 begründen.
 90.1.1. Ergeben sich im Einzelfall etwa im Rahmen der Vorsprache des Betroffenen konkrete Anhaltspunkte für eine Beschäftigung von Ausländern, ohne dass diese über einen entsprechenden Titel nach § 4 Abs. 3 verfügen bzw. diese Beschäftigung (noch) nicht erlaubt wurde, so sind die Agenturen für Arbeit für die Verfolgung dieser Ordnungswidrigkeit nach § 404 Abs. 3 SGB III zuständig. Diese sind gem. § 90 Abs. 1 Nr. 1 unter Angabe der Anhaltspunkte entsprechend zu informieren. Maßgeblich für die örtliche Zuständigkeit ist der Ort der Beschäftigung (§ 12 BeschVerfV analog).
-90.1.2. Gem. § 60 Abs. 1 Satz 1 Nr. 2 SGB I hat derjenige, der Sozialleistungen beantragt oder erhält, Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen. Es handelt sich um Sachverhalte, die für die Gewährung, Höhe und den Fortbestand der Leistung von Bedeutung sind.
-Ein solcher Sachverhalt liegt etwa bei Beziehern von Arbeitslosengeld II (Hartz IV) bzw. Leistungen nach dem SGB XII vor, wenn ausweislich des Leistungsbescheides oder auf Grund von Angaben des Betroffenen konkrete Anhaltspunkte dafür bestehen, dass
-- der Leistungsbehörde auf Grund der Gewährung voller Leistungen nicht bekannt sein kann, dass der Leistungsempfänger mit seiner ein Einkommen erwirtschaftenden Lebensgefährtin in einer eheähnlichen Bedarfsgemeinschaft lebt, dies aber tatsächlich der Fall ist,
-- volle Leistungen auch für minderjährige ledige Kind bezogen werden, obwohl von einem anderen unterhaltspflichtigen Elternteil Unterhalt gezahlt wird,
-- die Wohnungsmiete durch die Leistungsbehörde mit überwiesen wird, obwohl keine oder in einer anderen Wohnug ein deutlich geringere Miete gezahlt wird,
-- im Antrag auf Leistungsbezug wahrheitswidrig angegeben worden sein muss, dass kein Vermögen in Geld- oder Anlagewerten vorhanden ist, weil volle Leistungen gewährt werden, obwohl solche Werte vorhanden sind,
-- volle Leistungen bezogen werden, aber zusätzlich Einkünfte aus Erwerbstätigkeit erzielt werden,
-- volle Leistungen für Ehepartner und/oder Kinder bezogen wurden oder werden, die aus einem seiner Natur nach nicht vorübergehenden Grund ausgereist sind oder sich für mehr als drei Wochen im Ausland aufgehalten haben, ohne dass dies der Leistungsbehörde angezeigt worden ist.
-Bei hauptberuflich Selbständigen, die auf Grund einer weiteren Nebenbeschäftigung als Arbeitnehmer für sich und ggf. für ihre nicht erwerbstätigen Ehegatten und Kinder
-gesetzlich krankenversichert sind, bestehen konkrete Anhaltspunkte dafür, dass die
-selbständige Tätigkeit nicht bzw. die Einkünfte aus dieser Tätigkeit nicht oder nicht vollständig angegeben wurden, wenn der Beitragssatz in einem auffälligen Missverhältnis zur Höhe des Einkommens steht. Von einem hauptberuflich Selbständigen in diesem Sinne ist auszugehen, wenn die selbständige Tätigkeit von der wirtschaftlichen Bedeutung und dem zeitlichen Aufwand die übrigen Beschäftigungen deutlich übersteigt und den Mittelpunkt der Erwerbstätigkeit darstellt. Von einem auffälligen Missverhältnis ist immer dann auszugehen, wenn der Beitrag weniger als 190 Euro bzw. 10 % des Einkommens beträgt.
-Merke: Ist zweifelhaft, ob ein Lebenssachverhalt grundsätzlich der Mitwirkungspflicht unterliegt, so ist dies ohne Angaben personenbezogener Daten ggf. über die Generalie bei dem jeweiligen Sozialleistungsträger abzuklären. Erst danach hat ggf. die Mitteilung gem. § 90 Abs. 1 Nr. 2 zu erfolgen.
+90.1.2. Gem. § 60 Abs. 1 Satz 1 Nr. 2 SGB I hat derjenige, der Sozialleistungen beantragt oder erhält, Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen. Es handelt sich um Sachverhalte, die für die Gewährung, Höhe und den Fortbestand der Leistung von Bedeutung sind. Ein solcher Sachverhalt liegt etwa bei Beziehern von Arbeitslosengeld II (Hartz IV) bzw. Leistungen nach dem SGB XII vor, wenn ausweislich des Leistungsbescheides oder auf Grund von Angaben des Betroffenen konkrete Anhaltspunkte dafür bestehen, dass
+der Leistungsbehörde auf Grund der Gewährung voller Leistungen nicht bekannt sein kann, dass der Leistungsempfänger mit seiner ein Einkommen erwirtschaftenden Lebensgefährtin in einer eheähnlichen Bedarfsgemeinschaft lebt, dies aber tatsächlich der Fall ist,
+volle Leistungen auch für minderjährige ledige Kind bezogen werden, obwohl von einem anderen unterhaltspflichtigen Elternteil Unterhalt gezahlt wird,
+die Wohnungsmiete durch die Leistungsbehörde mit überwiesen wird, obwohl keine oder in einer anderen Wohnug ein deutlich geringere Miete gezahlt wird,
+im Antrag auf Leistungsbezug wahrheitswidrig angegeben worden sein muss, dass kein Vermögen in Geld- oder Anlagewerten vorhanden ist, weil volle Leistungen gewährt werden, obwohl solche Werte vorhanden sind, volle Leistungen bezogen werden, aber zusätzlich Einkünfte aus Erwerbstätigkeit erzielt werden, volle Leistungen für Ehepartner und/oder Kinder bezogen wurden oder werden, die aus einem seiner Natur nach nicht vorübergehenden Grund ausgereist sind oder sich für mehr als drei Wochen im Ausland aufgehalten haben, ohne dass dies der Leistungsbehörde angezeigt worden ist.
+Bei hauptberuflich Selbständigen, die auf Grund einer weiteren Nebenbeschäftigung als Arbeitnehmer für sich und ggf. für ihre nicht erwerbstätigen Ehegatten und Kinder gesetzlich krankenversichert sind, bestehen konkrete Anhaltspunkte dafür, dass die selbständige Tätigkeit nicht bzw. die Einkünfte aus dieser Tätigkeit nicht oder nicht vollständig angegeben wurden, wenn der Beitragssatz in einem auffälligen Missverhältnis zur Höhe des Einkommens steht. Von einem hauptberuflich Selbständigen in diesem Sinne ist auszugehen, wenn die selbständige Tätigkeit von der wirtschaftlichen Bedeutung und dem zeitlichen Aufwand die übrigen Beschäftigungen deutlich übersteigt und den Mittelpunkt der Erwerbstätigkeit darstellt. Von einem auffälligen Missverhältnis ist immer dann auszugehen, wenn der Beitrag weniger als 190 Euro bzw. 10 % des Einkommens beträgt.
+' M' erke: Ist zweifelhaft, ob ein Lebenssachverhalt grundsätzlich der Mitwirkungspflicht unterliegt, so ist dies ohne Angaben personenbezogener Daten ggf. über die Generalie bei dem jeweiligen Sozialleistungsträger abzuklären. Erst danach hat ggf. die Mitteilung gem. § 90 Abs. 1 Nr. 2 zu erfolgen.
 90.1.3. bis 90.2. frei
-90.3.1. Die folgenden Übermittlungsregelungen sind abschließend, beruhen auf Absprachen mit den Berliner Leistungsbehörden und gehen der weitergehenden Auslegung des § 90 Abs. 3 durch Ziffer 90.3.3. AufenthG-VwV vor:
+90.3.1. Übermittlungsregelungen nach Absprache mit den Berliner Leistungsbehörden
+Die folgenden Übermittlungsregelungen sind abschließend, beruhen auf Absprachen mit den Berliner Leistungsbehörden und gehen der weitergehenden Auslegung des § 90 Abs. 3 durch Ziffer 90.3.3. AufenthG-VwV vor:
 Ausschlaggebend für die Ermittlung des Personenkreises, bei dem die Datenübermittlung ohne Ersuchen erfolgt, ist allein die Zugehörigkeit zum Personenkreis des § 1 AsylbLG. Er umfasst u. a. folgende für uns zu beachtende Personengruppen:
-• Ausländer, die eine AG nach dem AsylVfG besitzen,
-• Ausländer, die eine Duldung nach § 60a besitzen,
-• Ausländer, die eine AE nach § 23 Abs. 1, § 24 wegen des Krieges in ihrem Heimatland oder nach § 25 Abs. 4 S. 1, 4a oder 5 besitzen,
-• Ausländer, die vollziehbar ausreisepflichtig sind, auch wenn eine Abschiebungsandrohung noch nicht oder nicht mehr vollziehbar ist,
-• Ehegatten oder minderjährige Kinder der vorgenannten Personen, ohne dass sie selbst die Voraussetzungen erfüllen, und
-• Ausländer, die einen Folgeantrag nach § 71 AsylVfG oder einen Zweitantrag nach § 71a AsylVfG stellen.
-90.3.2. Erhalten wir für den vorgenannten Personenkreis Kenntnis vom Vorliegen einer Doppel- oder Mehrfachidentität (insbesondere nach Durchführung einer ED-Behandlung) ist dies ohne Ersuchen dem zuständigen Sozialamt mitzuteilen.
+Ausländer, die eine AG nach dem AsylVfG besitzen,
+Ausländer, die eine Duldung nach § 60a besitzen,
+Ausländer, die eine AE nach § 23 Abs. 1, § 24 wegen des Krieges in ihrem Heimatland oder nach § 25 Abs. 4 S. 1, 4a oder 5 besitzen,
+Ausländer, die vollziehbar ausreisepflichtig sind, auch wenn eine Abschiebungsandrohung noch nicht oder nicht mehr vollziehbar ist,
+Ehegatten oder minderjährige Kinder der vorgenannten Personen, ohne dass sie selbst die Voraussetzungen erfüllen, und
+Ausländer, die einen Folgeantrag nach § 71 AsylVfG oder einen Zweitantrag nach § 71a AsylVfG stellen.
+90.3.2. Doppel- oder Mehrfachidentität
+Erhalten wir für den vorgenannten Personenkreis Kenntnis vom Vorliegen einer Doppel- oder Mehrfachidentität (insbesondere nach Durchführung einer ED-Behandlung) ist dies ohne Ersuchen dem zuständigen Sozialamt mitzuteilen.
 Bei Mehrfachidentitäten ist das zuständige Sozialamt in Berlin neben den verschiedenen Identitäten zusätzlich über die jeweiligen Erfassungsorte (soweit bekannt) zu unterrichten. Hintergrund hierfür ist die Zuständigkeitsregelung im Sozialhilferecht (Zuständigkeit richtet sich nach der Identität, unter der der Ausländer erstmalig im Bundesgebiet erfasst worden ist).
-Die Übermittlung erfolgt auch in den Fällen, in denen wir keine konkrete Kenntnis über einen aktuellen Sozialhilfebezug haben, als vorbeugende Maßnahme. Für die Mitteilung steht das
-Schreiben „Doppelidentität“ zur Verfügung.
-90.3.3. Gem. § 90 Abs. 3 besteht bei Leistungsberechtigten nach dem AsylbLG grundsätzlich auch eine Übermittlungspflicht von Daten der Bundesagentur für Arbeit. Einer gesonderten Übermittlung bedarf es allerdings nicht, weil sich die Angaben zur Beschäftigung aus dem Aufenthaltstitel ergeben.
-90.3.4. Nach § 90 Abs. 3 besteht ebenfalls eine Datenübermittlungspflicht in Fällen des Verdachts auf unberechtigten Sozialhilfebezug (§ 1a AsylbLG, sog. um/zu-Regelung).
-Der Verbindungsstelle Soziales zum LKA 25 - VSS - sind daher die Daten neueingereister Ausländer mitzuteilen, die im AE-Antrag angeben, ihren Lebensunterhalt von Sozialhilfe bestreiten zu wollen. Anträge illegal eingereister Ausländer sind erst nach erfolgter Verteilung auf das Land Berlin der VSS zu übersenden. Für die Mitteilung steht das Schreiben - VSS - zur Verfügung, dem eine Ablichtung des AE- Antrages beizufügen ist.
+Die Übermittlung erfolgt auch in den Fällen, in denen wir keine konkrete Kenntnis über einen aktuellen Sozialhilfebezug haben, als vorbeugende Maßnahme. Für die Mitteilung steht das Schreiben „ Doppelidentität“ zur Verfügung.
+90.3.3. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
+Gem. § 90 Abs. 3 besteht bei Leistungsberechtigten nach dem AsylbLG grundsätzlich auch eine Übermittlungspflicht von Daten der Bundesagentur für Arbeit. Einer gesonderten Übermittlung bedarf es allerdings nicht, weil sich die Angaben zur Beschäftigung aus dem Aufenthaltstitel ergeben.
+90.3.4. "Um/zu"-Regelung
+Nach § 90 Abs. 3 besteht ebenfalls eine Datenübermittlungspflicht in Fällen des Verdachts auf unberechtigten Sozialhilfebezug (§ 1a AsylbLG, sog. um/zu-Regelung).
+Der Verbindungsstelle Soziales zum LKA 25 - VSS - sind daher die Daten neueingereister Ausländer mitzuteilen, die im AE-Antrag angeben, ihren Lebensunterhalt von Sozialhilfe bestreiten zu wollen'. Anträge illegal eingereister Ausländer sind erst nach erfolgter Verteilung auf das Land Berlin der VSS zu übersenden. Für die Mitteilung steht das Schreiben -' VSS - zur Verfügung, dem eine Ablichtung des AE-Antrages beizufügen ist.
+90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland
 Um einen ungerechtfertigten Sozialhilfebezug solcher Ausländer zu vermeiden, die im Rahmen ihres Asylgesuchs einem anderen Bundesland zugewiesen wurden, der Verteilungsentscheidung aber bislang keine Folge geleistet haben, sind Durchschriften von Bescheiden, mit denen die Betroffenen aufgefordert werden, sich an den Ort ihrer Verteilung zu begeben, ebenfalls an die VSS zu übermitteln. Dies gilt allerdings nur in den Fällen, in denen Leistungsbezieher vor ihrer Asylantragstellung einen anderen Status innehatten.
-90.3.5. Gemäß § 2 AsylbLG ist Ausländern, die über eine Dauer von 36 Monaten, Leistungen nach § 3 AsylbLG erhalten haben, erhöhte Hilfe nach dem SGB XII zu gewähren, wenn diese die Dauer des Aufenthaltes nicht rechtsmissbräuchlich selbst beeinflusst haben.
+90.3.5. Leistungsgewährung nach 36 Monaten
+Gemäß § 2 AsylbLG ist Ausländern, die über eine Dauer von 36 Monaten, Leistungen nach § 3 AsylbLG erhalten haben, erhöhte Hilfe nach dem SGB XII zu gewähren, wenn diese die Dauer des Aufenthaltes nicht rechtsmissbräuchlich selbst beeinflusst haben.
 Um Nachfragen in jedem Einzelfall zu vermeiden, gibt die Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz in Abstimmung mit unserer Behörde ein Rundschreiben als Orientierungshilfe bei der praktischen Umsetzung des § 2 AsylbLG an die Sozialämter heraus, das grundsätzliche Regelungen beinhaltet.
 Bei Inhabern einer AE nach §§ 23 Abs. 1, 24 oder 25 Abs. 4, 4a oder 5 ist davon auszugehen, dass diese ihre Aufenthaltsdauer nicht rechtsmissbräuchlich beeinflusst haben. Die Rechtsgrundlage, die zur Erteilung des Titels führte, ist im Etikett vermerkt und damit für das Sozialamt offenkundig; einer gesonderten Mitteilung bedarf es daher nicht.
 Bei ausländischen Staatsangehörigen, die die Dauer ihres Aufenthaltes rechtsmissbräuchlich selbst beeinflusst haben, indem sie z.B. bei der Passbeschaffung nicht ausreichend mitwirken, ist die Duldung oder sonstige Bescheinigung (z.B. GÜB) immer mit dem rechtlichen Hinweis
@@ -59,20 +63,21 @@ Bei ausländischen Staatsangehörigen, die die Dauer ihres Aufenthaltes rechtsmi
 zu versehen, um die rechtsmissbbräuchliche Beeinflussung und damit einen Ausschluss von den Leistungen nach § 2 AsylbLG für die Leistungsbehörden sichtbar zu machen; eine gesonderte Mitteilung ist damit auch hier entbehrlich.
 Entscheidend für die Art des rechtlichen Hinweises ist allein die Frage, ob der Ausländer ein bestehendes Abschiebungshindernis selbst zu vertreten hat (s. hierzu auch B.BeschVerfV.11).
 Daneben besteht für die Leistungsbehörden die Möglichkeit, sich weitere Informationen durch einen Zugriff auf das AZR zu verschaffen (§ 18 a AZRG).
-90.3.6. Nach § 44a Abs. 1 S. 1 Nr. 2a ist ein Ausländer zur Teilnahme an einem Integrationskurs verpflichtet, wenn die ABH ihn im Rahmen verfügbarer Kursplätze zur Teilnahme am Integrationskurs auffordert und er Leistungen nach dem SGB II bezieht und die die Leistung bewilligende Stelle die Teilnahme angeregt hat.
+90.3.6. Datenübermittlung bei Integrationskursverpflichtung
+Nach § 44a Abs. 1 S. 1 Nr. 2a ist ein Ausländer zur Teilnahme an einem Integrationskurs verpflichtet, wenn die ABH ihn im Rahmen verfügbarer Kursplätze zur Teilnahme am Integrationskurs auffordert und er Leistungen nach dem SGB II bezieht und die die Leistung bewilligende Stelle die Teilnahme angeregt hat.
 Für diese Fälle regelt § 8 IntV die Datenübermittlung. Nach § 8 Abs. 1 IntV ist danach die Stelle, die die Teilnahme angeregt hat, von der ABH über die festgestellte Teilnahmeverpflichtung zu unterrichten. Die Unterrichtung erfolgt im Form der Übersendung einer Kopie der „Bestätigung zur Vorlage beim Kursträger“.
-90.3.7. Sonstige Umstände und Maßnahmen im Sinne des § 90 Abs. 3 werden nur auf begründetes Ersuchen mitgeteilt, weil sich die Leistungsberechtigung eines Betroffenen für die Sozialämter in der Regel aus der vorgelegten Bescheinigung ergibt. Ebenso wenig bedarf es der automatischen Übermittlung von Daten über erteilte AE, erfolgte Ausreisen und Einlieferung in Abschiebungshaft.
-Auch die Mitteilung über das Vorliegen einer Verpflichtungserklärung gem. § 68 Abs. 1 erfolgt grundsätzlich nur auf Ersuchen, das an II Ord 3 zu richten ist. Etwas anderes gilt, wenn wir von einem tatsächlichen Sozialhilfebezug des Betroffenen Kenntnis erlangen. In diesen Fällen hat die Unterrichtung unverzüglich ohne Ersuchen zu erfolgen (§ 68 Abs. 4).
-90.3.8. Die Zuständigkeiten der einzelnen Sozialämter ergeben sich aus § 10 AsylbLG i. V. m. den Ausführungsvorschriften über die Zuständigkeit für die Leistungsgewährung nach dem AsylbLG.
+90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
+Sonstige Umstände und Maßnahmen im Sinne des § 90 Abs. 3 werden nur auf begründetes Ersuchen mitgeteilt, weil sich die Leistungsberechtigung eines Betroffenen für die Sozialämter in der Regel aus der vorgelegten Bescheinigung ergibt. Ebenso wenig bedarf es der automatischen Übermittlung von Daten über erteilte AE, erfolgte Ausreisen und Einlieferung in Abschiebungshaft.
+Auch die Mitteilung über das Vorliegen einer Verpflichtungserklärung gem. § 68 Abs. 1 erfolgt grundsätzlich nur auf Ersuchen, das an II A 23 zu richten ist. Etwas anderes gilt, wenn wir von einem tatsächlichen Sozialhilfebezug des Betroffenen Kenntnis erlangen. In diesen Fällen hat die Unterrichtung unverzüglich ohne Ersuchen zu erfolgen (§ 68 Abs. 4).
+90.3.8. Zuständigkeiten der Sozialämter
+Die Zuständigkeiten der einzelnen Sozialämter ergeben sich aus § 10 AsylbLG i. V. m. den Ausführungsvorschriften über die Zuständigkeit für die Leistungsgewährung nach dem AsylbLG.
 Danach gilt im Einzelnen folgendes:
 1. Zuständigkeit des LAGeSo
 Das LAGeSo ist zuständig für die Gewährung von Leistungen an folgende Personenkreise:
-• Asylbewerber im laufenden Asylverfahren und Asylfolgeantragsteller,
-• abgelehnte Asylbewerber mit GÜB,
-• Personen, die nach § 24 zum vorübergehenden Schutz aufgenommen werden – im Rahmen einer Erstversorgung,
-• Personen, die als illegal Eingereiste nach § 15a AufenthG in andere Bundesländer weiterzuleiten sind – hier Leistungsgewährung bis zur Umsetzung der Verteilentscheidung,
-• Personen, die als Opfer von Menschenhandel in entsprechenden Strafverfahren als
-Zeugen/Zeuginnen aussagen sollen sowie ggf. sie begleitende Kinder.
+Asylbewerber im laufenden Asylverfahren und Asylfolgeantragsteller,
+abgelehnte Asylbewerber mit GÜB,
+Personen, die nach § 24 zum vorübergehenden Schutz aufgenommen werden – im Rahmen einer Erstversorgung, Personen, die als illegal Eingereiste nach § 15a AufenthG in andere Bundesländer weiterzuleiten sind – hier Leistungsgewährung bis zur Umsetzung der Verteilentscheidung,
+Personen, die als Opfer von Menschenhandel in entsprechenden Strafverfahren als Zeugen/Zeuginnen aussagen sollen sowie ggf. sie begleitende Kinder.
 2. Zuständigkeit der Sozialämter
 Öffentliche Leistungen für sonstige Anspruchsberechtigte nach § 1 AsylblG werden von den Sozialämtern der Bezirke gewährt. Die örtliche Zuständigkeit richtet sich unabhängig vom melderechtlichen Eintrag nach dem Geburtsdatum (s. nachfolgende Tabelle).
 Bei Ehepaaren/Familien richtet sich die Zuständigkeit nach dem Geburtsdatum (bzw. dem Anfangsbuchstaben des Familiennamens) des älteren von ihnen.

@@ -1,6 +1,7 @@
-D.55.
-20.07.2005 D.55.
+VAB D 55
+VAB D 55
 D.55. Aufenthaltsgestattung
+(20.07.2005)
 55.0. Die Rechtsgrundlage für die Erstellung einer Aufenthaltsgestattung ist immer § 55. Aus diesem Grund erfolgt deren Ausstellung ohne Angabe der Rechtsgrundlage, zumal auch in AusReg2 hierzu keine Eingabe vorgesehen ist.
 55.1. bis 55.2. frei
 55.3. In den Fällen des kleinen Asyls werden auch die Zeiten einer Aufenthaltsgestattung für die Dauer des rechtmäßigen Aufenthalts angerechnet.

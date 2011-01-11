@@ -1,5 +1,6 @@
-A.40.
-20.07.2005 A.40.
+VAB A 40
+VAB A 40
 A.40. Versagungsgründe
-40.0. Normadressaten sind die Arbeitsagenturen.
-40.1.1. bis 40.2.2. frei
+(20.07.2005)
+40. 0. Normadressaten sind die Arbeitsagenturen.
+40.1.1. bis 40.2.2. einstweilen frei

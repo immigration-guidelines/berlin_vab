@@ -1,14 +1,14 @@
-A.86.
-20.07.2005 A.86.
+VAB A 86
+VAB A 86
 A.86. Erhebung personenbezogener Daten
+(20.07.2005)
 86.0. § 86 S. 2 enthält in Anpassung an EU-Recht eine ausdrückliche Rechtsgrundlage zur Erhebung sensitiver Daten (politische, religiöse Überzeugung, rassische und ethnische Herkunft). Auf die Geltung der bereichsspezifischen Regelung des § 18 ASOG, der gem. § 51 ASOG vor den §§ 10-17 BDSG Vorrang hat, wird hingewiesen.
 § 18 ASOG bestimmt u.a. Folgendes:
-„(1)Die Ordnungsbehörden (....) können zur Klärung des Sachverhalts in einer bestimmten ordnungsbehördlichen (....)Angelegenheit Ermittlungen anstellen, insbesondere Befragungen nach Abs. 3 und 4 durchführen.
+„ (1)Die Ordnungsbehörden (....) können zur Klärung des Sachverhalts in einer bestimmten ordnungsbehördlichen (....)Angelegenheit Ermittlungen anstellen, insbesondere Befragungen nach Abs. 3 und 4 durchführen.
 (....)
 (4) Befragungen sind grundsätzlich an die betroffene Person zu richten; ohne deren Kenntnis können Dritte befragt werden, wenn die Befragung der betroffenen Person
 1. nicht oder nicht rechtzeitig möglich ist,
-2. einen unverhältnismäßig hohen Aufwand erfordern würde und schutzwürdige Belange der betroffenen Person nicht
-entgegenstehen,
+2. einen unverhältnismäßig hohen Aufwand erfordern würde und schutzwürdige Belange der betroffenen Person nicht entgegenstehen,
 3. die Erfüllung der Aufgabe gefährden würde.
 (5) Der Befragte ist in geeigneter Weise auf
 1. die Rechtsgrundlagen der Befragung,

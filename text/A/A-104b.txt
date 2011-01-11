@@ -1,13 +1,9 @@
-A.104b.
-2. ÄndG A.104b.
-30.08.2007
-VwV- 21.11.2009
-07.01.2010
-A.104 b. Aufenthaltsrecht für integrierte Kinder von geduldeten
-Ausländern
-104b.0. § 23 Abs. 1 Satz 1 i.V.m. 104b ist die fünfte Rechtsgrundlage im Zusammenhang mit der gesetzlichen Bleiberechtsregelung.
-Die Regelung sieht ein eigenständiges Aufenthaltsrecht für ledige Kinder zwischen 14 und 17 Jahren vor, die erteilt werden kann, wenn die Eltern oder dessen allein
-personensorgeberechtigter Elternteil ausgereist sind.
+VAB A 104b
+VAB A 104b
+A.104 b. Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern
+(21.11.2009 VwV; 07.01.2010)
+104b. 0. § 23 Abs. 1 Satz 1 i.V.m. 104b ist die fünfte Rechtsgrundlage im Zusammenhang mit der gesetzlichen Bleiberechtsregelung.
+Die Regelung sieht ein eigenständiges Aufenthaltsrecht für ledige Kinder zwischen 14 und 17 Jahren vor, die erteilt werden kann, wenn die Eltern oder dessen allein personensorgeberechtigter Elternteil ausgereist sind.
 Gedacht ist an Eltern, denen selbst eine Aufenthaltserlaubnis nach der gesetzlichen Bleiberechtsregelung nicht erteilt oder verlängert wird. Dabei ist unerheblich, aus welchen Gründen dies nicht geschieht. Im Vordergrund stehen Ausschlussgründe, wie eine Täuschung der Ausländerbehörde durch die Eltern. Es ist aber theoretisch sogar ein Fall denkbar, in dem die Eltern alle materiellen Erteilungsvoraussetzungen erfüllen, aber mangels eigenen Interesses an einem Aufenthalt im Bundesgebiet keinen Antrag stellen und ausreisen.
 Selbst Kinder von Eltern, die die Stichtage nach der gesetzlichen Bleiberechtsregelung nicht erfüllen, können von dieser Regelung begünstigt werden. Aus der systematischen Stellung und der Überschrift der Norm folgt allerdings, dass lediglich Kinder begünstigt werden können, deren Eltern sich bis zu ihrer Ausreise ausschließlich geduldet, gestattet oder mit einer Aufenthaltserlaubnis nach dem 5. Abschnitt des AufenthG im Bundesgebiet aufgehalten haben.
 Die Regelung des § 104b ist gegenüber der Ausschlussregelung für in Haushaltsgemeinschaft lebende Familienangehörige von Straftätern gemäß § 104a Abs. 3 spezieller und geht dieser vor.
@@ -18,10 +14,9 @@ Entsprechend den Ausführungen zu A.104a.1. gilt auch hier, dass die zum IMK-Bes
 Für die Verlängerung der Aufenthaltserlaubnis finden die Regelungen des § 104 b Anwendung.
 104b.1. Die gesetzliche Bleiberechtsregelung ermöglicht bereits minderjährigen Kindern, die am 01.07.2007 das 14. Lebensjahr vollendet haben, einen weiteren Aufenthalt ohne die Eltern, während die zum o.g. IMK-Beschluss ergangene Weisungslage die Vollendung des 15. Lebensjahres voraussetzte.
 Beachte: Soweit über einen Antrag auf Erteilung einer elternunabhängigen Aufenthaltserlaubnis gemäß § 23 Abs. 1 i.V.m. dem IMK-Beschluss vom 17.11.2006 bereits negativ entschieden wurde,
-• weil das Kind zum Entscheidungszeitpunkt das 15. Lebensjahr noch nicht vollendet hatte,
+weil das Kind zum Entscheidungszeitpunkt das 15. Lebensjahr noch nicht vollendet hatte,
 ist der Fall anhand der Kriterien des §104b anlassbezogen erneut zu überprüfen, wenn ein Antrag auf Erteilung einer AE nach der gesetzlichen Bleiberechtsregelung gestellt wird oder die Ablehnung noch Gegenstand eines Verwaltungsstreitverfahrens ist (vgl. A.104a.1.).
 104b.2. Stichtag für die Berechnung der Voraufenthaltszeiten ist wie bei § 104a der 01.07.2007, d.h. dass das Kind sich am 01.07.2007 seit mindestens sechs Jahren rechtmäßig oder geduldet in Deutschland aufgehalten haben muss.
 104b.3. Die deutsche Sprache beherrscht das Kind dann, wenn es die Stufe C 1 des Gemeinsamen Referenzrahmens für Sprachen (GERR) erreicht. Dazu gehört, dass es sich altersangemessen fließend mündlich und schriftlich ausdrücken kann und dass es auch in einem Gespräch über komplexere Sachverhalte nicht mehrfach erkennbar nach Worten suchen muss und derartige Sachverhalte auch strukturiert aufschreiben kann (vgl. Renner, Ausländerrecht, Rn. 16 ff. zu § 32 AufenthG). Die Prüfung kann anhand der Schulnoten im Deutschunterricht und eines kurzen Gespräches sowie bei Zweifeln über eine Bescheinigung des Deutschlehrers erfolgen.
 104b.4. Eine positive Integrationsprognose ist gem. Nr. 104b.3.2. AufenthG- VwV i. d. R. anzunehmen, wenn das Kind regelmäßig zur Schule geht, sich in einer Berufsausbildung befindet, die zu einem anerkannten Berufsabschluss führt, oder wenn es einen entsprechenden Schulabschluss erworben hat.
-....weggefallen
 104b.5. Die Personensorge ist nur dann sichergestellt, wenn ein Vormund für das Kind bestellt ist und eine angemessene Unterbringung und Pflege gewährleistet ist.

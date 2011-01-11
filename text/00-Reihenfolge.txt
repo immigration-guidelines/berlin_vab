@@ -8,7 +8,7 @@ A 6
 A 7
 A 8
 A 9
-A 9 a - a 9 c
+A 9a - 9c
 A 10
 A 11
 A 12
@@ -19,7 +19,6 @@ A 15a
 A 16
 A 17
 A 18
-A 18 a
 A 19
 A 20
 A 21
@@ -125,9 +124,22 @@ A 105
 A 105a
 A 106
 A 107
-B AufenthV
-B BeschVerfV
-B BeschV
+B.AufenthV.1. - 14. Passpflicht für Ausländer
+B.AufenthV. 15. - 30. Befreiung vom Erfordernis eines Aufenthaltstitels
+B.AufenthV.30a. - 38. Visumverfahren
+B.AufenthV.38a. - 38f. Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen
+B.AufenthV.39. - 41. Einholung des Aufenthaltstitels im Bundesgebiet
+B.AufenthV.44. - 54. Gebühren
+B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
+B.AufenthV.61a. - 84. Datenverarbeitung, Ordnungswidrigkeiten, Schlussvorschriften
+B.BeschV.1. - 16. Zustimmungsfreie Beschäftigungen
+B.BeschV.17. - 24. Zustimmungen zu Beschäftigungen, die eine qualifizierte Berufsausbildung voraussetzen
+B.BeschV.25. - 31. Zustimmungen zu Beschäftigungen, die eine qualifizierte Berufsausbildung voraussetzen
+B.BeschV.32. - 37. Zustimmungen zu weiteren Beschäftigungen
+B.BeschV.38. - 41. Zustimmungen zu Beschäftigungen auf der Grundlage zwischenstaatlicher Vereinbarungen
+B.BeschVerfV.0. - 4. Zustimmungsfreie Beschäftigungen
+B.BeschVerfV.5. - 9. Zustimmungen zu Erlaubnissen zur Ausübung einer Beschäftigung ohne Vorrangprüfung
+B.BeschVerfV.10. - 11. Zulassung von geduldeten Ausländern zur Ausübung einer Beschäftigung
 C 1
 C 2
 C 3
@@ -163,16 +175,15 @@ D 58
 D 60
 D 61
 D 67
-D 68-70
 D 71
 D 72
 D 73
 D 75
-E Afghan 1
-E Afghan 2
-E Afghan 3
-E Bos 1
-E Bos2
+E Afghanistan 1
+E Afghanistan 2
+E Afghanistan 3
+E Bosnien 1
+E Bosnien 2
 E Georgien 1
 E Guinea 1
 E Hongkong 1
@@ -183,30 +194,31 @@ E Irak 4
 E Iran 1
 E Iran 2
 E Israel 1
+E Italien 1
 E Kasachstan 1
-E Kirgisien 1
+E Kirgisistan 1
 E Kongo 1
-E Kos1
-E Lib 1
-E Lib 2
-E Lib 3
-E Mont1
+E Kosovo 1
+E Libanon 1
+E Libanon 2
+E Libanon 3
+E Montenegro 1
 E Myanmar 1
 E Rumänien 1
-E Russ 1
-E Russ 2
-E Serb 1
-E Serb 2
-E Serb 3
-E Serb 4
-E Serb 5
+E Russland 1
+E Russland 2
+E Serbien 1
+E Serbien 2
+E Serbien 3
+E Serbien 4
+E Serbien 5
 E SriLanka 1
 E Syrien 1
+E Türkei 1
+E Türkei 2
+E Türkei 3
+E Türkei 4
 E Tschet 1
-E Türk 1
-E Türk 2
-E Türk 3
-E Türk 4
-E Ukr 1
-E Ukr 2
+E Ukraine 1
+E Ukraine 2
 E Usbekistan 1
