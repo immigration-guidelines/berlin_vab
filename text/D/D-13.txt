@@ -10,7 +10,7 @@ b) der Bundesrepublik Deutschland sprechen:
 Zum Verfahren bei der ABH im Einzelnen
 Erreichbarkeit des Referates 430 des BAMF -Steuerung Dublin-Verfahren / EURODAC-
 D.13. Asylantrag
-(06.02.2007; 21.06.2007)
+(31.01.2011; 16.03.2011)
 Anlage
 13.0. Am 01.09.1997 trat das Dubliner Übereinkommen vom 15.09.1990 in Kraft, das einen ersten Schritt zu einem gemeinsamen europäischen Asylsystem darstellte. Es galt zunächst für alle Mitgliedstaaten der EU sowie für Island und Norwegen. Seit dem Inkrafttreten der sogen. Dublin-II-VO (s. unter 13. S.2.) gilt es nur noch im Verhältnis zu Dänemark (s. unter 13.s. 1.).
 13.1. Stellt ein Drittausländer in einem der Vertragsstaaten des Dubliner Übereinkommens (DÜ) einen Asylantrag, wird über diesen unter Berücksichtigung der im einzelnen festgelegten Zuständigkeitsregelungen nur von einem Staat entschieden, mit der Folge, dass der danach zuständige Staat den Ausländer für das Asylverfahren übernehmen muss, wenn dieser den Antrag in einem nicht zuständigen Staat gestellt hat. Allerdings muss das Übernahmeersuchen binnen 3 Monaten nach Stellung des Asylantrages erfolgen. Wird das Gesuch um Auf-/Übernahme nicht innerhalb der Frist von drei Monaten unterbreitet, so ist der Mitgliedstaat, in dem der letzte Asylantrag gestellt wurde, für die Prüfung zuständig (Art. 17 Abs. 1 DÜ II).
@@ -42,7 +42,8 @@ ein Auslandsaufenthalt (außerhalb der Grenzen des Vertragsgebietes) von mindest
 ein abgelehntes Erstverfahren, wenn der für das Erstverfahren zuständige Mitgliedsstaat Maßnahmen getroffen und durchgeführt hat, um den Antragsteller außerhalb des Hoheitsgebietes zu verbringen
 Eine Verpflichtung der BR Deutschland zur Übernahme eines Asylbewerbers besteht bei
 Rücknahme des hier gestellten Asylantrages und anschließender Antragstellung in einem anderen Mitgliedsstaat, Ablehnung des hier gestellten Asylantrages und anschließendem illegalem Aufenthalt in einem anderen Mitgliedsstaat sowie bei
-illegalem Aufenthalt in einem anderen Mitgliedsstaat während des hier anhängigen Asylverfahrens. 13.s.2. Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom
+illegalem Aufenthalt in einem anderen Mitgliedsstaat während des hier anhängigen Asylverfahrens.
+13.s.2. Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom
 18.02.2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des
 Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in
 einem Mitgliedstaat gestellten Asylantrags zuständig ist (Dublin II)
@@ -54,6 +55,9 @@ Ist der Einreisestaat nicht bekannt bzw. ist ein Mitgliedstaat nicht oder nicht 
 Bei zeitnaher Antragstellung mehrerer Familienmitglieder hat der Mitgliedstaat die Zuständigkeit zu übernehmen, der für den größten Teil der Familie zuständig ist; anderenfalls ist der Mitgliedstaat zuständig, der für das Verfahren des ältesten Familienmitgliedes zuständig ist -Art. 14 a) + b).
 Die Zuständigkeitskriterien und deren Rangfolge einschl. der schon mit dem DÜ geschaffenen Zuständigkeiten (z.B. bei noch gültiger oder weniger als 2 Jahre ungültigen AE) sind im Kapitel III in den Art. 5 –14 festgehalten.
 Die Grundsätze zur Aufnahme und Wiederaufnahme von Asylbewerbern und ehemaligen Asylbewerbern sowie die dabei zu beachtenden Fristen sind im Kapitel V in den Art. 16 – 20 geregelt. Insbesondere zu beachten ist hier Art. 17 Abs. 1, wonach das Gesuch um Aufnahme bzw. Wiederaufnahme so bald wie möglich, in jedem Fall aber innerhalb von drei Monaten nach Einreichung des Antrages zu stellen ist. Wird diese Frist versäumt, geht die Zuständigkeit auf den Mitgliedstaat über, in dem der Antrag gestellt wurde.
+Voraussetzung für den Einstieg des BAMF in ein Prüfverfahren nach der Dublin II-Verordnung ist – zusätzlich zum positiven EURODAC-Treffer - das Vorliegen eines Asylgesuchs.
+Mit Schreiben vom 18.01.2011 hat das BAMF mitgeteilt, dass mit sofortiger Wirkung für die Dauer eines Jahres keine Überstellungen nach dem DÜ von Drittstaatsangehörigen nach Griechenland erfolgen. Das BAMF macht in diesen Fällen von seinem Selbsteintrittsrecht Gebrauch mit der Konsequenz, dass die Asylverfahren in Deutschland durchgeführt werden. Dies gilt auch für alle anhängigen Fälle, in denen eine Überstellung nach Griechenland aufgrund von Gerichtsentscheidungen oder wegen Petitionsverfahren bislang nicht erfolgte.
+Diese Maßnahmen sind bis zum 12.01.2012 befristet.
 Zum Verfahren bei der ABH im Einzelnen
 1) Bei einem illegal eingereisten Erstvorsprechenden ist die Frage der ED-Behandlung auf der Grundlage des § 49 Abs. 7 AufenthG, Art. 11 EURODAC-VO zu prüfen (s. hierzu auch A.49.4.1. und A.49. S.1.).
 2) Bejahendenfalls Abnahme der Fingerabdrücke und Weiterleitung an das BKA unter Kennzeichnung als „Art. 11 EURODAC-Fall“.
@@ -75,24 +79,25 @@ Die Mitteilung wird vom Bundesamt -Ref. 430- gefertigt und der zuständigen ABH 
 !!! Zum DÜ/Dublin II s. auch A.49.S.1. !!!
 Erreichbarkeit des Referates 430 des BAMF -Steuerung Dublin-Verfahren / EURODAC-
 Referatsleitung
-Frau Lang Tel.: 0911 / 943 – 8010
+Frau Escherle Tel.: 0911 / 943 – 8010
 Geschäftszimmer Tel.: 0911 / 943 – 8011
 Fax – 8099 oder -8095
 Teamkoordinator für Sb, Grundsatz- und Sonderaufgaben
 Herr Bräunlein -8023
 Sachbearbeiter für Aufgriffsfälle und Überstellungen/Grundsatzaufgaben/brisante Dublin-Fälle
-Herr Höhn -8028
-Herr Paas -8039
-Herr Schönbom -8040
-Herr Schönfelder -8041
-Herr Epheser -8044
+Herr Höhn -8028 (BAMF-Endziffern 00-27)
+Herr Schönborn -8040 (" 34-63)
+Herr Schönfelder -8041 (" 64-81)
+Herr Epheser -8044 (" 28-33)
 Frau Kadro -8029
+Frau Sievers -8042 (" 82-99)
+Frau Kuntscher -8026
 Verfahrenssekretariat und Durchführung Überstellungen
 (Fax – 8095)
 Frau Deines (Leiterin) -8024
-Frau Franz -8025
-Frau Friebe -8046
-Frau Kautz -8052
-Frau Mayer -8045
+Frau Franz -8025 (BAMF-Endziffern 20-39)
 Frau Reimann -8038
-Frau Schönborn -8031
+Frau Schönborn -8031 (" 80-99)
+Frau Bachschneider -8046 (" 00-19)
+Frau Schell -8027 (" 40-59)
+Frau Torollo-Rodriguez -8043 (" 60-79)

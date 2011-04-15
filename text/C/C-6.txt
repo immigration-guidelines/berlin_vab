@@ -9,7 +9,7 @@ C.6.4. Feststellung des Verlusts des Daueraufenthaltsrechts
 C.6.5. Feststellung des Verlusts des Freizügigkeitsrechts aus zwingenden Gründen der öffentlichen Sicherheit
 C.6.8. Anhörung und Schriftform des Feststellungsbescheides
 C.6. Verlust des Rechts auf Einreise und Aufenthalt
-(28.10.2010;)
+(28.10.2010; 14.02.2011)
 C.6.1. Feststellung des Verlust des Freizügigkeitsrechts aus Gründen der öffentlichen Ordnung,
 Sicherheit oder Gesundheit
 C.6.1.1. § 6 Abs. 1 Satz 1eröffnet neben der Regelung des § 5 Abs. 5 die Möglichkeit der Aufenthaltsbeendigung für freizügigkeitsberechtigte Unionsbürger und deren freizügigkeitsberechtigten Familienangehörigen, die eine andere Staatsangehörigkeit besitzen. Da diese beiden Regelungen die Aufenthaltsbeendigung abschließend behandeln, ist für Unionsbürger und ihre Familienangehörigen keine Ausweisung auf Grundlage des AufenthG möglich. Daraus folgt allerdings nicht, dass die Strafvollstreckungsbehörden in Berlin nicht von der Vollstreckung einer Freiheitsstrafe gem. § 456 a StPO absehen, wenn der Verlust des Freizügigkeitsrechts nach § 6 Abs. 1 oder des Rechts auf Daueraufenthalts gem. § 6 Abs. 4 festgestellt worden ist.
@@ -29,8 +29,8 @@ C.6.4. Maßgeblich ist nicht, wie lange sich der Betroffene rechtmäßig im Bund
 Bezüglich der Auslegung des unbestimmten Rechtsbegriffs der schwerwiegenden Gründe ist grundsätzlich der Maßstab des § 56 Abs. 1 Satz 2 und 3 AufenthG heranzuziehen.
 C.6.5. Feststellung des Verlusts des Freizügigkeitsrechts aus zwingenden Gründen der öffentlichen Sicherheit
 C.6.5.1. Hält sich der Unionsbürger oder der Familienangehörige eines solchen seit 10 Jahren rechtmäßig im Bundesgebiet auf oder handelt es sich um einen Minderjährigen, ist die Feststellung des Verlusts des Rechts auf Freizügigkeit gem. § 6 Abs. 5 nur noch aus zwingenden Gründen möglich. Die Aufzählung der zwingenden Gründe in Satz 3 ist abschließend. Dies gilt auch in den Fällen, in denen eine Maßnahme nach § 456 a StPO beabsichtigt ist und der Betroffene um eine entsprechende Feststellung ersucht.
-Das Vorliegen der zwingenden Gründe führt nicht automatisch zum Verlust des (Dauer-)Aufenthaltsrechts. Unter Berücksichtigung der in den Absätzen 2 und 3 genannten günstigen Umstände für den Betroffenen, ist im Wege der Ermessenentscheidung über die Feststellung zu entscheiden.
-Ob der Aufenthalt im Verlauf der letzten 10 Jahre unterbrochen wurde, wird anknüpfend an § 4a Abs. 6 und 7 festgestellt.
+Das Vorliegen der zwingenden Gründe führt nicht automatisch zum Verlust des (Dauer-)Aufenthaltsrechts. Unter Berücksichtigung der in den Absätzen 2 und 3 genannten günstigen Umstände für den Betroffenen, ist im Wege der Ermessenentscheidung über die Feststellung zu entscheiden (vgl. dazu EuGH C-145/09 v. 23.11.2010).
+Ob der Aufenthalt im Verlauf der letzten 10 Jahre unterbrochen wurde, ist unter Berücksichtigung sämtlicher Umstände des Einzelfalles dahingehend zu prüfen, ob und wie lange der Betroffene in den letzten zehn Jahren den Mittelpunkt seiner persönlichen, familiären oder beruflichen Interessen in einen anderen Staat verlagert hat (vgl. dazu EuGH C-145/09 v. 23.11.2010). Als Richtwert gilt hier die Regelung unter § 4a Abs. 6.
 C.6.5.2. Für den gleichfalls erhöhten Schutz vor Feststellung von Minderjährigen gilt besonderes. Demnach müssen zwingende Gründe dann nicht vorliegen, wenn der Verlust des Freizügigkeitsrechts zum Wohl des Kindes erforderlich ist. Der unbestimmte Rechtsbegriff „Wohl des Kindes“ orientiert sich ausweislich der Gesetzesbegründung an den Vorgaben des internationalen Übereinkommens über die Rechte des Kindes (BGBl. 1992 II, S. 121). Zum Wohl des Kindes gehören insbesondere seine Gesundheit, seine familiären Beziehungen zu seinen Eltern oder seinem Vormund und die Entwicklung und Sicherung einer eigenen Identität.
 C.6.6. § 6 Abs. 6 fußt auf Art. 27 Abs. 1 S. 2 der RL und ist in der ausländerbehördlichen Praxis ohne Belang.
 C.6.7. vgl. C.6.6.
