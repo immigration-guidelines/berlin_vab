@@ -8,7 +8,7 @@ A.90. Übermittlungen durch Ausländerbehörden
 90.3.3. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
 90.3.4. "Um/zu"-Regelung
 90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland
-90.3.5. Leistungsgewährung nach 36 Monaten
+90.3.5. Leistungsgewährung nach 48 Monaten
 90.3.6. Datenübermittlung bei Integrationskursverpflichtung
 90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
 90.3.8. Zuständigkeiten der Sozialämter
@@ -54,8 +54,8 @@ Nach § 90 Abs. 3 besteht ebenfalls eine Datenübermittlungspflicht in Fällen d
 Der Verbindungsstelle Soziales zum LKA 25 - VSS - sind daher die Daten neueingereister Ausländer mitzuteilen, die im AE-Antrag angeben, ihren Lebensunterhalt von Sozialhilfe bestreiten zu wollen'. Anträge illegal eingereister Ausländer sind erst nach erfolgter Verteilung auf das Land Berlin der VSS zu übersenden. Für die Mitteilung steht das Schreiben -' VSS - zur Verfügung, dem eine Ablichtung des AE-Antrages beizufügen ist.
 90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland
 Um einen ungerechtfertigten Sozialhilfebezug solcher Ausländer zu vermeiden, die im Rahmen ihres Asylgesuchs einem anderen Bundesland zugewiesen wurden, der Verteilungsentscheidung aber bislang keine Folge geleistet haben, sind Durchschriften von Bescheiden, mit denen die Betroffenen aufgefordert werden, sich an den Ort ihrer Verteilung zu begeben, ebenfalls an die VSS zu übermitteln. Dies gilt allerdings nur in den Fällen, in denen Leistungsbezieher vor ihrer Asylantragstellung einen anderen Status innehatten.
-90.3.5. Leistungsgewährung nach 36 Monaten
-Gemäß § 2 AsylbLG ist Ausländern, die über eine Dauer von 36 Monaten, Leistungen nach § 3 AsylbLG erhalten haben, erhöhte Hilfe nach dem SGB XII zu gewähren, wenn diese die Dauer des Aufenthaltes nicht rechtsmissbräuchlich selbst beeinflusst haben.
+90.3.5. Leistungsgewährung nach 48 Monaten
+Gemäß § 2 AsylbLG ist Ausländern, die über eine Dauer von 48 Monaten, Leistungen nach § 3 AsylbLG erhalten haben, erhöhte Hilfe nach dem SGB XII zu gewähren, wenn diese die Dauer des Aufenthaltes nicht rechtsmissbräuchlich selbst beeinflusst haben.
 Um Nachfragen in jedem Einzelfall zu vermeiden, gibt die Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz in Abstimmung mit unserer Behörde ein Rundschreiben als Orientierungshilfe bei der praktischen Umsetzung des § 2 AsylbLG an die Sozialämter heraus, das grundsätzliche Regelungen beinhaltet.
 Bei Inhabern einer AE nach §§ 23 Abs. 1, 24 oder 25 Abs. 4, 4a oder 5 ist davon auszugehen, dass diese ihre Aufenthaltsdauer nicht rechtsmissbräuchlich beeinflusst haben. Die Rechtsgrundlage, die zur Erteilung des Titels führte, ist im Etikett vermerkt und damit für das Sozialamt offenkundig; einer gesonderten Mitteilung bedarf es daher nicht.
 Bei ausländischen Staatsangehörigen, die die Dauer ihres Aufenthaltes rechtsmissbräuchlich selbst beeinflusst haben, indem sie z.B. bei der Passbeschaffung nicht ausreichend mitwirken, ist die Duldung oder sonstige Bescheinigung (z.B. GÜB) immer mit dem rechtlichen Hinweis

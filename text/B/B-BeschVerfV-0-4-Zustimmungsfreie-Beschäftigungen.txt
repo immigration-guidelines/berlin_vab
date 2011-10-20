@@ -10,7 +10,7 @@ B.BeschVerfV.3. Beschäftigung von Familienangehörigen
 B.BeschVerfV.3a. Ausbildung und Beschäftigung von im Jugendalter eingereisten Ausländern
 B.BeschVerfV.4. Sonstige zustimmungsfreie Beschäftigungen
 BeschVerfV.0.-4. Zustimmungsfreie Beschäftigungen
-(18.05.2010; 02.09.2010)
+(02.09.2010; 16.08.2011)
 B.BeschVerfV.0. Anwendungsbereich der BeschVerfV gegenüber der BeschV
 B.BeschVerf.0.1. Die BeschVerfV besteht im Wesentlichen aus zwei Teilen zuzüglich der im dritten Teil enthaltenen Schluss- und Übergangsvorschriften. Der erste Teil (§§ 1 bis 11) trägt die Überschrift „Zulassung von im Inland lebenden Ausländern zur Ausübung einer Beschäftigung“ und regelt dementsprechend, ob und ggf. unter welchen Bedingungen im Inland lebenden Ausländern die Beschäftigung über die bereits im Aufenthaltsgesetz geregelten Fälle hinaus erlaubt werden kann.
 Die BeschV regelt hingegen die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich allein zum Zwecke der Beschäftigung oder gewerblichen Ausbildung hier aufhalten wollen. Sie gilt neben den Einreisefällen auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr erstmals einen Aufenthaltstitel nach § 18 AufenthG begehren, wie etwa arbeitsplatzsuchende Studienabsolventen (vgl. § 16 Abs. 4) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
@@ -28,7 +28,7 @@ B.BeschVerfV.1.1. Wird eine Aufenthaltserlaubnis nicht originär zum Zwecke der 
 B.BeschVerfV.1.2. bis B.BeschVerfV.1.3. frei
 B.BeschVerfV.2. Zustimmungsfreie Beschäftigungen nach der BeschV
 Wenn § 2 einen Tatbestand der §§ 2 – 12 BeschV in Bezug nimmt, dann kann dem Ausländer eine solche Beschäftigung ohne Zustimmung der Arbeitsagentur erlaubt werden. Dies ist etwa bei bestimmten Praktika, Hochqualifizierten gem. § 19 Abs. 2 AufenthG, einer Reihe von Führungskräften, im Bereich Wissenschaft und Forschung, bei Tagesdarbietungen und Berufssportlern der Fall.
-Auch wenn ein freiwilliges soziales oder ökologisches Jahr (vgl.§ 3 Abs. 2 bzw. § 4 Abs. 2 JFDG) absovlviert werden soll, kann dies gem. § 9 Nr. 1 BeschV i.V.m. § 2 zustimmungsfrei erlaubt werden, so die §§ 10 f. dem nicht entgegenstehen. Merke: Für eine solche Tätigkeit besteht Versicherungspflicht in der Sozialversicherung und handelt es sich um eine Beschäftigung im Sinne des § 7 SGB IV. (vgl. B.BeschV.9.1.)
+Auch wenn ein Freiwilligendienst, wie der Bundesfreiwilligendienst (vgl. § 3 BFDG) oder freiwilliges soziales bzw. ökologisches Jahr (vgl.§ 3 Abs. 2 bzw. § 4 Abs. 2 JFDG) absolviert werden soll, kann dies gem. § 9 Nr. 1 BeschV i.V.m. § 2 zustimmungsfrei erlaubt werden, so die §§ 10 f. dem nicht entgegenstehen. Merke: Für eine solche Tätigkeit besteht Versicherungspflicht in der Sozialversicherung und handelt es sich um eine Beschäftigung im Sinne des § 7 SGB IV. (vgl. B.BeschV.9.1.)
 B.BeschVerfV.3. Beschäftigung von Familienangehörigen
 Auf die Anfrage bei der Arbeitsagentur kann gleichfalls verzichtet werden, wenn es sich bei der beabsichtigten Tätigkeit um eine Beschäftigung der in § 3 abschließend genannten nahen Angehörigen handelt.
 B.BeschVerfV.3a. Ausbildung und Beschäftigung von im Jugendalter eingereisten Ausländern

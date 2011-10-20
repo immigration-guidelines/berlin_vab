@@ -2,7 +2,7 @@ VAB B.AufenthV.30a. - 38. Visumverfahren
 VAB B.AufenthV.30a. - 38. Visumverfahren
 Inhaltsverzeichnis
 B.AufenthV.30a. - 38. Visumverfahren
-(15.12.2010; 28.12.2010)
+(28.12.2010; 08.06.2011)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
 Erteilung von langfristig gültigen D- Visa durch die deutschen Auslandsvertretungen
@@ -13,13 +13,13 @@ B.AufenthV.32. Zustimmung der obersten Landesbehörde
 Youth-Mobility-Abkommen mit Kanada
 Working-Holiday-Programm mit Taiwan
 B.AufenthV.33. Zustimmung bei Spätaussiedlern
-B.AufenthV.34. Zustimmungsfreiheit bei Wissenschaftlern und Studenten
+B.AufenthV.34. Zustimmungsfreiheit bei Wissenschaftlern und Studenten sowie bei Absolventen deutscher Auslandsschulen
 B.AufenthV.35. Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
 Working-Holiday-Abkommen mit der SVR Hongkong
 B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte B.AufenthV.37. Zustimmungsfreiheit in sonstigen Fällen
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 B.AufenthV.30a. - 38. Visumverfahren
-(15.12.2010; 28.12.2010)
+(28.12.2010; 08. 06.2011)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 frei
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -76,8 +76,9 @@ Beachte: Wie auch in allen weiteren Working-Holiday-Abkommen (s.u. B.AufenthV.41
 Weitere Details können den Abkommen in der Generalie, IV R 2, entnommen werden.
 B.AufenthV.33. Zustimmung bei Spätaussiedlern
 Zu beachten ist, dass auch bestimmte Familienangehörigen von Spätaussiedlern kein zustimmungspflichtiges Visum benötigen.
-B.AufenthV.34. Zustimmungsfreiheit bei Wissenschaftlern und Studenten
+B.AufenthV.34. Zustimmungsfreiheit bei Wissenschaftlern und Studenten sowie bei Absolventen deutscher Auslandsschulen
 Wissenschaftliches Personal benötigt in größerem Umfang kein zustimmungspflichtiges Visum und weitet dieses Privileg auch auf mitreisende Familienangehörige aus. Zu beachten ist bzgl. der Anwendung des § 34 Nr. 2 AufenthV, dass diese Regelung auch bei der Einreise zum Zwecke der Fortsetzung eines Forschungsvorhabens in einem anderen Anwenderstaat der Forscherrichtlinie zum Tragen kommt (vgl. A.20.5).
+SenInnSport hat am 30.05.2011 entsprechend § 32 AufenthV der Visumerteilung an Absolventen von deutschen Auslandsschulen zugestimmt. Somit bedarf die Erteilung entsprechender Visa ebenfalls nicht mehr der Zustimmung der Ausländerbehörde nach § 31 AufenthV.
 B.AufenthV.35. Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
 B.AufenthV.35.1-3.
 frei
@@ -138,7 +139,7 @@ B.AufenthV.41. Vergünstigung für Angehörige bestimmter Staaten
 Working-Holiday-Abkommen
 Youth-Mobility-Abkommen mit Kanada
 B.AufenthV.39. - 41. Einholung eines Aufenthaltstitels im Bundesgebiet
-(27.05.2009; 22.09.2010)
+(22.09.2010; 05.09.2011)
 B.AufenthV.39. Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
 B.AufenthV.39.0. s. hierzu Ausführungen unter A.60a.2.3.
 Besitz eines nationalen Visums oder einer Aufenthaltserlaubnis
@@ -161,7 +162,7 @@ Im Falle des Nachzugs eines Vaters zu einem minderjährigen ledigen deutschen Ki
 Aufenthaltstitel für Asylbewerber
 B.AufenthV.39.4. Die Privilegierung von Asylbewerbern, die die Voraussetzungen des § 10 Abs. 1 und 2 AufenthG erfüllen (§ 39 Nr. 4) ist zu beachten. Auch hier kommt es wie in den Fällen des § 39 Nr. 1 und 2 nicht darauf an, zu welchem Zeitpunkt der Ausländer seinen Anspruch auf Erteilung einer Aufenthaltserlaubnis erworben hat. Für die Fälle des Ehegattennachzugs bedeutet dies, dass die Ehe auch vor Erteilung des Visums geschlossen sein kann oder die Ehegatten nach Erteilung des Schengenvisums nach Dänemark ausgereist sein können und dort die Ehe geschlossen werden konnte. Sofern die Voraussetzungen eines Anspruchs vorliegen, bleibt der § 5 Abs. 2 S. 1 AufenthG unbeachtlich.
 Geduldete mit Anspruch auf Erteilung eines Aufenthaltstitels
-B.AufenthV.39.5. Das in § 39 Nr. 5 genannte Erfordernis des Aufenthalts im Bundesgebiet gilt für beide dort genannten Möglichkeiten, die des Erwerbs eines Anspruchs aufgrund einer Eheschließung und der Geburt eines Kindes.
+B.AufenthV.39.5. Das in § 39 Nr. 5 genannte Erfordernis des Aufenthalts im Bundesgebiet gilt für die dort genannten Möglichkeiten, die des Erwerbs eines Anspruchs aufgrund einer Eheschließung, der Begründung einer Lebenspartnerschaft und der Geburt eines Kindes.
 § 39 Nr. 5 findet ausnahmsweise keine Anwendung in solchen Fällen, in denen dem Ausländer eine Duldung ausschließlich (!) deshalb erteilt worden ist, um ihm vor dem Hintergrund des Art. 6 GG eine (fest und unmittelbar bevorstehende) Eheschließung im Bundesgebiet zu ermöglichen. Vielmehr ist erforderlich, dass die Eheschließung zu einem Zeitpunkt erfolgte und mithin ein sich daraus ergebender Anspruch auf Erteilung einer Aufenthalserlaubnis zu einem Zeitpunkt entstanden ist, in dem der Ausländer aus einem anderen Grund geduldet wurde (vgl. dazu OVG Berlin-Brandenburg, Beschluss vom 22.08.2007 - OVG 2 S 61.07 - sowie vom 16.01.2008 - OVG 2 S 4.08 - unter Hinweis darauf, dass der Gesetzgeber mit der Ausnahmevorschrift des § 39 Nr. 5 den Fall regeln wollte, in dem ein ohnehin nicht abzuschiebender Ausländer einen Anspruch aufgrund der Eheschließung erwirbt. Stellt die Eheschließung selbst den Duldungsgrund dar, würde der Regelungszweck überdehnt).
 Entsprechendes muss auch für den Fall des Anspruchserwerbs aufgrund der Geburt eines Kindes gelten. In einem solchen Fall wird allerdings - anders als bei Ehegatten - das von § 5 Abs. 2 Satz 2 AufenthG eröffnete Ermessen jedenfalls in der Regel zu Gunsten des Betroffenen auszuüben sein, weil - anders als bei Ehegatten - eine durch das Sichtvermerksverfahren bedingte Trennung aufgrund der besonderen familiären Beziehungen zu Kleinkindern regelmäßig nicht zumutbar sein dürfte.
 Ausländer mit Aufenthaltstitels anderer Schengenstaaten
