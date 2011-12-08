@@ -12,8 +12,9 @@ A.90. Übermittlungen durch Ausländerbehörden
 90.3.6. Datenübermittlung bei Integrationskursverpflichtung
 90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
 90.3.8. Zuständigkeiten der Sozialämter
+90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
 A.90. Übermittlungen durch Ausländerbehörden
-(07.01.2010; 24.02.2010)
+(24.02.2010; 2. RiLiUmG)
 90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen
@@ -103,6 +104,7 @@ Lichtenberg 13.09. – 28.09. und J, U,V
 Reinickendorf 31.10. – 15.11. O
 Marzahn-Hellersdorf 16.11. – 01.12. und I, X, Y, Z
 17.12. - 31.12.
-90.4. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutzrichtlinie vor (vgl. hierzu A.25.4a.).
+90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
+90.4. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutz - bzw. Sanktions richtlinie vor (vgl. hierzu A.25.4a und b.).
 90.4.1. bis 90.4.3. frei
 90.5. siehe A.27.1a.

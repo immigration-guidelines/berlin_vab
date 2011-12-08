@@ -127,7 +127,7 @@ B.AufenthV.28. Befreiung für freizügigkeitsberechtigte Schweizer
 B.AufenthV.29. Befreiung in Rettungsfällen
 B.AufenthV.30. Befreiung für die Durchreise und Durchbeförderung
 B.AufenthV.15. - 30. Befreiung vom Erfordernis eines Aufenthaltstitels
-(19.05.2011; 05.09.2011)
+(05.09.2011; 2. RiLiUmG)
 B.AufenthV.15. Gemeinschaftsrechtliche Regelung der Kurzaufenthalte
 § 15 verweist i.V.m. § 1 Abs. 2 für Kurzaufenthalte auf die EG-VisumsVO und das SDÜ (vgl. insbesondere Anhang II der VisumsVO (Positivstaatlerliste)) sowie Art. 18- 21 SDÜ. Die hierzu geltenden völkerrechtlich gebotenen Ausnahmen werden durch § 16 nicht konkret benannt, sondern lediglich in Bezug genommen.
 In der Praxis von besonderer Relevanz ist die Frage, wie bei Positivstaatern der zulässige Kurzaufenthalt von bis zu drei Monaten - entspricht 90 Tagen - innerhalb einer Frist von sechs Monaten berechnet wird. Hier gilt nach Nr. 6.1.8.1.1. f. AufenthG- VwV Folgendes:
@@ -155,7 +155,7 @@ Daraus folgt: Inhaber von Nationalpässen und/oder Reiseausweisen für Flüchtli
 Australien, Chile, El Salvador, Honduras. Japan, Kanada, Korea (Republik), Kroatien, Monaco, Neuseeland, Panama, San Marino können sich bis zu drei Monaten visumfrei im Bundesgebiet aufhalten, auch wenn sie sich vorher in anderen Schengen-Staaten aufgehalten haben (allerdings nur bis zu einem Aufenthalt von bis zu drei Monaten).
 Auch ein vorangegangener längerer Aufenthalt mit einem Aufenthaltstitel eines anderen Schengenstaates im Schengengebiet ist nicht auf die Zeiten des Aufenthalts nach dem SDÜ anzurechnen (vgl. insofern Nr. 6.1.8.2. AufenthG-VwV). In letzterem Fall privilegieren die Abkommen die einbezogenen Staaten gegenüber anderen Positivstaaten in der Form, dass ein Kurzaufenthalt in Deutschland, der sich an einen längeren Aufenthalt in einem anderen Schengenstaat anschließt, zuvor keine Ausreise aus dem Schengengebiet und eine anschließende Wiedereinreise oder die Erteilung einer Aufenthaltserlaubnis nach § 7 Abs. 1 S. 3 AufenthG nötig macht (vgl. zu den sonstigen Fällen A.7.1.3).
 Das Gleiche gilt für Inhaber diplomatischer wie dienstlicher Pässe von Ghana und den Philippinen, ebenso für Inhaber von Reiseausweisen für Flüchtlinge von Belgien, Dänemark, Finnland, Irland, Island, Italien, Liechtenstein, Luxemburg, Malta, Niederlande, Norwegen, Polen, Portugal, Rumänien, Schweden, Schweiz, Slowakei, Spanien, Tschechische Republik.
-Merke: Das Sichtvermerksabkommen mit den Vereinigten Staaten von Amerika (GMBl. 1953, S. 575) enthält keine Regelung, wonach Aufenthalte in anderen Schengenstaaten auf den genannten Zeitraum nicht anzurechnen sind. Insofern sind amerikanische Staatsangehörige schlechter gestellt als etwa Kanadier und Neuseeländer (vgl. insgesamt zu den Sichtvermerksabkommen und deren Regelungsgehalt Nr. 4.1.3.1 ff. AufenthG VwV).
+Merke: Das Sichtvermerksabkommen mit den Vereinigten Staaten von Amerika (GMBl. 1953, S. 575) wurde 1995 gekündigt.' Hier gelten die Regelungen des § 41 AufenthhV (vgl. insgesamt zu den Sichtvermerksabkommen und deren Regelungsgehalt Nr. 4.1.3.1 ff. AufenthG VwV).
 Ferner sehen eine Vereinbarung mit El Salvador sowie eine mittels Verbalnote gegenüber Brasilien erfolgte Zusage vor, dass salvadorianische und brasilianische Staatsangehörige jeden Aufenthaltstitel, mit Ausnahme eines Titels zum Zweck der Erwerbstätigkeit, in Deutschland beantragen können (vergleichbar § 41 Abs. 2). Der Aufenthaltstitel ist innerhalb von 3 Monaten nach der Einreise nach Deutschland zu beantragen.
 Tabellarischer Überblick der Sichtvermerksabkommen
 Staat Reisedokument Reisezweck Dauer des Einholung weitere Vereinbarungen
@@ -299,7 +299,7 @@ frei
 B.AufenthV.25. Befreiung in der internationalen zivilen Binnenschifffahrt
 frei
 B.AufenthV.26. Transit ohne Einreise; Flughafentransitvisum
-frei
+Anlage C wurde neu gefasst
 B.AufenthV.27. Befreiung für Personen bei Vertretungen ausländischer Staaten
 27.0. Grundsatz
 § 27 AufenthV sieht Befreiungen für Personen vor, die sich im Zusammenhang mit der Tätigkeit der Vertretungen auswärtiger Staaten im Bundesgebiet aufhalten, und die nicht bereits völkerrechtlich und wegen § 1 Absatz 2 Nummer 2 oder 3 aus dem Anwendungsbereich des gesamten Aufenthaltsrechts ausgenommen sind. Laut Rundnote 6/2010 des Auswärtigen Amtes unterliegt die Beschäftigung von Unionsbürgern seit dem 16.02.2010 grundsätzlich nicht mehr der Genehmigungspflicht. Auf Unionsbürger und ihre freizügigkeitsberechtigten Familienangehörigen, die analog § 27 Nr. 2, 3 und 5 an Auslandsvertretungen beschäftigt sind oder waren, findet somit das FreizügG/EU Anwendung. Voraufenthaltszeiten im Rahmen von Nr. 2, 3 und 5 mit einem Protokollausweis des Auswärtigen Amtes sind folgerichtig auf die Zeiten eines ständig rechtmäßigen Aufenthalts gem. § 4a FreizügG/EU anzurechnen. Gleiches gilt für Diplomaten und andere völkerrechtlich im Zusammenhang mit diplomatischen und konsularischen Tätigkeiten bevorrechtigte Personen (vgl.

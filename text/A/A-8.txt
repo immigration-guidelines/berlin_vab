@@ -2,14 +2,14 @@ VAB A 8
 VAB A 8
 Inhaltsverzeichnis
 A.8. Verlängerung der Aufenthaltserlaubnis
-(29.06.2010; 19.07.2011)
+(19.07.2011; 2. RiLiUmG)
 8.2. Ausschluss der Verlängerung
 8.3.0. Berücksichtigung der Verpflichtung zum Integrationskurs
 8.3.1. Bescheinigung der Teilnahme am Integrationskurs
 8.3.2. - 8.3.4. Verletzung der Teilnahmepflicht
 8.4. Ausnahmen von der Berücksichtigung der Verpflichtung zum Integrationskurs
 A.8. Verlängerung der Aufenthaltserlaubnis
-(29.06.2010; 19.07.2011)
+(19.07.2011; 2. RiLiUmG)
 8.1. einstweilen frei
 8.2. Ausschluss der Verlängerung
 Von der Möglichkeit des § 8 Abs. 2, eine (weitere) Verlängerung bei der Erteilung oder Verlängerung einer Aufenthaltserlaubnis auszuschließen, wird grundsätzlich bei Erteilung einer Aufenthaltserlaubnis nach § 24 Abs. 1, § 25 Abs. 4 S. 1 sowie der letztmaligen Verlängerung einer Aufenthaltserlaubnis nach § 18 Abs. 4 AufenthG i.V.m. § 26 Abs. 2 BeschV (Regelung für die Beschäftigung von Spezialitätenköchen) Gebrauch gemacht. Dies geschieht dann gegebenenfalls durch die Auflage
@@ -43,4 +43,4 @@ Merke: § 8 Abs. 3 Satz 3 findet keine Anwendung in Fällen, in denen der auslä
 A.44a.1.1.1.) jedoch nicht ordnungsgemäß nachgekommen ist (zu diesen Fällen vgl. Ausführungen unter A.28.2.1).
 8.4. Ausnahmen von der Berücksichtigung der Verpflichtung zum Integrationskurs
 Die Verlängerung der Aufenthaltserlaubnis von Asylberechtigten, Flüchtlingen und subsidiär geschützten Ausländern (vgl. § 25 Abs. 1, 2 und 3) ist auch bei Vorliegen der Voraussetzungen des § 8 Abs. 3 vorzunehmen. Dies folgt aus der so genannten Qualifikationsrichtlinie, wonach die Versagung der Verlängerung der Aufenthaltserlaubnis nur aus zwingenden Gründen der öffentlichen Sicherheit und Ordnung erfolgen darf. Der Verstoß gegen die Pflicht zur Teilnahme am Integrationskurs erfüllt diese Voraussetzungen nicht.
-Gleiches gilt für die Fälle des § 25 Abs. 4a, wobei diese Gruppe ausweislich der Gesetzesbegründung auf Grund ihres nur vorübergehenden Aufenthalts nicht integrationsbedürftig ist.
+Mit dem sogenannten 2. Richtlinienumsetzungsgesetz wurde die Fallgruppe des § 25 Absatz 4a aus § 8 Abs. 4 gestrichen. Dies hat ausweislich der Gesetzesbegründung nur klarstellenden Charakter. Inhaber einer Aufenthaltserlaubnis nach § 25 Absatz 4a oder 4b sind auf Grund ihres vorübergehenden Aufenthalts nicht integrationsbedürftig, haben deshalb nach § 44 keinen Anspruch auf Teilnahme am Integrationskurs und sind nicht nach § 44a zur Teilnahme am Integrationskurs verpflichtet. Die Regelung des § 8 Absatz 3, die die Verletzung der Teilnahmepflicht voraussetzt, ist schon mangels Bestehens einer Teilnahmepflicht nicht auf sie anwendbar. Der ausdrückliche Ausschluss dieser Personengruppe vom Anwendungsbereich des § 8 Absatz 3 ist daher entbehrlich.

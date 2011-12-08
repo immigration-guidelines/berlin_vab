@@ -8,7 +8,7 @@ Passersatz
 Alienpässe
 C.8.2. Biometrische Daten
 C.8. Ausweispflicht
-(21.09.2010; 14.06.2011)
+(14.06.2011; 2. RiLiUmG)
 C.8.0. Grundsatz
 § 8 bestimmt im Grundsatz die Ausweispflicht für Unionsbürger und ihre Familienangehörigen für die Einreise, den Aufenthalt und die Ausreise. Als Ausweis gilt ein Nationalpass oder ein anerkannter Passersatz. Als anerkannter Passersatz für Unionsbürger gilt insbesondere ein von einem Mitgliedsstaat ausgestellter Personalausweis (siehe § 3 Abs. 3 Nr. 5 AufenthV).
 C.8.1. Ausweispflicht von Unionsbürgern und ihren Familienangehörigen
@@ -26,7 +26,7 @@ Entsprechendes gilt bezogen auf den sog. Roten "Identitätsausweis" der Republik
 Minderjährige, die das 16. Lebensjahr noch nicht vollendet haben, erfüllen die Ausweispflicht auch durch Eintragung in einen anerkannten und gültigen Pass ihres gesetzlichen Vertreters (vgl. § 11 Abs. 1 S. 3 i.V.m. § 2 AufenthV).
 C.8.1.1a. - C.8.1.2. frei
 C.8.1.3. § 8 Abs. 1 Nr. 3 ist insbesondere für Maßnahmen gem. § 5 Abs. 5 oder § 6 Abs. 1 relevant und korrespondiert mit § 48 Abs. 1 AufenthG.
-Gem. § 10 sind Verstöße gegen die Pflichten des § 8 Nr. 3 nicht bußgeldbewehrt. Ist der Unionsbürger ausreisepflichtig (vgl. hierzu die Ausführungen unter C.7) so soll der Pass oder anerkannte Passersatz bis zur Ausreise in Verwahrung genommen werden (§ 11 Abs. 1 S. 1 i.V.m. § 50 Abs. 6).
+Gem. § 10 sind Verstöße gegen die Pflichten des § 8 Nr. 3 nicht bußgeldbewehrt. Ist der Unionsbürger ausreisepflichtig (vgl. hierzu die Ausführungen unter C.7) so soll der Pass oder anerkannte Passersatz bis zur Ausreise in Verwahrung genommen werden (§ 11 Abs. 1 S. 1 i.V.m. § 50 Abs. 5).
 C.8.2. Biometrische Daten
 Gemäß Artikel 1 Abs. 2 Satz 1 der Verordnung (EG) Nr. 2252/2004 sind Pässe und Reisedokumente, die von den Mitgliedstaaten der Europäischen Union ausgegeben werden, mit einem Speichermedium zu versehen, das ein Gesichtsbild enthält.
 Ausgenommen sind lediglich Dokumente mit einer Gültigkeitsdauer von bis zu 12 Monaten. Die Verordnung wird von den Mitgliedstaaten in Bezug auf das gespeicherte Gesichtsbild 18 Monate nach Erlass der technischen Spezifikationen angewandt. Diese Frist lief am 28.08.2006 ab.

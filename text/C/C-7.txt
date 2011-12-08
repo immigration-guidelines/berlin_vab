@@ -8,11 +8,11 @@ C.7.1.2. Ausreisepflicht von Familienangehörigen
 C.7.1.3. Androhung der Abschiebung und setzen einer Ausreisefrist
 C.7.1.4. Ausreisefrist von mindestens einem Monat
 C.7.1.5. Anträge auf einstweiligen Rechtsschutz
-C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 516
+C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 525
 C.7.2.2. Befristung des Wiedereinreiseverbots
 C.7.2.4. Anspruch auf Befristung des Wiedereinreiseverbots
 C.7. Ausreisepflicht
-(28.10.2010;)
+(28.10.2010; 2. RiLiUmG)
 C.7.1. Ausreisepflicht nach Feststellung des Verlusts des (Dauer-)Aufenthaltsrechts
 C.7.1.1. Ausreisepflicht von Unionsbürgern
 Nach dem Wortlaut des § 7 Abs. 1 Satz 1 ist alleiniger Anknüpfungspunkt für die Anwendbarkeit des § 7 die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union oder i.V.m. § 12 des EWR. Die nachfolgenden Regelungen gelten demzufolge auch für Nicht-Freizügigkeitsberechtigte. Eine Ausnahme von der prinzipiellen Geltung besteht auch nicht für Angehörige derjenigen Staaten, die zum 1. Mai 2004 und zum 01.01.2007 der Europäischen Union beigetreten sind. Unionsbürger sind ausreisepflichtig, wenn diese Ausreisepflicht mittels eines entsprechenden Feststellungsbescheides nach § 5 Abs. 5 bzw. § 6 Abs. 1 festgestellt oder eine unanfechtbare Ausweisung oder Abschiebung nach dem AuslG, AufenthG oder AufenthG/EWG (noch) nicht befristet worden ist.
@@ -35,7 +35,7 @@ C.7.2.1. § 7 Abs. 2 Satz 1 konkretisiert das Wiedereinreiseverbot für die Fäl
 C.7.2.2. Befristung des Wiedereinreiseverbots
 Eine generelle Befristung von Amts wegen im Rahmen des Feststellungsverfahrens erfolgt nicht. Im Befristungsverfahren, welches grundsätzlich nur auf Antrag erfolgt, sind aktenkundige offene Abschiebungskosten für die Entscheidung unerheblich (vgl. Urteil des Bundesverwaltungsgerichts vom 23.10.2007 - BVerwG 1 C 10.07 -). Diese werden gesondert durch einen Leistungsbescheid gefordert. Es gilt das übliche Verfahren (vgl. A.66. und hinsichtlich der Verjährungsfristen
 A.70.).
-C.7.2.3. § 7 Abs. 2 Satz 3 trifft die grundsätzliche Aussage, dass die gesetzte Frist des Wiedereinreiseverbots mit der Ausreise beginnt. Dazu ist § 50 Abs. 3-7 AufenthG zu beachten (vgl. § 11 Abs. 1 S. 1).
+C.7.2.3. § 7 Abs. 2 Satz 3 trifft die grundsätzliche Aussage, dass die gesetzte Frist des Wiedereinreiseverbots mit der Ausreise beginnt. Dazu sind die § § 50 Abs. 3- 6 und 59 Abs. 1 AufenthG zu beachten (vgl. § 11 Abs. 1 S. 1).
 Treten zwischen Erlass und Ausreise neue Umstände (etwa eine eheliche Lebensgemeinschaft, Drogenentzug, positive Gutachten im Strafvollstreckungsverfahren) ein, die nun ernsthafte Zweifel an der früher festgestellten gegenwärtigen und tatsächlichen Gefahr aufkommen lassen, ist das Verbot auch ohne Ausreise zu befristen (vgl. dazu Nr. 7.2.3 der FreizügG/EU-VwV).
 Bei der Wiedereinreise vor Ablauf oder Aufhebung der Sperrfrist ist das Einreise- und Aufenthaltsverbot aufgrund der nationalen Abschiebungsregelungen (§ 58 Abs. 2 S. 1 Nr. 1 AufenthG i.V.m. § 11 Abs. 2 FreizügG/EU) durchzusetzen, da das FreizügG/EU keine spezielle Vollstreckungsregelung enthält (§ 9 FreizügG/EU steht dem als Strafvorschrift nicht entgegen).
 Mit Ablauf der Sperrfrist endet jede Fortwirkung eines Einreise- und Aufenthaltsverbots. Eine Abschiebung nach Ablauf der Sperrfrist im Inland ist ausgeschlossen.
