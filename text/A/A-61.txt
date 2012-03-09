@@ -2,15 +2,16 @@ VAB A 61
 VAB A 61
 Inhaltsverzeichnis
 A.61. Räumliche Beschränkung; Ausreiseeinrichtungen
-(19.07.2011; 2. RiLiUmsG)
+(2. RiLiUmsG; 14.02.2012)
 61.1.1. Allgemeine Hinweise zur Ausreisepflicht
 61.1.1.3. Erweiterung der räumlichen Beschränkung
+61.1.1.3a. Erweiterung der räumlichen Beschränkung für junge Geduldete
 61.1.1.4. Zweitduldung
 61.1.1.5. Wohnortwechsel
 61.1.3. Zur räumlichen Beschränkung bei Beschäftigung
 61.1.4. Zur räumlichen Beschränkung bei Bestehen einer familiären Lebensgemeinschaft
 A.61. Räumliche Beschränkung; Ausreiseeinrichtungen
-(19.07.2011; 2. RiLiUmsG)
+(2. RiLiUmsG; 14.02.2012)
 61.1.1. Allgemeine Hinweise zur Ausreisepflicht
 61.1.1. 1. § 61 Abs. 1 gilt für alle vollziehbar Ausreisepflichtigen, das heißt auch für Personen, die eine GÜB I oder – etwa wegen eines Petitionsverfahrens oder eines Verwaltungsprozesses – eine GÜB II erhalten haben. Auch deren Aufenthalt ist von Gesetzes wegen räumlich beschränkt (zur Strafbarkeit bei wiederholtem Verstoß vgl. § 95 Abs. 1 Nr. 7). Beachte aber auch § 46 Abs. 1 und die Möglichkeiten des § 12 Abs. 5.
 61.1.1. 2. Aus dem Wortlaut des § 4 Abs. 3 S. 1 i.V.m. § 42 Abs. 2 Nr. 5 folgt zwar, dass vollziehbar Ausreisepflichtige grundsätzlich nicht erwerbstätig sein dürfen; faktisch eröffnet jedoch die BeschVerfV eine Reihe von Möglichkeiten mit oder ohne Zustimmung der Bundesagentur beschäftigt zu werden (vgl. Ausführungen zu § 4 Abs. 3 und unter B.BeschVerfV.).
@@ -31,6 +32,12 @@ Kommt die Erweiterung der räumlichen Beschränkung auf das Land Brandenburg aus
 „Der Aufenthalt ist beschränkt auf: Land Berlin“
 zu verfügen. Einer wohnsitzbeschränkenden Auflage bedarf es dann nicht (mehr). Dies erfolgt ohne Begründung bzw. Bescheid. Lediglich wenn der Betroffene dann die Erweiterung der räumlichen Beschränkung auf Brandenburg beantragt, ist ein entsprechender Antrag per Bescheid abzulehnen.
 Insofern ist zu beachten, dass es sich bei der Erweiterung der räumlichen Beschränkung nach § 12 Abs. 5 S. 1 i.V.m. § 61 Abs. 1 S.1. um ein Antragsverfahren handelt und auf einen Antrag in den begünstigten Fällen nur aus Gründen der Verwaltungseffizienz verzichtet wird.
+61.1.1.3a. Erweiterung der räumlichen Beschränkung für junge Geduldete
+Inhabern einer Duldung, die das 21. Lebensjahr noch nicht vollendet haben, ist unabhängig vom Duldungsgrund und von der Staatsangehörigkeit gem. § 12 Abs. 5 S. 1 zu ermöglichen, als Schüler an Klassenreisen oder als Mitglieder von Kinder- oder Jugendgruppen von Kurzreisen in das übrige Bundesgebiet teilzunehmen.
+Um dies zu erreichen, ist anlassbezogen, d.h. in der Regel bei Vorsprache zum Zwecke der Verlängerung der Duldung, folgende Nebenbestimmung zu verfügen:
+„Teilnahme an Klassen- sowie Kinder- und Jugendgruppenreisen innerhalb Deutschlands gestattet.“
+Von der Erhebung einer Gebühr wird gem. § 53 Abs. 2 AufenthV generell abgesehen (bzgl. sonstiger Reisen in Deutschland etwa für Pflegekinder oder Kinder und Jugendliche, die in Jugendhilfeeinrichtungen untergebracht sind, vgl.
+A.12.5.; für Auslandsreisen B.AufenthV.22.).
 61.1.1.4. Zweitduldung
 Die Erteilung einer sog. Zweitduldung an einen in einem anderen Bundesland bereits geduldeten Ausländer ist nicht möglich. So ist es nicht möglich, den gemäß § 3 Abs. 1 Ziffer 3a) VwVfG für die örtliche Zuständigkeit maßgeblichen gewöhnlichen Aufenthalt entgegen einer kraft Gesetz oder Verwaltungsakt bestehenden räumlichen Beschränkung in den Bezirk einer anderen Ausländerbehörde zu verlegen. Dafür spricht nicht nur der Umstand, dass der Aufenthalt im Bezirk der anderen Ausländerbehörde jederzeit beendet werden kann. Ebenso spricht dafür der Grundsatz der Einheitlichkeit der Rechtsordnung. So wäre es widersprüchlich, die Wohnsitzverlagerung einerseits zu verbieten, dann aber an einen Verstoß gegen dieses Verbot für den Betroffenen mglw. sogar günstige Rechtswirkungen (etwa auch die Zuständigkeit der örtlichen Leistungsbehörden) zu knüpfen (so im Ergebnis auch Kammergericht Berlin, Beschluss vom 25.08.2006, - 25 W 70/05 - m.w.N., OLG Dresden, Beschluss vom 14.11.2007 - 3 W 1084/07 -, und OVG Berlin, Beschluss vom 23.10.2000 - OVG 8 S 21.00 -; grundsätzlich auch OVG Berlin-Brandenburg, Beschluss vom 3.12.2008, - OVG 2 M 70.08 -). Eine andere Rechtsauffassung würde die vom Gesetzgeber mit der Aufenthaltsbeschränkung beabsichtigte verminderte Anreizwirkung (zum Verstoß gegen die Ausreisepflicht), effektive Verwaltungsausübung und Beschleunigung des Verfahrens untergraben sowie eine Fülle von Zweifeln in Zuständigkeitsfragen aufwerfen (vgl. OVG Berlin-Brandenburg, Beschluss vom 10.04.2008
 - OVG 11 N 40.07).
