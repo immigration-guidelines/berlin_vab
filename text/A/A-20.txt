@@ -18,10 +18,10 @@ schriftliche Kostenübernahmeerklärung
 20.3. Abgabe einer allgemeinen Übernahmeerklärung
 20.4. Geltungsdauer der Aufenthaltserlaubnis
 20.5. Inhaber eines Aufenthaltstitels eines anderen EU-Mitgliedstaates
-20.6. Berechtigung zur Ausübung einer Erwerbstätigkeit
+20.6. Berechtigung zur Ausübung einer Forschungstätigkeit
 20.7. Ausschlussgründe
 A.20. Forschung
-(03.11.2009; 12.07.2009)
+(12.07.2009; HQRLUmsG)
 20.0. Allgemeines
 Mit dem 2. ÄndG wird ein neuer § 20 eingefügt, der die Erteilung von Aufenthaltserlaubnissen an Forscher entsprechend der Richtlinie 2005/71/EG über ein besonderes Zulassungsverfahren für Drittstaatsangehörige zum Zwecke der wissenschaftlichen Forschung (Forscherrichtlinie) in ihren Grundzügen regelt. Bzgl. der Verfahrensvorschriften der Forscherrichtlinie wird auf die §§ 38 a –f der AufenthV verwiesen.
 qualifizierte Forscher
@@ -74,8 +74,9 @@ Der Forscher besitzt einen Aufenthaltstitel für Forscher in einem anderen EU-Mi
 Der Forscher besitzt einen Aufenthaltstitel für Forscher in einem anderen EU-Mitgliedstaat, der nicht Schengenstaat ist. Hier kann der Forscher nicht das Reiserecht aus Artikel 21 SDÜ in Anspruch nehmen. Er benötigt auch für Tätigkeiten von bis zu drei Monate einen Aufenthaltstitel, gegebenenfalls in der Form eines Visums. Das Visum wird abhängig von der beabsichtigten Aufenthaltsdauer als Schengen-Visum oder als nationales Visum erteilt und muss die Tätigkeit als Forscher ausdrücklich erlauben (vgl. § 4 Abs. 2 Satz 1 und 2).
 Bei Bitten um Zustimmung in Visaverfahren ist allerdings immer zu prüfen, inwieweit eine Zustimmung gem. dem hier gleichfalls anwendbaren § 34 Nr. 2 AufenthV überhaupt erforderlich ist.
 Da der Aufenthalt im Rahmen von Absatz 5 nur vorübergehender Natur ist und der Mittelpunkt der Tätigkeit des Forschers in einem anderen Mitgliedstaat liegt, soll durch den ausdrücklichen Ausschluss der Anwendung des § 9 durch § 20 Abs. 5 S. 3 eine Aufenthaltsverfestigung ausgeschlossen werden.
-20.6. Berechtigung zur Ausübung einer Erwerbstätigkeit
-Im Absatz 6 Satz 1 wird geregelt, dass der Aufenthaltstitel zur Aufnahme der mit der Aufnahmevereinbarung benannten Forschungstätigkeit verbundenen Beschäftigung berechtigt, wobei eine Arbeitsmarktprüfung entsprechend den Vorgaben der Forscherrichtlinie, insbesondere ihres Erwägungsgrundes Nr. 10, nicht stattfindet und daher eine Beteiligung der Bundesagentur für Arbeit nicht erforderlich ist. Zugleich wird durch die Erlaubnis von Lehrtätigkeiten Artikel 11 der Forscherrichtlinie umgesetzt. Zudem regelt § 59 Abs. 4 AufenthV, dass in jedem Titel nach § 20 das Wort "Forscher" zu vermerken ist.
+20.6. Berechtigung zur Ausübung einer Forschungstätigkeit
+Im Absatz 6 Satz 1 wird geregelt, dass der Aufenthaltstitel zur Aufnahme der Forschungstätigkeit bei der in der Aufnahmevereinbarung bezeichneten Forschungseinrichtung und zur Lehrtätigkeit berechtigt. Die genaue Bezeich-nung des For-schungsvorhabens ist nach der For-scherrichtlinie (Richtlinie 2005/71/EG des Rates vom 12. Oktober 2005) nicht zwingend als Inhalt der Aufnahmevereinbarung vorgesehen, da dadurch eventuell Unternehmensinterna preis-gegeben werden, die den Abschluss von Aufnahmevereinbarungen gefährden könnten.
+Eine Ar-beitsmarktprüfung entsprechend den Vorgaben der Forscherrichtli-nie, insbesondere ihres Erwä-gungsgrundes Nr. 10, findet nicht statt, und daher ist eine Beteiligung der Bundesagentur für Arbeit nicht er-forderlich. Zugleich wird durch die Erlaubnis von Lehrtätigkeiten Artikel 11 der Forscherrichtlinie umgesetzt. Zudem regelt § 59 Abs. 4 AufenthV, dass in jedem Titel nach § 20 das Wort "Forscher" zu vermerken ist.
 In diesen Fällen wird in die Aufenthaltserlaubnis daher
 „Forscher - Beschäftigung nicht gestattet mit Ausnahme der Tätigkeit als Forscher bei … und zur Lehre."
 eingetragen.

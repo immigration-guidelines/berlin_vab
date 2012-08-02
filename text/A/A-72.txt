@@ -6,8 +6,9 @@ A.72. Beteiligungserfordernisse
 72.3.1.1. Einvernehmen anderer Behörden
 72.3.1.2. Örtliche Zuständigkeit für Befristungsentscheidungen
 72.4.1. Zustimmung der Staatsanwaltschaft
+72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
 A.72. Beteiligungserfordernisse
-(17.10.2011; 2. RiLiUmG)
+(2. RiLiUmG; HQRLUmsG)
 Generelles Einvernehmen StA nach § 72 Abs. 4 AufenthG (bis 01.03.2014)
 72.1.1. bis 72.1.2. frei
 72.2.1. Beteiligung des BAMF
@@ -75,3 +76,5 @@ Der Leitende Oberstaatsanwalt in Berlin hat mit Schreiben vom 05.04.2011 das gen
 72.4.2. § 72 Abs. 4 S. 2 begründet das Verbot, zu schützende Personen ohne Zustimmung der Zeugenschutzdienststelle auszuweisen oder abzuschieben. Dies ist auf Grund der Datenübermittlungspflicht der Zeugenschutzdienststelle gem. § 87 Abs. 4 S. 4 praktisch unproblematisch.
 72.5. frei
 72.6. § 72 Abs. 6 regelt die in Fällen des § 25 Abs. 4a und 4b bzw. § 59 Abs. 7 von der Ausländerbehörde bei Erteilung eines Titels oder Gewährung einer Ausreisefrist zu beachtenden Beteiligungserfordernisse, denen durch die Regelungen unter A.25.4a. und b hinreichend Rechnung getragen wird.
+72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
+Die Vorschrift des § 72 Abs. 7 ist insofern unglücklich formuliert, als sie eine Beteilung in denen Fällen, in denen ein Titel gem. § 17 Abs. 1 bzw. § 18 c Abs. 1 in Raum steht, gerade nicht ausdrücklich erwähnt. Insgesamt sollte in den Fällen der §§ 2 -15 BeschV schon aus Gründen der Verwaltungseffizienz nur spar-sam Gebrauch gemacht werden (Zu den Besonderheiten der Beteiligung bei Praktikanten vgl. B.BeschV.2. zur Beteiligung in den Fällen des § 3 b bei Akademikern mit inländischem Abschluss sowie bei Forschern gem. § 5 BeschV vgl. dort). Bei Anfragen ist der vorgegebene Vordruck der BA zu verwenden. Zum Verfahren vgl. im Übrigen die Ausführungen unter A.39.

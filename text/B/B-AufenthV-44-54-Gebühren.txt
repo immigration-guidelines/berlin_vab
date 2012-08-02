@@ -2,10 +2,11 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
+(19.06.2012; HQRLUmsG)
 B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
-B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis
+B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis und Blaue Karte EU
 B.AufenthV.45.a. Gebühren für den elektronischen Identitätsnachweis
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
@@ -19,8 +20,8 @@ B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(2. RiLiUmG; 06.03.2012)
-Merkblatt_Gebühren_Stand_09.08.11.doc
+(19.06.2012; HQRLUmsG)
+Merkblatt Gebühren Stand 30.07.12
 B.AufenthV.44.1.Kassenautomat
 Seit dem 14.03.2007 werden Einzahlungen ausländerbehördlicher Gebühren verknüpft mit dem jeweiligen LEA-OM über den Kassenautomaten und im Ausnahmefall über die personell bediente Kasse elektronisch verbucht. Damit ist im Bedarfsfall jede zu einer Person an einem bestimmten Tag getätigte Einzahlung über eines der beiden Systeme dokumentierbar. Der Ausdruck eines Einzahlbeleges für die (elektronische) AA hat sich damit erübrigt (Ausnahme s. 2. Spiegelpunkt). Allerdings sind weiterhin Befreiungen und Ermäßigungen von Gebühren (§§ 52, 53 AufenthV) wie bisher aktenkundig zu machen. Dazu sind im Fachverfahren-Dialog „Titel erteilen“ / „AA21 - Vermerk für Aktenbeleg“ als Gebühr „0,00“ und im dazugehörigen Datenfeld „Vermerk“ der Gebührenbefreiungsgrund resp. -ermäßigungsgrund (z.B. „Sozialhilfe“, „Stipendium“ u.Ä.) einzutragen.
 Für die Zahlungsvorgänge des FiS -SG Z 2- gilt folgende Regelung: Die Einzahlbelege sind weiterhin auszudrucken, weil nur über sie die involvierten Gebührenzahler ermittelbar sind. Die Aufbewahrungsfrist beträgt sechs Jahre. Die übrigen Vorgaben des 1. Spiegelpunktes gelten auch für den FIS.
@@ -28,7 +29,7 @@ B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 Die Ausgabe von elektronischen Aufenthaltstiteln (eAT) macht eine Anpassung der für Aufenthaltstitel geltenden Gebühren erforderlich, da die Ausgabe von eATs im Vergleich zu den Aufenthaltstiteln in Form von Klebeetiketten zum einen zu wesentlich höheren Produktionskosten und zum anderen in den Ausländerbehörden zu einem erhöhten Bearbeitungs- und Informationsaufwand führt. Mit der am 01.09.2011 in Kraft getretenen sechsten Verordnung zur Änderung der Aufenthaltsverordnung vom 22.07.2011 gelten daher neue Gebührenregelungen. Dabei ist zu beachten, dass die Gebührenregelungen nunmehr die Erteilung eines eAT als Normalfall ansehen, d.h. dass sich alle Gebührentatbestände soweit in der Verordnung nicht ausdrücklich anders geregelt, immer auf die eAT Ausstellung beziehen. die demgegenüber speziellen Regelungen in Bezug auf den Ausnahmefall der Papiererteilung befinden sich in § 45b, § 47 Abs. 1 Nr. 11 (Übertrag als Papiertitiel), § 47 Abs. 4 (Aufenthaltskarten EU in Papierform) und § 48 Abs. 1 Nr. 10-12 (Ausweisersatz in Papierform). Ein Auszug aus der Aufenthaltsverordnung n.F. zu den nunmehr geltenden Gebühren ist in einem Merkblatt zusammengestellt. Im Übrigen gilt folgendes:
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
 frei
-B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis
+B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis und Blaue Karte EU
 B.AufenthV.45.1. - 2. frei
 B.AufenthV.45.3. Bei jedem Wechsel des Aufenthaltszwecks beträgt die Gebühr 40 Euro. Jeder
 Rechtsgrundlagenwechsel, auch innerhalb eines Paragraphen, stellt einen Zweckwechsel dar. Die regelmäßig mit dem Zweckwechsel einhergehende Verlängerung der Aufenthaltserlaubnis ist mit der erhobenen Gebühr ebenfalls abgedeckt. Keinesfalls sind etwa doppelte Gebühren, z.B. von 70 Euro gem. § 45 Nr. 2b) + Nr. 3, zu erheben.
@@ -167,6 +168,8 @@ Gem. dem Abs. 8 sind Schüler, Studenten, postgraduierte Studenten und begleiten
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 § 53 AufenthV sieht eine Befreiung und Ermäßigung aus Billigkeitsgründen vor.
 Der Verordnungsgeber hat in § 53 Abs. 1 HS 1 AufenthV die Gebührentatbestände aufgezählt, bei denen er wegen der Notwendigkeit des Bezugs von Leistungen nach dem SGB II, XII bzw. dem AsylbLG aus Billigkeitsgründen eine Gebührenbefreiung generell für geboten hält.
+Eine Gebührenbefreiung nach § 53 Abs. 1 AufenthV kommt nur in Betracht, sofern der Ausländer den Lebensunterhalt nicht ohne Inanspruchnahme öffentlicher Leistungen nach dem SGB II bzw. SGB XII bestreiten kann. Aus der Regelung des § 7 Abs. 2 Nr. 1 SGB II ergibt sich eine Regelvermutung hinsichtlich der Leistungsfähigkeit in den ersten drei Monaten des Aufenthalts.
+Insofern ist bei Neueinreisenden zunächst davon auszugehen, dass sie über eigene Mittel verfügen, nicht auf die Inanspruchnahme öffentlicher Leistungen angewiesen sind und daher gebührenpflichtig sind. Eine Gebührenbefreiung erfolgt grundsätzlich nur bei Vorlage des Bewilligungsbescheids, der den Leistungsbezug konkret für den Betreffenden nachweist, oder entsprechender Nachweise der Mittellosigkeit.
 Insbesondere die Gebühren für die Ausstellung eines Reiseausweises für Ausländer, für Flüchtlinge sowie für Staatenlose (§ 48 Abs. 1 -2), die Erteilung einer Niederlassungserlaubnis und die Erlaubnis zum Daueraufenthalt-EG (§§ 44, 44 a) sowie die entsprechende Bearbeitungsgebühr (§§ 49 Abs. 1, 50 Abs. 1 S. 1 und 2) gehören nicht dazu. Von den Gebührentatbeständen bei Erteilung einer Niederlassungserlaubnis bzw. einer Erlaubnis zum Daueraufenthalt-EG sind nur Ausländer mit besonderem Status befreit; Asylberechtigte und Flüchtlinge für die Antragsgebühr der § 44 Nr. 3 sowie die Bearbeitungsgebühr gem. §§ 49 Abs. 1, 50 Abs. 1 S. 1 und 2 (§ 52 Abs. 3 Nr. 1 und 4) sowie Begünstigte nach § 23 Abs. 2 AufenthG für die Antragsgebühr der § 44 Nr. 3 sowie die Bearbeitungsgebühr gem. §§ 49 Abs. 1, 50 Abs. 1 S. 1 (§ 52 Abs. 4). Die genannten Gebührenbefreiungen des § 52 Abs. 3 und 4 gelten also auch für die Konstellation des § 50 Abs. 1 S. 1 und 2 (Ermäßigung der Bearbeitungsgebühr für Minderjährige bei Beantragung einer Niederlassungserlaubnis gem. § 35 Abs. 1 S. 1 auf 55 Euro bzw. in den sonstigen Fällen der Beantragung einer Niederlassungserlaubnis durch Minderjährige auf die Hälfte). Dies deshalb, weil § 50 Abs. 1 S. 1 und 2 keinen eigenen Gebührentatbestand kodifiziert, sondern lediglich den des § 49 Abs. 1 abwandelt.
 Merke: Aus der diesem Regelungsgefüge zu entnehmenden Wertung des Verordnungsgebers, der geringen Höhe der ausländerrechtlichen Gebühren und dem großen öffentlichen Interesse an einem möglichst hohen Grad der Kostendeckung durch Gebühreneinnahmen folgt, dass allein der Bezug von Leistungen nach dem SGB II, XII bzw. dem AsylbLG nie ausreicht, um von der Erhebung der Gebühr für die Bearbeitung bzw. Erteilung der Niederlassungserlaubnis abzusehen (im Ergebnis ebenso bei Erteilung einer Niederlassungserlaubnis bzw. einer Erlaubnis zum Daueraufenthalt-EG VG Berlin, Urteil vom 13.05.2009 – VG 10 A 189.07 sowie wohl auch Nr. 3.3.4.6 und 3.3.5.2 AufenthG VwV bei der Ausstellung von Reiseausweisen).
 Das in § 53 Abs. 1 2. HS eröffnete Ermessen ist in diesen Fällen daher grundsätzlich zu Lasten des Ausländers auszuüben. Ein hinreichender Anlass für eine Ermessensausübung entsteht erst, wenn Umstände für eine Gebührenermäßigung oder ein Absehen von der Gebühr benannt und zumindest glaubhaft gemacht werden. Ggf. kann die Ermessensentscheidung im Widerspruchsbescheid nachgeholt werden.

@@ -19,7 +19,11 @@ A 15a
 A 16
 A 17
 A 18
+A 18a
+A 18b
+A 18c
 A 19
+A 19a
 A 20
 A 21
 A 22
@@ -91,6 +95,7 @@ A 74a
 A 75
 A 77
 A 78
+A 78a
 A 79
 A 80
 A 81
@@ -111,6 +116,7 @@ A 91a
 A 91b
 A 91c
 A 91e
+A 91f
 A 95
 A 96
 A 97
@@ -144,6 +150,7 @@ B.BeschV.38. - 41. Zustimmungen zu Beschäftigungen auf der Grundlage zwischenst
 B.BeschVerfV.0. - 4. Zustimmungsfreie Beschäftigungen
 B.BeschVerfV.5. - 9. Zustimmungen zu Erlaubnissen zur Ausübung einer Beschäftigung ohne Vorrangprüfung
 B.BeschVerfV.10. - 11. Zulassung von geduldeten Ausländern zur Ausübung einer Beschäftigung
+B BeschVerfV 12. - 17. Zuständigkeits- und Verfahrensregelungen, Schlussvorschriften
 C 1
 C 2
 C 3
