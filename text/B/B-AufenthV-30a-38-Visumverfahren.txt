@@ -142,7 +142,7 @@ B.AufenthV.41. Vergünstigung für Angehörige bestimmter Staaten
 Working-Holiday-Abkommen
 Youth-Mobility-Abkommen mit Kanada
 B.AufenthV.39. - 41. Einholung eines Aufenthaltstitels im Bundesgebiet
-(05.09.2011; HQRLUmsG)
+(HQRLUmsG: 21.08.2012)
 B.AufenthV.39. Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
 B.AufenthV.39.0. s. hierzu Ausführungen unter A.60a.2.3.
 Besitz eines nationalen Visums oder einer Aufenthaltserlaubnis
@@ -174,7 +174,7 @@ B.AufenthV.39.6. Mit Wirkung zum 22.10.2005 wurde § 39 eine Nr. 6 angefügt. Da
 Schengenstaaten sind alle Staaten der EU ohne Großbritannien, Irland, Bulgarien, Rumänien und Zypern zuzüglich Island und Norwegen (zu den Übergangsregelungen bzgl. der übrigen zum 01.05.2004 der EU beigetretenen Staaten vgl. A.6.s.). Für die Frage, ob ein gültiger Aufenthaltstitel eines Schengenstaates im Sinne des § 39 vorliegt, wird auf Art. 21 Abs. 1 und 2, Art. 5 Abs. 1 a, c und e sowie Art. 1 SDÜ verwiesen. Keine Aufenthaltstitel in diesem Sinne sind nationale Visa (vgl. Art. 18 SDÜ) oder Schengenvisa (Art. 10 SDÜ). Nach Art. 1 SDÜ fallen Aufenthaltsgestattungen für Asylbewerber sowie Duldungen anderer Schengenstaaten gleichfalls nicht unter den Begriff des Aufenthaltstitels. § 41 Abs. 3 findet Anwendung. Ist der Titel abgelaufen, kommt in diesen Fällen gleichfalls § 81 Abs. 4 AufenthG zur Anwendung.
 Personen im Besitz einer Blauen Karte EU
 B.AufenthV.39.7.
-Merke'': Bei Inhabern eines von einem anderen Schengen-Mitgliedstaat ausgestellten Aufenthaltstitel – auch einer Blauen Karte EU - ist vorrangig § 39 Nr. 6 zu prüfen. Gleiches gilt für die den Inhaber der Blauen Karte EU begleitenden bzw. nachziehenden Familienangehörigen.
+Merke: Bei Inhabern eines von einem anderen Schengen-Mitgliedstaat ausgestellten Aufenthaltstitel – auch einer Blauen Karte EU - ist vorrangig § 39 Nr. 6 zu prüfen. Gleiches gilt für die den Inhaber der Blauen Karte EU begleitenden bzw. nachziehenden Familienangehörigen.
 Der zum 01.08.2012 neu eingefügte § 39 Nr. 7 setzt Art. 18 Abs. 1 und 2 sowie Art. 19 Abs. 1 und 2 der Hochqualifizierten-Richtlinie (2009/50/EG) um. Danach haben Personen, die 18 Monate im Besitz einer Blauen Karte EU aus einem anderen Mitgliedstaat der EU sind, das Recht, sich zusammen mit ihren Familienangehörigen in einem anderen Mitgliedstaat der EU niederzulassen und in diesem zweiten Mitgliedstaat eine Blaue Karte EU für eine die Anforderungen erfüllende Beschäftigung zu beantragen. Eine Aufenthaltserlaubnis zum Zweck des Familiennachzugs für die den Inhaber begleitenden bzw. nachziehenden Familienangehörigen (der den Inhaber begleitende Ehegatte oder Lebenspartner sowie seiner minderjährigen ledigen Kinder) setzt voraus, dass die familiäre Lebensgemeinschaft bereits rechtmäßig im ersten Mitgliedstaat bestand und die Familienangehörigen auch dort bereits im Besitz eines Aufenthaltstitels zum Familiennachzug waren.
 Spricht ein Drittstaatsangehöriger mit einem Aufenthaltstitel eines anderen Mitgliedstaates der EU (nicht des EWR) vor, so muss der Titel nach der Hochqualifiziertenrichtlinie die Bezeichnung "Blaue Karte EU" in (einer) der jeweiligen Amtssprache(-n) enthalten. Dies ist anhand der folgenden Liste zu prüfen:
 Bulgarisch:
@@ -198,7 +198,8 @@ Tschechisch: modrou kartou EU
 Ungarisch: EU kék kártya
 Merke: Es ist kein Fall denkbar, in dem die in S. 3 geregelte Monatsfrist relevant werden könnte. Insoweit ist die Monatsfrist unbeachtlich. Mit der Antragstellung gilt der jeweilige Aufenthalt bis zur Entscheidung über den Antrag nach § 81 Abs. 3 AufenthG als erlaubt. Eine Fiktionsbescheinigung nach § 81 Abs. 3 ist auszustellen (zur Erlaubnisfiktion nach § 81 Abs. 3 AufenthG vgl. auch A.81.3.0 ff.')
 B.AufenthV.40. Verlängerung eines visumfreien Kurzaufenthalts
-§ 40 enthält (zusammen mit § 41) Vergünstigungen für Angehörige bestimmter Staaten ohne Unionsbürger und Angehörige der Mitgliedstaaten des EWR, da sich deren Rechtsstellung nicht nach der AufenthV, sondern zuvorderst nach europäischem Recht bestimmt (vgl. aber § 79).
+Beantragt ein Staatsangehöriger der in Anhang II zur EG-VisaVO aufgeführten Staaten eine Verlängerung des bis zu drei Monate dauernden visumfreien Aufenthaltes, so kommt die Erteilung einer Aufenthaltserlaubnis auf der Grundlage des § 40 AufenthV in Betracht.
+Voraussetzung hierfür ist das Vorliegen eines Ausnahmefalls im Sinne des Art. 20 Abs. 2 SDÜ. Die Annahme eines Ausnahmefalls kommt nur unter den engen Voraussetzungen des Art. 33 Visakodex in Betracht. Eine analoge Anwendung ist insofern gerechtfertigt, als dass Positivstaater für Besuchsaufenthalte zwar keiner Visumpflicht unterliegen, sie deshalb aber nicht besser gestellt werden dürfen als visapflichtige Negativstaater, die die in Art. 33 Visakodex vorgesehene Verlängerungsmöglichkeit in Anspruch nehmen können (vgl. insofern VAB.A.6.2.2).
 B.AufenthV.41. Vergünstigung für Angehörige bestimmter Staaten
 Working-Holiday-Abkommen
 Deutschland hat mit Australien, Hongkong (vgl. B.AufenthV.35.), Japan, Neuseeland, der Republik Korea und der Taipeh Vertretung in Berlin (vgl. B.AufenthV.32.) bilaterale Abkommen über Working-Holiday-Programme geschlossen. Daneben besteht eine Vereinbarung mit Kanada (beachte hier die besonderen Mitteilungspflichten am Ende) zur Jugendmobilität (Youth Mobility).

@@ -2,7 +2,7 @@ VAB A 18
 VAB A 18
 Inhaltsverzeichnis
 A.18. Beschäftigung
-(31.05.2012; HQRLUmsG)
+(HQRLUmsG; 27.09.2012)
 18.0. Grundsätze
 Tunesische Staatsangehörige
 Zulassung zum Aufenthalt und zur Erwerbstätigkeit
@@ -15,7 +15,7 @@ Zulassung zum Aufenthalt und zur Erwerbstätigkeit
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 18.6. Versagungsgründe
 A.18. Beschäftigung
-(31.05.2012; HQRLUmsG)
+(HQRLUmsG; 27.09.2012)
 18. 0. Grundsätze
 §§ 18f. setzen die Aufhebung des Anwerbestopps für Hochqualifizierte um (§ 19), während an dem Anwerbestopp für gering (§ 18 Abs. 3 i.V.m. § 17-24 BeschV) und „normal“ Qualifizierte (§ 18 Abs. 4 i.V.m. § 25-31 BeschV) festgehalten wird. Wie bisher in § 9 AAV werden auch weiterhin Angehörige bestimmter Staaten und sonstige Personengruppen (Deutsche Volkszugehörige mit Aufnahmebescheid - § 33 BeschV -, Monteure - §§ 35 ff. BeschVE -, Grenzgänger) privilegiert.
 Tunesische Staatsangehörige
@@ -44,10 +44,10 @@ Wird erneut ein Arbeitsplatz gefunden oder wird nunmehr eine Aufenthaltserlaubni
 Sprechen Personen - insbesondere Inhaber von Aufenthaltserlaubnissen nach § 16 Abs. 1 und Abs. 4 vor - und beantragen die Erteilung einer Aufenthaltserlaubnis nach § 18 i.V.m. §§ 2 -15 BeschV (zustimmungsfreie Tätigkeiten) kann die Aufenthaltserlaubnis bei Vorliegen der Erteilungsvoraussetzungen auch dann erteilt werden, wenn der Ort der Beschäftigung außerhalb Berlin- Brandenburgs liegt, solange der Ausländer nachweislich noch in Berlin gemeldet ist, und/oder
 die Tätigkeit ausweislich des Arbeitsvertrages erst innerhalb der nächsten drei Monate begonnen werden soll.
 18.2.1. 4. Verlängerung der Aufenthaltserlaubnis
-Bei der Verlängerung einer nach § 18 Abs. 3 oder 4 erteilten Aufenthaltserlaubnis ist immer § 9 Abs. 1 Nr. 2 i.V.m. Abs. 4 BeschVerfV zu beachten, wonach die Zustimmung der Arbeitsagentur nach dreijährigem erlaubten, geduldeten oder gestatteten Aufenthalt im Bundesgebiet ohne Beschränkungen auf eine besondere berufliche Tätigkeit (§ 9 Abs. 4 i.V.m. § 13 Nr. 1 BeschVerfV) erteilt werden kann. Insoweit hat uns die Bundesagentur für Arbeit eine „Globalzustimmung“ erteilt. Darüber hinaus kommt die Verlängerung in Form einer beschränkungsfreie AE zur Beschäftigung auch in den Fällen des § 9 Abs. 1 Nr. 1 BeschVerfV in Betracht, dann allerdings mit Zustimmung der Bundesagentur.
-Beachte: Die Vergünstigungen der BeschVerfV - insbesondere des § 9 BeschVerfV – können hingegen in den folgenden Fällen nicht Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis sein:
-Geduldete oder Gestattete beantragen eine AE nach § 18 unter Berufung etwa auf § 9 Abs. 1 BeschVerfV Verlängerung zeitlich befristeter Beschäftigungen (Stichwort: Spezialitätenköche)
-Vgl. dazu die Ausführungen unter B.BeschVerfV.0. und B.Besch.VerfV.9.0.
+Anders als bei der Erteilung der AE nach § 18 Abs. 3 oder 4 ist bei der Verlängerung einer AE nach § 18 Abs. 3 oder 4 immer § 3b BeschVerfV zu beachten. Bei Vorliegen der Voraussetzungen des § 3b BeschVerfV kann die AE - ohne vorangegangene Anfrage bei der BA - mit der Nebenbestimmung "Erwerbstätigkeit gestattet" verlängert werden (vgl auch Ausführungen unter B.BeschVerfV.3b.)
+Beachte: Die Vergünstigungen der BeschVerfV - insbesondere des § 3b BeschVerfV – können hingegen in den folgenden Fällen nicht Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis sein:
+Geduldete oder Gestattete beantragen eine AE nach § 18 unter Berufung etwa auf § 3b Abs. 1 BeschVerfV Verlängerung zeitlich befristeter Beschäftigungen (Stichwort: Spezialitätenköche)
+Vgl. dazu die Ausführungen unter B.BeschVerfV.0. und B.Besch.VerfV. 3b.
 18.2.2. einstweilen frei
 18.3. Siehe die abschließende Aufzählung nicht qualifizierter Beschäftigungen in den §§ 17-23 BeschV.
 18.4. Beschäftigung mit qualifizierter Berufsausbildung

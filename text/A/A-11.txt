@@ -3,57 +3,39 @@ VAB A 11
 Inhaltsverzeichnis
 A.11. Einreise- und Aufenthaltsverbot
 11.1.3.1. Antrag auf Befristung
-11.1.3.2. Grundsätzlich kein Verzicht auf Befristung im atypischen Fall
-11.1.3.3. Befristung bei fehlender Bestandskraft
+11.1.3.2. Befristung im Einreiseverfahren
+11.1.3.3. Befristung bei Ausweisungen
 11.1.3.4. Zuständigkeit der Bundespolizei
-11.1.4.1. Befristungsermessen
-11.1.4.2. Abschiebung ohne vorausgegangene Ausweisung
-11.1.4.3. Leitlinien für die Ermessensausübung in Fällen der Ausweisung
-11.1.4.3.1. Befristungszeiträume
-11.1.4.3.2. Verlängerung des Befristungszeitraumes
-11.1.4.3.3. Verkürzung des Befristungszeitraumes
-11.1.4.3.4. Überschreiten der Regelhöchstfrist von fünf Jahren
-11.1.4.3.5. Grundsatz der Verhältnismäßigkeit
-11.1.4.3.5. Verwertungsverbot nach dem BZRG
-11.1.3.9.
-11.1.4.3.6. Offene Abschiebungskosten
-11.1.4.3.7. Befristung unter Bedingungen
+11.1.4.1. Befristung der Abschiebung ohne vorausgegangene Ausweisung
+11.1.4.2. Befristung bei Ausweisungen
+11.1.4.3. Überschreiten der Regelhöchstfrist von 5 Jahren
+11.1.4.4. Verwertungsverbot nach dem BZRG
+11.1.4.5. Offene Abschiebungskosten
+11.1.4.6. Befristung unter Bedingungen
+11.1.5. Berücksichtigung der freiwilligen Ausreise
 11.1.6. Beginn des Befristungszeitraumes
+11.1.7. Verzicht auf Befristung nach § 11 Abs. 1 S.7
 11.2. Betretenserlaubnis
 A.11. Einreise- und Aufenthaltsverbot
-(04.06.2012; 21.06.2012)
+(02.08.2012; 02.10.2012)
 11.1.1. Die Sperrwirkung bei Zurückschiebungen gilt nur für nach Inkrafttreten des Gesetzes zum 01.01.2005 durchgeführte Zurückschiebungen.
 11.1.2. frei
 11.1.3.1. Antrag auf Befristung
-Der Ausländer soll auf die Möglichkeit der Antragstellung gem. § 11 Abs. 1 S. 3 hingewiesen werden, vgl. § 82 Abs. 3.
-Bei deutschen Auslandsvertretungen gestellte Einreiseanträge sind in Fällen, in denen die Wirkung der Ausweisung oder Ab- bzw. Zurückschiebung auf Antrag befristet werden kann, grundsätzlich auch als Befristungsanträge gem. § 11 Abs. 1 S. 3 zu behandeln (Nr. 11.1.3.5. AufenthG-VwV). Die Versagung der Zustimmung allein unter Verweis auf die Sperrwirkung und/oder den fehlenden Antrag auf Befristung sollte unterbleiben. Dieses Verfahren gilt auch bei anwaltlicher Vertretung des Betroffenen.
+Die Sperrwirkungen von Ausweisungen, Zurückschiebungen und Abschiebungen werden grundsätzlich auf Antrag befristet, § 11 Abs. 1 Satz 3 AufenthG. Für den Antrag genügt jede Form der Willensbekundung des Betroffenen, mit der sich dieser gegen die Ausweisung wendet (BVerwG, Urteil vom 7. Juli 2012, BVerwG 1 C 19.11, juris, Rn. 37). Die Ausweisung ist erst nach Zahlung der Bearbeitungsgebühr (§ 69 Abs. 1 AufenthG i.V.m. § 47 Abs. 1 Nr. 1 AufenthV) zu befristen.
+11.1.3.2. Befristung im Einreiseverfahren
+Bei deutschen Auslandsvertretungen gestellte Einreiseanträge sind in Fällen, in denen die Wirkung der Ausweisung oder Ab- bzw. Zurückschiebung auf Antrag befristet werden kann, grundsätzlich auch als Befristungsanträge gem. § 11 Abs. 1 S. 3 zu behandeln (Nr. 11.1.3.5. AufenthG-VwV). Die Versagung der Zustimmung allein unter Verweis auf die Sperrwirkung und/oder den fehlenden Antrag auf Befristung muss unterbleiben. Dieses Verfahren gilt auch bei anwaltlicher Vertretung des Betroffenen.
+Zuständig für die Befristung ist grundsätzlich die Ausländerbehörde des Bundeslandes, in dem der Ausländer seinen gewöhnlichen Aufenthalt hat oder zuletzt hatte. Eine Annexzuständigkeit der die Abschiebung anordnenden Behörde für die Entscheidung über die spätere Befristung besteht nicht (vgl. BVerwG, Urteil vom 22.03.2012, 1
+C 5.11). Allein der Umstand, dass der Ausländer in ein bestimmtes Bundesland zuziehen will, reicht demzufolge ebenfalls nicht aus, die Zuständigkeit dieses Bundeslandes abweichend vom Ort des gewöhnlichen Aufenthalts i.S.v. § 3 Abs. 1 Nr. 3a VwVfG zu begründen. Über die Befristungsanträge, auch soweit über die Zuständigkeit zu entscheiden ist, wird durch die jeweiligen Regionalsachgebiete entschieden. Dies gilt auch für Befristungsanträge, die im Zusammenhang mit einem Einreiseverfahren gestellt werden.
 Merke: Wurde eine Befristungsentscheidung getroffen, können Ausweisungsgründe, die der abgelaufenen Befristung zugrunde gelegen haben, entgegen Nr. 11.1.4.10 AufenthG-VwV keine Berücksichtigung mehr finden.
-Merke: Befristung von Amts wegen
-Bei Vorliegen der folgenden Voraussetzungen ist die Wirkung der Ausweisung von Amts wegen zugleich mit der Ausweisung zu befristen:
-Die Ausweisung ist allein auf generalpräventiven Erwägungen gestützt und
-der Ausländers genießt besonderen Ausweisungsschutz (§ 56 Abs. 1 Satz 1 AufenthG).'
-Dies gilt nicht in den Fällen, in denen eine Befristung nach § 11 Abs. 1 Satz 7 AufenthG ausgeschlossen ist. Ist die Ausweisung zunächst sowohl auf spezialpräventive als auch auf generalpräventive Gründe gestützt und ergibt sich im gerichtlichen Verfahren, dass die spezialpräventiven Gründe nicht mehr vorliegen und die Ausweisung allein auf generalpräventive Gründe gestützt werden kann, muss die Ausländerbehörde die Befristung der Wirkungen der Ausweisung nachholen (BVerwG, Urteil vom 14.02.2012, BVerwG 1 C 7.1).
-Ist die Ausweisung mit der Befristung verbunden, müssen im Bescheid zwei Rechtsbehelfbelehrungen (Klage gegen die Ausweisungsverfügung und Widerspruch gegen die Befristungsentscheidung) verfügt werden.
-11.1.3.2. Grundsätzlich kein Verzicht auf Befristung im atypischen Fall
-Eine Befristung der Wirkung von Ausweisung und/oder Abschiebung ist auf Antrag stets vorzunehmen.
-Einzige Ausnahme sind die Fälle des § 11 Abs. 1 S. 7 (Verbrechen gegen den Frieden, Kriegsverbrechen, Verbrechen gegen die Menschlichkeit, Abschiebungsanordnung nach § 58a AufenthG), in denen eine Befristung weiterhin nicht erfolgt. Hier macht der Gesetzgeber von der durch Art. 2 Abs. 2 der Rückführungsrichtlinie (RL 2008/115/EG) eingeräumten Möglichkeit Gebrauch, die Regelungen der Richtlinie auf diese Fälle nicht anzuwenden.
-Wurde in der Vergangenheit eine Befristung aufgrund einer atypischen Fallkonstellation (etwa auch in Hinblick auf nicht beglichene Abschiebungskosten) abgelehnt, ist einem erneuten Antrag auf Befristung nunmehr zu entsprechen.
-' Beachte:' Die Vorgaben der Rückführungsrichtlinie ändern nichts daran, dass über einen Befristungsantrag weiterhin erst zu entscheiden ist, wenn die Bearbeitungsgebühr gezahlt worden ist.
-11.1.3.3. Befristung bei fehlender Bestandskraft
-Eine Befristungsentscheidung setzt grundsätzlich nicht voraus, dass die Ausweisung bereits bestandskräftig bzw. ein dagegen gerichtetes Klageverfahren rechtskräftig abgeschlossen ist. Der Umstand, dass die Ausweisung noch nicht bestands- oder rechtskräftig ist, ist auch im Rahmen des Befristungsermessens keinesfalls zu Gunsten des Ausländers zu berücksichtigen. Beantragt ein Ausländer während eines laufenden Klageverfahrens eine Befristung, gelten hier die allgemeinen Grundsätze für die Befristungsdauer.
+11.1.3.3. Befristung bei Ausweisungen
+Nach Rechtsprechung des Bundesverwaltungsgerichts ist jede Ausweisung bereits mit Erlass zu befristen (BVerwG, Urteil vom 10.07.2012, 1 C 19.11, Rn.37). Der gemäß § 11 Abs. 1 Satz 3 AufenthG vorgesehene Antrag ist in jeder Form der Willensbekundung des Betroffenen gegen die Ausweisung zu erkennen.'
+Merke: Die Befristungsentscheidung erfolgt weiterhin im Rahmen eines Antragsverfahrens. Daraus folgt, dass die Befristung erst vorgenommen wird, wenn die gemäß § 69 Abs. 1 Satz 1 AufenthG i.V.m. § 47 Abs. 1 Nr. 1 AufenthV zu entrichtenden Gebühren eingezahlt worden sind. Dies gilt auch in den Verfahren, in denen das Verwaltungsgericht eine Verpflichtung zur Befristung ausspricht.
+Fehlt die notwendige Befristung der Wirkung der Ausweisung, hat das nicht zur Folge, dass die - als solche rechtmäßige – Ausweisung aufzuheben ist. Vielmehr kann der Ausländer zugleich mit Anfechtung der Ausweisung seinen Anspruch auf Befristung der Wirkungen der Ausweisung gerichtlich durchsetzen. In der Anfechtung der Ausweisung ist zugleich – als Minus – für den Fall der Bestätigung der Rechtmäßigkeit der Ausweisung ein (Hilfs-)Antrag auf Verpflichtung der Ausländerbehörde zu einer Befristung ihrer Wirkung zu sehen, sofern eine solche nicht bereits zuvor von der Ausländerbehörde verfügt wurde. Im Fall der gerichtlichen Bestätigung der Ausweisung ist somit vom Gericht zugleich eine Entscheidung über die Befristung der Wirkungen der Ausweisung zu treffen.
 11.1.3.4. Zuständigkeit der Bundespolizei
 Zur Zuständigkeit der Bundespolizei für die Befristung der Sperrwirkung von Zurückschiebungen vgl. A.71.3.1.. Bei Stellungnahmen gegenüber dem Bundespolizeiamt zu Anträgen auf Befristung der Wirkung der Zurückschiebung sind die gleichen Maßstäbe wie diejenigen zur Befristung einer Abschiebung anzulegen.
-11.1. 4.1. Befristungsermessen
-Die Entscheidung über die Dauer der Befristung steht im Ermessen der Ausländerbehörde. Bei Ausweisungen anderer Behörden beachte die Hinweise zum Einvernehmenserfordernis unter A.72.3..
-Im Rahmen des Ermessens ist das Interesse des Betroffenen an Einreise- und Aufenthalt im Bundesgebiet mit dem öffentlichen Interesse daran abzuwägen, den Betroffenen etwa wegen der einer Ausweisung zu Grunde liegenden Umstände vom Bundesgebiet fernzuhalten.
-Ferner ist im Rahmen der Ermessensentscheidung zu berücksichtigen, ob der Ausländer rechtzeitig und freiwillig ausgereist ist, vgl. § 11 Abs. 1 Satz 5 AufenthG. Die Regelung betont das besondere öffentliche Interesse an der zügigen Ausreise der Ausländer, die über kein Aufenthaltsrecht mehr verfügen.
-Erlischt ein Aufenthaltstitel durch Ablauf der Geltungsdauer liegt ausweislich der Gesetzesbegründung keine freiwillige Ausreise mehr vor, wenn die Ausreise nicht vor Ablauf des Titels erfolgt ist (vgl. BTDrs. 17/5470, S. 21 zu Nr. 9).
-Im Falle der Abschiebung fällt die mangelnde Bereitschaft des Betroffenen, sich an die aufenthaltsrechtlichen Vorschriften zu halten, zu seinen Lasten ins Gewicht.
-Darüber hinaus ist im Rahmen der Befristungsentscheidung zu berücksichtigen, dass aufgrund der Einführung der regelmäßigen Höchstfrist der Sperrwirkung von fünf Jahren gem. § 11 Abs. 1 S. 4 die behördliche Ermessensentscheidung in zeitlicher Hinsicht regelmäßig konkret begrenzt ist. Die Höchstfrist von fünf Jahren ist auch hinsichtlich der in § 11 Abs. 1 Satz 4 genannten Ausnahmefälle (Ausweisung aufgrund einer strafrechtlichen Verurteilung, Vorliegen einer schwerwiegenden Gefahr für die öffentliche Sicherheit und Ordnung) grundsätzlich beachtlich; sie kann jedoch in diesen Ausnahmefällen unter Berücksichtigung der Umstände des Einzelfalles überschritten werden. Vor diesem Hintergrund können die durch die VwV- AufenthG des Bundes vorgegebenen Ermessensleitlinien bis zu einer Überarbeitung unter Berücksichtigung der geänderten Rechtslage keine Anwendung finden, soweit diese entgegen der neuen gesetzlichen Regelung bei Ist- und Regelausweisungsgründen regelmäßig Befristungszeiträume vorsehen, die die gesetzlich vorgegebene Höchstfrist deutlich übersteigen (vgl. OVG Berlin-Brandenburg, Urteil vom 13.12.2011, OVG 12 B 19.11).
-Darüber hinaus erweist sich auch das durch die VwV-AufenthG vorgegebene System einer weiteren Verkürzung nach Ausreise als rechtlich nicht tragfähig (vgl. VG Berlin, Urteil vom 22.02.2011, 35 K 179.10; OVG Berlin-Brandenburg, a.a.O.) und findet ebenfalls keine weitere Anwendung. Stattdessen sind die unter 11.1.3.7. neugefassten Ermessensleitlinien nunmehr allen Befristungsentscheidungen sowohl im Ausgangs- als auch im Widerspruchsverfahren zu Grunde zu legen.
-11.1. 4.2. Abschiebung ohne vorausgegangene Ausweisung
-Für die Ausübung des Ermessens in Fällen der Abschiebung ohne vorausgegangene Ausweisung, geben die Verwaltungsvorschriften unter Ziffer 11.1.4.6.3. die folgenden Leitlinien vor:
-Die Frist beträgt - bei beglichenen Abschiebungskosten (s. ansonsten dazu unten: 11.1. 4.3.6.) - im Regelfall zwei Jahre und kann nach den Umständen des Einzelfalls auf ein Jahr halbiert oder auf vier Jahre verdoppelt werden.
+11.1.4. 1. Befristung der Abschiebung ohne vorausgegangene Ausweisung
+Für die Festsetzung der Dauer der Sperrwirkung in Fällen der Abschiebung ohne vorausgegangene Ausweisung, geben die Verwaltungsvorschriften unter Ziffer 11.1.4.6.3. die folgenden Leitlinien vor:
+Die Frist beträgt - bei beglichenen Abschiebungskosten (s. ansonsten dazu unten: 11.1.4.3.6.) - im Regelfall zwei Jahre und kann nach den Umständen des Einzelfalls auf ein Jahr halbiert oder auf vier Jahre verdoppelt werden.
 Eine Befristung von unter einem Jahr soll nur im Fall eines gesetzlichen Anspruchs auf Erteilung der Aufenthaltserlaubnis oder bei Ausländern erwogen werden, die zum Zeitpunkt der Abschiebung minderjährig waren.
 1. Eine Befristung von unter einem Jahr kommt daher unter weitgehender Beibehaltung der bisherigen Verwaltungspraxis im Falle der isolierten Abschiebung nur in den folgenden Fällen in Betracht:
 1.1. Die Wirkung einer Abschiebung, die nicht im Zusammenhang mit einer Ausweisung steht, wird auf drei Monate nach Ausreise befristet, bei Personen, die in familiärer Lebensgemeinschaft mit einem Deutschen, einem Asylberechtigten oder einem Kontingentflüchtling leben bzw. eine solche Lebensgemeinschaft im Bundesgebiet aufnehmen würden (Fälle gem. §§ 30 Abs. 1 S. 1 Nr. 3c (2.Alt.), 32 Abs. 1 Nr. 1, 27 Abs. 2, 28 Abs. 1 AufenthG). Dasselbe gilt, wenn der Ausländer zum Zeitpunkt der Abschiebung minderjährig war.
@@ -61,82 +43,65 @@ Eine Befristung von unter einem Jahr soll nur im Fall eines gesetzlichen Anspruc
 Bei wiederholten Abschiebungen werden in diesen Fällen die angegebenen Zeiten jeweils für jede weitere Abschiebung hinzugezählt. Zu beachten ist die Höchstfrist von fünf Jahren gemäß § 11 Abs. 1 Satz 4 AufenthG, die dann überschritten werden kann, wenn der Ausländer wegen einer strafrechtlichen Verurteilung ausgewiesen worden ist oder wenn von ihm eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung ausgeht.
 2. In allen anderen Fällen gilt als Ermessensleitlinie im Einklang mit der Verwaltungsvorschrift regelmäßig eine Sperrfrist von zwei Jahren. Diese wird in der Regel auf vier Jahre verdoppelt, wenn im Vorfeld der Abschiebung ein oder mehrere Abschiebungsversuche aus von dem Ausländer zu vertretenden Gründen gescheitert sind. Eine Halbierung der Frist auf ein Jahr kommt nur dann in Betracht, wenn ein besonderes öffentliches Interesse an der Wiedereinreise des Ausländers besteht. Auch bei unerlaubter Wiedereinreise und daraus resultierenden wiederholten Abschiebungen werden für jede weitere Abschiebung zwei Jahre auf die Sperrfrist hinzugezählt.
 Sofern der Ausländer Sperrfristen „anhäuft“, die ihm Einreise und Aufenthalt im Bundesgebiet für mehr als fünf Jahre verwehren würden, greift die in § 11 Abs. 1 S. 4 vorgesehene Höchstfrist von fünf Jahren, die dann überschritten werden kann, wenn der Ausländer wegen einer strafrechtlichen Verurteilung ausgewiesen worden ist oder wenn von ihm eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung ausgeht.
-11.1. 4.3. Leitlinien für die Ermessensausübung in Fällen der Ausweisung
-Die Dauer der Befristung steht im Ermessen der Ausländerbehörde. Befristungsentscheidungen müssen im Lichte des Gesetzeszweckes getroffen werden. Der Gesetzeszweck eines Aufenthaltsverbotes nach einer Ausweisung liegt in der Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung, die bei einem etwaigen Verbleib des Ausländers im Bundesgebiet drohen. Die Ausländerbehörde hat die gefahrenabwehrspezifischen Kriterien des Einzelfalles herauszuarbeiten und in ihrer Bedeutung zu gewichten. Bei dieser Prognose sind alle wesentlichen Umstände des Einzelfalles zu berücksichtigen und ihrem Gewicht entsprechend unter Beachtung der gesetzlichen Grenzen des behördlichen Ermessens, etwa des Grundsatzes der Verhältnismäßigkeit, der aufenthaltsrechtlichen Schutzwirkungen von Art. 6 GG und Art. 8 EMRK und des Verwertungsverbotes nach § 51 Abs 1 BZRG, sachgerecht abzuwägen (OVG Lüneburg, Urteil vom 14. Mai 2009 – 8 LB 158.06 -, juris; VGH Baden-Württemberg, Urteil vom 24. Juni 1998 – 13 S 1099.96 -, juris). Die nachfolgenden Hinweise geben eine Orientierung bei der Bemessung der Fristdauer, wobei aber stets den besonderen Umstände des Einzelfalls Rechnung zu tragen ist.
-11.1. 4.3.1. Befristungszeiträume
-Die Ausübung des Ermessens orientiert sich zunächst an den in der folgenden Tabelle aufgeführten Basisbe fristungszeiträumen, die sich an der Schwere des Ausweisungsgrundes und den betroffenen aufenthaltsrechtlichen Anspruchsgrundlagen orientieren und eine erste Abwägung zwischen dem öffentlichen Interesse an einem Fernhalten des Ausgewiesenen - indiziert durch den Ausweisungsgrund - und dem Interesse des Ausgewiesenen am Verbleib bzw. einer schnellstmöglichen Rückkehr ins Bundesgebiet – indiziert durch die betroffene aufenthaltsrechtliche Anspruchsgrundlage– vornimmt. Dieser zunächst zu ermittelnde Basisbefristungszeitraum wird dann unter Abwägung aller für eine Verlängerung (vgl. 11.1.3.7.2.) bzw. Verkürzung (vgl. 11.1.3.7.3.) dieses Zeitraums sprechenden Umstände des Einzelfalls im Ergebnis ... weggefallen ... verlängert oder verkürzt oder beibehalten werden können.
-Personen, die in ehel.,
-lebenspartnerschaftl. oder fam.
-Lebensgem. mit einem Deutschen,
-AW-Grund Asylberechtigten oder Kontingentflüchtling Fälle gem.
-leben (Fälle gem. §§ 37 Abs. 1,
-(verwirklichter
-AW-Tatbestand §§ 30 Abs. 1 S. 1 Nr. 3c, 30 Abs. 1 S. 1 Nr. 3 a-b, d-f, Sonstige Personen
-ohne 32 Abs. 1 Nr. 1, 32 Abs. 1 Nr. 2, Abs. 3,
-ohne
-27 Abs. 2, 34 Abs. 1, Rechtsanspruch auf
-Berücksichtigung
-28 Abs. 1 AufenthG, bei denen die 28 Abs. 3 i. V. m. Erteilung
-eines etwaigen
-Voraussetzungen einer der genannten § 34 Abs. 2 AufenthG, bei denen die
-er- eines
-Rechtsgrundlagen - nicht zwingend Vorauss. einer der gen.
-höhten Aufenthalts-titels
-auch der allgem. Rechtsgrundlagen - nicht zwingend
-AW-Schutzes Erteilungs-voraussetzungen vorliegen) auch der allgem.
-und ARB)
-Erteilungsvoraus-setzungen
-vorliegen
-§ 55 3 Monate 6 Monate 1 Jahr
-§ 54 1 Jahr 18 Monate 4 Jahre
-§ 53 2 Jahre drei Jahre 5 Jahre
-11.1. 4.3.2. Verlängerung de s Befristungszeitraumes
-Zu den Umständen, die regelmäßig eine Verlängerung der Mindestfrist gebieten können, gehören insbesondere
-neue Straftaten nach Erlaß der Ausweisung: In solchen Fällen ist keine erneute Ausweisung erforderlich und die erneuten Ausweisungsgründe sind bei der Befristungsdauer zu berücksichtigen (vgl. auch A.53.s.1.3.). Als Orientierungsmaßstab erfolgt die Verlängerung, indem hierfür der „Ausgangsfrist“ die anhand der erneut verwirklichten Ausweisungsgründe zu ermittelnde Basis frist hinzugerechnet wird. A Auch bei der addierten Frist sind etwaige Verkürzungsgründe, die Höchstfrist von fünf Jahren gemäß § 11 Abs. 1 Satz 4 AufenthG, die bei einer Ausweisung aufgrund einer strafrechtlichen Verurteilung oder dem Vorliegen einer schwerwiegenden Gefahr für die öffentliche Sicherheit und Ordnung überschritten werden darf, sowie der Grundsatz der Verhältnismäßigkeit zu beachten, die Häufigkeit der begangenen Straftaten,
-die Art und Schwere der Straftat en /Höhe der Freiheitsstrafe,
-Schwere der Rechtsgutverletzung (z.B. Leben, Gesundheit, Freiheit, Eigentum),
-besondere Sicherheitsinteressen, insbesondere bei Bezug zu Terrorismus und Extremismus,
-bei drogenabhängigen Ausländern die mangelnde Bereitschaft, die notwendige Therapie durchzuführen oder der Umstand, dass der Ausländer sich einer solchen Therapie entzieht (§ 55 Abs. 2 Nr. 4),
-die nicht rechtzeitige und freiwillige Ausreise des Ausländers, vgl. § 11 Abs. 1 Satz 5 AufenthG, der Verstoß gegen Einreisevorschriften. Dem Verstoß gegen Einreisevorschriften kann die Ausländerbehörde bei der Bestimmung der Dauer der Sperrfrist maßgebliche Bedeutung zumessen. Denn dem öffentlichen Interesse an der Einhaltung der Einreisebestimmungen kommt ein erhebliches Gewicht zu (OVG Berlin-Brandenburg, Beschluss vom 23.05.2012, OVG 12 M 6.12).
-Bei der Verlängerung der Mindestfrist ist stets zu beachten, ob die Höchstfrist von fünf Jahren gemäß § 11 Abs. 1 Satz 4 AufenthG überschritten werden kann, vgl. hierzu die Ausführungen unter Ziffer 11.1.4.3.4.
-verschoben nach VAB.A.11.1.4.5.
-11.1. 4.3.3. Verkürzung de s Befristungszeitraumes
-Zu den Umständen, die eine Verkürzung des Befristungszeitraumes gebieten können, gehören
-insbesondere
-Zäsur durch veränderte familiäre Umstände;
-langer zeitlicher Abstand zur letzten Straftat;
-die rechtzeitige und freiwillige Ausreise des Ausländers, § 11 Abs. 1 Satz 5 AufenthG
-11.1.4.3.4. Überschreiten der Regelhöchstfrist von fünf Jahren
-Bei der Verlängerung der Mindestfrist ist zu beachten, dass die Höchstfrist von 5 Jahren nur in den in § 11 Abs. 1 S. 4 genannten Ausnahmefällen (Ausweisung auf Grund einer strafrechtlichen Verurteilung, Vorliegen einer schwerwiegenden Gefahr für die öffentliche Sicherheit und Ordnung) überschritten werden darf.
-Die Annahme eines Ausnahmefalls kommt in der Regel dann in Betracht, soweit die Ausweisung auf einer Verurteilung basiert, durch die ein Ausweisungsgrund nach §§ 53, 54 Nr. 5 bis 5 bund 7 AufenthG verwirklicht wurde oder anzunehmen ist, dass die Verwirklichung derartiger Ausweisungsgründe durch den Ausländer weiterhin droht.
+11.1.4.2. Befristung bei Ausweisungen
+Die Entscheidung über die Dauer der Befristung steht nicht (mehr) im Ermessen der Ausländerbehörde. Vielmehr ist die Dauer der Befristung eine voll gerichtlich überprüfbare Frage der Verhältnismäßigkeit.
+Bei der Bestimmung der Länge der Frist sind zunächst das Gewicht des Ausweisungsgrundes und der mit der Ausweisung verfolgte Zweck zu berücksichtigen. Die sich an der Erreichung des Ausweisungszwecks orientierende Höchstfrist muss sich dann aber an höherrangigem Recht, d.h. verfassungsrechtlichen Wertentscheidungen (Art. 2 Abs. 1, Art. 6 GG) und den Vorgaben aus Art. 7 der Charta der Grundrechte der Europäischen Union (GRCh), Art. 8 EMRK messen und ggf. relativieren lassen.
+Bei der Entscheidung ist zunächst folgender Orientierungsmaßstab zugrunde zu legen:
+Keine Rechte aus Art. 6 GG:
+§ 53 – hohe Wiederholungsgefahr, insbesondere Wiederholungstäter = 8 Jahre
+§ 53 – geringe bis durchschnittliche Wiederholungsgefahr = 6 Jahre
+§ 54 - hohe Wiederholungsgefahr, insbesondere Wiederholungstäter = 5 Jahre
+§ 54 - geringe bis durchschnittliche Wiederholungsgefahr = 4 Jahre
+§ 55 - schlechte Gefahrenprognose oder Wiederholungstäter = 3 Jahre
+§ 55 - geringe bis durchschnittliche Wiederholungsgefahr = 2 Jahre
+Rechte aus Art. 6 GG – deutsche Kinder ab 6 Jahre (schulpflichtig) und/oder deutscher Ehegatte/Lebenspartner:
+§ 53 - hohe Wiederholungsgefahr, insbesondere Wiederholungstäter = 6 Jahre
+§ 53 - geringe bis durchschnittliche Wiederholungsgefahr = 5 Jahre'
+§ 54 - hohe Wiederholungsgefahr, insbesondere Wiederholungstäter = 4 Jahre
+§ 54 - geringe bis durchschnittliche Wiederholungsgefahr = 3 Jahre
+'
+§ 55 - hohe Wiederholungsgefahr, insbesondere Wiederholungstäter = 2 Jahre
+§ 55 - geringe bis durchschnittliche Wiederholungsgefahr = 1 Jahr'
+Rechte aus Art. 6 GG – deutsche Kinder unter 6 Jahre:
+Insbesondere bei sehr kleinen Kindern kann bereits eine Trennung von mehr als einem Jahr unverhältnismäßig sein. Es muss daher individuell, unter Berücksichtigung der Familiensituation entschieden werden, inwiefern das eine Jahr "erhöht" werden kann.
+Rechte aus Art. 6 GG - ausländischer Ehegatten/Lebenspartner und / oder Kinder:
+Sind durch die Ausweisung die Interessen ausländischer Kinder und / oder Ehegatten betroffen, ist entscheidend, ob die familiäre Lebensgemeinschaft zumutbar auch im Herkunftsland gelebt werden kann. Kann die familiäre Lebensgemeinschaft nicht zumutbar im Herkunftsland gelebt werden, ist der Orientierungsmaßstab wie bei deutschen Kindern und / oder Ehegatten maßgeblich.'
+Merke: Befindet sich der Ausländer noch in Haft, ist zu berücksichtigen, welches Lebensalter die Kinder bei der voraussichtlichen Haftentlassung und dann evtl. möglichen Ausreise des Ausländers haben werden. Beachte:
+Die Orientierungsfristen sind immer im Rahmen der Verhältnismäßigkeitsprüfung – insbesondere unter Berücksichtigung von Art. 8 EMRK unter Beachtung der besonderen Umstände des Einzelfalls anzupassen.
+Die neugefassten Befristungsleitlinien sind nunmehr allen Befristungsentscheidungen sowohl im Ausgangs- als auch im Widerspruchsverfahren zu Grunde zu legen.
+11.1.4.3. Überschreiten der Regelhöchstfrist von 5 Jahren
+Die Höchstfrist von fünf Jahren ist auch hinsichtlich der in § 11 Abs. 1 Satz 4 genannten Ausnahmefälle (Ausweisung aufgrund einer strafrechtlichen Verurteilung, Vorliegen einer schwerwiegenden Gefahr für die öffentliche Sicherheit und Ordnung) grundsätzlich beachtlich; sie kann jedoch in diesen Ausnahmefällen unter Berücksichtigung der Umstände des Einzelfalles überschritten werden.
+Die Annahme eines Ausnahmefalls kommt in der Regel dann in Betracht, wenn die Ausweisung auf einer Verurteilung basiert, durch die ein Ausweisungsgrund nach §§ 53, 54 Nr. 5 bis 5 bund 7 AufenthG verwirklicht wurde oder anzunehmen ist, dass die Verwirklichung derartiger Ausweisungsgründe durch den Ausländer weiterhin droht.
 Aber auch bei Vorliegen sonstiger (Regel- und Ermessensausweisungsgründe) kann von dem Ausländer eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung ausgehen. Erforderlich ist, dass dem Ausweisungsanlass ein besonderes Gewicht zukommt. Dieses kann sich bei Straftaten insbesondere aus deren Art und Häufigkeit ergeben (BVerwG, Urteil vom 14.02.2012, - BVerwG 1 C 7.11 -).
-Schwerwiegend in diesem Sinne ist jedenfalls eine solche Straftat, die eine Verurteilung wegen unerlaubten Handels mit Betäubungsmitteln, ein gewichtiges Rechtsgut und damit ein Grundinteresse der Europäischen Union betrifft (VG Berlin, Urteil vom 13.01.2012 – VG 19. K 232.11 -).
-11.1.4.3.5. Grundsatz der Verhältnismäßigkeit
-Bei der Befristungsentscheidung ist stets zu beachten, dass diese verhältnismäßig ist und insbesondere nicht gegen Art. 6 GG und Art. 8 EMRK verstößt. Dies gilt insbesondere dann, wenn an ein längeres Fernbleiben des Betroffenen vom Bundesgebiet erhöhte Anforderungen zu stellen sind, wie dies etwa wegen der familiären Beziehung zu einem Kleinkind (0-3 Jahre) der Fall sein kann, dem - z.B. wegen seiner deutschen Staatsangehörigkeit - das Verlassen des Bundesgebietes nicht ohne Weiteres zuzumuten ist und zu dem der Kontakt nur schwer über moderne Telekommunikationsmittel aufrecht erhalten werden kann.
-Merke: Beim Umgang mit Kindern ist maßgeblich auf die Sicht des Kindes abzustellen und die Folgen der Trennung für das Kindeswohl zu beurteilen.
-Bestehen keine schützenswerten Bindungen zu vorhandenen Familienmitgliedern und ist der Ausländer in erheblichem Umfang straffällig geworden, kann die Höchstfrist von fünf Jahren gemäß § 11 Abs. 1 Satz 4 AufenthG überschritten werden (OVG Berlin-Brandenburg, Urteil vom 13.12.2011, - 0VG 12 B 20.11 -, juris, Rn. 36).
-Ist der Ausländer in erheblichem Umfang straffällig geworden, besteht aber eine schützenswerte Bindung zu einem deutschen Kleinkind (0-3 Jahre), kann ein Befristungszeitraum von einem Jahr angemessen sein (OVG, Berlin-Brandenburg, Urteil vom 13.12.2011, OVG 12 B 19.11, juris, Rn. 33).
-Ergibt eine Einzelfallprüfung, dass selbst eine kurzfristige Trennung von deutschen Familienangehörigen auf Grund der negativen Folgen unverhältnismäßig ist, ist regelmäßig unter Zweckmäßigkeitsgesichtpunkten von der Aufenthaltsbeendigung vollständig abzusehen und an der Ausweisung allein aus Gründen der Statusverschlechterung festzuhalten. Insofern ist nämlich regelmäßig davon auszugehen, dass einem derart kurz bemessenen Befristungszeitraum weder in generalpräventiver noch in spezialpräventiver Hinsicht eine ausreichende Warnfunktion zuerkannt werden kann, mithin dieser Zeitraum ungeeignet sein dürfte, den Ausweisungszweck gemessen an der Schwere der der Ausweisung zugrundeliegenden Straftaten zu erfüllen und dem betreffenden Ausländer keinerlei Veranlassung bietet, sich bereits im Rahmen seines Auslandsaufenthalts ausreichend auf ein zukünftig straffreies Leben vorzubereiten. In dieser Konstellation würde eine Ausreise die eigentlich zu leistende Lebensplanung lediglich zweckfrei verzögern. In diesen Fällen kommt aufgrund der fehlenden Aufenthaltsbeendigung und damit einhergehenden grundsätzlich geminderten Wirkung der Ausweisung ein längerer Befristungszeitraum als die Basisfrist in Betracht, um den Folgen der Statusverschlechterung ausreichendes Gewicht zu verleihen. Mit Ablauf des Befristungszeitraums ist dann regelmäßig das Hineinwachsen in einen legalen Aufenthaltsstatus eröffnet (vgl. VAB.A.25.5.1.2).
-11.1. 4.3.5. Verwertungsverbot nach dem BZRG
+Schwerwiegend in diesem Sinne ist jedenfalls eine solche Straftat, die eine Verurteilung wegen unerlaubten Handels mit Betäubungsmitteln, ein gewichtiges Rechtsgut und damit ein Grundinteresse der Europäischen Union betrifft (VG Berlin, Urteil vom 13.01.2012 – VG 19. K 232.11 -). Auch Straftaten gegen die sexuelle Selbstbestimmung können eine solche schwerwiegende Gefahr begründen (vgl. BVerwG 1 C 19.11, Urteil vom 10.07.2012, Rn.43).
+11.1.4. 4. Verwertungsverbot nach dem BZRG
 Ist der Ausländer ausgereist, muss der Befristungszeitraum spätestens mit dem Zeitpunkt des Eintritts des Verwertungsverbots nach dem BZRG enden, es sei denn, dass eine Befristung aufgrund atypischer Umstände nicht in Betracht kommt (Abweichung vom Regelfall, siehe § 11 Abs. 1 S. 3).
-11.1.3.9.
-11.1. 4.3.6. Offene Abschiebungskosten
+11.1.4. 5. Offene Abschiebungskosten
 Solange der Betroffene nicht die Ab- bzw. Zurückschiebungskosten und sonstige während seines Aufenthalts für ihn aufgewandte öffentliche Mittel erstattet hat, ist das Ermessen zur Befristungsdauer vorbehaltlich einer ohnehin längeren Frist nach den o.g. Maßstäben dahin auszuüben, dass die Sperrfrist schon allein deshalb mindestens fünf Jahre beträgt. Ein Ausschöpfen dieses Rahmens ist hier geboten, weil der seiner Ausreisepflicht nicht freiwillig nachgekommene Betroffene durch die mangelnde Begleichung der Kosten deutlich macht, dass er weiterhin nicht gewillt ist, die hiesige Rechtsordnung zu respektieren.
-Ist die vom Gesetzgeber gem. § 11 Abs. 1 S. 4 vorgesehene Frist abgelaufen, ohne dass die Abschiebungskosten beglichen worden wären, kommt eine Verlängerung der Sperrfrist allein aus diesem Grunde allerdings nicht in Betracht, da allein die unbeglichenen Abschiebungskosten eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung nicht begründen können.
+Ist die vom Gesetzgeber gem. § 11 Abs. 1 S. 4 vorgesehene ' Frist' abgelaufen, ohne dass die Abschiebungskosten beglichen worden wären, kommt eine Verlängerung der Sperrfrist allein aus diesem Grunde allerdings nicht in Betracht, da allein die unbeglichenen Abschiebungskosten eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung nicht begründen können.
 Deutschverheiratete Ausländer, Lebenspartner von deutschen Staatsangehörigen oder Unionsbürgern und nach Europäischem Gemeinschaftsrecht Freizügigkeitsberechtigte sowie Eltern eines minderjährigen ledigen Deutschen sind dahingehend privilegiert, dass bei der Festlegung der Befristungsdauer in Hinblick auf einen Antrag auf Familiennachzug noch ausstehende Abschiebungskosten außer Betracht bleiben (insofern zu Lasten der Betroffenen zu eng Nr. 11.1.4.4. AufenthG-VwV).
-Soweit im Einzelfall vor der Zustimmung zur Einreise bzw. vor einer eine solche Zustimmung ermöglichenden Befristung noch Ab- bzw. Zurückschiebungskosten zu fordern sind, kann das Verfahren ausgesetzt und der entsprechende Leistungsbescheid an die Auslandsvertretung, bei der der Ausländer seinen Einreiseantrag gestellt hat, mit der Bitte um Zustellung/Aushändigung an den Betroffenen übermittelt werden. In Zurückschiebungsfällen ist das Bundespolizeiamt über die Antragstellung und das Erfordernis der Kostenforderung zu unterrichten. Besteht der Betroffene in einem solchen Fall auf einer isolierten Befristungsentscheidung, ist nach den o.g. Maßstäben die Höchstfrist von fünf Jahren auszuschöpfen.
-11.1. 4.3.7. Befristung unter Bedingungen
+Soweit im Einzelfall vor der Zustimmung zur Einreise bzw. vor einer eine solche Zustimmung ermöglichenden Befristung noch Ab- bzw. Zurückschiebungskosten zu fordern sind, kann das Verfahren ausgesetzt und der entsprechende Leistungsbescheid an die Auslandsvertretung, bei der der Ausländer seinen Einreiseantrag gestellt hat, mit der Bitte um Zustellung/Aushändigung an den Betroffenen übermittelt werden. In Zurückschiebungsfällen ist das Bundespolizeiamt über die Antragstellung und das Erfordernis der Kostenforderung zu unterrichten. Besteht der Betroffene in einem solchen Fall auf einer isolierten Befristungsentscheidung, ist nach den o.g. Maßstäben die Höchstfrist von fünf Jahren auszuschöpfen. 11.1.4. 6. Befristung unter Bedingungen
 Grundsätzlich ist die Befristung unter zwei unterschiedlichen Bedingungen denkbar:
 (1) Die Befristung sollte immer unter der auflösenden Bedingung erfolgen, dass der Betroffene auch außerhalb des Bundesgebietes 'keine ggf. weiteren Straftaten 'begeht.
 Werden (erneute) Straftaten des Betroffenen innerhalb oder außerhalb des Bundesgebietes festgestellt, ist die auflösende Bedingung eingetreten, so dass die Sperrwirkung zunächst unbefristet gilt. Zwar ist auf Antrag erneut zu befristen, im Rahmen der gebotenen Ermessensentscheidung ist dann aber regelmäßig eine Sperrfrist festzusetzen, die sich aus der ursprünglichen Sperrfrist und einem zusätzlichen Zeitraum zusammensetzt, der dem Gewicht der neuen Straftat Rechnung trägt.
 Insbesondere, wenn die Sperrfrist auf einer Ausweisung beruht, ist der Betroffene vor einer Entscheidung über einen Einreiseantrag daher regelmäßig aufzufordern, Führungszeugnisse oder ähnliche Dokumente seines Heimatstaates bzw. bekannter zwischenzeitlicher Aufenthaltsstaaten vorzulegen (vgl. dazu auch Ziffer 11.1.4.5. AufenthG-VwV). Nur so kann nämlich geprüft werden, ob die auflösende Bedingung eingetreten ist oder sogar erneute Ausweisungsgründe gesetzt wurden, die eine Ablehnung des Einreiseantrages zur Folge hätten. Solange eine Vorlage entsprechender Führungszeugnisse oder ähnlicher Dokumente nicht erfolgt, ist die Entscheidung über den Einreiseantrag auszusetzen bzw. nach entsprechender Fristsetzung der Einreiseantrag abzulehnen.
 (2) Darüber sollte jede Befristung unter der auflösenden Bedingung keiner (erneuten) unerlaubten Einreise ins Bundesgebiet erfolgen. Wird eine unerlaubte Einreise festgestellt, ist auf Antrag erneut zu befristen. Im Rahmen der gebotenen Ermessensentscheidung ist dann regelmäßig eine Sperrfrist festzusetzen, die sich aus der ursprünglichen Sperrfrist und einem zusätzlichen Zeitraum zusammensetzt, der der unerlaubten Einreise Rechnung trägt.
-11.1.5. Zu beachten ist auch der Ausschluss einer Befristung in eng begrenzten Fällen besonderer Gefährlichkeit (§ 11 Abs. 1 S. 5) und die Möglichkeit einer Ausnahmeentscheidung durch die oberste Landesbehörde (§ 11 Abs. 1 S. 6).
+11.1.5. Berücksichtigung der freiwilligen Ausreise
+Die Freiwilligkeit der Ausreise ist ebenfalls zu berücksichtigen, vgl. § 11 Abs. 1 Satz 5 AufenthG. Die Regelung betont das besondere öffentliche Interesse an der zügigen Ausreise von Ausländern, die über kein Aufenthaltsrecht verfügen. Erlischt ein Aufenthaltstitel durch Ablauf der Geltungsdauer, liegt ausweislich der Gesetzesbegründung keine freiwillige Ausreise mehr vor, wenn die Ausreise nicht vor Ablauf des Titels erfolgt ist (vgl. BTDrs. 17/5470, S. 21 zu Nr. 9).
 11.1.6. Beginn des Befristungszeitraumes
 Der Befristungszeitraum beginnt mit der Ausreise / Abschiebung des Ausländers zu laufen.
 Unter Ausreise gemäß § 11 Abs. 1 Satz 6 AufenthG ist nur die erstmalige Ausreise nach der Ausweisung bzw. im Wege der Abschiebung zu verstehen. Eine unerlaubte Wiedereinreise nach der Ausweisung bzw. Abschiebung ist bei der Berechnung des Befristungszeitraumes zu Lasten des Ausländers zu berücksichtigen.
-(hier eingefügt von 11.1.4.3.3.) Der Erlass der Befristungsentscheidung ist nicht von einer vorherigen Ausreise abhängig zu machen. Befindet sich der Ausländer zum Zeitpunkt der Befristungsentscheidung im Inland ist es für die Bestimmung der Sperrfrist regelmäßig ausreichend, diese mit dem Zeitpunkt der freiwilligen Ausreise ohne Bestimmung eines konkreten Ausreisetermins beginnen zu lassen. </span></div>
-11.1.7. frei
+(hier eingefügt von 11.1.4.3.3.) Der Erlass der Befristungsentscheidung ist nicht von einer vorherigen Ausreise abhängig zu machen. Befindet sich der Ausländer zum Zeitpunkt der Befristungsentscheidung im Inland ist es für die Bestimmung der Sperrfrist regelmäßig ausreichend, diese mit dem Zeitpunkt der freiwilligen Ausreise ohne Bestimmung eines konkreten Ausreisetermins beginnen zu lassen.
+11.1.7. Verzicht auf Befristung nach § 11 Abs. 1 S.7
+Eine Befristung der Wirkung von Ausweisung und/oder Abschiebung ist auf Antrag stets vorzunehmen.
+Einzige Ausnahme sind die Fälle des § 11 Abs. 1 S. 7 (Verbrechen gegen den Frieden, Kriegsverbrechen, Verbrechen gegen die Menschlichkeit, Abschiebungsanordnung nach § 58a AufenthG), in denen eine Befristung weiterhin nicht erfolgt. Hier macht der Gesetzgeber von der durch Art. 2 Abs. 2 der Rückführungsrichtlinie (RL 2008/115/EG) eingeräumten Möglichkeit Gebrauch, die Regelungen der Richtlinie auf diese Fälle nicht anzuwenden.
+Wurde in der Vergangenheit eine Befristung aufgrund einer atypischen Fallkonstellation (etwa auch in Hinblick auf nicht beglichene Abschiebungskosten) abgelehnt, ist einem erneuten Antrag auf Befristung nunmehr zu entsprechen.
 11.2. Betretenserlaubnis
-Die Rückführungsrichtlinie (RL 2008/115/EG) sieht in Art. 11 Abs. 3 Satz 1 vor, dass die Aussetzung oder auch Aufhebung einer Sperrfrist zu prüfen ist, wenn Ausländer nachträglich nachweisen, dass sie ihrer Ausreisepflicht unter uneingeschränkter (!) Einhaltung der sich aus dem aufenthaltsbeendenden Bescheid ergebenden Pflichten verlassen haben. Nach Sinn und Zweck der Regelung, findet sie auf durch Ab- oder Zurückschiebungen veranlasste Sperrfristen keine Anwendung. Wurde die Sperrwirkung durch eine Ausweisung begründet, werden die der Ausweisung zu Grunde liegenden Gefahren für die öffentliche Sicherheit und Ordnung einer Aufhebung oder Aussetzung der Sperrfrist stets selbst dann entgegenstehen, wenn der ausgewiesene Ausländer seiner Ausreisepflicht innerhalb der Ausreisefrist nachgekommen sein sollte. Auf Art. 11 Abs. 3 der Richtlinie gestützte Anträge auf Betretenserlaubnis oder gar sofortige Befristung sind daher unter Bezugnahme auf die o.g. Gründe regelmäßig abzulehnen.
-Auch ansonsten ändern sich durch die Rückführungsrichtlinie die Maßstäbe für die Erteilung einer Betretenserlaubnis nicht.
+Einem ausgewiesenen und/oder abgeschobenen Ausländer kann nach § 11 Abs. 2 AufenthG ausnahmsweise erlaubt werden, das Bundesgebiet kurzfristig zu betreten, wenn zwingende Gründe seine Anwesenheit erfordern oder die Versagung der Erlaubnis eine unbillige Härte bedeuten würde. Bei § 11 Abs. 2 AufenthG handelt es sich um eine Ermessensnorm mit Ausnahmecharakter ("kann ausnahmsweise").
+Die Erteilung einer Betretenserlaubnis steht unter dem Vorbehalt, dass mit der Anwesenheit des Ausländers keine erneute Gefährdung der öffentlichen Sicherheit oder Ordnung oder der öffentlichen Gesundheit einhergeht (Nr. 11.2.6, S. 1 AufenthG-VwV). Dies ist zwar nicht ausdrücklich in § 11 Abs. 2 AufenthG geregelt, ergibt sich aber daraus, dass selbst die Erteilung eines Aufenthaltstitels gemäß § 5 Abs. 1 AufenthG in der Regel das Fehlen eines Ausweisungsgrundes und einer Beeinträchtigung oder Gefährdung der Interessen der Bundesrepublik Deutschland voraussetzt.
+Zwingende Gründe:
+Zwingende Gründe, die eine Betretenserlaubnis rechtfertigen, können sich unabhängig von den persönlichen Belangen des Ausländers aus Gründen des öffentlichen Interesses, z.B. bei Wahrnehmung von Terminen bei Gerichten und Behörden (Zeugenvernehmung, Vorladung bei Behörden, Erbschaftsangelegenheiten) oder mit Rücksicht auf Dritte ergeben (Regelung von Geschäften im Inland, die die persönliche Anwesenheit unbedingt erfordern, vgl. Nr. 11.2.5, S. 1 AufenthG-VwV; OVG Berlin, Beschluss vom 09.01.2001 – 8 SN 234.00 -; OVG Lüneburg, Beschluss vom 20.02.2007 - 11 ME 386/06 -, juris).
+Unbillige Härte:
+Eine unbillige Härte kann gegeben sein, wenn humanitäre oder zwingende persönliche Gründe den Aufenthalt im Bundesgebiet erfordern (Nr. 11.2.5, S. 2 AufenthG-VwV) oder wenn das Betreten des Bundesgebiets für den Ausländer von existenzieller Bedeutung ist (vgl. BayVGH, Beschluss vom 26.01.2000 – 10 CE 99.3428 -; OVG Berlin, Beschluss vom 09.01.2001 - 8 SN 234.00 -; OVG Hamburg Beschluss vom 27.01 2005 – 3 Bs 458/04, alle bei juirs; Hailbronner, Kommentar zum Ausländerrecht, RdNr. 38 zu § 11 AufenthG). Humanitäre oder zwingende persönliche Gründe können z.B. eine schwere Erkrankung, Familienfeiern und der Tod von nahen Angehörigen (Ehepartner, Lebenspartner, Eltern, Kinder, Geschwister) sein.
+Ermessen:
+Sind die Tatbestandsvoraussetzungen des § 11 Abs. 2 AufenthG erfüllt, ist eine Ermessensentscheidung eröffnet. Im Rahmen der Ermessensentscheidung sind die persönlichen Interessen (vor allem Art. 6 GG) gegen die öffentlichen Interessen abzuwägen. Die wichtigsten Ermessenskriterien sind die Vermeidung einer Gefährdung der öffentlichen Sicherheit und Ordnung durch die Einreise des betreffenden Ausländers in das Bundesgebiet und die Rückkehrbereitschaft. Eine Gefahr für die öffentliche Sicherheit und Ordnung sollte mit großer Wahrscheinlichkeit ausgeschlossen werden können. Im Rahmen der Verhältnismäßigkeitsprüfung ist zu klären, ob eine Gefährdung der öffentlichen Sicherheit und Ordnung durch geeignete Nebenbestimmungen in der Betretenserlaubnis verringert werden könnte (z.B. vorgeschriebener Aufenthaltsort, vorgeschriebene Reiseroute etc.).

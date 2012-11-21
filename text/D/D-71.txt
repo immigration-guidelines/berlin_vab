@@ -1,11 +1,12 @@
 VAB D 71
 VAB D 71
 D.71. Folgeantrag
-(22.3.2011; 08.04.2011)
-71.0. Nach der Stellungnahme des BMI vom 27.10.2004 ist Asylfolgeantragstellern eine den Anforderungen des § 78 Abs. 7 AufenthG entsprechende Bescheinigung auf dem Vordruck der Duldung auszustellen. Dazu ist das Muster um Folgendes ergänzt:
-„Aufenthalt gilt nach § 71 a Abs. 3 Satz 1 i.V.m. § 71 AsylVfG als geduldet“.
+(08.04.2011; 11.09.2012)
+71.0. Gemäß § 71 Abs. 5 Satz 2 AsylVfG darf die Abschiebung erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in einen sicheren Drittstaat abgeschoben werden. In diesen Fällen liegt dann ein gesetzliches Abschiebungsverbot und somit eine rechtliche Unmöglichkeit der Abschiebung vor.
+Asylfolgenantragstellern ist eine Duldung gemäß § 60a Abs. 2 AufenthG auszustellen. Die Duldung ist mit der folgenden Nebenbestimmung zu versehen:
 "Erlischt bei Vorliegen der Mitteilung des BAMF über die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG"
-Bzgl. sonstiger Auflagen, der Erweiterung der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, gelten die Regelungen für Erstasylantragsteller entsprechend (vgl. D.58.1.1.0, D.60.1. bzw. D.61.2.1).
+Eine Umverteilung gemäß § 51 AsylVfG findet bei Asylfolgeantragstellern nicht statt. War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht, § 71 Abs. 7 AsylVfG.
+Bzgl. sonstiger Auflagen, der Erweiterung der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, sind die Regelungen für Duldungsinhaber anzuwenden (vgl. A.60a. und A.61).
 Merke: Dies gilt auch in den Fällen, in denen der Antragsteller vom Erfordernis eines Aufenthaltstitels befreit ist, einen Aufenthaltstitel mit einer Gesamtgeltungsdauer von bis zu 6 Monaten besitzt oder einen Antrag auf Erteilung einer Aufenthaltserlaubnis gestellt hat, der eine Fiktionswirkung nach § 81 Abs. 3 und 4 AufenthG entfaltet. Insofern gilt § 55 Abs. 2 AsylVfG analog.
 Anders ist dagegen bei Asylfolgeanträgen von Angehörigen eines EU- oder EWR-Staates zu verfahren. Hier gelten die Ausführungen unter D.55.0.1.
 71.1.1. einstweilen frei
