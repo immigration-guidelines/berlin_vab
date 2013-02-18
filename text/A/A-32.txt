@@ -2,7 +2,8 @@ VAB A 32
 VAB A 32
 Inhaltsverzeichnis
 A.32. Kindernachzug
-32.0. Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
+32.0.1 Allgemeines
+32.0.2 Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
 Sorgerechtsübertragung durch ausländische Gerichtsentscheidung
 Aufenthaltsrecht eines Elternteils nach § 28 Abs. 1 Nr. 3
 Maßgeblicher Zeitpunkt für Feststellung der Minderjährigkeit
@@ -12,8 +13,10 @@ Aufnahme eines Kindes zu Adoptionsbewerbern
 32.3. KIndernachzug u16
 32.4. Kindernachzug im Ermessen
 A.32. Kindernachzug
-(25.07.2012; HQRLUmsG)
-32.0. Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
+(25.07.2012; HQRLUmsG; 18.02.2013)
+32.0.1 Allgemeines
+Der Nachzug setzt in allen Fällen des § 32 voraus, dass das Kind nicht verheiratet, geschieden oder verwitwet ist und das
+18. Lebensjahr noch nicht vollendet hat (vgl. § 80 Absatz 3 Satz 1; hiervon abweichende Volljährigkeitsgrenzen nach dem Recht der Herkunftsstaaten sind unerheblich). Darüber hinaus kommt ein Kindernachzug nur nach § 36 Absatz 2 in Fällen einer außergewöhnlichen Härte im Ermessenswege in Betracht (zur Geltungsdauer vgl. F.A.7.2.1.3). 32.0. 2 Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
 Für den Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland gilt folgendes:
 Bei nicht-ehelichen Kindern kann die Vaterschaft durch öffentliche Beurkundung sowohl durch den Notar, das Amtsgericht, den Standesbeamten, das Jugendamt als auch durch das Gericht, bei dem die Vaterschaftsanerkennung anhängig ist, erfolgen (so § 1597 Abs. 1 BGB, der jede öffentliche Beurkundung genügen lässt). Zwar ist die Vaterschaft mit der öffentlichen Beurkundung gültig, ohne dass es auf die Beischreibung im Geburtenbuch durch den Standesbeamten ankommt (§ 1597 Abs. 2 BGB hat keinen Einfluss auf die Gültigkeit). grundsätzlich zum Nachweis der Vaterschaft die Beischreibung abzuwarten und die Vorlage einer entsprechenden Geburtsurkunde, aus der der Vater des Kindes hervorgeht, zu verlangen. Dies deshalb, weil eine Anerkennung erst dann wirksam wird, wenn auch die Mutter des Kindes oder - wenn dieser die elterliche Sorge insoweit nicht zusteht - auch das Kind der Anerkennung zugestimmt haben (vgl. § 1595 BGB). Außerdem ist die Anerkennung nur wirksam, wenn nicht die Vaterschaft eines anderen Mannes besteht (§ 1594 BGB) und kann – etwa bei fehlender Zustimmung der Mutter - auch widerrufen werden (§ 1597 Abs. 3 BGB). Der Standesbeamte prüft vor der Beischreibung des Anerkenntnisvaters auch, ob die Mutter zum Zeitpunkt der Geburt mit einem anderen Mann verheiratet war, der dann als der Vater gilt. Dies kann von der Ausländerbehörde nicht rechtsverbindlich geprüft werden. Legt ein Betroffener nicht innerhalb von sechs Monaten nach der Geburt des Kindes die Geburtsurkunde und auch keinen Zwischenbescheid des Standesamtes vor oder weigert er sich, eine Geburtsurkunde beizubringen, so ist über den Antrag auf den Aufenthaltstitel nach Aktenlage zu entscheiden.
 Steht die Anerkennung der Vaterschaft fest, so genügen für den Nachweis der gemeinsamen Sorge der Eltern die öffentlich beurkundeten Erklärungen beider Eltern (vgl. hierzu § 1626 a sowie § 1626 d Abs. 1 BGB, der wiederum jede Form einer öffentlichen Beurkundung zulässt). Einer Bestätigung durch eine öffentliche Stelle bedarf es nicht. Dies auch deshalb, weil das Jugendamt lediglich verpflichtet ist, der allein sorgeberechtigten Mutter durch ein sogenanntes Negativattest zu bescheinigen, dass keine gemeinsamen Sorgeerklärungen abgegeben wurden. Die Ausstellung einer Bescheinigung durch das Jugendamt im Falle der gemeinsamen Sorge sieht das Gesetz nicht vor.

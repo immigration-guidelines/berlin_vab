@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(19.06.2012; HQRLUmsG)
+(HQRLUmsG; 15.01.2013)
 B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
@@ -20,7 +20,7 @@ B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(19.06.2012; HQRLUmsG)
+(HQRLUmsG; 15.01.2013)
 Merkblatt Gebühren Stand 30.07.12
 B.AufenthV.44.1.Kassenautomat
 Seit dem 14.03.2007 werden Einzahlungen ausländerbehördlicher Gebühren verknüpft mit dem jeweiligen LEA-OM über den Kassenautomaten und im Ausnahmefall über die personell bediente Kasse elektronisch verbucht. Damit ist im Bedarfsfall jede zu einer Person an einem bestimmten Tag getätigte Einzahlung über eines der beiden Systeme dokumentierbar. Der Ausdruck eines Einzahlbeleges für die (elektronische) AA hat sich damit erübrigt (Ausnahme s. 2. Spiegelpunkt). Allerdings sind weiterhin Befreiungen und Ermäßigungen von Gebühren (§§ 52, 53 AufenthV) wie bisher aktenkundig zu machen. Dazu sind im Fachverfahren-Dialog „Titel erteilen“ / „AA21 - Vermerk für Aktenbeleg“ als Gebühr „0,00“ und im dazugehörigen Datenfeld „Vermerk“ der Gebührenbefreiungsgrund resp. -ermäßigungsgrund (z.B. „Sozialhilfe“, „Stipendium“ u.Ä.) einzutragen.
@@ -52,7 +52,7 @@ Kartennutzungsdauer ist eine Gebühr in Höhe von 30 Euro zu erheben. eine Gebü
 B.AufenthV.46. Gebühren für das Visum
 frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
-B.AufenthV.47.1. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 10 Euro. Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
+B.AufenthV.47.1. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 10 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
 Der Gebührentatbestand des § 47 Abs. 1 Nr. 11 gilt nur für die in § 78a abs. 1 S. 1 AufenthG geregelten Ausnahmefälle. Wird also ein Aufenthaltstitel in den Fällen des § 78a Abs. 1 S. 1 AufenthG weiterhin in Form eines Klebeetiketts ausgestellt und ist das Klebeetikett in ein neues Personaldokument zu übertragen, so ist wie in den Fällen des bisherigen Übertrages eine Gebühr in Höhe von 10 Euro zu erheben.
 B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluß, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 20 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3).
 B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte nach § 5 Abs. 2 S. 1 FreizügigG/EU oder einer Daueraufenthaltskarte nach § 5 Abs. 6 S. 2 FreizügigG/EU in Form des eAT beträgt die Gebühr 28,80 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Die Gebühren gelten auch für die Neuausstellung einer eAT-Karte im Rahmen von § 45c. Für die Bescheinigung des Daueraufenthalts nach § 5 Abs. 6 S. 1 FreizügigG/EU beträgt die Gebühr 8 Euro.
@@ -192,7 +192,7 @@ B.AufenthV.59. Muster der Aufenthaltstitel
 B.AufenthV.60. Lichtbild
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(2. RiLiUmG; 14.02.2012)
+(14.02.2012; 04.12.2012)
 B.AufenthV.55. Ausweisersatz
 55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 AufenthV ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann. Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht.
 Legt ein Ausländer, der einen Titel oder eine Duldung besitzt, eine Bescheinigung der Auslandsvertretung seines Heimatstaates vor, wonach die Ausstellung eines neuen Passes sich um längere Zeit verzögert oder derzeit ausgeschlossen ist, so ist ihm auf Antrag ein Ausweisersatz gem. § 55 Abs. 1 Nr. 1 oder bei Titelinhabern ggf. – etwa bei dringenden Auslandsreisen – ein vorläufiger Reiseausweis für Ausländer nach Maßgabe der §§ 5 Abs. 3- 5, 6 auszustellen (vgl. hierzu auch B.AufenthV.1-14). Die Gültigkeit des Reiseausweises bzw. des Ausweisersatzes sollte mindestens 6 Monate betragen, so der Titel bzw. die Duldung entsprechend lang gültig sind.
@@ -237,7 +237,9 @@ B.AufenthV.60. Lichtbild
 Bei Angehörigen von geistlichen Orden und Religionsgesellschaften, die vortragen, dass es ihnen aus religiösen Gründen verboten ist, sich in der Öffentlichkeit ohne Kopfbedeckung zu zeigen, dürfen Lichtbilder verwendet werden, die den Antragsteller mit der vorgeschriebenen Kopfbedeckung zeigen. Gleiches gilt für Angehörige von karitativen Verbänden (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). Ansonsten kommt die Integration eines Lichtbildes mit Kopfbedeckung ausnahmsweise nur in Betracht, wenn der Antragsteller auch in seinem aktuellen Pass mit Kopfbedeckung abgebildet ist. Umgekehrt darf von Betroffenen für die Ausstellung eines Aufenthaltstitels, Passersatzpapiers, Ausweisersatz o.ä. nicht verlangt werden, ein Lichtbild mit Kopfbedeckung vorzulegen, nur weil im ausländischen Pass(ersatzpapier) ein solches integriert ist. Aus § 60 Abs. 1 S. 2 folgt das Recht, sich ohne Gesichts- und Kopfbedeckung abbilden zu lassen.
 Wird ein Lichtbild mit Kopfbedeckung akzeptiert, muss das für die Übertragung verwendete Lichtbild das Gesicht des Inhabers von der unteren Kinnkante bis zur Stirn zeigen. Es dürfen keine Schatten auf dem Gesicht entstehen.
 Die iranischen Behörden verlangen von weiblichen iranischen Staatsangehörigen für die Ausstellung von Pässen die Vorlage von Lichtbildern mit Kopfbedeckung. Es ist iranischen Frauen durchaus zuzumuten, für die Passausstellung ein Lichtbild mit "islamischen Schleier" vorzulegen. Weigert sich die Passbewerberin, ihrer Auslandsvertretung ein entsprechendes Lichtbild vorzulegen und lehnt diese daraufhin die Ausstellung eines neuen iranischen Passes ab, rechtfertigt dies für sich allein nicht die Ausstellung eines Ausweisersatzes oder Reiseausweises für Ausländer (vgl. §§ 48 Abs. 2, 99 Abs. 1 AufenthG, §§ 5, 55 AufenthV).
-Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
+Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung).
+§ 60 Abs. 2 AufenthV regelt, dass Ausländer, für die ein Dokument ausgestellt werden soll, ein aktuelles Lichtbild vorlegen müssen. Ein Lichtbild ist nach richtiger Auffassung auch dann aktuell, wenn der Ausländer nach wie vor so aussieht, wie auf dem mitgebrachten Lichtbild.
+B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 frei
 E-Mail an die VAB-Redaktion
 VAB B.AufenthV.61a. - 84. Datenverarbeitung,
