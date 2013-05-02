@@ -2,7 +2,7 @@ VAB A 38a
 VAB A 38a
 A.38a. Aufenthaltserlaubnis für in anderen Mitgliedstaaten der EU langfristig
 Aufenthaltsberechtigte
-(14.06.2012; HQRLUmsG)
+(14.06.2012; HQRLUmsG; 28.02.2013)
 38a. 0. Spricht ein Drittstaatsangehöriger mit einem Aufenthaltstitel eines anderen Mitgliedstaates der EU (nicht des EWR) vor, so muß der Titel gem. Art. 8 Abs. 3 S. 2 der Daueraufenthaltsrichtlinie die Bezeichnung "Daueraufenthalt-EG" in (einer) der jeweiligen Amtssprache(-n) enthalten. Dies ist anhand der folgenden Liste, die den Hinweisen des BMI zum Richtlinienumsetzungsgesetz vom 2.10.2007 entnommen ist, zu prüfen.
 bulgarisch: " "
 englisch: "long-term resident -- EC"
@@ -23,6 +23,7 @@ slowakisch: "osoba s dlhodobým pobytom -- ES"
 slowenisch: "rezident za daljši as -- ES" oder "rezident za daljši as -- EU"
 spanisch: “Residente de larga duración -- CE” oder “Residente de larga duración -- UE”
 tschechisch: "povolení k pobytu pro dlouhodob pobývajícího rezidenta –- ES"
+auf tschechischem eAT: "Trvalý Pobyt/Permanent Residence – Rezident ES"
 ungarisch: "huzamos tartózkodási engedéllyel rendelkez –EK"
 Merke: In Italien und Spanien wurde bei Umsetzung der Daueraufenthaltsrichtlinie auch denjenigen Ausländern, die im Besitz eines unbefristeten Titels vergleichbar der Niederlassungserlaubnis sind, die Rechtsstellung eines Daueraufenthaltsberechtigten von Gesetzes wegen eingeräumt. Problematisch ist, dass in diesen Fällen die Titeletiketten nicht die Bezeichnung "Daueraufenthalt- EG" in der jeweiligen Landessprache enthalten. Aus diesem Grunde lässt sich aus diesen Titeln wegen der klaren Vorgaben des Art. 8 Abs. 3 der Daueraufenthaltsrichtlinie kein Anspruch nach § 38 a AufenthG herleiten.
 Der Nachweis der Rechtsstellung eines langfristig Aufenthaltsberechtigten in Italien, Spanien oder einem anderen EU-Mitgliedstaat kann auch mit einer durch den Antragsteller beizubringenden schriftlichen Bestätigung der Behörden des vorherigen Mitgliedstaates, ggf. auch der hiesigen Auslandsvertretung, geführt werden. In diesem Fall bedarf es einer besonders sorgfältigen Vergewisserung durch die Ausländerbehörden, dass die Rechtsstellung als langfristig Aufenthaltsberechtigter auch tatsächlich verliehen worden ist. Ggf. sollen Nachfragen bei Behörden des betreffenden Mitgliedstaates oder bei dessen Vertretung in Deutschland erfolgen (so ausdrücklich Nr. 2.7.4. AufenthG-VwV). Selbstverständlich stellen italienische und spanische Behörden auch gültige "Daueraufenthalt- EG" - Titel aus, die dann aber auch als solche bezeichnet sind.

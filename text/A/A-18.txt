@@ -2,20 +2,20 @@ VAB A 18
 VAB A 18
 Inhaltsverzeichnis
 A.18. Beschäftigung
-(HQRLUmsG; 27.09.2012; 18.02.2013)
 18.0. Grundsätze
 Tunesische Staatsangehörige
 Zulassung zum Aufenthalt und zur Erwerbstätigkeit
 18.2. Beteiligung der Bundesagentur für Arbeit
 18.2.1.1. Anfragen
 18.2.1.2. Beschäftigung in einem Mitgliedstaat der EU
-18.2.1.3. Arbeitslosigkeit eines Beschäftigten
-18.2.1.4. Verlängerung der Aufenthaltserlaubnis
+18.2.1.3. Beschäftigung in Drittstaaten
+18.2.1.4. Arbeitslosigkeit eines Beschäftigten
+18.2.1.5. Verlängerung der Aufenthaltserlaubnis
 18.4. Beschäftigung mit qualifizierter Berufsausbildung
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 18.6. Versagungsgründe
 A.18. Beschäftigung
-(HQRLUmsG; 27.09.2012; 18.02.2013)
+(18.02.2013; 09.04.2013)
 18. 0. Grundsätze
 §§ 18f. setzen die Aufhebung des Anwerbestopps für Hochqualifizierte um (§ 19), während an dem Anwerbestopp für gering (§ 18 Abs. 3 i.V.m. § 17-24 BeschV) und „normal“ Qualifizierte (§ 18 Abs. 4 i.V.m. § 25-31 BeschV) festgehalten wird. Wie bisher in § 9 AAV werden auch weiterhin Angehörige bestimmter Staaten und sonstige Personengruppen (Deutsche Volkszugehörige mit Aufnahmebescheid - § 33 BeschV -, Monteure - §§ 35 ff. BeschVE -, Grenzgänger) privilegiert.
 Tunesische Staatsangehörige
@@ -33,18 +33,19 @@ Wenn die Zustimmung der Bundesagentur für Arbeit vorliegt bzw. die Beschäftigu
 18.2.1. 2. Beschäftigung in einem Mitgliedstaat der EU
 Soweit ausländische Arbeitnehmer, die die Voraussetzungen nach § 18 oder § 19 i.V.m. der BeschV erfüllen, einreisen, um eine Tätigkeit in einem Mitgliedstaat der EU (z.B. Polen) aufzunehmen, kommt die Erteilung einer Aufenthaltserlaubnis für diese Personen und/ihre Familienangehörigen nicht in Betracht. Eine Beschäftigung im Bundesgebiet ist ja nicht beabsichtigt (Ausnahme: § 15 BeschV). Auch die Erteilung einer AE nach § 7 Abs. 1 S. 3 allein für die Familienangehörigen bleibt außer Betracht. In diesen Fällen steht es der betroffenen Firma frei, im Bundesgebiet eine Zweigniederlassung zu gründen, um für die Mitarbeiter eine AE nach § 18 Abs. 2 S. 1 i.V.m. § 4 ff. BeschV zu erhalten.
 Anders sind die Fälle zu bewerten, in denen der Ausländer bei einer Firma beschäftigt wird, die zwar ihren Hauptsitz im Ausland allerdings einen Betriebssitz oder eine Niederlassung im Inland hat. Hier kommt die Erteilung einer Aufenthaltserlaubnis nach §§ 18, 19 in Verbindung mit einer Vorschrift der BeschV sehr wohl in Betracht. Bestehen Zweifel, ob ein Betriebssitz im Inland besteht, ist bei zustimmungspflichtigen Beschäftigungen die Arbeitsagentur, bei zustimmungsfreien Beschäftigungen die Senatsverwaltung für Wirtschaft zu beteiligen.
-18.2.1. 3. Arbeitslosigkeit eines Beschäftigten
+18.2.1. 3. Beschäftigung in Drittstaaten
+Wird die Erteilung einer Aufenthaltserlaubnis zur Beschäftigung bei einem auch im Bundesgebiet ansässigen Unternehmen, das ebenfalls in Drittstaaten ansässig ist, auf Grundlage eines dort abgeschlossenen ausländischen Arbeitsvertrages beantragt, ist immer die Zustimmung der Bundesagentur für Arbeit gemäß § 72 Abs. 7 zu erbitten. Nur bei Vorliegen der Zustimmung kommt die Erteilung der Aufenthaltserlaubnis in Betracht.
+18.2.1. 4. Arbeitslosigkeit eines Beschäftigten
 Wird ein Betroffener, der eine Arbeitserlaubnis zum Zweck der Beschäftigung bei einem bestimmten Arbeitgeber erhalten hat, arbeitslos, so gilt Folgendes:
 Die Erteilung einer AE zum Zwecke der Suche eines Arbeitsplatzes kommt nicht in Betracht. Dem Betroffenen kann stattdessen eine Fiktionsbescheinigung für bis zu 6 Monaten ausgestellt werden. Die Dauer der Fiktionsbescheinigung sollte von der Dauer der bisherigen Beschäftigung sowie davon abhängig gemacht werden, ob die allgemeinen Erteilungsvoraussetzungen gem. § 5 Abs. 1 erfüllt sind und ob der Ausländer über genügend Mittel verfügt, um seinen Lebensunterhalt – etwa auf Grund des Bezugs von Arbeitslosengeld – zu sichern.
 In diesen Fällen wird in die Fiktionsbescheinigung zur Erleichterung der Arbeitsplatzsuche
 "Beschäftigung nur nach Erlaubnis der Ausländerbehörde (§ 4 Abs. 2 AufenthG)"
 eingetragen.
 Bezüglich der Möglichkeit der selbständigen Tätigkeit ist grundsätzlich die Regelung aus der Aufenthaltserlaubnis gem. § 18 in die Fiktionsbescheinigung zu übernehmen (zur Möglichkeit der selbständigen Tätigkeit bei Personen, die eine Aufenthaltserlaubnis nach § 18 besitzen vgl. A.21.6.).
-Wird erneut ein Arbeitsplatz gefunden oder wird nunmehr eine Aufenthaltserlaubnis nach § 21 Abs. 1 oder 5 beantragt, ist die Fiktionsbescheinigung sodann für die Dauer eines Zustimmungsverfahrens bei der Arbeitsagentur bzw. das Beteiligungsverfahren nach § 21 Abs. 1 S. 4 zu verlängern. Ggf. ist die Aufenthaltserlaubnis ohne erneute Ausreise zu erteilen (§ 39 Nr. 1 AufenthV). Andernfalls ist der Antrag auf Erteilung der Aufenthaltserlaubnis zu versagen.
-Sprechen Personen - insbesondere Inhaber von Aufenthaltserlaubnissen nach § 16 Abs. 1 und Abs. 4 vor - und beantragen die Erteilung einer Aufenthaltserlaubnis nach § 18 i.V.m. §§ 2 -15 BeschV (zustimmungsfreie Tätigkeiten) kann die Aufenthaltserlaubnis bei Vorliegen der Erteilungsvoraussetzungen auch dann erteilt werden, wenn
+Wird erneut ein Arbeitsplatz gefunden oder wird nunmehr eine Aufenthaltserlaubnis nach § 21 Abs. 1 oder 5 beantragt, ist die Fiktionsbescheinigung sodann für die Dauer eines Zustimmungsverfahrens bei der Arbeitsagentur bzw. das Beteiligungsverfahren nach § 21 Abs. 1 S. 4 zu verlängern. Ggf. ist die Aufenthaltserlaubnis ohne erneute Ausreise zu erteilen (§ 39 Nr. 1 AufenthV). Andernfalls ist der Antrag auf Erteilung der Aufenthaltserlaubnis zu versagen. Sprechen Personen - insbesondere Inhaber von Aufenthaltserlaubnissen nach § 16 Abs. 1 und Abs. 4 vor - und beantragen die Erteilung einer Aufenthaltserlaubnis nach § 18 i.V.m. §§ 2 -15 BeschV (zustimmungsfreie Tätigkeiten) kann die Aufenthaltserlaubnis bei Vorliegen der Erteilungsvoraussetzungen auch dann erteilt werden, wenn
 der Ort der Beschäftigung außerhalb Berlin- Brandenburgs liegt, solange der Ausländer nachweislich noch in Berlin gemeldet ist, und/oder
 die Tätigkeit ausweislich des Arbeitsvertrages erst innerhalb der nächsten drei Monate begonnen werden soll.
-18.2.1. 4. Verlängerung der Aufenthaltserlaubnis
+18.2.1. 5. Verlängerung der Aufenthaltserlaubnis
 Anders als bei der Erteilung der AE nach § 18 Abs. 3 oder 4 ist bei der Verlängerung' einer AE nach § 18 Abs. 3 oder 4 immer § 3b' BeschVerfV zu beachten. Bei Vorliegen der Voraussetzungen des § 3b BeschVerfV kann die AE - ohne vorangegangene Anfrage bei der BA - mit der Nebenbestimmung "Erwerbstätigkeit gestattet" verlängert werden (vgl auch Ausführungen unter B.BeschVerfV.3b.)
 Beachte: Die Vergünstigungen der BeschVerfV - insbesondere des § 3b BeschVerfV – können hingegen in den folgenden Fällen nicht Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis sein:
 Geduldete oder Gestattete beantragen eine AE nach § 18 unter Berufung etwa auf § 3b Abs. 1 BeschVerfV Verlängerung zeitlich befristeter Beschäftigungen (Stichwort: Spezialitätenköche)

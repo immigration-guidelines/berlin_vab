@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(HQRLUmsG; 15.01.2013)
+(AufenthV; 27.03.2013)
 B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
@@ -20,8 +20,8 @@ B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(HQRLUmsG; 15.01.2013)
-Merkblatt Gebühren Stand 30.07.12
+(AufenthV; 27.03.2013)
+Merkblatt_Gebühren_Stand_05.03.2013
 B.AufenthV.44.1.Kassenautomat
 Seit dem 14.03.2007 werden Einzahlungen ausländerbehördlicher Gebühren verknüpft mit dem jeweiligen LEA-OM über den Kassenautomaten und im Ausnahmefall über die personell bediente Kasse elektronisch verbucht. Damit ist im Bedarfsfall jede zu einer Person an einem bestimmten Tag getätigte Einzahlung über eines der beiden Systeme dokumentierbar. Der Ausdruck eines Einzahlbeleges für die (elektronische) AA hat sich damit erübrigt (Ausnahme s. 2. Spiegelpunkt). Allerdings sind weiterhin Befreiungen und Ermäßigungen von Gebühren (§§ 52, 53 AufenthV) wie bisher aktenkundig zu machen. Dazu sind im Fachverfahren-Dialog „Titel erteilen“ / „AA21 - Vermerk für Aktenbeleg“ als Gebühr „0,00“ und im dazugehörigen Datenfeld „Vermerk“ der Gebührenbefreiungsgrund resp. -ermäßigungsgrund (z.B. „Sozialhilfe“, „Stipendium“ u.Ä.) einzutragen.
 Für die Zahlungsvorgänge des FiS -SG Z 2- gilt folgende Regelung: Die Einzahlbelege sind weiterhin auszudrucken, weil nur über sie die involvierten Gebührenzahler ermittelbar sind. Die Aufbewahrungsfrist beträgt sechs Jahre. Die übrigen Vorgaben des 1. Spiegelpunktes gelten auch für den FIS.
@@ -31,9 +31,9 @@ B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
 frei
 B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis und Blaue Karte EU
 B.AufenthV.45.1. - 2. frei
-B.AufenthV.45.3. Bei jedem Wechsel des Aufenthaltszwecks beträgt die Gebühr 40 Euro. Jeder
-Rechtsgrundlagenwechsel, auch innerhalb eines Paragraphen, stellt einen Zweckwechsel dar. Die regelmäßig mit dem Zweckwechsel einhergehende Verlängerung der Aufenthaltserlaubnis ist mit der erhobenen Gebühr ebenfalls abgedeckt. Keinesfalls sind etwa doppelte Gebühren, z.B. von 70 Euro gem. § 45 Nr. 2b) + Nr. 3, zu erheben.
-Für die Verlängerung der Aufenthaltserlaubnis zu dem neuen Zweck beträgt die Gebühr wieder je nach Gültigkeit 15 oder 30 Euro, vgl. § 45 Nr. 2a oder b.
+B.AufenthV.45.3. Bei jedem Wechsel des Aufenthaltszwecks beträgt die Gebühr 90 Euro. Jeder
+Rechtsgrundlagenwechsel, auch innerhalb eines Paragraphen, stellt einen Zweckwechsel dar. Die regelmäßig mit dem Zweckwechsel einhergehende Verlängerung der Aufenthaltserlaubnis ist mit der erhobenen Gebühr ebenfalls abgedeckt. Keinesfalls sind etwa doppelte Gebühren, z.B. von 170 Euro gem. § 45 Nr. 2b) + Nr. 3, zu erheben.
+Für die Verlängerung der Aufenthaltserlaubnis zu dem neuen Zweck beträgt die Gebühr wieder je nach Gültigkeit 65 oder 80 Euro, vgl. § 45 Nr. 2a oder b.
 Gebührenermäßigungen oder-befreiungen kommen auch in Fällen in des § 45 Nr. 3 zur Anwendung.
 B.AufenthV.45.a. Gebühren für den elektronischen Identitätsnachweis
 B.AufenthV.45a.1.-3. Für die nachträgliche Aktivierung der Online-Ausweisfunktion, die Neusetzung der PIN-Nr. in unserer Behörde und das Entsperren einer eAT-Karte sind Gebühren in Höhe von jeweils 6 Euro zu erheben. Für das Setzen einer neuen PIN-Nr. ist nur dann keine gesonderte Gebühr zu erheben, wenn der eAT-Inhaber unmittelbar bei Abholung seines eAT eine neue PIN-Nr. setzt oder das Neusetzen einer PIN-Nr. mit der nachträglichen Aktivierung der Online-Ausweisfunktion zusammenfällt.
@@ -42,13 +42,15 @@ die erstmalige Aktivierung der Online-Ausweisfunktion eines eAT-Inhabers nach Vo
 die Sperrung der Online-Ausweisfunktion und
 die Anschriftenänderung.
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
-B.AufenthV.45.b.1. In Anlehnung an die bisherige Gebühr für die Verlängerung einer Aufenthaltserlaubnis von bis zu drei Monaten ist nunmehr für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG eine Gebühr in Höhe von 15 Euro zu erheben. B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte, vgl., ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 50 Euro. die im Rahmen der Härtefallregelung zu erhebenden Gebühren entsprechen damit den bislang vor dem 01.09.2011 erhobenen Gebühren.
+B.AufenthV.45.b.1. In Anlehnung an die bisherige Gebühr für die Verlängerung einer Aufenthaltserlaubnis von bis zu drei Monaten ist nunmehr für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG eine Gebühr in Höhe von 15 Euro zu erheben.
+B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte, vgl., ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 50 Euro. die im Rahmen der Härtefallregelung zu erhebenden Gebühren entsprechen damit den bislang vor dem 01.09.2011 erhobenen Gebühren.
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
 Es ist zwischen der Gültigkeit der eAT-Karte und der Gültigkeit des Aufenthaltstitels zu unterscheiden. Da auf der eAT-Karte ein Bezug zum Personaldokument aufgedruckt ist und die Karten generell technisch nur zehn Jahre haltbar sind, kann die eAT-Karte kürzer gültig sein, als der Aufenthaltstitel, den sie dokumentiert. Dies gilt immer dann, wenn das Personaldokument früher abläuft als der Aufenthaltstitel oder - v.a. bei unbefristeten Titeln - wenn das Haltbarkeitsdatum der Karte nach zehn Jahren erreicht wird. Die Rechtmäßigkeit des Aufenthalts wird durch den Ablauf der eAT-Karte nicht beeinträchtigt. Der Ausländer ist allerdings verpflichtet, eine neue eAT-Karte zu beantragen. Für die Neuausstellung der eAT-Karte aufgrund des Ablaufs der Gültigkeitsdauer des Personaldokuments bzw. der technischen
-Kartennutzungsdauer ist eine Gebühr in Höhe von 30 Euro zu erheben. eine Gebühr von 30 Euro ist ebenfalls für die Neuausstellung einer eAT-Karte zu erheben, wenn die Neuausstellung notwendig wird aufgrund
-- einer Änderung von übrigen Angaben nach § 78 Abs. 1 s. 3 Nr. 1 bis 18 AufenthG,
-- des Verlustes der eAT-Karte oder
-- des Verlustes der technischen Funktionsfähigkeit der Karte und der Defakt auf einem unsachgemäßen Gebrauch bzw. auf einer unsachgemäßen Verwendung des Ausländers beruht (vgl. hierzu auch).
+Kartennutzungsdauer ist eine Gebühr in Höhe von 60 Euro zu erheben. eine Gebühr von 60 Euro ist ebenfalls für die Neuausstellung einer eAT-Karte zu erheben, wenn die Neuausstellung notwendig wird aufgrund
+einer Änderung von übrigen Angaben nach § 78 Abs. 1 s. 3 Nr. 1 bis 18 AufenthG,
+des Verlustes der eAT-Karte,
+des Verlustes der technischen Funktionsfähigkeit der Karte und der Defakt auf einem unsachgemäßen Gebrauch bzw. auf einer unsachgemäßen Verwendung des Ausländers beruht (vgl. hierzu auch) oder
+der Beantragung nach § 105b S. 2 AufenthG.
 B.AufenthV.46. Gebühren für das Visum
 frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
@@ -60,16 +62,16 @@ B.AufenthV.47.4. Wird gemäß § 11 Abs. 1 FreizügigG/EU i.V.m. § 78a Abs. 1 A
 B.AufenthV.48. Gebühren für pass- und ausweisrechtliche Maßnahmen
 Zu beachten sind die unterschiedlichen Gebührensätze für biometrische und vorläufige deutsche Reiseausweise sowie der Gebührensatz für an Kinder ausgestellte Dokumente.
 Die Gebührenregelungen in § 48 Abs. 1 Nr. 10, 11 und 12 hinsichtlich der Erteilung bzw. Verlängerung eines Ausweisersatzes betreffen nur die Fälle, in denen nach § 48 Abs. 2 i.V.m. § 78a Abs. 4 AufenthG ein Ausweisersatz in Papierform erteilt bzw. verlängert wird.
-Mit § 48 Abs. 1 Nr. 15 ist eine Gebührenregelung für die Fälle eingeführt, in denen ein (bereits vorhandener) eAT nachträglich als Ausweisersatz ausgestellt werden soll (§ 78 Abs. 1 S. 4 i.V.m. § 78 Abs. 2 AufenthG). In diesen Fällen ist eine neue eAT-Karte zu bestellen. Für diese Neuausstellung beträgt die Gebühr 30 Euro (Hiervon sind die Fälle zu unterscheiden, in denen ein eAT von Beginn an direkt als Ausweisersatz ausgestellt wird. In diesen Fällen ist die Gebühr für die Ausstellung des Ausweisersatzes bereits mit der Gebühr für die Erteilung des Titels abgegolten). B.AufenthV.49. Bearbeitungsgebühren
+Mit § 48 Abs. 1 Nr. 15 ist eine Gebührenregelung für die Fälle eingeführt, in denen ein (bereits vorhandener) eAT nachträglich als Ausweisersatz ausgestellt werden soll (§ 78 Abs. 1 S. 4 i.V.m. § 78 Abs. 2 AufenthG). In diesen Fällen ist eine neue eAT-Karte zu bestellen. Für diese Neuausstellung beträgt die Gebühr 60 Euro (Hiervon sind die Fälle zu unterscheiden, in denen ein eAT von Beginn an direkt als Ausweisersatz ausgestellt wird. In diesen Fällen ist die Gebühr für die Ausstellung des Ausweisersatzes bereits mit der Gebühr für die Erteilung des Titels abgegolten).
+B.AufenthV.49. Bearbeitungsgebühren
 In den Fällen, in denen vor dem 01.09.2011 eine nach §§ 44 und 45 bis 48 Abs. 1 gebührenpflichtige Amtshandlung beantragt wurde, der Antrag aber erst nach dem 01.09.2011 bearbeitet bzw. beschieden wird, bemessen sich die Bearbeitungsgebühren gemäß § 49 Abs. 1 und Abs. 2 nach der vor dem 01.09.2011 geltenden Rechtslage.
-Wird eine Niederlassungserlaubnis beantragt und ist zum Zeitpunkt der Gebührenerhebung davon auszugehen, dass der Titel gem. § 78a Abs. 1 S. 1 Nr. 2 AufenthG in Form eines Etiketts ausgestellt wird, bemisst sich die Bearbeitungsgebühr wie folgt:
-Von der Gebührenerhebung gem. § 44 ist entsprechend § 45b Abs. 2 ein Abzug in Höhe von 50,00 Euro vorzunehmen. Dieser Betrag ist dann gemäß § 49 Abs.1 zu halbieren.
-Merke: Dies gilt auch in den Fällen eines Antrags auf eine Erlaubnis zum Daueraufenthalt- EG. Zwar verweist weder § 49 Abs. 1 noch Abs. 2 AufenthV ausdrücklich auf § 44 a. Hierbei handelt es sich aber offensichtlich, um ein redaktionelles Versehen des Gesetzgebers. Dies wird deutlich, wenn man sich vor Augen hält, dass § 49 Abs. 1 ausdrücklich auch die Fälle von Anträgen auf eine Erlaubnis zum Daueraufenthalt- EG mit einbezieht.
+Wird eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-EG beantragt und ist zum Zeitpunkt der Gebührenerhebung davon auszugehen, dass der Titel gem. § 78a Abs. 1 S. 1 Nr. 2 AufenthG in Form eines Etiketts ausgestellt wird, bemisst sich die Bearbeitungsgebühr wie folgt:
+Von der Gebührenerhebung gem. § 44 resp. § 44a ist entsprechend § 45b Abs. 2 ein Abzug in Höhe von 50,00 Euro vorzunehmen. Dieser Betrag ist dann gemäß § 49 Abs.1 zu halbieren.
 B.AufenthV.50. Gebühren für Amtshandlungen zugunsten Minderjähriger
 § 50 Abs. 1 S. 1 regelt allgemein die Gebührenermäßigungen bei Amtshandlungen zugunsten Minderjähriger, soweit diese nicht besonders in § 50 Abs. 1 S. 2 bzw. Abs. 2 geregelt sind.
 Merke: Bei der Erteilung von Niederlassungserlaubnissen gem. § 26 Abs. 4 S. 4 i.V.m. § 35 Abs. 1 S. 1 AufenthG handelt es sich um einen Aufenthaltstitel nach dem 5. Abschnitt des AufenthG (Aufenthalt aus humanitären Gründen), bei dem § 35 lediglich entsprechend zur Anwendung kommt. Demnach ist 50 Abs. 1 S. 2 nicht einschlägig und beträgt die Gebühr gem. § 50 Abs. 1 S. 1 i.V.m. § 44 Nr. 3 67,50 Euro. Aus diesem Grunde wird als Rechtsgrundlage auch § 26 Abs. 4 und nicht § 35 eingetragen.
-Die Gebührenbefreiung für die Verlängerung von Schengenvisa für Antragsteller unter 6 Jahren ist zum.10.2011 entfallen (vgl. aber § 46 Abs. 1 Satz 2 – Gebührenbefreiung für Familienangehörige von Deutschen).
 Bei der Erteilung einer Niederlassungserlaubnis nach § 35 Abs. 1 S. 1 AufenthG ist eine Gebühr in Höhe von 55 Euro zu erheben und zwar unabhängig davon, in welcher Form die Niederlassungserlaubnis ausgegeben wird.
+Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahres zahlen für die Aufenthalts- oder Daueraufenthaltskarte eine Gebühr von 22,80 Euro. Die bisherige doppelte Privilegierung Minderjähriger bis 18 Jahre bei der zu entrichtenden hälftigen Gebühr der ohnehin bereits über § 47 Abs. 3 S. 2 bereits reduzierten Gebühr wurde mit der 8.Verordnung zur Änderung der AufenthV mit Blick auf die Produktionskosten bei der Bundesdruckerei und auf gleichaltrige nationale Antragsteller, die für einen Personalausweis 22,80 Euro entrichten müssen, aufgehoben.
 B.AufenthV.51. Widerspruchsgebühr
 Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpflichtigen Amtshandlung vor dem 01.09.2011 Widerspruch erhoben, aber erst nach dem 01.09.2011 über den Widerspruch entschieden, so bemessen sich die nach § 51 Abs. 1 Nr. 1 zu erhebenden Gebühren nach der vor dem 01.09.2011 geltenden Rechtslage.
 B.AufenthV.52. Befreiungen und Ermäßigungen
@@ -263,15 +265,15 @@ B.AufenthV.80. Übergangsvorschriften für die Verwendung von Vordrucken
 B.AufenthV.81. Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 B.AufenthV.82. - 82a. Übergangsregelung zur Führung von Ausländerdateien und aus Anlass des
 Richtlinienumsetzungsgesetzes
+B.AufenthV.82b. Übergangsregelung zur Zustimmung der Ausländerbehörde zur Visumerteilung in den Fällen des § 31 Abs. 1 S.1 Nr. 1 und 2 AufenthV
 B.AufenthV.83. Erfüllung ausweisrechtlicher Verpflichtungen
 B.AufenthV.84. Beginn der Anerkennung von Forschungseinrichtungen
 B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten,
 Schlussvorschriften
-(23.09.2010; 05.09.2011)
+(05.09.2011; 8. ÄndVO AufenthV)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
 In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg (Hinweise zur Verarbeitung sind unter für Reiseausweise bzw. ' für eATs zusammengefasst).
-Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht.
-Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
+Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht. Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
 frei
 B.AufenthV.63. Ausländerdatei A
@@ -295,13 +297,25 @@ frei
 B.AufenthV.78. Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
 frei
 B.AufenthV.79. Anwendung auf Freizügigkeitsberechtigte
-Das Visum eines freizügigkeitsberechtigten drittstaatsangehörigen Familienangehörigen eines Unions- oder EWR-Bürgers bedarf nicht unserer Zustimmung. § 31 ist auf Unionsbürger und EWR-Bürger, sowie ihre Familienangehörigen, nicht anwendbar. Abweichend dazu beachte B.AufenthV.28.2.4. für Schweizer und ihre Familienangehörigen.
-B.AufenthV.80. Übergangsvorschriften für die Verwendung von Vordrucken
+Das Visum eines freizügigkeitsberechtigten drittstaatsangehörigen Familienangehörigen eines Unions- oder EWR-Bürgers bedarf nicht unserer Zustimmung. § 31 ist auf Unionsbürger und EWR-Bürger, sowie ihre Familienangehörigen, nicht anwendbar. Abweichend dazu beachte B.AufenthV.28.2.4. für Schweizer und ihre Familienangehörigen. B.AufenthV.80. Übergangsvorschriften für die Verwendung von Vordrucken
 aufgehoben
 B.AufenthV.81. Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 Vor dem Inkrafttreten des 2. ÄndG ausgestellte Reiseausweise mit einer Gültigkeitsdauer von mehr als einem Jahr behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung. Dies gilt auch für vor dem Inkrafttreten ausgestellte Schülersammellisten und Standardreisedokumente für die Rückführung sowie für nach § 14 Abs. 1 Nr. 1 DVAuslG ausgestellte Reisedokumente. B.AufenthV.82. - 82a. Übergangsregelung zur Führung von Ausländerdateien und aus Anlass des
 Richtlinienumsetzungsgesetzes
 frei
+B.AufenthV.82b. Übergangsregelung zur Zustimmung der Ausländerbehörde zur Visumerteilung in den Fällen des § 31 Abs. 1 S.1 Nr. 1 und 2 AufenthV
+B.AufenthV.82b.0. Mit der am 05.03.2013 in Kraft getretenen Achten Verordnung zur Änderung der Aufenthaltsverordnung wurde das Zustimmungserfordernis der Ausländerbehörden im Visumverfahren der Arbeitsmigration eingeschränkt (vgl. hierzu B.AufenthV.31).
+In den Fällen, in denen nunmehr auf die Zustimmung der ABH bei Visa für die Einreise zum Zweck der Beschäftigung verzichtet wird, werden die Zustimmungsanfragen nach § 39 AufenthG in Zukunft direkt vom Bundesverwaltungsamt an die Bundesagentur für Arbeit übermittelt. Diese Verfahrensänderung führt jedoch zu erheblichen Umstellungen des EDV-basierten Übermittlungsverfahrens auf Seiten des Bundesverwaltungsamtes, die derzeit noch nicht abgeschlossen sind. Die vollständige Umsetzung des technischen Verfahrens muss nach dem Wortlaut der Vorschrift spätestens zum 30. Juni 2013 erfolgen, das Bundesverwaltungsamt rechnet derzeit mit einer Umsetzung zum 1. Juni 2013.
+B.AufenthV.82b.1. Bis zur vollständigen technischen Umsetzung beim BVA gilt daher folgende Übergangsregelung: Visumanträge für Beschäftigungsaufenthalte werden wie bisher über das BVA an die ABH übersandt, da nach dem jetzigen Verfahren weder die Auslandsvertretungen noch das BVA die erforderlichen Feststellungen treffen können, ob nach den geänderten Bestimmungen noch eine Zustimmung der ABH erforderlich ist. Die ABH prüft, ob sie der Visumerteilung zustimmen muss.
+Es ergeben sich folgende Fallkonstellationen:
+1. Visa zur Arbeitsplatzsuche nach § 18c AufenthG bedürfen in keinem Fall mehr der Zustimmung der ABH. Soweit sich aus Voraufenthalten der betroffenen Person eine Einreisesperre ergibt, wird diese im Visumantragverfahren durch die Auslandsvertretung berücksichtigt. An die ABH gerichtete Zustimmungsanfragen im Rahmen von § 18c AufenthG sind daher ungeprüft an die Auslandsvertretungen unter Verweis auf den neuen § 31 AufenthV mit folgender Formulierung zurückzusenden:
+„Eine Zustimmung der Ausländerbehörde ist nach § 31 Abs. 1 S. 1 Nr. 1 AufenthV nicht erforderlich.“
+2. In den Zustimmungsanfragen zu Visa nach §§ 17 – 20 AufenthG (mit Ausnahme von § 18 Abs. 4 S. 2 AufenthG) ist zu unterscheiden:
+In den Fällen, in denen die Bundesagentur für Arbeit auch bisher nicht beteiligt werden musste (§§ 3 ff. BeschV) und keine Voraufenthalte der betroffenen Person bestehen, sind die Zustimmungsanfragen ungeprüft mit folgender Formulierung an die Auslandsvertretungen zurückzusenden: „ Eine Zustimmung der Ausländerbehörde ist nach § 31 Abs. 1 Nr. 2 c AufenthV nicht erforderlich.“
+In den Fällen, in denen die Bundesagentur für Arbeit nicht zu beteiligen ist (§§ 3 ff. BeschV), die ABH aufgrund von Voraufenthalten der betroffenen Person aber zustimmen muss, gilt uneingeschränkt das bisherige Verfahren. Die ABH teilt der Auslandsvertretung das Ergebnis der Zustimmungsanfrage unter Hinweis auf die Zustimmungspflicht nach § 31 Abs. 1 Nr. 2 c AufenthV mit.
+Ist die Bundesagentur für Arbeit zu beteiligen (vgl. hierzu A.39.1.) und muss auch die ABH aufgrund von Voraufenthalten nach dem neuen § 31 Abs. 1 Nr. 2c AufenthV zustimmen, gilt ebenfalls uneingeschränkt das bisherige Verfahren. Die ABH teilt der Auslandsvertretung das Ergebnis der Zustimmungsanfrage unter Hinweis auf die Zustimmungspflicht nach § 31 Abs. 1 Nr. 2c AufenthV mit.
+Ist die Bundesagentur für Arbeit zu beteiligen (vgl. hierzu A.39.1.) und bestehen keine Voraufenthalte der betroffenen Person, sodass die ABH nach der neuen Regelung nicht zustimmen muss, ist die Zustimmungsanfrage ungeprüft direkt an die Bundesagentur für Arbeit weiterzuleiten. Die ABH ist dann Adressat für die Rückmeldung der Bundesagentur für Arbeit und teilt der Auslandsvertretung das Ergebnis der BA- Zustimmungsanfrage mit. Gleichzeitig ist die Auslandsvertretung auf die nicht erforderliche Zustimmung der ABH nach § 31 Abs. 1 Nr. 2c AufenthV aufgrund fehlender Voraufenthalte hinzuweisen.
+3. Bei Visa zur Beschäftigung nach § 18 Abs. 4 S. 2 AufenthG sowie in den Fällen der Ausübung einer selbständigen Tätigkeit ist auch nach der neuen Regelung weiterhin die Zustimmung der ABH erforderlich und es gilt uneingeschränkt das bisherige Verfahren. Die ABH teilt über das BVA das Ergebnis der Zustimmungsanfrage unter Hinweis auf die Zustimmungspflicht nach § 31 Abs. 1 Nr. 2 a oder b AufenthV mit.
 B.AufenthV.83. Erfüllung ausweisrechtlicher Verpflichtungen
 frei
 B.AufenthV.84. Beginn der Anerkennung von Forschungseinrichtungen

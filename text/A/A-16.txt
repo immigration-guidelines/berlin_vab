@@ -2,7 +2,6 @@ VAB A 16
 VAB A 16
 Inhaltsverzeichnis
 A.16. Studium; Sprachkurs; Schulbesuch
-(04.12.2012; 15.01.2013)
 16.0. Allgemeines
 16.1. Studium inklusive studienvorbereitender Maßnahmen
 16.1.0. Grundsätzliches
@@ -47,7 +46,7 @@ besondere Bescheinigung der deutschen Hochschule
 Sonstiges
 16.7. Zustimmung der Personensorgeberechtigten
 A.16. Studium; Sprachkurs; Schulbesuch
-(04.12.2012; 15.01.2013)
+(15.01.2013; 09.04.2013)
 16. 0. Allgemeines
 § 16 beschränkt sich nur auf Ausbildungszwecke wie Studium, Sprachkurs, Schulbesuch, wobei nach dem konkreten Aufenthaltszweck zu differenzieren ist, in
 Erlaubnis zum Schulbesuch (Abs. 5 S. 1 2. Alternative und Abs. 2)
@@ -64,7 +63,8 @@ Der Antragsteller ist entsprechend zu beraten und ggf. auf die Mitwirkungspflich
 16.1. Studium inklusive studienvorbereitender Maßnahmen
 16.1. 0. Grundsätzliches
 studienvorbereitende Maßnahmen
-§ 16 Absatz 1 regelt Aufenthalte zum Zweck des Studiums. Klarstellend werden studienvorbereitende Maßnahmen (studienvorbereitende Sprachkurse und Studienkollegs) in § 16 Absatz 1 Satz 2 ausdrücklich entsprechend Artikel 2 Buchstabe b) der Richtlinie 2004/114/EG des Rates vom 13. Dezember 2004 (ABl. EU Nummer L 375 S. 12, so genannte Studentenrichtlinie) dem Aufenthaltszweck Studium zugerechnet. Die in § 16 Absatz 1 Satz 3 aufgestellte Voraussetzung der Zulassung zum Studium ist auch dann erfüllt, wenn der Ausländer an studienvorbereitenden Maßnahmen teilnimmt. Der Nachweis der Zulassung wird durch die Vorlage des Zulassungsbescheides (im Original) der Bildungseinrichtung geführt. Zulassungsbescheid
+§ 16 Absatz 1 regelt Aufenthalte zum Zweck des Studiums. Klarstellend werden studienvorbereitende Maßnahmen (studienvorbereitende Sprachkurse und Studienkollegs) in § 16 Absatz 1 Satz 2 ausdrücklich entsprechend Artikel 2 Buchstabe b) der Richtlinie 2004/114/EG des Rates vom 13. Dezember 2004 (ABl. EU Nummer L 375 S. 12, so genannte Studentenrichtlinie) dem Aufenthaltszweck Studium zugerechnet. Die in § 16 Absatz 1 Satz 3 aufgestellte Voraussetzung der Zulassung zum Studium ist auch dann erfüllt, wenn der Ausländer an studienvorbereitenden Maßnahmen teilnimmt. Der Nachweis der Zulassung wird durch die Vorlage des Zulassungsbescheides (im Original) der Bildungseinrichtung geführt.
+Zulassungsbescheid
 Nach Nr. 16.1.1.1.1 AufenthG- VwV kann der Zulassungsbescheid durch eine Studienplatzvormerkung einer Hochschule oder einer staatlichen, staatlich geförderten oder staatlich anerkannten Einrichtung zum Erlernen der deutschen Sprache ersetzt werden.
 Merke: Soweit der Betroffene lediglich eine Bewerberbestätigung (vgl. AufenthG-VwV Nr. 16.1.1.1.3) vorlegt, handelt es sich schon gesetzessystematisch um einen Fall des § 16 Abs. 1a. Daher genügt die Bewerberbestätigung grundsätzlich nicht für die Erteilung einer Aufenthaltserlaubnis gem. § 16 Abs. 1. Im Ergebnis gilt dasselbe für eine Bescheinigung einer Hochschule oder eines Studienkollegs, aus der sich lediglich ergibt, dass für die Entscheidung über den Zulassungsantrag die persönliche Anwesenheit des Ausländers am Hochschulort erforderlich ist.
 Den Universitäten und Fachhochschulen Berlins wurde mitgeteilt, dass auch bei Einreise mit einem D-Visum zum Zwecke des Studiums, bei einer vorhandenen Freizügigkeitsbescheinigung, einer Aufenthaltskarte oder Daueraufenthaltskarte oder einem anderen Aufenthaltstitel, der das Studium nicht ausschließt, die Immatrikulation möglich ist.
@@ -85,7 +85,7 @@ Studierende in Bachelor-, Master- und Diplomstudiengängen können sich, wenn al
 Die Aus- oder Fortbildung kann nicht nur an staatlichen oder staatlich anerkannten Hochschulen (Universitäten, pädagogischen Hochschulen, Kunsthochschulen und Fachhochschulen) sondern auch an vergleichbaren Ausbildungsstätten wie dem Priesterseminar REDEMPTORIS MATER des Erzbistums Berlin oder staatlichen oder staatlich anerkannten Studienkollegs (so z.B. am Euro-Business-College Berlin) durchgeführt werden (§§ 1 und 70 Hochschulrahmengesetz).
 Ist zweifelhaft oder strittig ob es sich um eine vergleichbare Ausbildungseinrichtung handelt, ist eine schriftliche Stellungnahme der für Bildung zuständigen Senatsverwaltung einzuholen. Die schriftliche Stellungnahme kann insbesondere bei solchen Einrichtungen notwendig sein, die eine staatliche Anerkennung erst beantragt haben oder solchen Einrichtungen, die lediglich einzelne akkreditierte Studiengänge anbieten. Ggf. ist vor der Bitte um Stellungnahme zu prüfen, ob die Einrichtung zwischenzeitlich anerkannt wurde (vgl. im Übrigen und die dort hinterlegte Liste).
 16.1.2. Studienvorbereitende Sprachkurse
-Nach Nr. 16.0.6 der AufenthG-VwV darf die für die Zulassung zum Studium erforderliche Teilnahme an Deutschsprachkursen, Studienkollegs und anderen Formen staatlich geförderter studienvorbereitender Maßnahmen (z.B. ein Propädeutikum) i.d.R. nicht länger als insgesamt zwei Jahre dauern. Die gesetzlich zugelassene Ausübung einer Beschäftigung während der studienvorbereitenden Maßnahmen rechtfertigt kein Abweichen von diesem Regelzeitraum.
+Nach Nr. 16.0.6 der AufenthG-VwV darf die für die Zulassung zum Studium erforderliche Teilnahme an Deutschsprachkursen, Studienkollegs und anderen Formen staatlich geförderter studienvorbereitender Maßnahmen (z.B. ein Propädeutikum) i.d.R. nicht länger als insgesamt zwei Jahre dauern. Die gesetzlich zugelassene Ausübung einer Beschäftigung während der studienvorbereitenden Maßnahmen rechtfertigt kein Abweichen von diesem Regelzeitraum. Soweit gemäß VAB.16.2.1. ein Zweckwechsel von einem Sprachaufenthalt nach § 16 Abs. 5 AufenthG ohne Durchführung des Visumverfahrens direkt in einen Aufenthalt zur Studienvorbereitung nach § 16 Abs. 1 AufenthG möglich ist, wird hinsichtlich der zulässigen Dauer der Studienvorbereitung das Ermessen zur Wahrung des Gleichbehandlungsgrundsatzes regelmäßig dahingehend ausgeübt, dass diese Zeiten des Sprachaufenthalts auf die Regeldauer der Studienvorbereitung von 2 Jahren angerechnet werden.
 16.1.3. bis 16.1.4. Der Nachweis der Sprachkenntnisse wird zur Vermeidung unnötiger Doppelprüfungen von uns grundsätzlich nicht verlangt, da die Berliner Hochschulen einen solchen Nachweis bereits zur Bedingung für die Zulassung machen bzw. diese Sprachkenntnisse im Rahmen einer studienvorbereitenden Maßnahme zunächst erworben werden sollen.
 Abs. 1 S. 3 und 4 sind damit praktisch nicht von Bedeutung.
 16.1.5. Verlängerung der Aufenthaltserlaubnis

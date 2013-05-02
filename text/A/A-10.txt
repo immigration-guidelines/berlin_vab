@@ -2,19 +2,18 @@ VAB A 10
 VAB A 10
 Inhaltsverzeichnis
 A.10. Aufenthaltstitel bei Asylantrag
-(2. RiLiUmG; 24.01.2012)
 10.1. Asylverfahrensunabhängige Aufenthaltsrechte
 10.2. Verlängerung des Aufenthaltstitels
 10.3. Titelerteilung nach Abschluss des Asylverfahrens
 A.10. Aufenthaltstitel bei Asylantrag
-(2. RiLiUmG; 24.01.2012)
+(24.01.2012; 09.04.2013)
 10.1. Asylverfahrensunabhängige Aufenthaltsrechte
 Die Regelung des Abs. 1 betrifft allein asylverfahrensunabhängige Aufenthaltsrechte. Liegt vom BAMF eine Teilbestandskraftmitteilung hinsichtlich des Vorliegens der Voraussetzungen eines Abschiebungsverbotes gemäß § 60 Abs. 2 – 5 oder 7 vor und ist das Asylverfahren im Übrigen weiter anhängig, steht § 10 Abs. 1 der Erteilung der AE gemäß § 25 Abs. 3 nicht entgegen (vgl. insofern auch D.67.1.6).
 Bei der Frage, ob ein gesetzlicher Anspruch vorliegt, ist auch § 39 AufenthV zu beachten.
 10.2. Verlängerung des Aufenthaltstitels
 Eine Verlängerung im Sinne dieser Vorschrift ist immer nur eine Verlängerung zu dem bisherigen Aufenthaltszweck. Beim Familiennachzug wird der Aufenthaltszweck durch die Person bestimmt, von der das Aufenthaltsrecht abgeleitet wird. Wechselt diese Person, steht die Asylantragstellung gemäß § 10 Abs. 2 Satz 2 der Verlängerung entgegen (OVG Nordrhein-Westfalen, Beschluss vom 20.06.2008 - 18 B 1384/07).
 Neben § 10 Abs. 2 ist auch immer § 55 Abs. 2 AsylVfG zu beachten. Hat der Ausländer einen Titel mit einer Gesamtgeltungsdauer von mehr als 6 Monaten besessen und dessen Verlängerung beantragt, lässt die Stellung des Asylantrags die Fiktionswirkung des § 81 Abs. 4 AufenthG unberührt (§ 55 Abs. 2 S. 2 AsylVfG). Damit ist dem Betroffenen eine Fiktionsbescheinigung und keine Aufenthaltsgestattung auszustellen. Die interne Zuständigkeit bleibt unverändert.
-Etwas anderes gilt allerdings, wenn der Asylantragsteller im Besitz einer Aufenthaltserlaubnis gem. § 22, 23 oder § 25 Abs. 3 -5 ist. Hier gilt § 51 Abs. 1 Nr. 8 als Spezialvorschrift zu § 10 Abs. 2 bzw. § 55 Abs. 2 AsylVfG. Mit Stellung des Asylantrags erlischt der Aufenthaltstitel bzw. kommt § 81 Abs. 4 nicht zum Tragen. Der Aufenthalt des Betroffenen ist somit gestattet und der Betroffene fällt in die Zuständigkeit der Sachgebiete Z 8 und 9.
+Etwas anderes gilt allerdings, wenn der Asylantragsteller im Besitz einer Aufenthaltserlaubnis gem. § 22, 23 oder § 25 Abs. 3 -5 ist. Hier gilt § 51 Abs. 1 Nr. 8 als Spezialvorschrift zu § 10 Abs. 2 bzw. § 55 Abs. 2 AsylVfG. Mit Stellung des Asylantrags erlischt der Aufenthaltstitel bzw. kommt § 81 Abs. 4 nicht zum Tragen. Der Aufenthalt des Betroffenen ist somit gestattet und der Betroffene fällt in die Zuständigkeit der Sachgebiete Z 8 und 9. Vorstehendes gilt nicht bei Stellung eines Folgeantrags, unabhängig davon, ob dieser in ein weiteres Asylverfahren mündet.
 10.3. Titelerteilung nach Abschluss des Asylverfahrens
 10.3.1. Nach der Regelung des § 10 Abs. 3 S. 1 kann einem Ausländer, dessen Asylantrag unanfechtbar abgelehnt wurde oder der seinen Asylantrag zurückgenommen hat, eine AE nur nach den §§ 22-25 erteilt werden (beachte jedoch die Verschärfung in Abs. 3 S. 2 sowie die Ausnahme in Abs. 3 S. 3).
 10.3.2. Abs. 3 S. 2 schließt bei Missbrauchshandlungen im Asylverfahren nach § 30 Abs. 3 Nr. 1 bis 6 AsylVfG, besondere Fälle der offensichtlichen Unbegründetheit) die Erteilung eines Aufenthaltstitels aus, so es sich nicht um einen Anspruchsfall handelt (s. dazu § 10 Abs. 3 S. 3 bzw. unten A.10.3.3.).
