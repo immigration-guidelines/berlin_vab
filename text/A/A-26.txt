@@ -2,7 +2,7 @@ VAB A 26
 VAB A 26
 Inhaltsverzeichnis
 A.26. Dauer des Aufenthalts
-(01.06.2012; 18.02.2013)
+(18.02.2013; AuslBeschR)
 26.1. Erteilungsdauer humanitärer Aufenthaltserlaubnisse
 26.2. Prüfung der Verlängerung der Aufenthaltserlaubnis
 26.3. Niederlassungserlaubnis bei AE nach § 25 Abs. 1 und 2
@@ -16,10 +16,9 @@ A.26. Dauer des Aufenthalts
 26.4.1.10. Verweis auf die Voraussetzungen des § 9 Abs. 2 (Lebensunterhaltssicherung)
 26.4.4. Entsprechende Anwendung von § 35 AufenthG
 A.26. Dauer des Aufenthalts
-(01.06.2012; 18.02.2013)
+(18.02.2013; AuslBeschR)
 26.1. Erteilungsdauer humanitärer Aufenthaltserlaubnisse
-Abs. 1 erweitert die mögliche Dauer der AE auf drei Jahre, anstatt wie bisher gem. § 34 Abs. 1 AuslG zwei Jahre.
-In den Fällen des § 25 Abs. 1 und 2 ist die AE erstmalig für 3 Jahre zu erteilen (§ 26 Abs. 1 Satz 2; zu den Fällen der Verlängerung vgl. unten 26.3.2). In den übrigen Fällen (§§ 22, 23 Abs. 1, 23 a, 24, 25 Abs. 4 S. 2) sollte zur Entlastung der Ausländerbehörde hiervon großzügig Gebrauch gemacht werden, solange nicht absehbar ist, dass das der Ausreise entgegenstehende Hindernis in nächster Zeit endet. Für die Fälle des § 25 Abs. 3 ist eine Mindestfrist von einem Jahr vorgesehen (§ 26 Abs. 1 Satz 2).
+Abs. 1 erweitert die mögliche Dauer der AE auf drei Jahre, anstatt wie bisher gem. § 34 Abs. 1 AuslG zwei Jahre. In den Fällen des § 25 Abs. 1 und 2 ist die AE erstmalig für 3 Jahre zu erteilen (§ 26 Abs. 1 Satz 2; zu den Fällen der Verlängerung vgl. unten 26.3.2). In den übrigen Fällen (§§ 22, 23 Abs. 1, 23 a, 24, 25 Abs. 4 S. 2) sollte zur Entlastung der Ausländerbehörde hiervon großzügig Gebrauch gemacht werden, solange nicht absehbar ist, dass das der Ausreise entgegenstehende Hindernis in nächster Zeit endet. Für die Fälle des § 25 Abs. 3 ist eine Mindestfrist von einem Jahr vorgesehen (§ 26 Abs. 1 Satz 2). Vgl. auch A.7.2.1.2.
 26.2. Prüfung der Verlängerung der Aufenthaltserlaubnis
 Gemäß § 26 Abs. 2 ist bei jeder Verlängerung zu prüfen, ob die Voraussetzungen für die Ersterteilung noch vorliegen. Ist der Betroffene nach Ablauf der Aufenthaltserlaubnis in den Fällen des § 25 Abs. 3 – 5 oder der Duldung, die auf einem zielstaatsbezogenen Abschiebungsverbot gem. § 60 Abs. 2, 3 und 7 beruhen, nicht ausgereist, so ist vor jeder Verlängerung erneut das BAMF gem. § 72 Abs. 2 zu beteiligen, sofern keine gemäß § 42 AsylVfG bindende Entscheidung des BAMF über das Vorliegen eines Abschiebungsverbotes vorliegt. Dies folgt aus § 8 Abs. 1 (zu den Einzelheiten des Verfahrens vgl. Ausführungen zu § 72 Abs. 2 sowie A.72.2. 11). Eine Beteiligung des BAMF ist ausnahmsweise dann entbehrlich, wenn aufgrund einer Vielzahl gleichgelagerter Beteiligungsverfahren bzw. gleichgelagerter Entscheidungen des BAMF über das Vorliegen von Abschiebungsverboten im Rahmen des Asylverfahrens bereits feststeht, dass ein Abschiebungshindernis zum Entscheidungszeitpunkt besteht bzw. nicht besteht.
 26.2.1. Für Asylberechtigte oder Ausländer, denen die Flüchtlingseigenschaft zuerkannt wurde (§ 60 Abs. 1, früher § 51 AuslG) gilt § 73 Abs. 2a AsylVfG. Danach hat das BAMF spätestens nach Ablauf von drei Jahren nach Unanfechtbarkeit der Entscheidung von Amts wegen zu prüfen, ob die Voraussetzungen der Anerkennung weiterhin vorliegen.

@@ -1,12 +1,13 @@
 VAB D 71
 VAB D 71
 D.71. Folgeantrag
-(08.04.2011; 11.09.2012)
+(11.09.2012; 11.06.2013)
 71.0. Gemäß § 71 Abs. 5 Satz 2 AsylVfG darf die Abschiebung erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in einen sicheren Drittstaat abgeschoben werden. In diesen Fällen liegt dann ein gesetzliches Abschiebungsverbot und somit eine rechtliche Unmöglichkeit der Abschiebung vor.
 Asylfolgenantragstellern ist eine Duldung gemäß § 60a Abs. 2 AufenthG auszustellen. Die Duldung ist mit der folgenden Nebenbestimmung zu versehen:
 "Erlischt bei Vorliegen der Mitteilung des BAMF über die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG"
 Eine Umverteilung gemäß § 51 AsylVfG findet bei Asylfolgeantragstellern nicht statt. War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht, § 71 Abs. 7 AsylVfG.
 Bzgl. sonstiger Auflagen, der Erweiterung der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, sind die Regelungen für Duldungsinhaber anzuwenden (vgl. A.60a. und A.61).
+Merke: Auch wenn ein abgelehnter Asylbewerber beim BAMF lediglich eine isolierte Überprüfung von Abschiebungshindernissen nach § 60 Abs. 2-7 AufenthG begehrt, ist den Betroffenen in entsprechender Anwendung des § 71 Abs. 5 Satz 2 AsylVfG eine Duldung gemäß § 60a Abs. 2 AufenthG zu erteilen.
 Merke: Dies gilt auch in den Fällen, in denen der Antragsteller vom Erfordernis eines Aufenthaltstitels befreit ist, einen Aufenthaltstitel mit einer Gesamtgeltungsdauer von bis zu 6 Monaten besitzt oder einen Antrag auf Erteilung einer Aufenthaltserlaubnis gestellt hat, der eine Fiktionswirkung nach § 81 Abs. 3 und 4 AufenthG entfaltet. Insofern gilt § 55 Abs. 2 AsylVfG analog.
 Anders ist dagegen bei Asylfolgeanträgen von Angehörigen eines EU- oder EWR-Staates zu verfahren. Hier gelten die Ausführungen unter D.55.0.1.
 71.1.1. einstweilen frei

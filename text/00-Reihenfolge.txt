@@ -142,15 +142,13 @@ B.AufenthV.39. - 41. Einholung des Aufenthaltstitels im Bundesgebiet
 B.AufenthV.44. - 54. Gebühren
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
 B.AufenthV.61a. - 84. Datenverarbeitung, Ordnungswidrigkeiten, Schlussvorschriften
-B.BeschV.1. - 16. Zustimmungsfreie Beschäftigungen
-B.BeschV.17. - 24. Zustimmungen zu Beschäftigungen, die eine qualifizierte Berufsausbildung voraussetzen
-B.BeschV.25. - 31. Zustimmungen zu Beschäftigungen, die eine qualifizierte Berufsausbildung voraussetzen
-B.BeschV.32. - 37. Zustimmungen zu weiteren Beschäftigungen
-B.BeschV.38. - 41. Zustimmungen zu Beschäftigungen auf der Grundlage zwischenstaatlicher Vereinbarungen
-B.BeschVerfV.0. - 4. Zustimmungsfreie Beschäftigungen
-B.BeschVerfV.5. - 9. Zustimmungen zu Erlaubnissen zur Ausübung einer Beschäftigung ohne Vorrangprüfung
-B.BeschVerfV.10. - 11. Zulassung von geduldeten Ausländern zur Ausübung einer Beschäftigung
-B BeschVerfV 12. - 17. Zuständigkeits- und Verfahrensregelungen, Schlussvorschriften
+B.BeschV.1. Allgemeine Bestimmungen
+B.BeschV.2. - 9. Zuwanderung von Fachkräften
+B.BeschV.10.-15c. Vorübergehende Beschäftigung
+B.BeschV.16.-21. Entsandte Arbeitnehmerinnen und Arbeitnehmer
+B.BeschV.22.-28. Besondere Berufs- und Personengruppen
+B.BeschV.29.-30. Sonstiges
+B.BeschV.34.-37. Verfahrensregelungen
 C 1
 C 2
 C 3

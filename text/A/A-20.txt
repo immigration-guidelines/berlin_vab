@@ -21,7 +21,7 @@ schriftliche Kostenübernahmeerklärung
 20.6. Berechtigung zur Ausübung einer Forschungstätigkeit
 20.7. Ausschlussgründe
 A.20. Forschung
-(12.07.2009; HQRLUmsG)
+(HQRLUmsG; AuslBeschR)
 20.0. Allgemeines
 Mit dem 2. ÄndG wird ein neuer § 20 eingefügt, der die Erteilung von Aufenthaltserlaubnissen an Forscher entsprechend der Richtlinie 2005/71/EG über ein besonderes Zulassungsverfahren für Drittstaatsangehörige zum Zwecke der wissenschaftlichen Forschung (Forscherrichtlinie) in ihren Grundzügen regelt. Bzgl. der Verfahrensvorschriften der Forscherrichtlinie wird auf die §§ 38 a –f der AufenthV verwiesen.
 qualifizierte Forscher
@@ -80,14 +80,13 @@ Eine Ar-beitsmarktprüfung entsprechend den Vorgaben der Forscherrichtli-nie, in
 In diesen Fällen wird in die Aufenthaltserlaubnis daher
 „Forscher - Beschäftigung nicht gestattet mit Ausnahme der Tätigkeit als Forscher bei … und zur Lehre."
 eingetragen.
-§ 20 Abs. 6 S. 3 hat neben § 17 Abs. 2 i.V.m. §§ 16 S. 1 und 5 BeschV nur insofern eigenständige Bedeutung, als es um Negativstaater geht.
+§ 20 Abs. 6 S. 3 hat neben § 17 Abs. 2 i.V.m. § 30 Nr. 2 und § 5 BeschV nur insofern eigenständige Bedeutung, als es um Negativstaater geht.
 Aufenthaltserlaubnisse gem. § 20 Abs. 1 bzw. Abs. 5 sind gem. § 21 Abs. 6 neuer Fassung mit der Auflage
 „Selbstständige Tätigkeit gestattet“
 zu versehen.
 20.7. Ausschlussgründe
 Inhabern eines sonstigen deutschen Aufenthaltstitels ist es – wie in anderen Fallkonstellationen auch - grundsätzlich möglich, während der Gültigkeit des Titels eine Aufenthaltserlaubnis nach § 20 Abs. 1 zu erhalten. Dies ergibt sich ausdrücklich aus dem 20.-ten Erwägungsgrund der Richtlinie. Ausnahmen von diesem Grundsatz gelten ausweislich § 20 Abs. 7 Nr. 2 im Fall des § 24. Titelinhaber nach § 25 Abs. 1 bis 3 AufenthG können einen Titel nach § 20 Abs. 1 dagegen sehr wohl erhalten (vgl. Wortlaut des § 20 Abs. 7 Nr. 1).
-In den Fällen des § 16 Abs. 1 und 6 ist zwischen Studierenden und Promovenden zu differenzieren.
-Studierende, die bereits über ein (im Ausland) abgeschlossenes Hochschulstudium verfügen, können gem. § 16 Abs. 2 den Aufenthaltszweck wechseln, da bei Vorliegen der Voraussetzungen auf die AE gem. § 20 Abs. 1 ein gesetzlicher Anspruch besteht.
+In den Fällen des § 16 Abs. 1 und 6 ist zwischen Studierenden und Promovenden zu differenzieren. Studierende, die bereits über ein (im Ausland) abgeschlossenes Hochschulstudium verfügen, können gem. § 16 Abs. 2 den Aufenthaltszweck wechseln, da bei Vorliegen der Voraussetzungen auf die AE gem. § 20 Abs. 1 ein gesetzlicher Anspruch besteht.
 Promotionsstudenten, die weiter immatrikuliert sind, sind gem. § 20 Abs. 7 Nr. 4 vom Aufenthaltszweck eines Forschers ausgeschlossen. Sollte im Einzelfall vorgetragen werden, dass die in Rede stehende Forschungstätigkeit sich vom Thema der Promotion unterscheidet und daher nicht „Bestandteil eines Promotionsstudiums“ ist, kann der Argumentation nicht gefolgt werden. Schon aus systematischen Gründen ist Promotionsstudenten der Wechsel in einen Aufenthaltstitel als Forscher nicht zu gestatten. Die Forscherrichtlinie nimmt Studierende, die Forschungstätigkeiten im Zusammenhang mit der Erlangung eines Doktorgrads betreiben (Art. 3 Abs. 2 b) RL 2005/71/EG), ausdrücklich aus ihrem Geltungsbereich aus. Dies gilt selbst dann, wenn die Promotion und die Forschung an unterschiedlichen Einrichtungen geleistet werden oder das Promotionsthema vom Forschungsthema abweicht.
 Für in Deutschland Geduldete oder Asylsuchende (Fallgruppen des § 20 Abs. 7 Nr. 1 und 3) ist der Titel nach § 20 Abs. 1 ausgeschlossen.
 § 20 Abs. 7 Nr. 5 dürfte ohne praktische Relevanz sein.

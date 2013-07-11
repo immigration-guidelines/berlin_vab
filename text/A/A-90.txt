@@ -14,7 +14,7 @@ A.90. Übermittlungen durch Ausländerbehörden
 90.3.8. Zuständigkeiten der Sozialämter
 90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
 A.90. Übermittlungen durch Ausländerbehörden
-(24.02.2010; 2. RiLiUmG)
+(2. RiLiUmsG; AuslBeschR)
 90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen
@@ -26,7 +26,7 @@ In einer Mitteilung ist jeweils anzugeben:
 die Personalien, die zur Identifizierung des betroffenen Ausländers erforderlich sind,
 Aktenzeichen der Leistungsbehörde/des Sozialleistungsträgers, soweit bekannt,
 Tatsachen, die die konkreten Anhaltspunkte für einen Verstoß gem. § 90 Abs. 1 Nr. 1 -3 begründen.
-90.1.1. Ergeben sich im Einzelfall etwa im Rahmen der Vorsprache des Betroffenen konkrete Anhaltspunkte für eine Beschäftigung von Ausländern, ohne dass diese über einen entsprechenden Titel nach § 4 Abs. 3 verfügen bzw. diese Beschäftigung (noch) nicht erlaubt wurde, so sind die Agenturen für Arbeit für die Verfolgung dieser Ordnungswidrigkeit nach § 404 Abs. 3 SGB III zuständig. Diese sind gem. § 90 Abs. 1 Nr. 1 unter Angabe der Anhaltspunkte entsprechend zu informieren. Maßgeblich für die örtliche Zuständigkeit ist der Ort der Beschäftigung (§ 12 BeschVerfV analog).
+90.1.1. Ergeben sich im Einzelfall etwa im Rahmen der Vorsprache des Betroffenen konkrete Anhaltspunkte für eine Beschäftigung von Ausländern, ohne dass diese über einen entsprechenden Titel nach § 4 Abs. 3 verfügen bzw. diese Beschäftigung (noch) nicht erlaubt wurde, so ist die ZAV für die Verfolgung dieser Ordnungswidrigkeit nach § 404 Abs. 3 SGB III zuständig. Diese sind gem. § 90 Abs. 1 Nr. 1 unter Angabe der Anhaltspunkte entsprechend zu informieren. ... weggefallen ...
 90.1.2. Gem. § 60 Abs. 1 Satz 1 Nr. 2 SGB I hat derjenige, der Sozialleistungen beantragt oder erhält, Änderungen in den Verhältnissen, die für die Leistung erheblich sind oder über die im Zusammenhang mit der Leistung Erklärungen abgegeben worden sind, unverzüglich mitzuteilen. Es handelt sich um Sachverhalte, die für die Gewährung, Höhe und den Fortbestand der Leistung von Bedeutung sind. Ein solcher Sachverhalt liegt etwa bei Beziehern von Arbeitslosengeld II (Hartz IV) bzw. Leistungen nach dem SGB XII vor, wenn ausweislich des Leistungsbescheides oder auf Grund von Angaben des Betroffenen konkrete Anhaltspunkte dafür bestehen, dass
 der Leistungsbehörde auf Grund der Gewährung voller Leistungen nicht bekannt sein kann, dass der Leistungsempfänger mit seiner ein Einkommen erwirtschaftenden Lebensgefährtin in einer eheähnlichen Bedarfsgemeinschaft lebt, dies aber tatsächlich der Fall ist,
 volle Leistungen auch für minderjährige ledige Kind bezogen werden, obwohl von einem anderen unterhaltspflichtigen Elternteil Unterhalt gezahlt wird,
@@ -62,7 +62,7 @@ Bei Inhabern einer AE nach §§ 23 Abs. 1, 24 oder 25 Abs. 4, 4a oder 5 ist davo
 Bei ausländischen Staatsangehörigen, die die Dauer ihres Aufenthaltes rechtsmissbräuchlich selbst beeinflusst haben, indem sie z.B. bei der Passbeschaffung nicht ausreichend mitwirken, ist die Duldung oder sonstige Bescheinigung (z.B. GÜB) immer mit dem rechtlichen Hinweis
 „Erwerbstätigkeit nicht gestattet“
 zu versehen, um die rechtsmissbbräuchliche Beeinflussung und damit einen Ausschluss von den Leistungen nach § 2 AsylbLG für die Leistungsbehörden sichtbar zu machen; eine gesonderte Mitteilung ist damit auch hier entbehrlich.
-Entscheidend für die Art des rechtlichen Hinweises ist allein die Frage, ob der Ausländer ein bestehendes Abschiebungshindernis selbst zu vertreten hat (s. hierzu auch B.BeschVerfV.11).
+Entscheidend für die Art des rechtlichen Hinweises ist allein die Frage, ob der Ausländer ein bestehendes Abschiebungshindernis selbst zu vertreten hat (s. hierzu auch B. BeschV.33.).
 Daneben besteht für die Leistungsbehörden die Möglichkeit, sich weitere Informationen durch einen Zugriff auf das AZR zu verschaffen (§ 18 a AZRG).
 90.3.6. Datenübermittlung bei Integrationskursverpflichtung
 Nach § 44a Abs. 1 S. 1 Nr. 2a ist ein Ausländer zur Teilnahme an einem Integrationskurs verpflichtet, wenn die ABH ihn im Rahmen verfügbarer Kursplätze zur Teilnahme am Integrationskurs auffordert und er Leistungen nach dem SGB II bezieht und die die Leistung bewilligende Stelle die Teilnahme angeregt hat.

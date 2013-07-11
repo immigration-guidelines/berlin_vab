@@ -1,7 +1,7 @@
 VAB A 84
 VAB A 84
 A.84. Wirkungen von Widerspruch und Klage
-(01.08.2008; 2. RiLiUmG)
+(2. RiLiUmG; AuslBeschR)
 84.1.1. bis 84. 1.5. frei
 84.1.6. Durch das Gesetz zur Umsetzung aufenthaltsrechtlicher Richtlinien der EU und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex (sog. Richtlinienumsetzungsgesetz) ist die Regelung des § 84 Abs. 1 Nr. 6 aufgehoben worden. Für Schengenvisa gilt nunmehr Art. 34 der Verordnung (EG) Nr. 810/2009 (sog. Visakodex), der die Voraussetzungen für die Beseitigung eines erteilten Schengenvisums abschließend regelt (vgl. insoweit auch Ausführungen unter A.6.4.). Da im Rahmen des Visakodex keine Regelung zur sofortigen Vollziehbarkeit besteht, haben Klagen gegen die Annullierung bzw. Aufhebung von Schengenvisa nunmehr grundsätzlich aufschiebende Wirkung. Die sofortige Vollziehbarkeit kann jedoch nach § 80 Abs. 2 Nr. 4 VwGO angeordnet werden. Hierzu bedarf es der Darlegung eines besonderen öffentlichen Interesses (vgl. hierzu).
 84.2.1. frei
@@ -11,7 +11,6 @@ während zulässigerweise (!) beantragter einstweiliger Rechtsschutzverfahren zu
 während des Bestehens der aufschiebenden Wirkung von Rechtsbehelfen
 das Fortbestehen des Aufenthaltstitels an.
 Zulässig ist ein Antrag nach § 80 Abs. 5 VwGO nur in solchen Fällen, in denen mit Erlass des aufenthaltsbeendenden Bescheides eine Fiktionswirkung gemäß § 81 Abs. 3 oder 4 beendet worden ist. Anderenfalls ist nur ein Antrag auf einstweilige Anordung nach § 123 VwGO zulässig. Während der Dauer eines solchen Verfahrens besteht keine Möglichkeit der Erwerbstätigkeit. Die Voraussetzungen des § 84 Abs. 2 S. 2 liegen im übrigen auch dann noch vor, wenn in einem Rechtsschutzverfahren zur Anordnung oder Wiederherstellung der aufschiebenden Wirkung nach § 80 Abs. 5 VwGO gegen den Beschluss des VG noch Beschwerde erhoben werden kann bzw. eine Beschwerde erhoben wurde, über die noch nicht entschieden worden ist.
-Liegen die Voraussetzungen des § 84 Abs. 2 Satz 2 vor, ist dem Betroffenen auf Antrag die fortbestehende Erlaubnis der konkreten Erwerbstätigkeit (ggf. mit den Beschränkungen nach § 13 BeschVerfV) formlos auf der
-Grenzübertrittsbescheinigung (ggf. Rückseite) oder der Bescheinigung L 4048 gesiegelt zu bestätigen. Hierfür ist gem. § 47 Abs. 1 Nr. 9 AufenthV eine Gebühr von 10 Euro zu erheben. § 4 Abs. 2 Satz 2 findet insofern keine Anwendung, da der Aufenthaltstitel selbst nicht fortgilt und dementprechend auch kein Titeletikett ausgestellt werden kann.
+Liegen die Voraussetzungen des § 84 Abs. 2 Satz 2 vor, ist dem Betroffenen auf Antrag die fortbestehende Erlaubnis der konkreten Erwerbstätigkeit (ggf. mit den Beschränkungen nach § 34 BeschV) formlos auf der Grenzübertrittsbescheinigung (ggf. Rückseite) oder der Bescheinigung L 4048 gesiegelt zu bestätigen. Hierfür ist gem. § 47 Abs. 1 Nr. 9 AufenthV eine Gebühr von 10 Euro zu erheben. § 4 Abs. 2 Satz 2 findet insofern keine Anwendung, da der Aufenthaltstitel selbst nicht fortgilt und dementprechend auch kein Titeletikett ausgestellt werden kann.
 Zur Befristung von Ausweisungen während gegen die Ausweisung gerichteter Klageverfahren vgl. A.11.1.3.3..
 84.2.3. frei

@@ -46,8 +46,17 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
+23.s.6. Aufnahme von syrischen Flüchtlingen aus Syrien unde dessen Anrainerstaaten
+1. Grundsätzliches
+2. Begünstigter Personenkreis
+3. Ausschlussgründe
+4. Erteilung und Verlängerung des Aufenthaltstitels im Inland
+5. Passpflicht
+6. Aufenthaltsrechtliche Verfestigung
+7. Familiennachzug
+8. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(18.02.2013; 27.02.2013)
+(27.02.2013; 11.06.2013)
 23.1.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
 23.1.1.1 Spätaussiedler
@@ -252,12 +261,11 @@ gebilligt und Kenntnis genommen verlesen und erläutert
 23.s.2. Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und
 berufskonsularischen Vertretungen in Deutschland
 Die Richtlinien des Auswärtigen Amtes zur Beschäftigung von im Ausland angeworbenen so genannten unechten Ortskräften an diplomatischen und berufskonsularischen Vertretungen in Deutschland sind am 1. Februar 2010 in Kraft getreten und regeln folgendes:
-1. Die Vertretungen dürfen weiterhin eigene Staatsangehörige als Ortskräfte im Heimatland anwerben,
-2. Der Aufenthalt der neuen Ortskräfte wird auf maximal fünf Jahre begrenzt,
-3. Der Familiennachzug ist ausgeschlossen,
-4. Für bisher begünstigte Personen wird eine Altfallregelung eingeführt, die vorsieht, dass ein eigenes Aufenthaltsrecht erworben werden kann, wenn bestimmte Voraussetzungen erfüllt sind (weiter unten).
+1. Die Vertretungen dürfen weiterhin eigene Staatsangehörige als Ortskräfte im Heimatland anwerben, 2. der Aufenthalt der neuen Ortskräfte wird auf maximal fünf Jahre begrenzt,
+3. der Familiennachzug ist ausgeschlossen,
+4. für bisher begünstigte Personen wird eine Altfallregelung eingeführt, die vorsieht, dass ein eigenes Aufenthaltsrecht erworben werden kann, wenn bestimmte Voraussetzungen erfüllt sind (weiter unten).
 Ab dem 01.01.2013 dürfen fremde Missionen Ortskräfte nur noch im Inland anwerben, wenn die Angeworbenen im Besitz eines Aufenthaltstitels mit freiem Zugang zum Arbeitsmarkt sind.
-In diesem Zusammenhang wurde zwischen Bund und Ländern eine Altfallregelung für die „unechten“ Ortskräfte und deren Familienangehörigen abgestimmt, die bereits vor Inkrafttreten der o.g. Neuregelung an einer diplomatischen oder berufskonsularischen Vertretung in der Bundesrepublik Deutschland tätig waren.
+In diesem Zusammenhang wurde zwischen Bund und Ländern eine Altfallregelung für die „unechten“ Ortskräfte und deren Familienangehörigen abgestimmt, die bereits vor Inkrafttreten der o.g. Neuregelung an einer diplomatischen oder berufskonsularischen Vertretung in der Bundesrepublik Deutschland tätig waren. Für bisher begünstigte Personen wird eine Altfallregelung eingeführt, die vorsieht, dass ein eigenes Aufenthaltsrecht erworben werden kann, wenn bestimmte Voraussetzungen erfüllt sind (weiter unten).
 Das Bundesministerium des Innern hat mit Schreiben vom 15. Dezember 2009 das erforderliche Einvernehmen mit dieser Altfallregelung erklärt. Diese wird in Berlin aufgrund des Schreibens der Senatsverwaltung für Inneres und Sport vom 18.12.2009 wie folgt umgesetzt:
 „Unechte“ Ortskräfte im Sinne dieser Regelung sind die nicht entsandten Mitglieder des Verwaltungs- und technischen Personals einer fremden Mission, die
 - in der Vertretung in Deutschland mit Genehmigung des Auswärtigen Amts vor dem 01.02.2010 tätig waren,
@@ -404,6 +412,61 @@ Sollte dies in Einzelfällen dennoch nicht möglich sein, gelten für den Famili
 Nicht erforderlich bei nachziehenden Familienangehörigen ist das Vorliegen des für die Erteilung der Aufnahmezusage notwendigen besonderen Schutzbedürfnisses.
 Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (§ 29 Abs. 5 Nr. 1 AufenthG).
 7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Flüchtlinge findet § 33 AufenthG Anwendung. Sind beide personensorgeberechtigten Eltern als Flüchtlinge aus dem Irak aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG.
+Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. AufenthG. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
+8. Gebühren
+8.1. Nach § 52 Abs. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 AufenthG besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EG.
+Eine Gebührenbefreiung für die Erteilung und Übertragung einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG hat der Gesetzgeber nicht vorgesehen, gleichwohl ist von der Erhebung dieser Gebühr wie auch der Antragsgebühr nach § 52 Abs. 7 AufenthV aus humanitären Gründen abzusehen.
+8.2. Ein Absehen von der Gebühr für die Ausstellung eines Reiseausweises gem. § 48 Nr. 1 a AufenthV etwa gem. § 53 Abs. 1 2. HS oder Abs. 2 AufenthV kommt hingegen vor dem Hintergrund der angespannten Haushaltslage und der Möglichkeit einen Ausweisersatz erhalten zu können, nicht in Betracht. Bei Ausstellung eines Ausweisersatzes ist dagegen der Gebührenbefreiungstatbestand des § 53 Abs. 1 Nr. 8 AufenthV zu beachten.
+23.s.6. Aufnahme von syrischen Flüchtlingen aus Syrien unde dessen
+Anrainerstaaten
+Im Vorgriff auf eine erwartete gesamteuropäische Hilfsmaßnahme zur Bekämpfung der Flüchtlingskrise in Syrien und dessen Anrainerstaaten hat der Bundesminister des Innern im Einvernehmen mit den Innenministern und –senatoren der Länder entschieden, im Jahr 2013 5.000 besonders schutzbedürftige Flüchtlinge für die Dauer des Konflikts und dessen für die Flüchtlinge relevanter Folgen nach § 23 Abs. 2, Abs. 3 i.V.m. § 24 Aufenthaltsgesetz aufzunehmen.
+Vor diesem Hintergrund hat das Bundesministerium des Innern am 30.05.2013 eine Anordnung nach § 23 Abs. 2, Abs. 3 i.V.m. § 24 AufenthG erlassen, die wie folgt umgesetzt wird:
+1. Grundsätzliches
+1.1. Das Bundesamt für Migration und Flüchtlinge erteilt bis insgesamt 5.000 Personen (Personen mit syrischer Staatsangehörigkeit und deren Familienangehörige), die in Folge des Bürgerkrieges aus ihrem Wohnort fliehen mussten und sich im Libanon, in Jordanien oder Syrien aufhalten, eine Aufnahmezusage. Die Aufnahme erfolgt grundsätzlich aus dem Libanon.
+1.2. Die Aufnahmezusage wird unter dem Vorbehalt erteilt, dass das anschließende Visumverfahren erfolgreich abgeschlossen wird. Die obersten Landesbehörden stimmen der Visumerteilung nach § 32 AufenthV zu.
+1.3. Die Flüchtlinge sind berechtigt, mit der durch das BAMF erteilten Aufnahmezusage und einem gültigen und anerkannten Reisepass nach Deutschland einzureisen. Ist der vorgelegte Reisepass nicht anerkannt, die Identität des Flüchtlings aber durch andere Dokumente (z.B. Identitätskarte, Staatsangehörigkeitsnachweis, Geburtsurkunde) nachgewiesen, wird eine Ausnahme von der Passpflicht durch das BAMF nach § 3 Abs. 2 AufenthG zugelassen. Kann der Flüchtling keinen Reisepass vorlegen, seine Identität aber anderweitig nachweisen, wird ein Reiseausweis für Ausländer nach §§ 5, 7 AufenthV mit einer Gültigkeitsdauer von höchstens einem Monat (§ 8 Abs. 2 S. 1 AufenthV) durch die zuständige Auslandsvertretung ausgestellt.
+1.4. Die Aufnahmezusage und die Ausnahme von der Passpflicht sind im Rahmen von organisierten Gruppeneinreisen ab Bekanntgabe sechs Monate gültig und erlöschen, wenn in diesem Zeitraum die Einreise nach Deutschland nicht erfolgt ist.
+1.5. Es wird angestrebt, dass ein Teil der Personen selbsttätig in die Bundesrepublik Deutschland einreist; dies gilt insbesondere für Personen, die Bezüge zu Deutschland haben. Im übrigen wird angestrebt, die ausgewählten Personen grds. zentral über das Grenzdurchgangslager Friedland (Niedersächsisches Zentrum für Integration) oder Bramsche für die Dauer von 14 Tagen erstaufzunehmen und von dort aus vom BAMF zu verteilen. Ausgenommen sind unbegleitete Minderjährige und Schwerstkranke.
+1.6. Personen, die eigenständig einreisen, werden vom BAMF auf der Grundlage des Königsteiner Schlüssels (s. auch nachfolgend 1.8.) bei der Verteilentscheidung berücksichtigt. Die Aufnahmezusage und die Ausnahme von der Passpflicht sind bei eigenständig einreisenden Personen ab Bekanntgabe drei Monate gültig und erlöschen, wenn in diesem Zeitraum die Einreise nach Deutschland nicht erfolgt ist.
+1.7. Personen, die schwerstkrank oder minderjährig sind und ohne Familienangehörige aufgenommen werden, werden zwar in die Verteilung einbezogen; in solchen Fällen klärt das BAMF vor der Einreise unter Berücksichtigung der jew. Anzahl bereits erfolgter Aufnahmen, welches Land zur Aufnahme einer schwerstkranken Person und ihrer Familienangehörigen bzw. eines unbegleiteten Minderjährigen in der Lage ist. Die Personen werden von einem Vertreter des aufnehmenden Landes unmittelbar nach Ankunft vom Zielflughafen zum Zielort begleitet. Unbegleitete Minderjährige werden anschließend durch das zuständige Jugendamt am Zielort in Obhut genommen.'
+1.8. Die Verteilung der ausgewählten Personen erfolgt nach Maßgabe des Königsteiner Schlüssels (Berlin 5,07 % für 2013) und unter Berücksichtigung familiärer und sonstiger Bindungen nach Deutschland (s. dazu auch nachfolgend 2.). § 24 Abs. 3 bis 5 AufenthG findet Anwendung, d.h. u.a., dass aufgenommene Flüchtlinge keinen Anspruch darauf haben, sich an einem bestimmten Ort aufzuhalten, ein Widerspruch gegen die Zuweisungsentscheidung nicht stattfindet und eine Klage keine aufschiebende Wirkung hat.
+2. Begünstigter Personenkreis
+Die Auswahl der Flüchtlinge durch das BAMF orientiert sich an:
+a) Humanitären Kriterien
+Besonders schutzbedürftige Kinder mit ihren Eltern bzw. Personensorgeberechtigten unter Wahrung der Familieneinheit, medizinischer Bedarf; hier liegt die Obergrenze bei 3 %,
+Frauen in prekären Lebenssituationen,
+Angehörige religiöser Minderheiten, sofern eine spezifische religionsbezogene Verfolgungssituation vorliegt. Voraussetzung für eine Aufnahme nach humanitären Kriterien ist eine bis zum 31.03.2013 erfolgte Registrierung beim UNHCR oder Caritas im Libanon.
+b) Bezügen zu Deutschland wie
+Familiäre Bindungen,
+Voraufenthalte,
+Sprachkenntnisse,
+sonstige Bindungen nach Deutschland, insbesondere aufnahmebereite Institutionen syrischer religiöser Minderheiten. Dabei sollen vorrangig Personen berücksichtigt werden, für die Verpflichtungserklärungen abgegeben wurden oder die Bereitschaft erklärt wurde, bei ihrer Unterbringung und Lebensunterhaltssicherung einen Beitrag zu leisten.
+c) Fähigkeit, nach Konfliktende einen besonderen Beitrag zum Wiederaufbau des Landes zu leisten, etwa durch die Möglichkeit, vorhandene Qualifikationen während des Aufenthalts in Deutschland zu erhalten und auszubauen, wenn diese Mglichkeit am Fluchtort nicht besteht.
+Die Aufnahme setzt nicht die Erfüllung mehrerer Kriterien voraus.
+3. Ausschlussgründe
+Ausgeschlossen sind grundsätzlich Personen,
+die wegen Delikten, die in Deutschland als vorsätzliche Straftat anzusehen sind, verurteilt worden sind oder bei denen tatsächliche Anhaltspunkte die Schlussfolgerung rechtfertigen, dass Verbindungen zu kriminellen Organisationen oder terroristischen Vereinigungen bestehen oder bestanden haben oder dass sie in sonstiger Weise Bestrebungen verfolgen oder unterstützen oder unterstützt haben, die gegen den Gedanken der Völkerverständigung verstoßen oder gegen das friedliche Zusammenleben der Völker gerichtet sind.
+4. Erteilung und Verlängerung des Aufenthaltstitels im Inland
+4.1. Im Rahmen des Aufnahmeverfahrens findet eine Überprüfung der Personen im Visumverfahren durch die Sicherheitsbehörden statt. Eine Beteiligung der Sicherheitsbehörden im Inland ist damit erst vor der Verlängerung der Aufenthaltserlaubnis erforderlich.
+4.2. Die aufgenommenen Flüchtlinge erhalten eine AE nach § 23 Abs. 2 AufenthG für zwei Jahre; von der Anwendung der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 AufenthG ist dabei abzusehen.
+Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (§ 23 Abs. 2 S. 5 AufenthG). Die Aufenthaltserlaubnis wird bei Bezug von Leistungen nach dem Zweiten oder dem Zwölften Buch Sozialgesetzbuch mit der Auflage
+„Wohnsitznahme im Land Berlin erforderlich"
+versehen (bzgl. der Einzelheiten vgl. die Ausführungen unter A.12.2.).
+Besteht ein Anspruch auf einen Integrationskurs (§ 44 Abs. 1 S. 1 Nr. 2 i.V.m. Abs. 3) und verfügt die Person nicht über ausreichende Kenntnisse der deutschen Sprache, ist eine Verpflichtung zur Teilnahme an einem Integrationskurs zu verfügen (§ 44 Abs. 1 S. 1 Nr. 1 b).
+4.3. Auf die Verlängerung der AE finden dieselben Vorschriften Anwendung wie auf die Erteilung (§ 8 Abs. 1 AufenthG). Daraus folgt, dass im Rahmen der Verlängerung lediglich das Vorliegen von Ausweisungsgründen (vgl. 3.) bzw. eine Ausweisung sowie ggf. das Erfüllen der Passpflicht und ggf. das Erfüllen der Teilnahmepflicht am Integrationskurs zu prüfen sind.
+5. Passpflicht
+In den Fällen, in denen kein gültiger Nationalpass vorliegt, gilt für die Ersterteilung eine Ausnahme von der Passpflicht gem. §§ 5, 6 Nr. 1 bzw. Nr. 2 AufenthV. Die Reiseausweise für Ausländer werden mit einer Gültigkeit für alle Staaten ausgestellt.
+Im Falle der Verlängerung der Aufenthaltserlaubnis erfolgt diese auf Ausweisersatz. Die Ausstellung eines Reiseausweises kommt nur unter den Voraussetzungen des § 5 AufenthV in Betracht, vgl. hierzu VAB.B.5 AufenthV. ' Diese Verfahrenspraxis schließt es nicht aus, zu einem späteren Zeitpunkt die Vorlage syrischer Nationalpässe zu verlangen.
+6. Aufenthaltsrechtliche Verfestigung
+6.1. Eine spätere Aufenthaltsverfestigung durch Erteilung einer Niederlassungserlaubnis ist nach § 26 Abs. 4 AufenthG möglich, wenn die AE nach § 23 Abs. 2 AufenthG sieben Jahre besteht und die weiteren für die Niederlassungserlaubnis erforderlichen Erteilungsvoraussetzungen nach § 9 Abs. 2 S. 1 Nr. 2 bis 9 AufenthG vorliegen.
+6.2. Daneben ist auch die Erteilung einer Erlaubnis zum Daueraufenthalt-EG nach § 9a AufenthG möglich, denn vom Anwendungsausschluss für Aufenthaltstitel nach dem 5. Abschnitt des AufenthG sind Titel nach § 23 Abs. 2 AufenthG ausdrücklich ausgenommen (§ 9a Abs. 3 Nr. 1 AufenthG).
+Die Erteilung richtet sich nach den in § 9a Abs. 2 AufenthG aufgeführten Voraussetzungen. Da die Erlaubnis zum Daueraufenthalt- EG weiterführende Rechte gewährt und – etwa bei den anrechenbaren Voraufenthaltszeiten - geringere Anforderungen hat, sollte dieser Titel vorrangig geprüft werden (s. hierzu A.9a.-9c.).
+7. Familiennachzug
+7.1. Entsprechend des in der Aufnahmeanordnung des BMI enthaltenen Auswahlkriteriums der „Wahrung der Einheit der Familie“ wird versucht, Familien nur gemeinsam aufzunehmen.
+Sollte dies in Einzelfällen dennoch nicht möglich sein, gelten für den Familiennachzug die allgemeinen Regelungen der §§ 27 ff. AufenthG. Zu beachten sind dabei insbesondere die Regelerteilungsvoraussetzungen nach § 5 Abs. 1 AufenthG. Das bedeutet u.a., dass zwar eine Sicherung des Lebensunterhaltes nicht Voraussetzung für die Erteilung oder Verlängerung des Aufenthaltstitels ist, grundsätzlich aber vorliegen muss, wenn der Familiennachzug begehrt wird. Aufgrund der derzeitigen Situation in Syrien wird beim Ehegattennachzug auf das Erfordernis des Nachweises einfacher Sprachkenntnisse nach § 30 Abs. 1 S. 1 Nr. 2 AufenthG verzichtet. Nachziehenden Ehegatten, die nicht über einfache Sprachkenntnisse verfügen, wird zunächst ein Aufenthaltstitel zum Spracherwerb nach § 16 Abs. 5 AufenthG erteilt (vgl. auch A.30.1.1.2.).
+Nicht erforderlich bei nachziehenden Familienangehörigen ist das Vorliegen des für die Erteilung der Aufnahmezusage notwendigen besonderen Schutzbedürfnisses.
+Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (§ 29 Abs. 5 Nr. 1 AufenthG).
+7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Flüchtlinge findet § 33 AufenthG Anwendung. Sind beide personensorgeberechtigten Eltern als Flüchtlinge aus Syrien aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG.
 Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. AufenthG. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 8. Gebühren
 8.1. Nach § 52 Abs. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 AufenthG besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EG.
