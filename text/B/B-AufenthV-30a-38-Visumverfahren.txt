@@ -218,7 +218,7 @@ Staat Bezeichnung nur bei Alter *) Besonderes
 **)
 Botschaft
 Working-Holiday bzw. Jugendmobilität
-Australien Working-Holiday nein 18 - 31 ja 1x Inanspruchnahme, Antrag im Inland möglich
+Australien Working-Holiday nein 18 - 30 ja 1x Inanspruchnahme, Antrag im Inland möglich
 1x Inanspruchnahme, nur mit Pass der SVR Hongkong oder
 British Overseas, Kontingent festgesetzt, nicht länger als 3
 Hongkong Working-Holiday ja 18 - 30 --

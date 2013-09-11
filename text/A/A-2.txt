@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(24.05.2013; 11.06.2013)
+(03.08.2013; SchutzberArb)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -26,16 +26,14 @@ A.2. Begriffsbestimmungen
 2.3.2. Unschädliche öffentliche Mittel
 2.3.2.1. Kindergeld
 2.3.2.2. Kinderzuschlag
-2.3.2.3. Elterngeld
-2.3.2.4. Leistungen zur Ausbildungsförderung nach SGB III
-2.3.2.5. Leistungen nach dem BAFöG
-2.3.2.6. Leistungen nach dem AufstiegsfortbildungsförderungsG (AFBG) - sog. Meister-BaFöG
-2.3.2.7. Pflegegeld
-2.3.2.8. Arbeitslosengeld I
-2.3.2.9. Existenzgründungszuschüsse / Leistungen zur Eingliederung
-2.3.2.10. Öffentliche Mittel zur Ermöglichung des Aufenthalts in Deutschland
-2.3.2.11. Wohngeld
-2.3.2.12. Leistungen der Unterhaltsvorschusskasse
+2.3.2.3. Erziehungsgeld frei
+2.3.2.4. Elterngeld
+2.3.2.5 Leistungen zur Ausbildungsförderung
+2.3.2.6.1. Öffentliche Mittel, die auf Beiträgen beruhen
+2.3.2.6.2. Öffentliche Mittel, die gewährt werden, um den Aufenthalt zu ermöglichen
+2.3.2.7. Wohngeld
+2.3.2.8. Leistungen für Bildung und Teilhabe nach § 6b Bundeskindergeldgesetz (sog. Bildungspaket)
+2.3.2.9. Leistungen der Unterhaltsvorschusskasse
 2.3.4. Besonderheiten beim Familiennachzug
 2.3.4.1. Eingeschränkte Berücksichtigung des Erwerbstätigenfreibetrages nach §§ 11b Abs. 1 Satz 1 Nr. 6 i.V.m. Abs. 3 SGB II
 2.3.4.2. Unionsrechtlicher Sozialhilfebegriff
@@ -47,12 +45,14 @@ A.2. Begriffsbestimmungen
 2.4. Ausreichender Wohnraum
 2.5. Schengen-Staaten
 2.7. Langfristig Aufenthaltsberechtigte
-2.8. einfache deutsche Sprachkenntnisse
-2.9. hinreichende deutsche Sprachkenntnisse
-2.10. ausreichende deutsche Sprachkenntnisse
-2.11. Beherrschen der deutschen Sprache
+2.8. Langfristige Aufenthaltsberechtigung-EU
+2.9. einfache deutsche Sprachkenntnisse
+2.10. hinreichende deutsche Sprachkenntnisse
+2.11. ausreichende deutsche Sprachkenntnisse
+2.12. Beherrschen der deutschen Sprache
+2.13. International Schutzberechtigter
 A.2. Begriffsbestimmungen
-(24.05.2013; 11.06.2013)
+(03.08.2013; SchutzberArb)
 Pfändungsfreibeträge
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -188,7 +188,7 @@ Merke: Freiwillig gesetzlich versichern können sich nur Personen, die schon vor
 Im Gegenzug wird bei Selbstständigen, ihren Familienangehörigen und anderen Personen, die nicht in der gesetzlichen Krankenversicherung pflichtversichert sind, auf die Anrechnung des Freibetrages nach § 11b Abs. 1 Satz 1 Nr. 3 bis 5 i.V.m. Abs. 2 Satz 1 SGB II (Werbungskostenpauschale von 100,- €), der im Wesentlichen auch die Krankenversicherungsbeiträge abdeckt, bei der Einkommensberechnung verzichtet! Dies gilt sowohl für die Erteilung einer Aufenthaltserlaubnis als auch für die Erteilung einer Niederlassungserlaubnis.
 Im Übrigen ist bei allen nicht in einer deutschen gesetzlichen Versicherung Versicherten immer zu prüfen, ob der private Krankenversicherungsschutz nach Art und Umfang dem der gesetzlichen Krankenversicherung entspricht, d.h., er darf
 - insbesondere keine Leistungsausschlüsse in größerem Umfang vorsehen,
-- dem Versicherten im Krankheitsfall keinen höheren Selbstbehalt als 300 Euro im Jahr abverlangen,
+- dem Versicherten im Krankheitsfall keinen höheren Selbstbehalt als 1200 Euro im Jahr abverlangen, wenn das Einkommen unter Berücksichtigung des Selbstbehalts ausreicht, um diesen Selbstbehalt innerhalb von 12 Monaten zu erwirtschaften, ohne dass die Sicherung des Lebensunterhalts gefährdet wäre,
 - keine Begrenzung der zu erstattenden Kosten im Krankheitsfall sowie
 - keine Ablauf- oder Erlöschensklausel hinsichtlich eines bestimmten Lebensalters, der Aufgabe einer Tätigkeit, des Wechsels des Aufenthaltszwecks oder des Verlustes eines legalen Aufenthaltsstatus enthalten.
 Ein solcher Versicherungsschutz kann ggf. auch durch einen Versicherer mit Sitz im Ausland gewährleistet werden.
@@ -236,10 +236,9 @@ Soweit bei Erteilung oder Verlängerung der Aufenthaltserlaubnis im Ermessen nac
 Merke: Diese großzügige Ermessensleitlinie gilt ausschließlich für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis. Voraussetzung für die Erteilung einer Niederlassungserlaubnis ist regelmäßig, dass der Lebensunterhalt nach dem aktuellen Maßstab vollständig gesichert ist (vgl. auch BVerwG, Urteil vom 16.11.2010 - 1C 21.09 -). So ist für die endgültige Aufenthaltsverfestigung regelmäßig eine vollständige wirtschaftliche Integration zu verlangen und insoweit auch das Ermessen gemäß § 5 Abs. 3 Satz 2 zu Lasten des Antragstellers auszuüben, wenn der Lebensunterhalt nicht nach den allgemeinen Maßstäben gesichert ist.
 Zum Absehen vom Erwerbstätigenfreibetrag in bestimmten Fällen des Familiennachzugs vgl. A.2.3.4.1., zum Absehen von der Werbungskostenpauschale bei Selbstständigen und sonst nicht gesetzlich Versicherten vgl. A.2.3.1.12..
 2.3.2. Unschädliche öffentliche Mittel
-Die Inanspruchnahme der in § 2 Abs. 3 S. 2 genannten Leistungen (Kindergeld, Elterngeld, sowie Leistungen der Ausbildungsförderung nach dem SGB III, dem Bundesausbildungsförderungsgesetz (BAföG) oder dem
-Aufstiegsfortbildungsförderungsgesetz und öffentliche Mittel, die auf Beitragsleistungen beruhen, und solche, die gewährt werden, um den Aufenthalt im Bundesgebiet zu ermöglichen) wertet das Gesetz nicht als Inanspruchnahme öffentlicher Mittel im Sinne des § 2 Abs. 3 S. 1.
+Die Inanspruchnahme der in § 2 Abs. 3 S. 2 Nr. 1-6 genannten Leistungen wertet das Gesetz nicht als Inanspruchnahme öffentlicher Mittel im Sinne des § 2 Abs. 3 S. 1. Hierzu im Einzelnen:
 2.3.2.1. Kindergeld
-Der Bezug von Kindergeld ist nach § 2 Abs. 3 S. 2 unschädlich. Ein ausländischer Staatsangehöriger erhält Kindergeld nur, wenn er im Besitz
+Der Bezug von Kindergeld ist nach § 2 Abs. 3 S. 2 Nr. 1 unschädlich. Ein ausländischer Staatsangehöriger erhält Kindergeld nur, wenn er im Besitz
 einer Niederlassungserlaubnis,
 einer Aufenthaltserlaubnis ist, die zur Ausübung einer Erwerbstätigkeit berechtigt oder berechtigt hat, es sei denn, die Aufenthaltserlaubnis wurde
 a) nach § 16 oder 17 erteilt,
@@ -249,18 +248,21 @@ a) sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet im Bun
 b) im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen nach dem Dritten Sozialgesetzbuch bezieht oder Elternzeit in Anspruch nimmt.
 Auch Inhaber einer Aufenthaltserlaubnis, die nach § 104a Abs. 1 S. 1 erteilt bzw. nach § 23 Abs. 1 S. 2 ggf. i.V.m. § 104a Abs. 5, Abs. 6 verlängert wurde, erhalten Kindergeld.
 Staatsangehörige der EU und des EWR sowie Staatsangehörige der Schweiz können Kindergeld unabhängig davon erhalten, ob sie eine NE oder AE besitzen.
-Das Gleiche gilt für Staatsangehörige Serbien-Montenegros, Bosnien-Herzegowinas, Mazedoniens, Marokkos, Tunesiens und der Türkei auf der Grundlage der jeweiligen zwischenstaatlichen Abkommen, wenn sie in Deutschland als Arbeitnehmer arbeitslosenversicherungspflichtig beschäftigt sind oder beispielsweise Arbeitslosengeld bzw. Krankengeld beziehen. In diesen Fällen ist eine Bescheinigung der Familienkassen der Arbeitsagenturen über den Kindergeldanspruch zu fordern, wenn es auf den Kindergeldanspruch ankommt.
+Das Gleiche gilt für Staatsangehörige Serbiens und Montenegros, Bosnien-Herzegowinas, Mazedoniens, Marokkos, Tunesiens und der Türkei auf der Grundlage der jeweiligen zwischenstaatlichen Abkommen, wenn sie in Deutschland als Arbeitnehmer arbeitslosenversicherungspflichtig beschäftigt sind oder beispielsweise Arbeitslosengeld bzw. Krankengeld beziehen. In diesen Fällen ist eine Bescheinigung der Familienkassen der Arbeitsagenturen über den Kindergeldanspruch zu fordern, wenn es auf den Kindergeldanspruch ankommt.
 Mit dem 3. Artikel des Steueränderungsgesetzes 2007 vom 19.07.2006 wurde das Bundeskindergeldgesetz mit Wirkung vom 01.01.2007 im Hinblick auf die Bezugsdauer geändert. Die Höchstdauer für den Bezug von Kindergeld für Kinder ab dem Geburtsjahrgang 1983 wurde vom 27. auf das 25.Lebensjahr herabgesetzt. Kinder, die im Kalenderjahr 2006 das 24. Lebensjahr vollendet haben (Geburtsjahrgang 1982) können bis zur Vollendung des 26. Lebensjahres berücksichtigt werden, Kinder, die 2006 das 25. oder 26. Lebensjahr vollendet haben (Jahrgänge 1981 und 1980), bis zur Vollendung des
 27. Lebensjahres.
 Die Höhe des Kindergeldanspruchs kann ggf. bei der Familienkasse der Arbeitsagenturen erfragt werden.
 2.3.2.2. Kinderzuschlag
 Kindergeld ist nicht zu verwechseln mit einem Kinderzuschlag gemäß § 6a des Bundeskindergeldgeseztes (BKKG). Bei dem Kinderzuschlag handelt es sich um Leistungen aus öffentlichen Mitteln, die nicht auf Beitragsleistungen beruhen und nicht mit dem Kindergeld nach § 6 des BKKG gleichzusetzen sind.
 Der Kinderzuschlag wird von den Familienkassen gezahlt. Anspruchsberechtigt sind grundsätzlich nur Eltern, die auch einen Anspruch auf Kindergeld haben. Durch den Kinderzuschlag soll vermieden werden, dass Eltern, deren Lebensunterhalt für sie allein betrachtet nach Maßgabe der üblichen Bedarfsberechnung (Regelbedarf + Miete) gesichert ist, allein aufgrund der Betreuung von Kindern, von Leistungen nach dem SGB II oder SGB XII abhängig werden. Voraussetzung für den Bezug des Kinderzuschlages ist daher zunächst, dass die Eltern für sich allein betrachtet keine Leistungen nach dem SGB II und XII in Anspruch nehmen können. Ist dies der Fall wird ein Kinderzuschlag von höchsten 140,- € pro im Haushalt lebendem Kind, welches das 25. Lebensjahr noch nicht vollendet hat, gezahlt. Der Anspruch besteht seit 1.1.2008 – auch bei mehreren Kindern – unbefristet. Die exakte Höhe des Kinderzuschlages ist einerseits davon abhängig, ob das Kind eigenes Einkommen hat, andererseits davon, inwieweit das Einkommen der Eltern deren Bedarf übersteigt.
-Der Kinderzuschlag ist daher bei der aufenthaltsrechtlich erforderlichen Prognose der Sicherung des Lebensunterhaltes als Einkommen zu berücksichtigen (vgl. BVerwG, Urteil vom 16.11.2011 - 1 C 21.09 -). Der Bezug sowie die jeweilige Höhe des Zuschlags ist bei der Erteilung oder Verlängerung eines Aufenthaltstitels im Inland durch einen längstens 6 Monate alten Bescheid der Familienkasse nachzuweisen.
+Der Bezug sowie die jeweilige Höhe des Zuschlags ist bei der Erteilung oder Verlängerung eines
+Aufenthaltstitels im Inland durch einen längstens 6 Monate alten Bescheid der Familienkasse nachzuweisen.
 Hängt im Einreiseverfahren die Erteilung eines Visums zur Familienzusammenführung von einem zukünftigen Kinderzuschlaganspruch ab, kann als Orientierungshilfe der Kinderzuschlagrechner des privaten Finanzportals biallo.de genutzt werden. Das Ergebnis der Berechnung ist auszudrucken und zur Akte zu nehmen. Ermittelt der Rechner einen Anspruch auf Kinderzuschlag, fließt dieser als sonstiges Einkommen in die weiterhin erforderliche Bedarfsberechnung ein.
 Merke: Für den Fall, dass bei der Ersterteilung der Aufenthaltserlaubnis ohne Berücksichtigung des Kinderzuschlags nicht von einem gesicherten Lebensunterhalt ausgegangen werden kann, kann auf eine erneute Berechnung des Lebensunterhalts verzichtet werden, so sich an der wirtschaftlichen Situation der Bedarfsgemeinschaft nichts geändert hat und die Berechnung im Visumsverfahren vorgenommen wurde. Ansonsten, d.h. etwa bei visafreier Einreise, sollte zunächst eine Fiktionsbescheinigung ausgestellt und die Vorlage des Bescheides der Familienkasse abgewartet werden.
-2.3.2.3. Elterngeld
-Ab Januar 2007 wird – auf Antrag – anstelle des Erziehungsgeldes – ein einkommensabhängiges Elterngeld für ab Januar 2007 geborene Kinder gezahlt. Für vor dem 01.01.2007 geborene oder davor mit dem Ziel der Adoption aufgenommene Kinder findet weiter das Bundeserziehungsgeldgesetz (vgl. 2.3.2.3.) Anwendung (§ 27 Bundeselterngeld- und Elternzeitgesetz – BEEG).
+2.3.2.3. Erziehungsgeld frei
+2.3.2. 4. Elterngeld
+Ab Januar 2007 wird – auf Antrag – anstelle des Erziehungsgeldes – ein einkommensabhängiges Elterngeld für ab Januar 2007 geborene Kinder gezahlt. Für vor dem 01.01.2007 geborene oder davor mit dem Ziel der Adoption aufgenommene Kinder findet weiter das Bundeserziehungsgeldgesetz Anwendung (§ 27 Bundeselterngeld- und
+Elternzeitgesetz – BEEG).
 Anspruchsberechtigt ist immer nur ein Erziehungsberechtigter. Erfüllen beide Elternteile die
 Anspruchsvoraussetzungen, bestimmen sie, wer von ihnen welche Monatsbeträge in Anspruch nimmt (§ 5 Abs. 1 BEEG).
 Anspruch auf Elterngeld hat gem. § 1 BEEG grundsätzlich, wer
@@ -278,7 +280,7 @@ d) nach § 104a erteilt oder
 einer nach Buchstabe c) erteilten Aufenthaltserlaubnis ist und
 a) sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhält und
 b) im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen nach dem Dritten Sozialgesetzbuch bezieht oder Elternzeit in Anspruch nimmt.
-Daneben haben Staatsangehörige der Türkei, Algeriens, Marokkos, und Tunesiens auch dann Anspruch auf Erziehungsgeld, wenn sie sich rechtmäßig – auch ohne Aufenthalts- oder Niederlassungserlaubnis oder mit einer Duldung - in Deutschland aufhalten, sofern sie pflicht- oder freiwillig versichert sind (Arbeitslosen-, Kranken-, Renten- oder Unfallversicherung).
+Daneben haben Staatsangehörige der Türkei, Algeriens, Marokkos, und Tunesiens auch dann Anspruch auf Elterngeld, wenn sie sich rechtmäßig – auch ohne Aufenthalts- oder Niederlassungserlaubnis oder mit einer Duldung - in Deutschland aufhalten, sofern sie pflicht- oder freiwillig versichert sind (Arbeitslosen-, Kranken-, Renten- oder Unfallversicherung).
 Ein Anspruch auf Elterngeld besteht ab Erteilung des Aufenthaltstitels und kann in der Zeit vom Tag der Geburt bis zur Vollendung des 14.Lebensmonats des Kindes bezogen werden. Für angenommene und aufgenommene Kinder kann Elterngeld ab Aufnahme bis zur Vollendung des 8. Lebensjahres des Kindes bezogen werden (§ 4 Abs. 1 BEEG).
 Elterngeld wird an Vater und Mutter für max. 14 Monate gezahlt, beide können den Zeitraum frei untereinander aufteilen, wobei ein Elternteil höchstens 12 Monate allein nehmen kann, die weiteren zwei Monate sind als Option für den anderen Partner reserviert. Ersetzt werden 67 Prozent des wegfallenden bereinigten Nettoeinkommens, maximal 1800.- € im Monat. (§ 2 Abs. 1 BEEG). Bei einer Geburt von Zwillingen erhöht sich das Elterngeld für das zweite Kind pauschal um 300.- €, bei Drillingen um weitere 300.- €. Folglich kann das Elterngeld bei Mehrlingsgeburten den Höchstbetrag von 1.800.- € überschreiten. Das Mindestelterngeld, das Eltern erhalten, die vor der Geburt des Kindes nicht erwerbstätig waren, beträgt 300.- € monatlich.
 Hängt die Sicherung des Lebensunterhalts von einem Elterngeldanspruch ab, ist immer zu beachten, dass diese Leistung nur für einen vorübergehenden Zeitraum – längstens 14 Monate nach der Geburt des Kindes – gewährt wird. Die Prognose eines dauerhaft gesicherten Lebensunterhalts ist vor diesem Hintergrund nur dann gerechtfertigt, wenn der Lebensunterhalt der Familie auch nach Wegfall des Elterngeldanspruchs weiter gesichert sein wird.
@@ -286,41 +288,37 @@ Hängt im Einreiseverfahren die Erteilung eines Visums zur Familienzusammenführ
 Hängt die Erteilung eines Visums zur Familienzusammenführung von einem Elterngeldanspruch eines den Nachzug vermittelnden Familienangehörigen ab, kann von einer Sicherung des Lebensunterhalts nur dann ausgegangen werden, wenn der Elterngeldberechtigte weiterhin in einem Arbeitsverhältnis steht (etwa während der Elternzeit), das nach Wegfall des Elterngeldanspruches den Lebensunterhalt der Familie einschließlich des zu erziehenden Kindes und des nachziehenden Familienangehörigen vollständig sichern wird. Dies wird in der Regel nur der Fall sein, wenn das Einkommen auch schon vor Inanspruchnahme des Elterngeldes dazu ausreichend war.
 Hängt die Erteilung oder Verlängerung eines Aufenthaltstitels im Inland von einem Elterngeldanspruch ab, kommt die Verlängerung bzw. Erteilung ebenfalls nur in Betracht, wenn der Elterngeldberechtigte weiterhin in einem Arbeitsverhältnis steht (etwa während der Elternzeit), das nach Wegfall des Elterngeldanspruches den Lebensunterhalt der Familie einschließlich des zu erziehenden Kindes und des nachziehenden Familienangehörigen vollständig sichern wird. Dies wird ebenfalls regelmäßig nur der Fall sein, wenn das Einkommen auch schon vor Inanspruchnahme des Elterngeldes dazu ausreichend war.Fehlt es danach an einer dauerhaften Sicherung des Lebensunterhalts, steht aber die Verlängerung der Aufenthaltserlaubnis im Ermessen (z.B. §§ 30 Abs. 3; 31 Abs. 4 Satz 2; 34 Abs. 1; 5 Abs. 3, 2. Hlbs.) ist u.a. zu berücksichtigen, ob die bisherige Erwerbsbiographie des Elterngeldberechtigten die (Wieder-) Aufnahme einer zur Lebensunterhaltssicherung ausreichenden Erwerbstätigkeit nach Wegfall des Elterngeldanspruchs erwarten lässt.
 Kommt es für die Verlängerung oder Erteilung eines Aufenthaltstitels auf das Elterngeld an, sind die Höhe und die noch zu erwartende Dauer der Elterngeldzahlungen durch eine Bescheinigung der für die Auszahlung zuständigen Stelle (in Berlin die Elterngeldstellen der Jugendämter) zu belegen.
-Sollte sich im Einzelfall die Notwendigkeit der eigenständigen Berechnung eines Elterngeldanspruches ergeben, so kann hierfür der im Internet zur Verfügung stehende Elterngeldrechner des Bundesministeriums für Familie, Senioren, Frauen und Jugend genutzt werden ([1]).
+Sollte sich im Einzelfall die Notwendigkeit der eigenständigen Berechnung eines Elterngeldanspruches ergeben, so kann hierfür der im Internet zur Verfügung stehende Elterngeldrechner des Bundesministeriums für Familie, Senioren, Frauen und Jugend genutzt werden ([1][1 1]).
 Die Senatsverwaltung für Bildung, Jugend und Wissenschaft hat von der ABH Hinweise zum erleichterten Erkennen der Leistungsberechtigung von Antragstellern erhalten. Sollten dennoch im Einzelfall Antragsteller von Elterngeld mit einem für das Antragsverfahren entwickelten Anfragevordruck der Elterngeldstellen hier vorsprechen, ist für die Angaben eine Gebühr von 10.- € zu vereinnahmen (§ 47 Abs. 1 Nr. 9 AufenthV).
-2.3.2.4. Leistungen zur Ausbildungsförderung nach SGB III
-Gemäß § 59 SGB III haben Auszubildende einen Anspruch auf Berufsausbildungsbeihilfe. Voraussetzung ist, dass
+2.3.2. 5 Leistungen zur Ausbildungsförderung
+Gemäß § 59 SGB III haben Auszubildende einen Anspruch auf Berufsausbildungsbeihilfe nach dem SGB III (§ 2 Abs. 3 S. 2 Nr. 5 1. Alt.). Voraussetzung ist, dass
 - die berufliche Ausbildung oder berufsvorbereitende Bildungsmaßnahme förderungsfähig, es sich also um eine berufliche Ausbildung i.S.v. § 60 SGB III bzw. eine Bildungsmaßnahme i.S.v. § 61 SBG III handelt,
 - der Ausländer zum förderungsfähigen Personenkreis gemäß § 63 SGB III gehört,
 - die sonstigen persönlichen Voraussetzungen nach § 64 SGB III erfüllt werden und
 - anderweitige Mittel zur Deckung des Bedarfs für den Lebensunterhalt nicht zur Verfügung stehen, was im Rahmen der Einkommensanrechnung gemäß § 71 SGB III zu ermitteln ist.
 Die Berufsausbildungsbeihilfe umfasst den Bedarf für den Lebensunterhalt (§§ 65,66 SGB III), Fahrtkosten (§ 67 SGB III), sonstige Aufwendungen (§ 68 SGB III) sowie Maßnahmekosten (§ 70 SGB III).
-Der Anspruch auf Berufsausbildungsbeihilfe besteht für die Dauer der beruflichen Ausbildung bzw. der berufsvorbereitenden Bildungsmaßnahme, vgl. § 73 SGB III
-2.3.2.5. Leistungen nach dem BAFöG
-Der förderungsfähige Personenkreis wird durch § 8 BAFöG bestimmt und deckt sich mit dem Personenkreis gemäß § 63 SGB III (s. Nr. 2.3.2.5).
-Die Leistungen werden gewährt für den Besuch der in § 2 BAFöG bezeichneten Bildungsstätten, für Fernunterricht i.S.v. § 3 BAFöG oder für eine Ausbildung im Inland im Sinne von § 4 BAFöG.
-Die Förderung wird grundsätzlich für eine Erstausbildung gemäß § 7 Abs. 1 und Abs. 1a BAFöG gewährt. Eine weitere Ausbildung ist unter den Bedingungen des § 2 Abs. 2 BAFöG zu fördern. Im Falle des Ausbildungsabbruchs bzw. Fachrichtungswechsels findet eine Förderung nur unter den Bedingungen des § 2 Abs. 3 BAFöG statt. Die Förderung wird grundsätzlich für die Dauer der Ausbildung gewährt. Für Studiengänge gilt die Förderungshöchstdauer des § 15 a BAFöG und entspricht der sich aus der entsprechenden Prüfungsordnung ergebenden Regelstudienzeit nach § 10 Abs. 2 des Hochschulrahmengesetzes.
-2.3.2.6. Leistungen nach dem AufstiegsfortbildungsförderungsG (AFBG) - sog. Meister-BaFöG
-Die Förderung wird für Fortbildungsmaßnahmen gewährt, die einen Abschluss in einem nach § 4 BerufsbildungsG oder nach § 25 der Handwerksordnung anerkannten Ausbildungsberuf, einen vergleichbaren bundes- oder landesrechtlich geregelten Berufsabschluss oder eine diesen Berufsabschlüssen entsprechende berufliche Qualifikation voraus. Der förderfähige Personenkreis entspricht dem unter Nr. 2.3.2.4 und 5, vgl. § 8 AFBG.
+Der Anspruch auf Berufsausbildungsbeihilfe besteht für die Dauer der beruflichen Ausbildung bzw. der berufsvorbereitenden Bildungsmaßnahme, vgl. § 73 SGB III.
+Der förderungsfähige Personenkreis für Leistungen nach dem BAFöG (§ 2 Abs. 3 S. 2 Nr. 5 2. Alt.) wird durch § 8 BAFöG bestimmt und deckt sich mit dem Personenkreis gemäß § 63 SGB III. Die Leistungen werden gewährt für den Besuch der in § 2 BAFöG bezeichneten Bildungsstätten, für Fernunterricht i.S.v. § 3 BAFöG oder für eine Ausbildung im Inland im Sinne von § 4 BAFöG.
+Die Förderung wird grundsätzlich für eine Erstausbildung gemäß § 7 Abs. 1 und Abs. 1a BAFöG gewährt. Eine weitere Ausbildung ist unter den Bedingungen des § 2 Abs. 2 BAFöG zu fördern. Im Falle des Ausbildungsabbruchs bzw. Fachrichtungswechsels findet eine Förderung nur unter den Bedingungen des § 2 Abs. 3 BAFöG statt. Die Förderung wird grundsätzlich für die Dauer der Ausbildung gewährt. Für Studiengänge gilt die Förderungshöchstdauer des § 15 a BAFöG und entspricht der sich aus der entsprechenden Prüfungsordnung ergebenden Regelstudienzeit nach § 10 Abs. 2 des Hochschulrahmengesetzes. '
+Die Förderung nach dem AufstiegsfortbildungsförderungsG (AFBG) - sog. Meister-BaFöG (§ 2 Abs. 3 Nr. 5 2.Alt.) wird für Fortbildungsmaßnahmen gewährt, die einen Abschluss in einem nach § 4 BerufsbildungsG oder nach § 25 der Handwerksordnung anerkannten Ausbildungsberuf, einen vergleichbaren bundes- oder landesrechtlich geregelten Berufsabschluss oder eine diesen Berufsabschlüssen entsprechende berufliche Qualifikation voraus. Der förderfähige Personenkreis entspricht dem unter Nr. 2.3.2.4 und 5, vgl. § 8 AFBG.
 Die Förderung umfasst einen Beitrag zu den Kosten der Lehrveranstaltung (Maßnahmebeitrag), vgl. § 10 Abs. 1 AFBG, und zur Deckung des Unterhaltsbedarfs (Unterhaltsbeitrag), vgl. § 10 Abs. 2 und 3 AFBG.
 Die Förderhöchstdauer beträgt für Maßnahmen in Vollzeitform bis zu 24 Kalendermonate, in Teilzeitform bis zu 48 Kalendermonate, vgl. § 11 AFBG.
-2.3.2. 7. Pflegegeld
+2.3.2. 6.1. Öffentliche Mittel, die auf Beiträgen beruhen
 Beim Pflegegeld handelt es sich um öffentliche Leistungen, die auf Beitragsleistungen beruhen. Sie haben den Zweck, in Form eines bestimmten Geldbetrages (derzeit zwischen 148,30 € – Pflegestufe 1 - und 1.562,10 € - Pflegestufe 7 - monatlich) pflegebedingte Mehraufwendungen pauschaliert abzugelten, um dem Pflegebedürftigen die notwendige Betreuung zu sichern. Bei der Berechnung des Lebensunterhalts des Pflegebedürftigen gem. § 2 Abs. 3 bleibt das Pflegegeld unberücksichtigt, weil der durch den Pflegebedürftigen zu leistende finanzielle Mehraufwand ohnehin nicht durch das Pflegegeld gesichert ist und auch nicht durch die Regelleistungen des SGB II, XII oder des AsylbLG abgegolten werden kann.
 Dagegen ist das Pflegegeld bei der Berechnung des Lebensunterhalts des Pflegenden bei der Ermittlung des gesicherten Lebensunterhalts nicht als Einkommen zu berücksichtigen, wenn es sich bei der Pflegeperson um eine nahestehende Person handelt. Wie die Senatsverwaltung für Gesundheit und Soziales mitgeteilt hat, wird das Pflegegeld im Leistungsrecht bei Anwendung des § 82 SGB XII – Begriff des Einkommens - und des § 7 AsylbLG - Einkommen und Vermögen - in diesen Fällen gleichfalls nicht als Einkommen angerechnet. Dies ist vor dem Hintergrund der Rechtsprechung des OVG Berlin (Urteile vom 25.04.2007 - OVG 12 B 2.05., 19.06 und 16.07) auch auf die Anwendung des § 2 Abs. 3 S. 1 zu übertragen. Wollte man anders entscheiden hätte dies zur Folge, dass hier in Kennntis des Bezugs von Leistungen nach dem SGB II bzw. SGB XII von einem gesicherten Lebenusunterhalt im Sinne von § 2 Abs. 3 S. 1 ausgegangen werden müßte.
-2.3.2. 8. Arbeitslosengeld I
 Auch beim sogenannten Arbeitslosengeld I gemäß dem SGB III handelt es sich um öffentliche Leistungen, die auf Beitragsleistungen beruhen. Allerdings wird Arbeitslosengeld I abhängig von den Zeiten der der Arbeitslosigkeit vorausgegangen versicherungspflichtigen Beschäftigung und dem Lebensalter für maximal 18 Monate gewährt. Bei Beziehern von Arbeitslosengeld I kann damit nicht von einem dauerhaft gesicherten Lebensunterhalt ausgegangen werden. Die Fähigkeit zur Bestreitung des Lebensunterhaltes ist als nur vorübergehend anzusehen (vgl. hierzu allgemein oben 2.3.1.5).
 Vor diesem Hintergrund ist bei der Beantragung eines Aufenthaltstitels, bei dem der Lebensunterhalt durch den Bezug von Arbeitslosengeld I gesichert wird oder werden soll, wie folgt zu verfahren:
 Hängt die Erteilung einer Aufenthaltserlaubnis davon ab, ob und in welcher Höhe solche Ansprüche bestehen, ist zu beachten, dass Leistungen nach SGB III einen bestehenden Aufenthaltstitel voraussetzen, bei einer Fortbestehensfiktion nach § 81 Abs. 4 AufenthG somit nicht gewährt werden. Vor diesem Hintergrund sind zwei Verfahrensweisen denkbar: Entweder wird eine Zusicherung gem. § 38 VwVfG zur Vorlage bei der zuständigen Arbeitsagentur ausgestellt, dass bei Gewährung von Arbeitslosengeld I in einer bestimmten Höhe eine Aufenthaltserlaubnis erteilt werden wird, oder es wird mit Einverständnis des Betroffenen unmittelbar bei der Arbeitsagentur nachgefragt
-Bei der Erteilung oder Verlängerung einer Aufenthaltserlaubnis ist der Lebensunterhalt lediglich für den Zeitraum, in dem ein Anspruch auf Arbeitslosengeld I in der erforderlichen Höhe besteht, als gesichert anzusehen. Entsprechend ist die Gültigkeit der Eralubnis auf einen Zeitraum von einem Monat nach Auslaufen des Anspruchs auf Arbeitslosengeld I zu befristen. Steht dieser Zeitpunkt kurz bevor, kann dem Antragsteller auch eine Fiktionsbescheinigung ausgestellt werden. Die Erteilung einer Niederlassungserlaubnis, bei der § 9 Abs. 2 Nr. 2 Voraussetzung ist, kommt dagegen ebensowenig in Betracht wie die Zustimmung zur Erteilung eines Visums.
-2.3.2. 9. Existenzgründungszuschüsse / Leistungen zur Eingliederung
-Existenzgründungszuschüsse nach § 421 SGB III sind öffentliche Mittel, die Beziehern von Arbeitslosengeld I gewährt werden. Während der Zeit des Bezugs ruht der Anspruch auf Arbeitslosengeld. Es handelt sich daher um öffentliche Mittel, die nicht auf Beitragsleistungen beruhen und deshalb in die Berechnung, ob hinreichend Einkommen zur Sicherung des Lebenusunterhalts zur Verfügung steht, nicht einbezogen werden. Wird nachgewiesen, dass das Einkommen, welches aus der geförderten selbstständigen Tätigkeit erzielt wird, über einen Zeitraum von mindestens 6 Monaten hinreicht, um den Lebensunterhalt unabhängig von dem Existenzgründungszuschuss zu sichern, steht der Bezug dieser Zuschüsse einer Feststellung des gesicherten Lebensunterhalts nicht entgegen.
+Bei der Erteilung oder Verlängerung einer Aufenthaltserlaubnis ist der Lebensunterhalt lediglich für den Zeitraum, in dem ein Anspruch auf Arbeitslosengeld I in der erforderlichen Höhe besteht, als gesichert anzusehen. Entsprechend ist die Gültigkeit der Erlaubnis auf einen Zeitraum von einem Monat nach Auslaufen des Anspruchs auf Arbeitslosengeld I zu befristen. Steht dieser Zeitpunkt kurz bevor, kann dem Antragsteller auch eine Fiktionsbescheinigung ausgestellt werden. Die Erteilung einer Niederlassungserlaubnis, bei der § 9 Abs. 2 Nr. 2 Voraussetzung ist, kommt dagegen ebensowenig in Betracht wie die Zustimmung zur Erteilung eines Visums.
+Existenzgründungszuschüsse nach § 421 SGB III sind öffentliche Mittel, die Beziehern von Arbeitslosengeld I gewährt werden. Während der Zeit des Bezugs ruht der Anspruch auf Arbeitslosengeld. Es handelt sich daher um öffentliche Mittel, die nicht auf Beitragsleistungen beruhen und deshalb in die Berechnung, ob hinreichend Einkommen zur Sicherung des Lebensunterhalts zur Verfügung steht, nicht einbezogen werden. Wird nachgewiesen, dass das Einkommen, welches aus der geförderten selbstständigen Tätigkeit erzielt wird, über einen Zeitraum von mindestens 6 Monaten hinreicht, um den Lebensunterhalt unabhängig von dem Existenzgründungszuschuss zu sichern, steht der Bezug dieser Zuschüsse einer Feststellung des gesicherten Lebensunterhalts nicht entgegen.
 Nicht anrechenbar als Einkommen sind Leistungen zur Eingliederung im Sinne von §§ 16 ff. SGB II. Auch hier handelt es sich um öffentliche Mittel die nicht auf Beitragsleistungen beruhen. So können etwa nach § 16 Abs. 3 SGB II Arbeitsgelegenheiten für erwerbsfähige Hilfebedürftige geschaffen werden, für die eine angemessene Entschädigung für Mehraufwendungen gezahlt wird. Entfällt die Hilfebedürftigkeit, können derartige Maßnahmen gemäß § 16 Abs. 4 SGB II unter bestimmten Voraussetzungen durch Darlehen weiter gefördert werden. Eine solche weitere Förderung steht der Lebensunterhaltssicherung nicht entgegen. Die Annahme einer hinreichenden Lebensunterhaltssicherung setzt aber auch hier voraus, dass die Hilfebedürftigkeit für einen Zeitraum von mindestens sechs Monaten entfallen ist und die Prognose weiterer Lebensunterhaltssicherung gerechtfertigt ist.
-2.3.2. 10. Öffentliche Mittel zur Ermöglichung des Aufenthalts in Deutschland
-Zu den öffentliche Mitteln, die gewährt werden, um den Aufenthalt im Bundesgebiet zu ermöglichen, zählen insbesondere Stipendien, Umschulungs- und Ausbildungsbeihilfen, die in den Fällen der §§ 16 und 17, 18 die Ausbildung im Bundesgebiet finanzieren sollen.
-2.3.2. 11. Wohngeld
+2.3.2. 6.2. Öffentliche Mittel, die gewährt werden, um den Aufenthalt zu ermöglichen
+Zu den öffentlichen Mitteln, die gewährt werden, um den Aufenthalt im Bundesgebiet zu ermöglichen, zählen insbesondere Stipendien, Umschulungs- und Ausbildungsbeihilfen, die in den Fällen der §§ 16 und 17, 18 die Ausbildung im Bundesgebiet finanzieren sollen.
+2.3.2. 7. Wohngeld
 Aus § 2 Abs. 3 S. 1 und 2 AufenthG folgt, dass Wohngeld zwar nicht zugunsten des Betroffenen als Einkommen in die LU- Berechnung einbezogen werden kann. Allerdings ist es unschädlich, wenn jemand, der über hinreichendes und gesichertes Einkommen nach unserer Berechnung verfügt, und damit die Erteilungsvoraussetzungen nach § 5 Abs. 1 Nr. 1 erfüllt, Wohngeld beanspruchen kann und auch tatsächlich bezieht (BVerwG, Urteil vom 29.11.2012, 10 C 4/12, juris, Rn. 28).
 Wohngeld wird nicht zur Sicherung des Lebensunterhalts gewährt, sondern setzt eine eigenständige Lebensunterhaltssicherung ohne die Wohngeldleistung regelmäßig voraus. (§ 7 Abs. 1 S. 1 WoGG). Nr. 2.3.1.3 AufenthG- VwV steht in einem unauflösbaren Widerspruch zu den gesetzlichen Bestimmungen des AufenthG und ist daher unbeachtlich (Niedersächsisches OVG, Beschluss vom 20.03.2012 – 8 LC 277/10 –).
-2.3.2. 12. Leistungen der Unterhaltsvorschusskasse
+2.3.2.8. Leistungen für Bildung und Teilhabe nach § 6b Bundeskindergeldgesetz (sog. Bildungspaket) Der Bezug von Leistungen für Bildung und Teilhabe nach § 6b Bundeskindergeldgesetz steht wie das Wohngeld der Annahme der Lebensunterhaltssicherung nicht entgegen. Im Unterschied zu den in § 2 Absatz 3 Satz 2 genannten öffentlichen Mitteln, werden diese Leistungen bei der Einkommensermittlung allerdings nicht berücksichtigt. Ihre Inanspruchnahme ist aber unschädlich, wenn der Lebensunterhalt unabhängig von diesen Leistungen gesichert ist.
+2.3.2. 9. Leistungen der Unterhaltsvorschusskasse
 Aus § 2 Abs. 3 S. 1 und S. 2 AufenthG folgt auch, dass Leistungen der Unterhaltsvorschusskasse nicht zu Gunsten des Betroffenen in die Lebensunterhaltssicherung einbezogen werden können. Hinzukommt, dass diese öffentlichen Leistungen ohnehin nur für einen vorübergehenden Zeitraum von sechs Jahren und bis zur Vollendung des 12. Lebensjahres des Kindes gezahlt werden (vgl. §§ 1 Abs. 1 Ziffer 1, 3 UVG). In Fällen, in denen der Ehegattennachzug zum allein erziehenden Elternteil begehrt wird, ist zudem zu berücksichtigen, dass der Anspruch ohnehin entfällt, sobald der allein erziehende Elternteil eine eheliche Lebensgemeinschaft aufnimmt.
 Soweit ein ansonsten gesichertes Einkommen vorliegt, steht der Bezug von Leistungen der Unterhaltsvorschusskasse der Annahme eines gesicherten Lebensunterhaltes allerdings auch nicht entgegen. Insoweit ist zu berücksichtigen, dass durch die öffentliche Leistung nicht die mangelnde wirtschaftliche Leistungsfähigkeit des Kindes, das den Unterhaltsvorschuss erhält, oder des allein erziehenden Elternteiles, bei dem das Kind lebt, ausgeglichen wird. Vielmehr ist Anlass für diese öffentliche Leistung die mangelnde wirtschaftliche Leistungsfähigkeit (oder – willigkeit) des zum Unterhalt verpflichteten Elternteiles. Soweit es auf dessen Lebensunterhaltssicherung ankommt, steht eine Inanspruchnahme solcher Leistungen bzw. die mangelnde bzw. nicht einmal ratenweise Begleichung noch offener Forderungen der Unterhaltsvorschusskasse der Annahme eines gesicherten Lebensunterhaltes des Unterhaltsverpflichteten mithin entgegen (vgl. im Einzelnen A.2.3.1.6.).
 2.3.3. einstweilen frei
@@ -416,32 +414,36 @@ Diese Regelung geht als landesrechtliche Regelung Nr. 2.4.2 AufenthG-VwV vor.
 2.5.1. Zu den derzeit 26 Schengen-Staaten nach der Definition des § 2 Abs. 5 zählen 22 EU-Mitgliedsstaaten, die drei EWR-Staaten sowie die Schweiz: Belgien, Bundesrepublik Deutschland, Dänemark, Estland, Finnland, Frankreich, Griechenland, Island, Italien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Österreich, Polen, Portugal, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn.
 Die EU-Mitgliedsstaaten Bulgarien, Rumänien und Zypern werden den Schengen-Besitzstand erst zu einem späteren Zeitpunkt vollständig anwenden. Die Art. 18, 21 und 96 des Schengener Durchführungsübereinkommens finden in diesen Staaten daher vorerst keine Anwendung. Aufenthaltstitel dieser Staaten berechtigen somit nicht zur Durchreise oder zum Touristenaufenthalt in den Schengen-Staaten (vgl. A.6.0.2.).
 Die beiden EU-Mitgliedsstaaten Großbritannien und Irland gehören aufgrund von Ausnahmeklauseln nicht zum Schengenraum.
-2.5.2. bis 2.5.4
-2.6. einstweilen frei
+2.5.2. bis 2.6. einstweilen frei
 2.7. Langfristig Aufenthaltsberechtigte
-Durch das 2. ÄndG wurde ein neuer § 2 Abs. 7 angefügt, der den Begriff des „langfristig Aufenthaltsberechtigten“ definiert. Darunter wird ein nicht freizügigkeitsberechtigter Ausländer verstanden, der in einem anderen Anwenderstaat der Daueraufenthalt-Richtlinie ein Daueraufenthaltsrecht nach der Richtlinie besitzt. Anwenderstaaten sind die Mitgliedstaaten der EU ohne Irland, Großbritannien und Dänemark. Erkennbar ist der Status an einem entsprechenden Titel, der die Bezeichnung Daueraufenthalt- EG in der jeweiligen Amtssprache trägt.
+Durch § 2 Abs. 7 wird der Begriff des „langfristig Aufenthaltsberechtigten“ definiert. Darunter wird ein nicht freizügigkeitsberechtigter Ausländer verstanden, der in einem anderen Anwenderstaat der Daueraufenthalt-Richtlinie ein Daueraufenthaltsrecht nach der Richtlinie besitzt. Anwenderstaaten sind die Mitgliedstaaten der EU ohne Irland, Großbritannien und Dänemark. Erkennbar ist der Status an einem entsprechenden Titel, der die Bezeichnung Daueraufenthalt- EG in der jeweiligen Amtssprache trägt.
 Es genügt also nicht jeder Daueraufenthalts- oder langfristige Aufenthaltstitel. Beim Besitz eines entsprechenden Aufenthaltstitels ist zu vermuten, dass die Rechtsstellung nicht entzogen wurde. Es sind ausweislich der Gesetzesbegründung in Ausnahmen auch alternative Nachweise, etwa eine Auskunft der Behörden des Mitgliedstaates, als Nachweis für die Rechtsstellung oder deren Verlust denkbar; die Darlegungs- und Beweislast für den Besitz der Rechtsstellung trifft aber nach § 82 Abs. 1 immer den Ausländer, der sich auf die Rechtsstellung beruft. Langfristig Aufenthaltsberechtigte, die in Deutschland diese Rechtsstellung besitzen, erhalten zum Nachweis dieser Rechtsstellung den Aufenthaltstitel „Erlaubnis zum Daueraufenthalt-EG“ nach § 9a - c.
-Durch die Formulierung „verliehen und nicht entzogen wurde“ wird ausweislich der Formulierung klargestellt, dass die Rechtsstellung auf Grund eines Verwaltungsaktes auf Antrag und nicht etwa bereits bei Erfüllung der Voraussetzungen erworben wird. Zudem wird durch die Worte „und nicht entzogen“ klargestellt, dass die Rechtsstellung im Sinne der Definition fortbesteht, bis sie entzogen wird und nicht etwa bereits dann entfällt, wenn die Voraussetzungen für eine Entziehung gegeben sind.
-Im Übrigen wird auf die Ausführungen unter A.9a. 9c, A.38a sowie 91c. verwiesen
-2.8. einfache deutsche Sprachkenntnisse
-Gemäß § 2 Abs. 8 AufenthG entsprechen einfache deutsche Sprachkenntnisse dem Niveau A1 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h der Ausländer kann
+Mit der Ergänzung des Absatz 7 durch das Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern wird der persönliche Anwendungsbereich des § 9a Absatz 2 auf international Schutzberechtigte erweitert. Im Übrigen wird auf die Ausführungen unter A.9a. 9c, A.38a sowie 91c. verwiesen.
+2.8. Langfristige Aufenthaltsberechtigung-EU
+Die Einfügung der Begriffsdefinition soll ausweislich der Gesetzesbegründung zu einer besseren Verständlichkeit der weiteren, im Zuge der Umsetzung der Richtlinie 2011/51/EU einzufügenden Normen beitragen. Praktisch dürfte die Vorschrift ohne Relevanz sein.
+2. 9. einfache deutsche Sprachkenntnisse
+Gemäß § 2 Abs. 9 AufenthG entsprechen einfache deutsche Sprachkenntnisse dem Niveau A1 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h der Ausländer kann
 - vertraute, alltägliche Ausdrücke und ganz einfache Sätze verstehen und verwenden, die auf die Befriedigung konkreter Bedürfnisse zielen.
 - sich und andere vorstellen und anderen Leuten Fragen zu ihrer Person stellen – z. B. wo sie wohnen, was für Leute sie kennen oder was für Dinge sie haben – und kann auf Fragen dieser Art Antwort geben.
 - sich auf einfache Art verständigen, wenn die Gesprächspartnerinnen oder Gesprächspartner langsam und deutlich sprechen und bereit sind zu helfen.
-2.9. hinreichende deutsche Sprachkenntnisse
-Gemäß § 2 Abs. 9 AufenthG entsprechen hinreichende deutsche Sprachkenntnisse dem Niveau A2 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h. der Ausländer kann
+2. 10. hinreichende deutsche Sprachkenntnisse
+Gemäß § 2 Abs. 10 AufenthG entsprechen hinreichende deutsche Sprachkenntnisse dem Niveau A2 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h. der Ausländer kann
 - Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von ganz unmittelbarer Bedeutung zusammenhängen (z. B. Informationen zur Person und zur Familie, Einkaufen, Arbeit, nähere Umgebung).
 - sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen einfachen und direkten Austausch von Informationen über vertraute und geläufige Dinge geht.
 - mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben.
-2.10. ausreichende deutsche Sprachkenntnisse
-Gemäß § 2 Abs. 10 AufenthG entsprechen ausreichende deutsche Sprachkenntnisse dem Niveau B1 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h. der Ausländer kann
+2. 11. ausreichende deutsche Sprachkenntnisse
+Gemäß § 2 Abs. 11 AufenthG entsprechen ausreichende deutsche Sprachkenntnisse dem Niveau B1 des gemeinsamen europäischen Referenzsrahmens für Sprachen. D.h. der Ausländer kann
 - die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird und wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht.
 - die meisten Situationen bewältigen, denen man auf Reisen im Sprachgebiet begegnet.
 - sich einfach und zusammenhängend über vertraute Themen und persönliche Interessengebiete äußern.
 - über Erfahrungen und Ereignisse berichten, Träume, Hoffnungen und Ziele beschreiben und zu Plänen und Ansichten kurze Begründungen oder Erklärungen geben.
-2.11. Beherrschen der deutschen Sprache
-Gemäß § 2 Abs. 11 AufenthG beherrscht ein Ausländer die deutsche Sprache der über Sprachkenntnisse entsprechend dem Niveau C1 verfügt. D.h. der Ausländer kann
+2. 12. Beherrschen der deutschen Sprache
+Gemäß § 2 Abs. 12 AufenthG beherrscht ein Ausländer die deutsche Sprache der über Sprachkenntnisse entsprechend dem Niveau C1 verfügt. D.h. der Ausländer kann
 - ein breites Spektrum anspruchsvoller, längerer Texte verstehen und auch implizite Bedeutungen erfassen.
 - sich spontan und fließend ausdrücken, ohne öfter deutlich erkennbar nach Worten suchen zu müssen.
 - die Sprache im gesellschaftlichen und beruflichen Leben oder in Ausbildung und Studium wirksam und flexibel gebrauchen.
 - sich klar, strukturiert und ausführlich zu komplexen Sachverhalten äußern und dabei verschiedene Mittel zur Textverknüpfung angemessen verwenden.
+2.13. International Schutzberechtigter
+Durch § 2 Abs. 13 wird der Begriff des „international Schutzberechtigten“ unter Verweis auf die entsprechenden europarechtlichen Vorgaben der sogenannten Qualifikationsrichtlinie (in ihrer überarbeiteten) Fassung definiert. Unter den Begriff des international Schutzberechtigten fallen Personen, denen die Flüchtlingseigenschaft oder ein subsidiärer Schutzstatus zuerkannt wurde (Art. 2 b) i.V.m. e) und g) der RL 2011/95/EU). Hierbei handelt es sich derzeit um Inhaber von Aufenthaltstiteln gem. § 25 Abs. 1, 2 bzw. 3 i.V.m. § 60 Abs. 2, 3 und 7 Satz 2 AufenthG. Der internationale Schutz in diesem Sinne umfasst auch den Schutz vor Verfolgung nach dem Abkommen über die Rechtsstellung der Flüchtlinge vom
+28. Juli 1951 (BGBl. 1953 II S. 559), der vor dem Inkrafttreten der genannten Richtlinien gewährt wurde. Nicht unter den Begriff des international Schutzberechtigten fallen hingegen Personen, denen Schutz auf nationaler Grundlage gewährt wurde, z.B. nach §§ 22, 23 Absatz 1, §§ 23a, 25 Absatz 3 i.V.m. § 60 Absatz 5 oder 7 Satz 1, § 25 Absatz 4 oder 5 oder §§ 104a und 104b AufenthG.
+Merke: Das Gesetz zur Umsetzung der RL 2011/95/EU, durch das eine Reihe von Regelungen der Qualifikationsrichtlinie (RL 2004/83/EG) durch Anpassungen des AsylVfG und des AufenthG präzisiert und der Status von subsidiär Schutzberechtigten verbessert werden wird, wird am 02.12.2013 in Kraft treten (ausgenommen hiervon sind der neue § 34a AsylVfG sowie eine Änderung des § 61 AsylVfG - diese Änderungen treten bereits zum 06.09.2013 in Kraft - vgl. VAB D.34a. und D.61.).

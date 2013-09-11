@@ -147,20 +147,19 @@ B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kulturelle
 • Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
 • Stipendiaten des "Berlin Programms" der FU Berlin,
 • Stipendiaten der Stiftung Luftbrückendank,
-(...)
 • Stipendiaten der Fulbright-Kommission,
 • und Stipendiaten folgender Stiftungen:
-- Cusanuswerk
-- Evangelisches Studienwerk Villigst
-- Friedrich-Ebert-Stiftung
-- Friedrich-Naumann-Stiftung
-- Hanns-Seidel-Stiftung
-- Hans-Böckler-Stiftung
-- Konrad-Adenauer-Stiftung
-- Stiftungsverband Regenbogen
-- Studienstiftung des deutschen Volkes
-- Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
-- Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
+• Cusanuswerk
+• Evangelisches Studienwerk Villigst
+• Friedrich-Ebert-Stiftung
+• Friedrich-Naumann-Stiftung
+• Hanns-Seidel-Stiftung
+• Hans-Böckler-Stiftung
+• Konrad-Adenauer-Stiftung
+• Stiftungsverband Regenbogen
+• Studienstiftung des deutschen Volkes
+• Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
+• Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
 • Personengruppen, die in den Art. 5 und 14 des Deutsch-Russischen Regierungsabkommens über Reiserleichterungen genannt sind.
 • Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 • nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
@@ -192,10 +191,11 @@ B.AufenthV.57. Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente
 B.AufenthV.57a. Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmeidum nach § 78 AufenthG
 B.AufenthV.58. Vordruckmuster
 B.AufenthV.59. Muster der Aufenthaltstitel
+B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
 B.AufenthV.60. Lichtbild
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(14.02.2012; 04.12.2012)
+(04.12.2012; SchutzberArb)
 B.AufenthV.55. Ausweisersatz
 55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 AufenthV ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann. Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht.
 Legt ein Ausländer, der einen Titel oder eine Duldung besitzt, eine Bescheinigung der Auslandsvertretung seines Heimatstaates vor, wonach die Ausstellung eines neuen Passes sich um längere Zeit verzögert oder derzeit ausgeschlossen ist, so ist ihm auf Antrag ein Ausweisersatz gem. § 55 Abs. 1 Nr. 1 oder bei Titelinhabern ggf. – etwa bei dringenden Auslandsreisen – ein vorläufiger Reiseausweis für Ausländer nach Maßgabe der §§ 5 Abs. 3- 5, 6 auszustellen (vgl. hierzu auch B.AufenthV.1-14). Die Gültigkeit des Reiseausweises bzw. des Ausweisersatzes sollte mindestens 6 Monate betragen, so der Titel bzw. die Duldung entsprechend lang gültig sind.
@@ -236,10 +236,35 @@ Die Neuausstellung einer eAT-Karte wegen des Ablaufs des bisherigen Personaldoku
 Demzufolge handelt es sich bei der unrichtigen Neuausstellung bzw. Übertragung eines Aufenthaltstitels in ein neues Personaldokument nicht um einen rechtswidrigen Verwaltungsakt, der gem. § 48 VwVfG zurückzunehmen wäre, sondern lediglich um eine fehlerhafte Eintragung mit nicht konstitutivem Charakter. Diese Eintragung ist somit als offenbare Unrichtigkeit gem. § 42 VwVfG jederzeit korrigierbar. Im Fall eines Aufenthaltstitels in Form eines eAT ist eine neue eAT-Karte zu bestellen und die fehlerhafte zu entwerten.
 Zu berücksichtigen ist allerdings in solchen Fällen, wie der "Erklärungsempfänger" die Eintragung bei objektiver Auslegung verstehen durfte ("objektiver Empfängerhorizont"). Hat ein Bürgeramt eine solche Neuausstellung oder unrichtige Eintragung vorgenommen, musste der Betroffene die Unrichtigkeit erkennen können, weil sein Wissen darüber, dass das Bürgeramt zur Erteilung von Aufenthaltstiteln nicht befugt ist, zu unterstellen ist.
 Wird die Neuausstellung bzw. Übertragung eines noch längerfristig gültigen Aufenthaltstitels durch die ABH vorgenommen und das Gültigkeitsdatum des übertragenen Titels versehentlich überschritten, so kann ebenfalls davon ausgegangen werden, dass der Empfänger die Unrichtigkeit der Übertragung erkennen konnte.
+B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
+§ 59 a dient der Umsetzung von Art. 1 Nr. 4 und 8 der RL 2011/51/EU bzw. Art. 8, 12 und 19a der geänderten Daueraufenthaltsrichtlinie (RL 2003/109/EG).
+Danach muss gem. § 59 a Abs. 1 bei Erteilung einer Erlaubnis zum Daueraufenthalt- EU nach § 9a an einen Ausländer, dem internationaler Schutz gewährt wurde, im Eintragungsfeld „Anmerkungen“ folgender Hinweis aufgenommen werden:
+„Durch DEU am [Datum Datum] internationaler Schutz gewährt.“
+Stellen wir einem Ausländer eine Erlaubnis zum Daueraufenthalt- EU nach § 9a aus, der bereits über eine von einem anderen Mitgliedstaat ausgestellte Erlaubnis zum Daueraufenthalt- EU verfügt (zur Begrifflichkeit in der jeweiligen Landessprache vgl. A.38a.0), welche einen dem o.g. Hinweis vergleichbaren Passus enthält, so sind wir verpflichtet, gem. § 39 a Abs. 2 denselben Hinweis einzutragen. Vor der Eintragung des Hinweises ist der Mitgliedstaat gem. § 91 c Abs. 1 a AufenthG zu konsultieren (vgl. dort). Wurde der internationale Schutz aberkannt, ist der Hinweis nicht einzutragen.
+Der Eintrag lautet in der jeweiligen Landessprache wie folgt:'
+Bulgarisch: „, BGR (=Name des Mitgliedstaats) (Datum)“.
+Dänisch: „International beskyttelse tildelt af DNK (=Name des Mitgliedstaats) den (Datum)“.
+Estnisch: „Rahvusvahelise kaitse andis EST (=Name des Mitgliedstaats) (Datum)”.
+Finnisch: „FIN (=Name des Mitgliedstaats) myöntänyt kansainvälistä suojelua (Datum).“
+Französisch: “FRA (=Name des Mitgliedstaats) a accordé la protection internationale le (Datum)”.
+Griechisch: “ GRC (=Name des Mitgliedstaats) (Datum)”.
+Italienisch: “Protezione internazionale concessa da ITA (=Name des Mitgliedstaats) il (Datum)”.
+Lettisch: “Starptautisk aizsardzba, piešrusi LVA (=Name des Mitgliedstaats) (Datum)”.
+Litauisch: „(Datum) tarptautin apsaug suteik LTU (=Name des Mitgliedstaats).“
+Maltesisch: „Protezzjoni internazzjonali mogtija minn MLT (=Name des Mitgliedstaats) fi (Datum)“.
+Niederländisch: „Internationale bescherming verleend op (Datum) door NLD (=Name des Mitgliedstaats)”.
+Polnisch: „Ochrona midzynarodowa przyznana przez POL (=Name des Mitgliedstaats) w dniu (Datum)“.
+Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”.
+Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
+Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnutá v SVK (=Name des Mitgliedstaats) (Datum)“.
+Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
+Schwedisch: „Internationellt skydd beviljat av SWE (=Name des Mitgliedstaats) den (Datum)“.
+Spanisch: “protección internacional concedida por ESP (=Name des Mitgliedstaats) con fecha de (Datum)”.
+Tschechisch: „Poznámky“ tuto poznámku: ‚Mezinárodní ochrana poskytnuta CZE (=Name des Mitgliedstaats) dne (Datum).“
+Ungarisch: „HUN (=Name des Mitgliedstaats)-ban/-ben, (Datum)-án/-én nemzetközi védelemben részesült“.
 B.AufenthV.60. Lichtbild
 Bei Angehörigen von geistlichen Orden und Religionsgesellschaften, die vortragen, dass es ihnen aus religiösen Gründen verboten ist, sich in der Öffentlichkeit ohne Kopfbedeckung zu zeigen, dürfen Lichtbilder verwendet werden, die den Antragsteller mit der vorgeschriebenen Kopfbedeckung zeigen. Gleiches gilt für Angehörige von karitativen Verbänden (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). Ansonsten kommt die Integration eines Lichtbildes mit Kopfbedeckung ausnahmsweise nur in Betracht, wenn der Antragsteller auch in seinem aktuellen Pass mit Kopfbedeckung abgebildet ist. Umgekehrt darf von Betroffenen für die Ausstellung eines Aufenthaltstitels, Passersatzpapiers, Ausweisersatz o.ä. nicht verlangt werden, ein Lichtbild mit Kopfbedeckung vorzulegen, nur weil im ausländischen Pass(ersatzpapier) ein solches integriert ist. Aus § 60 Abs. 1 S. 2 folgt das Recht, sich ohne Gesichts- und Kopfbedeckung abbilden zu lassen.
-Wird ein Lichtbild mit Kopfbedeckung akzeptiert, muss das für die Übertragung verwendete Lichtbild das Gesicht des Inhabers von der unteren Kinnkante bis zur Stirn zeigen. Es dürfen keine Schatten auf dem Gesicht entstehen.
-Die iranischen Behörden verlangen von weiblichen iranischen Staatsangehörigen für die Ausstellung von Pässen die Vorlage von Lichtbildern mit Kopfbedeckung. Es ist iranischen Frauen durchaus zuzumuten, für die Passausstellung ein Lichtbild mit "islamischen Schleier" vorzulegen. Weigert sich die Passbewerberin, ihrer Auslandsvertretung ein entsprechendes Lichtbild vorzulegen und lehnt diese daraufhin die Ausstellung eines neuen iranischen Passes ab, rechtfertigt dies für sich allein nicht die Ausstellung eines Ausweisersatzes oder Reiseausweises für Ausländer (vgl. §§ 48 Abs. 2, 99 Abs. 1 AufenthG, §§ 5, 55 AufenthV).
+Wird ein Lichtbild mit Kopfbedeckung akzeptiert, muss das für die Übertragung verwendete Lichtbild das Gesicht des Inhabers von der unteren Kinnkante bis zur Stirn zeigen. Es dürfen keine Schatten auf dem Gesicht entstehen. Die iranischen Behörden verlangen von weiblichen iranischen Staatsangehörigen für die Ausstellung von Pässen die Vorlage von Lichtbildern mit Kopfbedeckung. Es ist iranischen Frauen durchaus zuzumuten, für die Passausstellung ein Lichtbild mit "islamischen Schleier" vorzulegen. Weigert sich die Passbewerberin, ihrer Auslandsvertretung ein entsprechendes Lichtbild vorzulegen und lehnt diese daraufhin die Ausstellung eines neuen iranischen Passes ab, rechtfertigt dies für sich allein nicht die Ausstellung eines Ausweisersatzes oder Reiseausweises für Ausländer (vgl. §§ 48 Abs. 2, 99 Abs. 1 AufenthG, §§ 5, 55 AufenthV).
 Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung).
 § 60 Abs. 2 AufenthV regelt, dass Ausländer, für die ein Dokument ausgestellt werden soll, ein aktuelles Lichtbild vorlegen müssen. Ein Lichtbild ist nach richtiger Auffassung auch dann aktuell, wenn der Ausländer nach wie vor so aussieht, wie auf dem mitgebrachten Lichtbild.
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik

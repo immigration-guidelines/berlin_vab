@@ -2,7 +2,7 @@ VAB A 4
 VAB A 4
 Inhaltsverzeichnis
 A.4. Erfordernis eines Aufenthaltstitels
-(11.06.2013; AuslBeschR)
+(AuslBeschR; SchutzberArb)
 4.1.1.1. Allgemeiner Grundsatz
 4.1.1.2 Mehrfache Titelerteilung
 4.1.1.2.0. Allgemeines
@@ -18,7 +18,7 @@ A.4. Erfordernis eines Aufenthaltstitels
 4.s.1.2. „Erwerbstätigkeit nicht gestattet“ bzw. „Selbstständige Tätigkeitnicht gestattet“
 4.s.1.3. Anträge ohne konkretes Arbeitsplatzangebot bzw. konkrete selbstständige Tätigkeit
 A.4. Erfordernis eines Aufenthaltstitels
-(11.06.2013; AuslBeschR)
+(AuslBeschR; SchutzberArb)
 4.1.1. 1. Allgemeiner Grundsatz
 § 4 Abs. 1 S. 1 stellt in seinem Einleitungssatz den allgemeinen Grundsatz auf, dass Ausländer für Einreise und Aufenthalt im Bundesgebiet eines Aufenthaltstitels bedürfen. Dieser Grundsatz erfährt aufgrund einiger Sondervorschriften (siehe sofern-Satz und § 1 Abs. 2) Ausnahmen. Zu beachten sind insbesondere die §§ 15 - 30 AufenthV. Für türkische Staatsangehörige, die nach ARB 1/80 privilegiert sind, siehe unten 4.5.
 Problematisch ist in diesem Zusammenhang allerdings, ob – etwa im Umkehrschluss aus § 4 Abs. 1 S. 1 gefolgert – ein Antrag auf Erteilung eines Aufenthaltstitels versagt werden kann, wenn der Ausländer vom Erfordernis eines Aufenthaltstitels befreit ist. Aufenthaltsrechtlich ist dies nicht ausdrücklich geregelt. Allerdings ist der Gesetzgeber des Zuwanderungsgesetzes davon ausgegangen, dass ein Befreiungstatbestand grundsätzlich die Erteilung eines Aufenthaltstitels hindert. So wird in der Begründung der AufenthV ausgeführt, dass mit dem Befreiungstatbestand des § 27 AufenthV auch eine Aufenthaltsverfestigung für aktive Ortskräfte und ihre Familienangehörigen ausgeschlossen werden soll und ihnen außer in den ausdrücklich geregelten Fällen des § 27 Abs. 3 AufenthV kein Titel erteilt werden kann (vgl. BR-Drs. 731/04 S. 173 ff.; so ausdrücklich auch Nr. 4.1.3.9 AufenthG-VwV. Dies überzeugt auch insofern, als es bei Anträgen auf Erteilung einer Aufenthaltserlaubnis von Personen, die vom Erfordernis eines Aufenthaltstitels befreit sind schon an einem Sachbescheidungsinteresse fehlt. Im Verwaltungsverfahren sind Anträge auf einen begünstigenden Verwaltungsakt nur zulässig, wenn der Antragsteller ein schutzwürdiges Interesse an der von ihm beantragten Amtshandlung hat. Da sein Aufenthalt aber bereits rechtmäßig ist, benötigt er keine erneute Aufenthaltserlaubnis. Sein Aufenthaltsstatus ist ja bereits geregelt. Die weitere Erteilung einer Erlaubnis wäre nutzlos.
@@ -73,11 +73,11 @@ Zu den Familiennachzugsfällen zu Ausländern siehe Ausführungen zu § 29.
 4.2.4. Beschränkungen bei der Erteilung der Zustimmung durch die Bundesagentur für Arbeit sind gemäß § 4 Abs. 2 Satz 4 in den Aufenthaltstitel zu übernehmen. Die Bundesagentur für Arbeit verwendet dafür bundesweit standardisierte Formulierungen (s. das vorliegende mit der Bundesagentur abgestimmte Formular sowie die angefügten Ausfüllhinweise).
 4.3. Beschäftigungsmöglichkeit für Asylbewerber und Geduldete
 4.3.1. Bezüglich der Beschäftigungsmöglichkeit von Asylbewerbern gelten § 61 Abs. 2 AsylVfG und § 32 Abs. 4 BeschV (vgl. die jeweiligen Ausführungen dort). Zur selbständigen Tätigkeit von Ausländern siehe die obigen Ausführungen zu § 4 Abs. 2 S. 1.
-4.3.2. Aus § 4 Abs. 3 S. 2 folgt, dass für Personen, für die die Abschiebung ausgesetzt ist (Duldung), nur dann die Möglichkeit besteht, eine Beschäftigung auszuüben, wenn es die BeschV ausdrücklich zulässt (vgl. B. BeschV.32. und 33). Ohne Aufenthaltstitel, Duldung oder Gestattung erlaubt ist eine Beschäftigung lediglich in den Fällen der § 17 Abs. 2, 23 - 30 AufenthV (vgl. § 30 BeschV) bzw. § 20 Abs. 6 S. 2. Beachte aber auch § 84 Abs. 2 Satz 2.
+4.3.2. Aus § 4 Abs. 3 S. 2 folgt, dass für Personen, für die die Abschiebung ausgesetzt ist (Duldung), nur dann die Möglichkeit besteht, eine Beschäftigung auszuüben, wenn es die BeschV ausdrücklich zulässt (vgl. B.BeschV.32. und 33). Ohne Aufenthaltstitel, Duldung oder Gestattung erlaubt ist eine Beschäftigung lediglich in den Fällen der § 17 Abs. 2, 23 - 30 AufenthV (vgl. § 30 BeschV) bzw. § 20 Abs. 6 S. 2. Beachte aber auch § 84 Abs. 2 Satz 2.
 4.3.3. bis 4.3.4. einstweilen frei
 4.3.5. Aufbewahrungspflicht des Arbeitgebers
 Durch § 4 Abs. 3 S. 5 wird der Arbeitgeber eines Ausländers verpflichtet, eine Kopie des Titels, der Gestattung oder Duldung aufzubewahren. Dies dient der Umsetzung des Artikels 4 Absatz 1 Buchstabe b der Sanktionsrichtlinie. Dadurch werden Kontrollen der zur Bekämpfung der Schwarzarbeit zuständigen Behörden erleichtert. Ausländerbehördlich ist diese Rechtspflicht ohne Belang.
-4.4. Bezüglich § 4 Abs. 4 wird auf § 24 Abs. 1 Nr. 2 a AufenthV verwiesen (Befreiung vom Erfordernis eines Aufenthaltstitels für Ausländer, die ein deutsches Seefahrtsbuch besitzen).
+4.4. Die Vorschrift wurde durch das Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern aufgehoben.
 4.5. Türkische Staatsangehörige
 4.5. 0. Nach dem ARB 1/80 privilegierten türkischen Staatsangehörigen, denen kein stärkeres Aufenthaltsrecht nach nationalem Recht zusteht oder die dies ausdrücklich beantragen, ist eine (ggf. zusätzliche) Aufenthaltserlaubnis auf der Grundlage von § 4 Abs. 5 zu erteilen. Hinsichtlich der Einträge zur Erwerbstätigkeit gilt folgendes:
 In den Fällen, in denen der Titel allein aus Art. 6 Abs. 1, erster Spiegelstrich ARB 1/80 hergeleitet wird, wird der Eintrag

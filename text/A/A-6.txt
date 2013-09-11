@@ -12,8 +12,16 @@ A.6. Visum
 Annullierung und Aufhebung von Schengen-Visa
 Rechtsmittel gegen Beseitigung eines Visums
 6.s.2. Visa-Informationssystem - VIS -
+6.s.3. Visawarndatei
+1. Allgemeines
+2. Nutzende Stellen
+3. Anwendung durch die ABH
+3.1. Übermittlingspflichten
+3.2. Anlassbezogene Abfrage
+3.3. Vorgehen im Trefferfall
+4. Auskunftsrecht Betroffener
 A.6. Visum
-(26.03.2013; AuslBeschR)
+(26.07.2013; SchutzberArb)
 6.0. Allgemeines zum Visakodex
 Am 05.10.2009 ist die Verordnung (EG) Nr. 810/2009 - der sog. Visakodex - in Kraft getreten. Diese Verordnung findet seit dem 05.04.2010 in den Schengen-Staaten (vgl. A.2.5.) grundsätzliche Anwendung. Am 05.04.2010 in Kraft getreten ist darüber hinaus die Verordnung (EU) Nr. 265/2010 vom 25.03.2010 zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und der VO (EG) Nr. 562/2006 in Bezug auf den Verkehr von Personen mit einem Visum für den längerfristigen Aufenthalt, mit der u.a. Art. 18 und Art. 21 des SDÜ geändert wurden.
 Der Visakodex ersetzt u.a. Art. 9 bis 17 des Schengener Durchführungsübereinkommens (SDÜ) und die Gemeinsamen Konsularischen Instruktionen (GKI.
@@ -66,8 +74,10 @@ Merke: Anstelle der Regelung zur Erteilung eines sogenannten unechten Jahresvisu
 6. 2.2. Verlängerung des Schengenvisums um bis zu drei weitere Monate innerhalb des Sechsmonatszeitraums § 6 Abs. 2 sieht über die Möglichkeit des Visakodex hinausgehend eine Verlängerung des Visums auf insgesamt bis zu 6 Monate vor, sofern die Voraussetzungen des Art. 33 Visakodex vorliegen. Das Schengen-Visum wird dann als nationales Visum - Kategorie D - verlängert.
 In dem Feld "Visumkategorie" ist der Buchstabe "D" einzutragen. Das Feld "Anzahl der Einreisen" ist durchzustreichen. Im Feld betr. die räumliche Gültigkeit ist immer Deutschland einzutragen. Der Aufenthalt ist in diesem Fall immer mit dem Zusatz auf einem gesonderten Etikett "Gilt nicht für die anderen Schengenstaaten" auf die Bundesrepublik Deutschland zu beschränken und die Erwerbstätigkeit durch Auflage auszuschließen. Zur Verlängerung nach § 6 Abs. 2 S. 2 sind grundsätzlich nur die Gründe anzuerkennen und die Nachweise zu fordern, die bei einer Erteilung nach dem Visakodex verlangt werden (zur Verlängerung des visumfreien Aufenthalts von Staatsangehörigen der in Anhang II zur EG-VisaVO aufgeführten Staaten vgl. VAB.B 40 AufenthV).
 6.3.1. bis 6.3.3. frei
+6.4. Mit der Aufnahme des Begriffsbestimmung des „ Ausnahme-Visums“ durch das Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern ist ausweislich der Gesetzesbegründung keine Änderung der geltenden Rechtslage verbunden. Es soll vielmehr lediglich klarstellend im Gesetz verdeutlicht werden, dass unter den Begriff des „Ausnahme-Visums“, der in § 14 Absatz 2 AufenthG gebraucht wird und bisher nicht legal definiert ist, sowohl Schengen-Visa im Sinne von § 6 Absatz 1 Nummer 1 als auch nationale Visa im Sinne von § 6 Absatz 3 fallen.
 6.s.1. Beseitigung von Schengen-Visa
-Durch das Gesetz zur Umsetzung aufenthaltsrechtlicher Richtlinien der EU und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex (sog. Richtlinienumsetzungsgesetz) ist die Regelung des § 52 Abs. 7 zum Widerruf von Schengenvisa aufgehoben worden. Für diese gilt insoweit Art. 34 der Verordnung (EG) Nr. 810/2009 (sog. Visakodex), der die Voraussetzungen für die Beseitigung eines erteilten Visums abschließend regelt. Unter Visum im Sinne der Vorschrift versteht man nach Art. 2 Nr. 2 des Visakodex Visa für die Durchreise durch das Hoheitsgebiet der Schengen-Staaten oder für geplante Aufenthalte in diesem Gebiet von bis zu drei Monaten innerhalb einer Frist von sechs Monaten von dem Tag der ersten Einreise an sowie Visa für die Durchreise durch die internationalen Transitzonen der Flughäfen von Mitgliedstaaten (vgl. auch § 6 Abs. 1 Nr. 1 und Nr. 2 AufenthG). Für die Beseitigung von Schengenvisa ist das Sachgebiet R 3 zuständig.
+Für die Beseitigung von Schengenvisa gilt Art. 34 der Verordnung (EG) Nr. 810/2009 (sog. Visakodex), der die Voraussetzungen für die Beseitigung eines erteilten Visums abschließend regelt. Unter Visum im Sinne der Vorschrift versteht man nach Art. 2 Nr. 2 des Visakodex Visa für die Durchreise durch das Hoheitsgebiet der Schengen-Staaten oder für geplante Aufenthalte in diesem Gebiet von bis zu drei Monaten innerhalb einer Frist von sechs Monaten von dem Tag der ersten Einreise an sowie Visa für die Durchreise durch die internationalen Transitzonen der Flughäfen von Mitgliedstaaten (vgl. auch § 6 Abs. 1 Nr. 1 und Nr. 2 AufenthG). Für die Beseitigung von Schengenvisa ist das Sachgebiet R 3 zuständig.
+Merke: Mit der Ergänzung des § 14 Abs. 1 Nr. 2 a durch das Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern wird die Bundespolizei auch für die Aufenthaltsbeendigung in Form der Zurückschiebung in Fällen zuständig sind, in denen der Ausländer mit einem erschlichenen Visum über eine Schengenaußengrenze eingereist ist. Die Zuständigkeit der Bundespolizei für die Rücknahme oder Annullierung des erschlichenen Visums ergibt sich für diese Fallkonstellation bereits aus § 71 Absatz 3 Nummer 3 Buchstabe a. Die Formulierung „im Fall“ in § 71 bedeutet lediglich, dass ein Zusammenhang mit der Zurückweisung, Zurückschiebung oder Abschiebung bestehen muss. Nicht erforderlich ist, dass diese Maßnahmen bereits getroffen wurden. Durch die Änderung wird allerdings kein neuer Straftatbestand eingeführt. § 95 Absatz 1 Nummer 3 verweist weiterhin nur auf § 14 Absatz 1 Nummer 1 und 2 und nicht auf die Nummer 2a.
 Annullierung und Aufhebung von Schengen-Visa
 Art. 34 Abs. 1 enthält eine zwingende Annulierungsverpflichtung eines Visums für den Mitgliedstaat, der es ausgestellt hat, wenn sich herausstellt, dass die Voraussetzungen für seine Erteilung zum Ausstellungszeitpunkt – d.h. von Beginn an - nicht erfüllt waren, insbesondere wenn es ernsthaft Gründe zu der Annahme gibt, dass das Visum durch arglistige Täuschung erlangt wurde. Behörden eines anderen Mitgliedstaates ist hinsichtlich der Annullierung Ermessen eingeräumt. Die Annullierung eines Visums hat zur Folge, dass das Visum von Anfang an als nicht existent gilt. Sofern ein Visum von einem anderen Mitgliedstaat annulliert wird, ist der Ausstellungsmitgliedstaat über das BAMF zu unterrichten. Adressat ist das Referat 414 des BAMF als Nationale Kontaktstelle für die EU-Richtlinien. Hinsichtlich der Einzelheiten der Mitteilung fehlt es bisher an einer Regelung.
 Nach Art. 34 Abs. 2 ist ein Schengenvisum von den Behörden des Mitgliedstaates, der es erteilt hat, aufzuheben, wenn die Voraussetzungen für die jeweilige Erteilung nicht mehr erfüllt sind. Behörden eines anderen Mitgliedstaates ist hinsichtlich der Aufhebung Ermessen eingeräumt (so ausdrücklich EuGH, Urteil vom 10.04.2012 - C-83/12 PPU RdNr. 40). Im Falle der Aufhebung eines von einem anderen Schengen-Staat ausgestellten Visums ist dieser über das Referat 414 des BAMF zu unterrichten. Auch hier fehlt es hinsichtlich der Einzelheiten der Mitteilung bisher an einer Regelung.
@@ -100,3 +110,54 @@ die zweite seit 10.05.2012 die Region Naher Osten (Israel, Jordanien, Libanon un
 die dritte seit dem 02.10.2012 die Golfregion (Afghanistan, Bahrain, Iran, Irak, Kuwait, Oman, Katar, Saudi-Arabien, Vereinigte Arabische Emirate und Jemen);
 seit dem 14.03.2013 ist die vierte Region Westafrika (Benin, Burkina Faso, Elfenbeinküste, Gambia, Ghana, Guinea, Guinea-Bissau, Kapverdische Inseln, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leona und Togo); ebenfalls am 14.03. wurde die fünfte Region Zentralafrika (Äquatorialguinea, Burundi, Demokratische Republik Kongo. Gabun, Kamerun, Kongo, Ruanda, Sao Tomé & Principe, Tschad und Zentralafrikanische Republik) in Betrieb genommen.
 Weitere Regionen werden folgen.
+6.s.3. Visawarndatei
+1. Allgemeines
+Zum 01.06.2013 ist das vom 22.12.2011 datierende Gesetz zur Errichtung einer Visa-Warndatei (Visa-Warndateigesetz – VWDG) in Kraft getreten (Link zum VWDG). Ergänzt wird das Gesetz durch eine Durchführungsverordnung (Link zu VWDG-DV) und eine Verwaltungsvorschrift (Link zur VWDG-AV).
+Bis zur Einrichtung der Warndatei hatten deutsche Auslandsvertretungen keine Möglichkeit, die an einem Visumantrag beteiligten Personen gezielt auf rechtswidriges Verhalten im Zusammenhang mit einem früheren Visumverfahren oder mit sonstigem Auslandsbezug zu überprüfen. Insbesondere fehlte bislang eine solche zentrale Erkenntnisquelle zu Personen, die als Einlader oder Verpflichtungsgeber im Visumverfahren tätig werden.
+Die Visawarndatei (VWD) dient in erster Linie den Visumbehörden zur Vermeidung von Visummissbrauch. In der Datei werden Daten erfasst zu Personen, die
+in einem einschlägigen Zusammenhang (§§ 95 – 97 AufenthG, §§ 10, 11 Schwarzarbeitsbekämpfungsgesetz, §§ 232, 233, 233a, 236 Abs. 2 S. 3 StGB, § 30a Abs. 1 oder 2 BTMG) entweder aufgrund von strafrechtlichen Verurteilungen (§ 2 Abs. 1 Nr. 1 VWDG) oder
+durch Verstöße im Visumverfahren als Antragsteller oder Einlader (§ 2 Abs. 1 Nr. 2 und 3 VWDG) auffällig geworden sind.
+Wurden die falschen Angaben von Einladern, Verpflichtungsgebern oder sonstigen Referenzpersonen für eine Organisation gemacht, erfolgt die Eintragung von Warndaten auch für die Organisation.
+Daneben kann die Speicherung von Warndaten einer Person oder Organisation auch freiwillig erfolgen, wenn unter ihrem Namen unbefugt Einladungen oder Verpflichtungserklärungen (VE) abgegeben worden sind oder die Person oder Organisation dies befürchtet. Gleiches gilt, wenn eine Person oder Organisation eine Einladung oder Verpflichtungserklärung widerrufen hat (§ 2 Abs. 2 WDG). Entsprechende an die ABH gerichtete Anträge auf freiwillige Speicherung sind IV G 2 zuzuleiten.
+2. Nutzende Stellen
+Zu den übermittlungspflichtigen Behörden (Datenübermittlung an die VWD) zählen:
+Auslandsvertretungen
+Ausländerbehörden
+Dienststellen der Bundespolizei
+Staatsanwaltschaften
+Bundesamt für Justiz (keine Warndaten, nur Hilfsdaten)
+Auskunftsberechtigte Stellen (Datenübermittlung durch VWD) sind:
+Auswärtiges Amt / Auslandsvertretungen
+Ausländerbehörden
+Dienststellen der Bundespolizei.
+Registerführende Stelle der VWD ist das Bundesverwaltungsamt, das die Datei als neues Register im BVA-Registerportal integriert hat. Wegen der rechtlichen Ähnlichkeit mit dem AZR sind wesentliche Bedienungsschritte vergleichbar. Für die Nutzer hat das BVA eine Arbeitshilfe zur Verfügung gestellt (Handbuch_BVA). Bis zur abschließenden Implementierung der Visawarndatei in das Fachverfahren der ABH kann für Anfragen und Meldungen an die VWD der Zugang über das Registerportal genutzt werden.
+3. Anwendung durch die ABH
+3.1. Übermittlingspflichten
+Die Übermittlungspflichten der ABH ergeben sich aus § 4 Nr. 1 i.V.m. § 2 Abs. 1 S. 1 Nr. 2, 3 a, c VWDG sowie § 4 Nr. 2 i.V.m. § 2 Abs. 1 Nr. 3 b VWDG, d.h.:
+anlassbezogene Meldung von Personen, die
+als Visumantragsteller im Visumverfahren ge- oder verfälschte Dokumente vorgelegt, beschafft oder hergestellt oder authentische Dokumente durch falsche Angaben erschlichen haben oder
+falsche Angaben gemacht haben oder
+durch Verschweigen erheblicher Tatsachen, zu deren Angabe sie verpflichtet waren, ein Visum erschlichen haben ( Beispiel: Einreise mit einem so auch beantragten Besuchsvisum, obwohl Familiennachzug zum hier lebenden Ehegatten angestrebt ist)
+sowie von Personen; die
+im eigenen Namen oder für eine Organisation eine Einladung ausgesprochen,
+sich nach §§ 66, 68 AufenthG verpflichtet haben oder
+als sonstige Referenzperson den vom Antragsteller angegebenen Zweck des Aufenthalts zur Verwendung im Visumverfahren bestätigt haben
+und dabei entweder falschen Angaben gemacht haben oder die Verpflichtung für entstandene Kosten aufzukommen, bei Inanspruchnahme nicht erfüllt haben.
+Sollen Daten einer Person aus einem der vorgenannten Gründe an die VWD übermittelt werden, so ist zuvor durch Abruf im automatisierten Verfahren zu prüfen, ob zum Betroffenen oder zu betroffenen Organisationen bereits ein Datensatz besteht. Ist dies der Fall, sind die (neuen) Daten dem bereits bestehenden Datensatz zuzuordnen (§ 9 Abs. 4 VWDG).
+3.2. Anlassbezogene Abfrage
+Der Anwendungsbereich des VWDG für die Ausländerbehörden ergibt sich aus § 1 Abs. 1 Nr. 2, § 7 S. 1 Nr. 2 VWDG.
+Nach § 7 S. 1 Nr. 2 VWDG übermittelt das BVA bestimmte Daten auf Ersuchen an die Ausländerbehörden, wenn die Daten erforderlich sind
+a) zur Prüfung einer VE nach § 68 AufenthG oder
+b) zur Entscheidung über die Verlängerung eines Visums nach § 6 Abs. 3 AufenthG.
+Während Buchstabe a) in Berlin hauptsächlich die Abt. II des LABO trifft und nur im Einzelfall (VE für längerfristigen Aufenthalt) die ABH, liegt der wesentliche Anwendungsbereich für die ABH bei der Abfrage vor Entscheidung über eine Visumverlängerung.
+3.3. Vorgehen im Trefferfall
+Das Vorgehen im Trefferfall ist im VWDG nicht geregelt.
+Bei festgestellten Notierungen im Zusammenhang mit VE ist 68.1.2.7. der VwV zum AufenthG heranzuziehen, wonach in Fällen, in denen im Rahmen von früheren Aufenthalten eine VE nicht erfüllt wurde oder die betroffene Person sich wg. unrichtigen Angaben gem. § 95 Abs. 2 Nr. 2 AufenthG strafbar gemacht hat, besondere Anforderungen an die Leistungsfähigkeit zu stellen sind, d.h. Einkommens- und Vermögensverhältnisse sind umfänglich zu prüfen. Kann danach eine Bonität nicht ausreichend glaubhaft gemacht werden, kann sie auf der VE auch nicht bestätigt werden und die VE ist damit unbeachtlich (vgl. 68.1.2.2. der AufenthG-VwV).
+Wird im Zusammenhang mit einer beantragten Visumverlängerung eine Notierung aus einem Anlass nach § 2 Abs. 1 Nr. 2 VWDG festgestellt, so ist diese Notierung in die Entscheidung über den nun vorliegenden Verlängerungsantrag mit einzubeziehen. Die Notierung allein trägt eine Versagung der Visumverlängerung jedoch nicht.
+Wird im Zusammenhang mit einer VE oder bei beantragter Visumverlängerung eine Notierung im Sinne von § 2 Abs. 1 Nr. 1 a) – d) VWDG festgestellt, so gilt Vorstehendes entsprechend.
+4. Auskunftsrecht Betroffener
+Nach § 12 VWDG können Betroffene jederzeit einen Antrag auf Auskunft über die über sie gespeicherten Daten stellen. Der Antrag kann auch von einem gesetzlichen oder bevollmächtigten Vertreter gestellt werden. Ein solcher Antrag ist schriftlich beim Bundesverwaltungsamt zu stellen und bedarf keiner ausdrücklichen Begründung. Für die Prüfung, ob eine Auskunftserteilung nach § 12 Abs. 2 VWDG unterbleiben muss, holt das BVA die Stellungnahme der zuständigen Stelle – also der Behörde, die die Notierung veranlasst hat – ein.
+Eine Auskunftserteilung unterbleibt, wenn
+die Auskunft die ordnungsgemäße Erfüllung der Aufgaben der Behörde gefährden würde, die die Notierung veranlasst hat,
+die Auskunft die öffentliche Sicherheit gefährden oder sonst dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder
+die Daten oder die Tatsache ihrer Speicherung geheim gehalten werden müssen.

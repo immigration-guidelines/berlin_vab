@@ -156,7 +156,7 @@ B.AufenthV.28. Befreiung für freizügigkeitsberechtigte Schweizer
 B.AufenthV.29. Befreiung in Rettungsfällen
 B.AufenthV.30. Befreiung für die Durchreise und Durchbeförderung
 B.AufenthV.15. - 30. Befreiung vom Erfordernis eines Aufenthaltstitels
-(8.ÄndVO AufenthV; AuslBeschR)
+(AuslBeschR; 23.07.2013)
 B.AufenthV.15. Gemeinschaftsrechtliche Regelung der Kurzaufenthalte
 § 15 verweist i.V.m. § 1 Abs. 2 für Kurzaufenthalte auf die EG-VisumsVO und das SDÜ (vgl. insbesondere Anhang II der VisumsVO (Positivstaatlerliste)) sowie Art. 18- 21 SDÜ. Die hierzu geltenden völkerrechtlich gebotenen Ausnahmen werden durch § 16 nicht konkret benannt, sondern lediglich in Bezug genommen.
 In der Praxis von besonderer Relevanz ist die Frage, wie bei Positivstaatern der zulässige Kurzaufenthalt von bis zu drei Monaten - entspricht 90 Tagen - innerhalb einer Frist von sechs Monaten berechnet wird. Hier gilt nach Nr. 6.1.8.1.1. f. AufenthG- VwV Folgendes:
@@ -306,6 +306,7 @@ B.AufenthV.18. Befreiung für Inhaber von Reiseausweisen für Flüchtlinge
 frei
 B.AufenthV.19. Befreiung für Inhaber dienstlicher Pässe
 Mit Inkrafttreten der 8. VO zur Änderung der AufenthV zum 05.03.2013 sind nun auch Inhaber von Diplomatenpässen von Ecuador und Georgien sowie Inhaber von ecuadorianischen Dienstpässen von der Visumpflicht für die Einreise und den Kurzaufenthalt befreit.
+Die EU hat die bestehenden Visaerleichterungsabkommen mit der Ukraine und der Republik Moldau durch weitere Abkommen, die seit dem 01.07.2013 Anwendung finden, geändert. Gem. Art. 10 Abs. 2 der Abkommen können Inhaber von biometrischen Dienstpässen der Ukraine und der Republik Moldau visumfrei für höchstens 90 Tage pro Zeitraum von 180 Tagen in das Gebiet der Mitgliedstaaten einreisen und sich darin aufhalten.
 B.AufenthV.20. Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlichen Organisationen und der Vatikanstadt
 frei
 B.AufenthV.21. Befreiung für Inhaber von Grenzgängerkarten
