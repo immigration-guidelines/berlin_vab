@@ -1,7 +1,7 @@
 VAB D 55
 VAB D 55
 D.55. Aufenthaltsgestattung
-(08.04.2011; 24.07.2013)
+(24.07.2013, QualRiLiUmsG)
 55.0. Die Rechtsgrundlage für die Erstellung einer Aufenthaltsgestattung ist immer § 55. Aus diesem Grund erfolgt deren Ausstellung ohne Angabe der Rechtsgrundlage, zumal auch in AusReg2 hierzu keine Eingabe vorgesehen ist.
 55.0.1. Bei Asylerst- und-folgeanträgen von Angehörigen eines EU- oder /EWR- Staates gelten allerdings folgende Besonderheiten, die sich auch auf die Frage der Aufenthaltsgestattung auswirken.
 Wird ein Asylantrag eines Staatsangehörigen eines EU- oder EWR- Staates beim Bundesamt gestellt, wird dort vorbehaltlich einer ausländerbehördlichen Prüfung im Zweifel davon ausgegangen, dass der Betroffene freizügigkeitsberechtigt ist. In einem solchen Fall werden wir lediglich über die Stellung des Asylantrags unterrichtet. Aus Sicht des Bundesamtes gilt für Freizügigkeitsberechtigte, dass
@@ -16,5 +16,5 @@ Merke: Ob dem Betroffenen das voraussetzungslose Freizügigkeitsrecht nicht zust
 Spricht der Betroffene nach Abschluss des Asylerst- oder folgeverfahrens von sich aus vor und wird dabei festgestellt, dass er nicht freizügigkeitsberechtigt ist, wird der Betroffene bei der Vorsprache angehört, der Verlust des Freizügigkeitsrechts festgestellt und erhält der Betroffene den entsprechenden Bescheid unmittelbar ausgehändigt. Ohne erneute Vorsprache ist eine Prüfung des Freizügigkeitsrechts gem. § 2 Abs. 2 bzw. der Feststellung dessen Verlusts nicht möglich.
 Merke: Soweit vom BAMF irrtümlich Aufenthaltsgestattungen für Personen ausgestellt wurden, die durch den Besitz eines gültigen Personalausweises oder Reisepasses nachweislich eine EU- oder EWR- Staatsangehörigkeit besitzen, sind die Gestattungen von uns in Amtshilfe für das BAMF einzuziehen und den Betroffenen ggf. die vom BAMF eingezogenen Dokumente wieder auszuhändigen
 55.1. bis 55.2. frei
-55.3. In den Fällen des kleinen Asyls werden auch die Zeiten einer Aufenthaltsgestattung für die Dauer des rechtmäßigen Aufenthalts angerechnet.
+55.3. In den Fällen der Zuerkennung internationalen Schutzes gem. § 1 Abs. 1 Nr. 2 werden auch die Zeiten einer Aufenthaltsgestattung für die Dauer des rechtmäßigen Aufenthalts angerechnet.
 Merke: In den Fällen des § 26 Abs. 4 AufenthG kommt § 55 Abs. 3 allerdings ausdrücklich nicht zur Anwendung.

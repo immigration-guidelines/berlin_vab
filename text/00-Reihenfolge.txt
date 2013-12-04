@@ -150,6 +150,7 @@ B.BeschV.16.-21. Entsandte Arbeitnehmerinnen und Arbeitnehmer
 B.BeschV.22.-28. Besondere Berufs- und Personengruppen
 B.BeschV.29.-30. Sonstiges
 B.BeschV.34.-37. Verfahrensregelungen
+B.BeschV.38.-39. Anwerbung und Arbeitsvermittlung aus dem Ausland
 C 1
 C 2
 C 3
@@ -167,6 +168,9 @@ C 12
 C 13
 C 14
 C 15
+D 1
+D 3 - 3e
+D 4
 D 5
 D 9
 D 13
@@ -190,6 +194,8 @@ D 67
 D 71
 D 72
 D 73
+D 73b
+D 73c
 D 75
 E Afghanistan 1
 E Afghanistan 2

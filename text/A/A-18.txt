@@ -15,7 +15,7 @@ Zulassung zum Aufenthalt und zur Erwerbstätigkeit
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 18.6. Versagungsgründe
 A.18. Beschäftigung
-(09.04.2013; AuslBeschR)
+(AuslBeschR; 17.10.2013)
 18. 0. Grundsätze
 Tunesische Staatsangehörige
 Für tunesische Staatsangehörige ergibt sich kein Anspruch auf Verlängerung einer Aufenthaltserlaubnis zum Zwecke einer Beschäftigung aus dem Diskriminierungsverbot des Art. 64 Abs. 1 des Europa-Mittelmeer-Abkommens/Tunesien (s. BVerwG 1 C 14.08, Urteil vom 08.12.2009). Diese Bestimmung sieht vor, dass jeder Mitgliedstaat den in seinem Hoheitsgebiet beschäftigten tunesischen Staatsangehörigen hinsichtlich der Arbeits-, Entlohnungs- und Kündigungsbedingungen eine Behandlung gewährt, die keine auf der Staatsangehörigkeit beruhende Benachteiligung gegenüber seinen Staatsangehörigen bewirkt.
@@ -44,15 +44,12 @@ Bezüglich der Möglichkeit der selbständigen Tätigkeit ist grundsätzlich die
 Wird erneut ein Arbeitsplatz gefunden oder wird nunmehr eine Aufenthaltserlaubnis nach § 21 Abs. 1 oder 5 beantragt, ist die Fiktionsbescheinigung sodann für die Dauer eines Zustimmungsverfahrens bei der Arbeitsagentur bzw. das Beteiligungsverfahren nach § 21 Abs. 1 S. 4 zu verlängern. Ggf. ist die Aufenthaltserlaubnis ohne erneute Ausreise zu erteilen (§ 39 Nr. 1 AufenthV). Andernfalls ist der Antrag auf Erteilung der Aufenthaltserlaubnis zu versagen.
 Sprechen Personen - insbesondere Inhaber von Aufenthaltserlaubnissen nach § 16 Abs. 1 und Abs. 4 vor - und beantragen die Erteilung einer Aufenthaltserlaubnis für eine zustimmungsfreie Tätigkeit nach § 18 i.V.m. der BeschV, kann die Aufenthaltserlaubnis bei Vorliegen der Erteilungsvoraussetzungen auch dann erteilt werden, wenn
 der Ort der Beschäftigung außerhalb Berlin- Brandenburgs liegt, solange der Ausländer nachweislich noch in Berlin gemeldet ist, und/oder
-die Tätigkeit ausweislich des Arbeitsvertrages erst innerhalb der nächsten drei Monate begonnen werden soll.
-18.2.1. 5. Verlängerung der Aufenthaltserlaubnis
+die Tätigkeit ausweislich des Arbeitsvertrages erst innerhalb der nächsten drei Monate begonnen werden soll. 18.2.1. 5. Verlängerung der Aufenthaltserlaubnis
 Anders als bei der Erteilung der AE nach § 18 Abs. 3 oder 4 ist b ei der Verlängerung einer AE nach § 18 Abs. 3 oder 4 immer § 9 BeschV zu beachten. Bei Vorliegen der Voraussetzungen des § 9 BeschV kann die AE - ohne vorangegangene Anfrage bei der BA - mit der Nebenbestimmung "Erwerbstätigkeit gestattet" verlängert werden (vgl auch Ausführungen unter B.BeschV.9.)
-Beachte: Die Vergünstigungen des § 9 BeschV können hingegen in den folgenden Fällen nicht
-Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis sein:
+Beachte: Die Vergünstigungen des § 9 BeschV können hingegen in den folgenden Fällen nicht Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis sein:
 Geduldete oder Gestattete beantragen eine AE nach § 18 unter Berufung etwa auf § 9 Abs. 1 BeschV Verlängerung zeitlich befristeter Beschäftigungen (Stichwort: Spezialitätenköche)
 Vgl. dazu die Ausführungen unter B.BeschV.9.
 18.2.2. einstweilen frei
-18.3.
 18.4. Beschäftigung mit qualifizierter Berufsausbildung
 18.4.0. Aufenthaltserlaubnisse nach § 18 Abs. 4 Satz 1 oder Satz 2 sind grundsätzlich mit der Nebenbestimmung
 „Erlischt mit dem Bezug v. Leistungen nach dem SGB II oder SGB XII bzw. AsylbLG“
@@ -61,7 +58,7 @@ Beschäftigung n. gestattet mit Ausnahme der Tätigkeit als …. bei….“
 zu versehen.
 18.4.1. Grundsätzlich kann eine AE gem. § 18 Abs. 4 S. 1 (i.V.m. § 18 Abs. 2 S. 1) erteilt werden, wenn der Ausländer eine Beschäftigung begehrt, für die mindestens eine 2-jährige Berufsausbildung Voraussetzung ist (vgl. § 25 Satz 2 BeschV). Die begünstigten Berufsgruppen sind in den §§ 26 bis 31 BeschV abschließend aufgezählt.
 18.4.2. Ist die Tätigkeit nicht in der BeschV oder einer zwischenstaatlichen Vereinbarung genannt, so kann nur in den Fällen, in denen eine qualifizierte Ausbildung Voraussetzung ist (vgl. dazu auch OVG Berlin-Brandenburg, Beschluss vom 27.01.2011 - OVG 2 S 60.10 -), einzelfallbezogen eine Ausnahme zugelassen werden (Abs. 4 S. 2). Hierzu muss dann allerdings ein öffentliches insbesondere ein regionales, wirtschaftliches oder arbeitsmarktpolitisches Interesse bestehen. Ob ein arbeitsmarktpolitisches Interesse besteht, beurteilt ausweislich Nr. 18.4.3 VwV- AufenthG ausschließlich die Bundesagentur für Arbeit, die insofern zu beteiligen ist. Soll der Titel allerdings auf Grund eines sonstigen öffentlichen Interesses erteilt werden, bedarf es der Beteiligung der Bundesagentur nicht.
-Dies gilt etwa in den Fällen der Beschäftigung israelischen Sicherheitspersonals durch die jüdische Gemeinde oder die israelische Fluglinie EL AL. Bei der Erteilung von Aufenthaltserlaubnissen nach § 18 Abs. 4 S. 2 ist die Beschäftigung allerdings auf die konkrete Beschäftigung bei dem Arbeitgeber für die Geltungsdauer des Titels zu beschränken. In all diesen Fällen ist die Entscheidung den Sachgebietsleitern und Hauptsachbearbeitern vorbehalten.
+Dies gilt etwa in den Fällen der Beschäftigung israelischen Sicherheitspersonals durch die jüdische Gemeinde oder die israelische Fluglinie EL AL bzw. für die Beschäftigung als Lehrpersonal an der saudischen König-Fahd-Akademie. Bei der Erteilung von Aufenthaltserlaubnissen nach § 18 Abs. 4 S. 2 ist die Beschäftigung allerdings auf die konkrete Beschäftigung bei dem Arbeitgeber für die Geltungsdauer des Titels zu beschränken. In all diesen Fällen ist die Entscheidung den Sachgebietsleitern und Hauptsachbearbeitern vorbehalten.
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 In jedem Fall ist ein konkretes Arbeitsplatzangebot erforderlich. Ist für eine Berufsausübung eine Erlaubnis vorgeschrieben, muss der Ausländer das Vorliegen der Erlaubnis bzw. deren Zusage vor Erteilung des Titels nachweisen.
 Soweit der Beruf im Land Berlin reglementiert ist (z.B. Human-, Zahn-, und Veterinärmedizin, Ingenieuer-wesen, Notariat oder Lehrberufe an staatlichen Schulen) ist die jeweilige Fachbehörde zuständig, an die der Betroffene jeweils zu verweisen ist.
