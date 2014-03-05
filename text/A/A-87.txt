@@ -1,7 +1,7 @@
 VAB A 87
 VAB A 87
 A.87. Übermittlungen an Ausländerbehörden
-(2. ÄndG; 2. RiLiUmG)
+(2. RiLiUmG; 04.02.2014)
 87.1. Die Entstehung einer Übermittlungspflicht der öffentlichen Stellen auf Ersuchen der Ausländerbehörde hängt von der Erforderlichkeit der Übermittlung für die in § 86 S. 1 genannten Zwecke ab.
 87.2.1. Zu Mitteilungen des Bundespolizeiamtes Berlin gem. § 87 Abs. 2 Nr. 1 bei Feststellung eines unerlaubten Aufenthalts gem. § 95 Abs. 1 Nr. 1 bei Ausreisekontrollen:
 eine Möglichkeit zur Speicherung des Sachverhalts im AZR nicht besteht (vgl. §§ 2, 3 AZRG),
@@ -16,4 +16,4 @@ Die praktische Bedeutung der Regelung dürfte gering sein. Erfolgt eine Mitteilu
 87.4.1. § 87 Abs. 1 S. 1 enthält eine Übermittlungspflicht der Staatsanwaltschaften, der Gerichte und der für Ordnungswidrigkeiten zuständigen Behörden bei Einleitung von Strafverfahren, sowie bei Erledigung von Straf- oder Bußgeldverfahren.
 87.4.2. frei
 87. 5.1. § 87 Abs. 5 Nr. 1 formuliert eine Mitteilungspflicht der Staatsanwaltschaft, des Strafgerichts oder der Polizei, über Umstände, die den Widerruf einer Aufenthaltserlaubnis für Zeugen gemäß § 25 Abs. 4a bzw. 4b oder die Verkürzung einer nach § 59 Abs. 7 diesem Personenkreis gewährten Ausreisefrist rechtfertigen können. Diese Vorschrift betrifft z.B. Fälle, in denen Zeugen ihre (weitere) Kooperation mit den genannten Behörden versagen.
-87. 5.2. § 87 Abs. 5 Nr. 2 formuliert eine Mitteilungspflicht der Staatsanwaltschaft, des Strafgerichts oder der Polizei, über (gewechselte) Zuständigkeiten der Strafverfolgungsbehörden in Fällen des § 25 Abs. 4a bzw. bzw. 4b oder des § 59 Abs. 7.
+87. 5.2. § 87 Abs. 5 Nr. 2 formuliert eine Mitteilungspflicht der Staatsanwaltschaft, des Strafgerichts oder der Polizei, über (gewechselte) Zuständigkeiten der Strafverfolgungsbehörden in Fällen des § 25 Abs. 4a bzw. bzw. 4b oder des § 59 Abs. 7. 87.6. s. A.27.1a.1.

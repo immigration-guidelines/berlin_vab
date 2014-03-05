@@ -7,7 +7,7 @@ C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 C.7.1.2. Androhung der Abschiebung und Setzen einer Ausreisefrist
 C.7.1.3. Ausreisefrist von mindestens einem Monat
 C.7.1.4. Anträge auf einstweiligen Rechtsschutz
-C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 572
+C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 569
 C.7.2.2. Befristung des Wiedereinreiseverbots
 C.7.2.4. Anspruch auf Befristung des Wiedereinreiseverbots
 C.7. Ausreisepflicht

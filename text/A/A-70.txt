@@ -1,11 +1,11 @@
 VAB A 70
 VAB A 70
 A.70. Verjährung von Abschiebungskosten
-(08.04.2011; 2. RiLiUmG)
+(2. RiLiUmG; 17.12.2013)
 A.70.1. Im Rahmen der Festsetzung von Abschiebungskosten ist zwischen der Festsetzungsverjährung, d.h dem Zeitraum zwischen Entstehen der Forderung und deren Festsetzung durch Bescheid, sowie der Fälligkeitsverjährung nach Festsetzung der Kosten durch Bescheid zu unterscheiden.
-Für die Festsetzung der Abschiebungskosten gilt mangels Spezialregelung die Regelung des § 20 Abs. 1 Satz 1 2. Alt. VwKostG. Danach müssen die Kosten spätestens im vierten Kalenderjahr nach ihrer Entstehung festgesetzt werden. Geschieht dies nicht, erlischt der Anspruch (vgl. VGH Mannheim, Urteil vom 30.07.2009 -13 S 919/09-; VG Berlin, Urteil vom 11.02.2010 – VG 27 K 60.09 -).
-Nach § 70 Abs. 1 verjähren die Ansprüche auf die in § 67 Abs. 1 und 2 AufenthG genannten Kosten sechs Jahre nach Fälligkeit. In analoger Anwendung des § 17 VwKostG werden Abschiebungskosten mit der Bekanntgabe der Kostenentscheidung, d.h. mit Bekanntgabe des Leistungsbescheids im Sinne von § 67 Abs. 3 S. 1 fällig, wenn die Behörde keinen späteren Zeitpunkt bestimmt.
-§ 70 ist der hinsichtlich der Fälligkeitsverjährung ggü. § 20 Abs. Abs. 1 Satz 1 1. Alt. VwKostG die speziellere Regelung für die Ansprüche aus § 67 Abs. 1 und 2 AufenthG.
-A.70.2. Die in § 20 Abs. 3 VwKostG aufgeführten Umstände, die zur Unterbrechung - d.h. Aussetzen und Neubeginn - der Verjährungsfrist - sowohl für die Festsetzung als auch für die Fälligkeit - führen, werden durch § 70 Abs. 2 AufenthG ergänzt. Hinsichtlich der Hemmung der Verjährung - d.h. Aussetzen der Frist und Fortlauf nach Wegfall des Hemmnisses
-- ist § 20 Abs. 2 VwKostG anwendbar.
+Für die Festsetzung der Abschiebungskosten (Auslagen gem. § 12 Abs. 1 BGebG) gilt § 13 Abs. 3 Satz 2 BGebG entsprechend. Danach müssen die Kosten spätestens im vierten Kalenderjahr nach ihrer Entstehung festgesetzt werden. Geschieht dies nicht, erlischt der Anspruch (vgl. VGH Mannheim, Urteil vom 30.07.2009 -13 S 919/09-; VG Berlin, Urteil vom 11.02.2010 – VG 27 K 60.09 -).
+Nach § 70 Abs. 1 verjähren die Ansprüche auf die in § 67 Abs. 1 und 2 AufenthG genannten Kosten sechs Jahre nach Fälligkeit. In Anwendung des § 14 BGebG werden Abschiebungskosten 10 Tage nach der Bekanntgabe der Kostenentscheidung, d.h. nach der Bekanntgabe des Leistungsbescheids im Sinne von § 67 Abs. 3 S. 1 fällig, wenn die Behörde keinen späteren Zeitpunkt bestimmt.
+§ 70 ist der hinsichtlich der Fälligkeitsverjährung ggü. § 18 Abs. 1 BGebG die speziellere Regelung für die Ansprüche aus § 67 Abs. 1 und 2 AufenthG.
+A.70.2. Die in § 19 Abs. 1 BGebG aufgeführten Umstände, die zur Unterbrechung - d.h. Aussetzen und Neubeginn - der Verjährungsfrist - sowohl für die Festsetzung als auch für die Fälligkeit - führen, werden durch § 70 Abs. 2 AufenthG ergänzt. Hinsichtlich der Hemmung der Verjährung - d.h. Aussetzen der Frist und Fortlauf nach Wegfall des Hemmnisses
+- ist § 18 Abs. 2 BGebG anwendbar.
 Die Festsetzungs- und die Fälligkeitsverjährung wird gemäß § 70 Abs. 2 auch dann unterbrochen, wenn der ausgereiste oder untergetauchte Ausländer einen Bevollmächtigten bestellt hat. So besteht der Sinn der Unterbrechungsregelung nicht etwa darin, einer mangelnden Erreichbarkeit des Betroffenen Rechnung zu tragen, sondern dem Umstand, dass der Ausländer für eine Vollstreckung der Kostenforderung unmittelbar nicht greifbar wäre (vgl. VG Berlin, Urteil vom 12.10.2010 -VG 27 K 50.09-).

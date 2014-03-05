@@ -14,7 +14,7 @@ A.90. Übermittlungen durch Ausländerbehörden
 90.3.8. Zuständigkeiten der Sozialämter
 90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
 A.90. Übermittlungen durch Ausländerbehörden
-(2. RiLiUmsG; AuslBeschR)
+(AuslBeschR; 14.01.2014)
 90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren (gilt auch in den Fällen von Asylfolge- und – zweitantragstellern bis zur Entscheidung, ob ein Asylverfahren wiederaufgenommen wird). Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde. Damit ist für die Leistungsbehörden erkennbar, ob ein Ausländer nach § 1 Abs. 1 Nr. 3 oder 7 AsylbLG leistungsberechtigt ist.
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen
@@ -85,6 +85,21 @@ Bei Ehepaaren/Familien richtet sich die Zuständigkeit nach dem Geburtsdatum (bz
 Bei den sogenannten 00er-Fällen (kein konkretes Geburtsdatum, nur Geburtsjahr bekannt) richtet sich die Zuständigkeit nach den Anfangsbuchstaben des Familiennamens (s. ebenfalls nachfolgende Aufstellung).
 Bei Namen wie z. A. “Ben”, “El”, „Al“, „Abou“, „Abu“ oder „von“ gilt der Anfangsbuchstabe des darauffolgenden Namens, auch wenn beide Namen mit einem Bindestrich verbunden sind.
 Beantragen Ehegatten oder andere in Bedarfsgemeinschaft (eheähnlicher Gemeinschaft) lebende (auch gleichgeschlechtliche) Personen ohne eine Anmeldung für Berlin öffentliche Leistungen, richtet sich die Zuständigkeit nach dem Geburtsdatum bzw. Anfangsbuchstaben des Familiennamens des Älteren von ihnen. Lässt sich jedoch für einen von ihnen eine Anmeldung ermitteln, richtet sich die Zuständigkeit für alle Beteiligten hiernach.
+Bezirkliche Zuständigkeit ab 01.05.2012:
+BEZIRK GEBURTSDATUM BUCHSTABE
+Mitte Januar K
+Friedrichshain-Kreuzberg Februar B
+Pankow März A, E, F, J
+Charlottenburg-Wilmersdorf April C, H
+Spandau Mai D
+Steglitz-Zehlendorf Juni G, U, V
+Tempelhof-Schöneberg Juli I, M, N
+Neukölln August R, T
+Treptow-Köpenick September L, O, Q
+Marzahn-Hellersdorf Oktober P, S - Schu
+Lichtenberg November Schv - Sz
+Reinickendorf Dezember W, X, Y, Z
+Zuständigkeit für Altfälle - Bei Anträgen, die vor dem 01.05.2012 gestellt wurden, richtet sich die örtliche Zuständigkeit nach der bis zum 30.04.2012 angewandten Fassung der Vorschrift:
 BEZIRK GEBURTSDATUM BUCHSTABE
 Mitte 01.01. – 17.02. A, B, C
 Pankow 18.02. – 04.03. und D, S - Schu, W
@@ -108,3 +123,4 @@ Marzahn-Hellersdorf 16.11. – 01.12. und I, X, Y, Z
 90.4. § 90 Abs. 5 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutz - bzw. Sanktions richtlinie vor (vgl. hierzu A.25.4a und b.).
 90.4.1. bis 90.4.3. frei
 90.5. siehe A.27.1a.
+</div>

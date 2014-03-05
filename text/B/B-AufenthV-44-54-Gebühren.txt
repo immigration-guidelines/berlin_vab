@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(27.03.2013; 11.06.2013)
+(17.12.2013; 07.01.2014)
 B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
@@ -20,7 +20,7 @@ B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(27.03.2013; 11.06.2013)
+(17.12.2013; 07.01.2014)
 Merkblatt_Gebühren_Stand_17.06.2013
 Zu den Gebühren für assoziationsberechtigte türkische Staatsangehörige vgl. E.Türk.1.
 B.AufenthV.44.1.Kassenautomat
@@ -55,7 +55,7 @@ der Beantragung nach § 105b S. 2 AufenthG.
 B.AufenthV.46. Gebühren für das Visum
 frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
-B.AufenthV.47.1. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 10 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
+B.AufenthV.47.1. Für die Befristung eines Einreise- und Aufenthaltsverbots nach § 11 AufenthG wird keine Gebühr erhoben . Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 10 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
 Der Gebührentatbestand des § 47 Abs. 1 Nr. 11 gilt nur für die in § 78a abs. 1 S. 1 AufenthG geregelten Ausnahmefälle. Wird also ein Aufenthaltstitel in den Fällen des § 78a Abs. 1 S. 1 AufenthG weiterhin in Form eines Klebeetiketts ausgestellt und ist das Klebeetikett in ein neues Personaldokument zu übertragen, so ist wie in den Fällen des bisherigen Übertrages eine Gebühr in Höhe von 10 Euro zu erheben.
 B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluß, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 20 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3).
 B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte nach § 5 Abs. 2 S. 1 FreizügigG/EU oder einer Daueraufenthaltskarte nach § 5 Abs. 6 S. 2 FreizügigG/EU in Form des eAT beträgt die Gebühr 28,80 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Die Gebühren gelten auch für die Neuausstellung einer eAT-Karte im Rahmen von § 45c. Für die Bescheinigung des Daueraufenthalts nach § 5 Abs. 6 S. 1 FreizügigG/EU beträgt die Gebühr 8 Euro.
@@ -143,6 +143,8 @@ B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kulturelle
 • Austauschlehrer und Assistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
 • Austauschschüler,
 • ehrenamtliche Jugend-Mitarbeiter des CVJM-Missio-Center Berlin,
+• Teilnehmer am Jugendfreiwilligendienst (Freiwilliges soziales Jahr gemäß § 3 Jugendfreiwilligendienstgesetz (JFDG) oder Freiwilliges ökologisches Jahr (§ 4 JFDG)
+• Teilnehmer am Bundesfreiwilligendienst
 • Lehrer aus Übersee, die auf Einladung deutscher öffentlicher Stellen einen Studienaufenthalt in der Bundesrepublik Deutschland nehmen, um sich mit deutschen pädagogischen Grundsätzen vertraut zu machen,
 • Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
 • Stipendiaten des "Berlin Programms" der FU Berlin,
@@ -165,7 +167,6 @@ B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kulturelle
 • nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 • Inhaber von Diplomatenpässen für die Verlängerung eines Visums gem. § 6 Abs.3 AufenthG
 B.AufenthV.52. 8.
-'
 Gem. dem Abs. 8 sind Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstatten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28.09.2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), u.a. von den Gebühren für die Verlängerung eines Schengen-Visums im Bundesgebiet befreit (§ 46 Nr. 2).
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 § 53 AufenthV sieht eine Befreiung und Ermäßigung aus Billigkeitsgründen vor.
@@ -223,7 +224,7 @@ B.AufenthV.57a. Pflichten der Inhaber von Dokumenten mit elektronischem Speicher
 Verarbeitungsmeidum nach § 78 AufenthG
 Die Vorschrift regelt bestimmte Pflichten eines eAT-Inhabers zum Umgang mit seiner eAT-Karte.
 Bei Verlust der eAT-Karte begründet Nr. 1 für den eAT-Inhaber die Pflicht, der im Inland zuständigen Ausländerbehörde oder
-- sofern der eAT im Ausland verloren geht - einer deutschen Auslandsvertretung anzuzeigen. Sofern die Online-Ausweisfunktion der eAT-Karte eingeschaltet ist, ist diese zu sperren. In jedem Fall ist eine neue eAT-Karte gebührenpflichtig zu bestellen (vgl.). Taucht die als verloren gemeldete eAT-Karte wieder auf, ist der Betroffene verpflichtet, der zuständigen Behörde das Wiederauffinden anzuzeigen und die "alte" eAT-Karte vorzulegen. Die rechtzeitige Anzeige einer wiederaufgefundenen eAT-Karte eröffnet der Behörde die Möglichkeit zu entscheiden, ob diese einbehalten wird oder eine Entsperrung und Weiternutzung in Betracht kommt. Denn eine "alte" eAT-Karte kann nur dann ggf. entsperrt und weitergenutzt werden, wenn noch keine neue eAT- Karte bei der Bundesdruckerei bestellt wurde.
+- sofern der eAT im Ausland verloren geht - einer deutschen Auslandsvertretung anzuzeigen. Sofern die Online-Ausweisfunktion der eAT-Karte eingeschaltet ist, ist diese zu sperren. In jedem Fall ist eine neue eAT-Karte gebührenpflichtig zu bestellen. Taucht die als verloren gemeldete eAT-Karte wieder auf, ist der Betroffene verpflichtet, der zuständigen Behörde das Wiederauffinden anzuzeigen und die "alte" eAT-Karte vorzulegen. Die rechtzeitige Anzeige einer wiederaufgefundenen eAT-Karte eröffnet der Behörde die Möglichkeit zu entscheiden, ob diese einbehalten wird oder eine Entsperrung und Weiternutzung in Betracht kommt. Denn eine "alte" eAT-Karte kann nur dann ggf. entsperrt und weitergenutzt werden, wenn noch keine neue eAT- Karte bei der Bundesdruckerei bestellt wurde.
 Nach § 57a Nr. 2 ist der betroffene eAT-Inhaber verpflichtet, sofern er von dem Defekt des in der Karte vorhandenen Chips Kenntnis erlangt, diese der zuständigen Behörde vorzulegen. eine neue eAT-Karte ist zu bestellen. Kann keine unsachgemäße Einwirkung von außen festgestellt werden, erfolgt die Bestellung gebührenfrei (vgl.).
 Dem Betroffenen ist in der Zeit der Bestellung der neuen eAT-Karte nach seiner Wahl entweder eine Bescheinigung über sein bestehendes Aufenthaltsrecht oder sein (bestehender) Aufenthaltstitel in Form eines Klebeetiketts auszustellen. Die Bescheinigung sowie das Klebeetikett sind im Fall des Verlustes des eAT und bei Feststellung einer unsachgemäßen Einwirkung jeweils gebührenpflichtig. Für eine Bescheinigung ist eine Gebühr in Höhe von 10 Euro zu erheben. Für ein Klebeetikett richtet sich die Gebühr nach § 45b, da es sich um eine Ausstellung im Ausnahmefall nach § 78a Abs. 1 handelt. Erhält der Betroffene die neue eAT-Karte, ist der Aufenthaltstitel in Form des Klebeetiketts als ungültig zu stempeln. B.AufenthV.58. Vordruckmuster
 Die Ausstellung von Reiseausweisen nach § 4 Abs. 1 S. 1 Nr. 1, 3 und 4 mit maschinenlesbaren biometrischen Daten erfolgt durch die Bundesdruckerei auf besonderem Muster, das sich von den vorläufigen Dokumenten durch ein Symbol auf der Deckseite unterscheidet, mit dem alle biometrischen Pässe gekennzeichnet werden. Die biometrischen Reiseausweise werden nicht verlängert (§ 58 S. 2).
