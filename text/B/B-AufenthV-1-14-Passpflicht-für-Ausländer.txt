@@ -6,7 +6,8 @@ B.AufenthV.1. Begriffsbestimmungen
 B.AufenthV.2. Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetztlichen Vertreters B.AufenthV.3. Zulassung nichtdeutscher amtlicher Ausweise als Passersatz
 B.AufenthV.4. Deutsche Passersatzpapiere für Ausländer
 Kinderreiseausweise
-Liste der Einträge in einen Reiseausweis für Flüchtlinge
+Reiseausweise für Flüchtlinge
+Liste der weiteren Einträge in einen Reiseausweis für Flüchtlinge
 B.AufenthV.5. Allgemeine Voraussetzungen der Ausstellung des Reiseausweises für Ausländer
 Unzumutbarkeit der Erfüllung der Wehrpflicht
 Zumutbarkeit einer Nachregistrierung im Heimatstaat
@@ -23,7 +24,7 @@ B.AufenthV.11. Verfahren der Ausstellung oder Verlängerung des Reiseausweises f
 B.AufenthV.13. Notreiseausweis
 B.AufenthV.14. Befreiung von der Passpflicht im Rettungsfällen
 B.AufenthV.1. - 14. Passpflicht für Ausländer
-(8. ÄndVO AufenthV; 13.01.2014)
+(13.01.2014; 24.03.2014)
 B.AufenthV.1. Begriffsbestimmungen
 frei
 B.AufenthV.2. Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetztlichen Vertreters
@@ -40,7 +41,13 @@ Auch die Kinderreiseausweise sind mit einem Lichtbild zu versehen; dies gilt una
 Kinderreiseausweise, die vor dem 01.11.2007 ohne Lichtbild ausgestellt wurden, behalten nach der Übergangsregelung des § 18 Abs. 1 der Verordnung zur Durchführung des Passgesetzes vom 19.10.2007 für den jeweiligen Gültigkeitszeitraum ihre Geltung.
 Merke: Der Pass muss vom Kind unterschrieben werden, wenn es zum Zeitpunkt der Beantragung des Passes das 10. Lebensjahr vollendet hat.
 Abs. 2 und 3 regeln detailliert die Voraussetzungen für die Einziehung des Passersatzes und ein Beteiligungserfordernis der im Inland zuständigen Ausländerbehörde bei Entziehung des Passersatzes im Ausland.
-Liste der Einträge in einen Reiseausweis für Flüchtlinge
+Reiseausweise für Flüchtlinge
+Wird dem Inhaber eines Nationalpasses ein Reiseausweis für Flüchtlinge ausgestellt, ist ihm der Nationalpass gleichwohl zu belassen. Handelt es sich um einen anerkannten Asylberechtigten oder um einen Ausländer, dem die Flüchtlingseigenschaft zuerkannt wurde, ist eine Kontrollmitteilung an das Bundesamt für Migration und Flüchtlinge unter Beifügung von Kopien des Nationalpasses zu übermitteln.
+Sowohl der Reiseausweis als auch der Nationalpass sind mit einem Vermerk zu versehen, der auf das Vorhandensein des anderen Ausweises hinweist und der lautet:
+- Im Nationalpass nur auf Deutsch: „Dem Inhaber wurde ein deutsches Passersatzpapier ausgestellt.“
+- Im Reiseausweis für Flüchtlinge: „Der Inhaber ist auch Inhaber eines Nationalpasses. The bearer also holds a national passport.” (vgl. hierzu 3.3.4.7. der AufenthG-VwV).
+Wird auf den vorstehenden Eintrag verzichtet, laufen RA-Inhaber, die auch im Besitz ihres Nationalpasses sind, regelmäßig Gefahr, dass bei Reisebewegungen der Nationalpass von der Bundespolizei zur Überprüfung des Aufenthaltsstatus wie auch aufgrund des Verdachts der Visumerschleichung einbehalten wird.
+Liste der weiteren Einträge in einen Reiseausweis für Flüchtlinge
 In diesem Zusammenhang nachfolgend eine Auflistung der weiteren, je nach Lage des Einzelfalles in Betracht kommenden Einträge in den Reiseausweis für Flüchtlinge:
 Der Inhaber dieses Reiseausweises ist als Asylberechtigter anerkannt.
 Der Inhaber dieses Reiseausweises ist Flüchtling im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge. - f. Inhaber einer AE nach § 25 Abs. 2 AufenthG
