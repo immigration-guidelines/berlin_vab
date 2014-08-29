@@ -35,7 +35,7 @@ B.BeschV.33. Versagung der Erlaubnis zur ausübung einer Beschäftigung von Pers
 B.BeschV.31.-33. Beschäftigung bei Aufenthalten aus völkerrechtlichen,
 humanitären oder politischen Gründen sowie von Personen mit Duldung und
 Asylbewerbern
-(05.09.2013; QualRiLiUmsG)
+(05.09.2013; QualRiLiUmsG; 20.05.2014)
 B.BeschV.31. Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen § 31 räumt allen Ausländerinnen und Ausländern, die eine AE aus humanitären Gründen besitzen, einen uneingeschränkten Arbeitsmarktzugang ein. Der Gesetzgeber geht davon aus, dass diese Personengruppe bereits nach der bis zum 30.06.2013 gültigen Rechtslage weitestgehend uneingeschränkten Arbeitsmarktzugang hatte (vgl. insbesondere § 25 Abs. 1 Satz 4, Abs. 2 Satz 2 AufenthG, § 3 b Abs. 1 Nr. 2 BeschVerfV in der bis zum 30.06.2013 gültigen Fassung). Im Interesse der Rechtsvereinfachung wird das Recht auf uneingeschränkten Arbeitsmarktzugang allein vom Besitz der Aufenthaltserlaubnis abhängig gemacht. Die ab dem 01.07.2013 geltende Rechtslage ist von dem Grundsatz geprägt, dass alle Ausländerinnen und Ausländer, die sich hier rechtmäßig aufhalten, auch arbeiten dürfen (vgl. BR-Drs. 182/13, S. 23 sowie § 27 Abs. 5 AufenthG i.d.F. des Gesetzes zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern). Dies soll auch die Inanspruchnahme von Sozialleistungen vermindern.
 Das durch § 31 BeschV i.V.m. § 4 Abs. 2 Satz 3 AufenthG eingeräumte Ermessen ist daher grundsätzlich zu Gunsten der Inhaber von AEs nach dem 5. Abschnitt auszuüben und
 „Erwerbstätigkeit gestattet.“
@@ -89,6 +89,7 @@ solange der Ausländer verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen:
 nach neun Monaten gestattete m Aufenthalt (zur Berechnung, Anrechnungsmöglichkeiten und Unterbrechungen vgl.
 D.61.2.1.): zustimmungspflichtige Tätigkeiten mit Vorrangprüfung und zustimmungsfreie Tätigkeiten gem. § 32 Abs. 2 (§ 61 Abs. 2 AsylVfG)
 nach vierjährigem ununterbrochenen erlaubten, geduldeten oder gestatteten Aufenthalt: uneingeschränkter Zugang zur Beschäftigung (§ 62 Abs. 2 AsylVfG, § 32 Abs. 4 i.V.m. Abs. 3 BeschV).
+Zeiten eines Besitzes einer GÜB-gleich ob es sich um eine HFK-GÜB oder "normale" GÜB handelt- unterbrechen die anrechenbare Aufenthaltsdauer bei Anwendung des § 32 Abs. 3 BeschV nicht.
 Konsequenz des § 61 Abs. 2 AsylVfG ist also vor allem, dass Asylbewerbern anders als Duldungsinhabern die zustimmungsfreien Beschäftigungen nach § 32 Abs. 2 erst nach neunmonatigem gestatteten Aufenthalt offen stehen. Die Versagungsgründe des § 33 sind auf Asylbewerber hingegen nicht entsprechend anwendbar. Anders als geduldete Ausländer halten sich Asylbewerber mit einer Aufenthaltsgestattung grundsätzlich erlaubt im Bundesgebiet auf (zum Zweck des § 33 vgl. B.BeschV.33.0.).
 B.BeschV.33. Versagung der Erlaubnis zur ausübung einer Beschäftigung von Personen mit Duldung
 B.BeschV.33.0. Nach der gesetzgeberischen Konzeption sollen Personen, die
