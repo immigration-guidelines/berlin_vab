@@ -7,7 +7,7 @@ C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 C.7.1.2. Androhung der Abschiebung und Setzen einer Ausreisefrist
 C.7.1.3. Ausreisefrist von mindestens einem Monat
 C.7.1.4. Anträge auf einstweiligen Rechtsschutz
-C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 564
+C.7.2. Wiedereinreiseverbot nach Feststellung des Verlust des Freizügigkeitsrechts. 565
 C.7.2.2. Befristung des Wiedereinreiseverbots
 C.7.2.4. Anspruch auf Befristung des Wiedereinreiseverbots
 C.7. Ausreisepflicht
@@ -39,6 +39,5 @@ Bei der Wiedereinreise vor Ablauf oder Aufhebung der Sperrfrist ist das Einreise
 Mit Ablauf der Sperrfrist endet jede Fortwirkung eines Einreise- und Aufenthaltsverbots. Eine Abschiebung nach Ablauf der Sperrfrist im Inland ist ausgeschlossen.
 C.7.2.4. Anspruch auf Befristung des Wiedereinreiseverbots
 Eine lebenslängliche, unwiderrufliche und nicht befristbare Wiedereinreisesperre wäre mit dem Gemeinschaftsrecht unvereinbar. Daher sieht Satz 4 vor, dass gem. § 6 Abs. 1 beschiedene Unionsbürger und ihre Familienmitglieder spätestens 3 Jahre nach der Ausreise ihr Wiedereinreiseverbot behördlich überprüfen lassen können. Über den Antrag ist innerhalb von 6 Monaten zu entscheiden. Gem. Art. 37 der UnionsRL kommt hier allerdings § 11 Abs. 2 i.V.m. § 11 Abs. 1 S. 3 AufenthG für die Fälle zum Tragen, in denen noch keine drei Jahre seit der Ausreise vergangen sind. Auch in diesen Fällen ist über einen Antrag auf Aufhebung der Sperrwirkung innerhalb von 6 Monaten zu entscheiden. Befristungszeiträume sollen, je nach Einzelfall, eine Dauer von drei Jahren nicht übersteigen. Im Übrigen gelten die für Familienangehörige von Deutschen festgelegten Fristen (vgl. A.11).
-Um den Ablauf der Sperrfrist im Inland nach unerlaubter Einreise und die damit verbundene Legalisierung des Aufenthalts (vgl. unten) zu vermeiden, ist eine Befristung der Sperrwirkung unter die auflösende Bedingung zu stellen, dass bis zum Fristablauf keine Einreise in das Bundesgebiet erfolgt.
 Der Betroffene ist in jedem Fall darauf hinzuweisen, dass eine Befristung / Verkürzung der Sperrwirkung wegen veränderter Umstände jederzeit vom Ausland aus beantragt werden kann.
 Kommt eine Befristung nicht oder zum gewünschten Zeitpunkt nicht in Betracht, so ist ggf. zu prüfen, ob eine Betretenserlaubnis zu erteilen ist (vgl. § 11 Abs. 2 i.V.m. § 11 Abs. 2 AufenthG). Bei der Anwendung dieser Vorschrift gelten keine Besonderheiten für ehemals Freizügigkeitsberechtigte.

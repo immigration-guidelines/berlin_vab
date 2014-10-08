@@ -83,13 +83,13 @@ B.BeschV.32.3. Die Regelung soll es allen geduldeten Ausländern nach längerem 
 Nach vierjährigem ununterbrochenen erlaubten, geduldeten oder gestatteten Aufenthalt kann geduldeten Ausländern ohne Zustimmung der Arbeitsagentur eine Erlaubnis zur Beschäftigung erteilt werden. Damit erhalten diese geduldeten Ausländer einen uneingeschränkten und mit deutschen Arbeitssuchenden gleichrangigen Zugang zur Beschäftigung.
 Liegen die Voraussetzungen des § 32 Abs. 3 vor, ist das Duldungsetikett mit dem Eintrag „Beschäftigung gestattet“ zu versehen. Die selbstständige Tätigkeit bleibt immer ausgeschlossen (vgl. A.4.2.1.3.).
 Der Ausschlussgrund des § 33 steht auch hier einem Zugang zum Arbeitsmarkt entgegen.
+Zeiten eines Besitzes einer GÜB-gleich ob es sich um eine HFK-GÜB oder "normale" GÜB handelt- unterbrechen die anrechenbare Aufenthaltsdauer bei Anwendung des § 32 Abs. 3 BeschV nicht.
 B.BeschV.32.4. Nach Absatz 4 finden § 32 Abs. 2 und 3 auch Anwendung auf Ausländern mit einer
 Aufenthaltsgestattung. Die Vorschrift ist immer zusammen mit § 61 AsylVfG zu lesen. Daraus ergibt sich folgende zeitliche Abfolge der Beschäftigungsmöglichkeiten für Asylbewerber:
 solange der Ausländer verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen: keine Möglichkeit der Erwerbstätigkeit (§ 61 Abs. 1 AsylVfG)
 nach neun Monaten gestattete m Aufenthalt (zur Berechnung, Anrechnungsmöglichkeiten und Unterbrechungen vgl.
 D.61.2.1.): zustimmungspflichtige Tätigkeiten mit Vorrangprüfung und zustimmungsfreie Tätigkeiten gem. § 32 Abs. 2 (§ 61 Abs. 2 AsylVfG)
 nach vierjährigem ununterbrochenen erlaubten, geduldeten oder gestatteten Aufenthalt: uneingeschränkter Zugang zur Beschäftigung (§ 62 Abs. 2 AsylVfG, § 32 Abs. 4 i.V.m. Abs. 3 BeschV).
-Zeiten eines Besitzes einer GÜB-gleich ob es sich um eine HFK-GÜB oder "normale" GÜB handelt- unterbrechen die anrechenbare Aufenthaltsdauer bei Anwendung des § 32 Abs. 3 BeschV nicht.
 Konsequenz des § 61 Abs. 2 AsylVfG ist also vor allem, dass Asylbewerbern anders als Duldungsinhabern die zustimmungsfreien Beschäftigungen nach § 32 Abs. 2 erst nach neunmonatigem gestatteten Aufenthalt offen stehen. Die Versagungsgründe des § 33 sind auf Asylbewerber hingegen nicht entsprechend anwendbar. Anders als geduldete Ausländer halten sich Asylbewerber mit einer Aufenthaltsgestattung grundsätzlich erlaubt im Bundesgebiet auf (zum Zweck des § 33 vgl. B.BeschV.33.0.).
 B.BeschV.33. Versagung der Erlaubnis zur ausübung einer Beschäftigung von Personen mit Duldung
 B.BeschV.33.0. Nach der gesetzgeberischen Konzeption sollen Personen, die
