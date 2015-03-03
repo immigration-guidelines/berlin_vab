@@ -2,17 +2,16 @@ VAB A 3
 VAB A 3
 Inhaltsverzeichnis
 A.3. Passpflicht
-(14.02.2012; 15.04.2014)
+(15.04.2014; 04.12.2014)
 3.1. Zuständigkeit für die generelle Anerkennung von Pässen und Passersatzpapieren
 3.1.2. Ausweisersatz
 3.1.3. Reiseausweise für Staatenlose
 3.2. Bearbeitung von Anträgen zur Ausnahme von der Passpflicht
 A.3. Passpflicht
-(14.02.2012; 15.04.2014)
+(15.04.2014; 04.12.2014)
 3.1. Zuständigkeit für die generelle Anerkennung von Pässen und Passersatzpapieren
 Zur Zuständigkeit für die generelle Anerkennung von Pässen und Passersatzpapieren durch Allgemeinverfügung gilt § 76 Abs. 6.
-Der von der "World Service Authority", einem in Washington/U.S.A. ansässigen privaten Verein, ausgestellte Pass ist kein anerkannter Pass oder Passersatz. Amtliche Eintragungen in dieses Dokument sind deshalb nicht zulässig.
-Gleiches gilt für
+Der von der "World Service Authority", einem in Washington/U.S.A. ansässigen privaten Verein, ausgestellte Pass ist kein anerkannter Pass oder Passersatz. Amtliche Eintragungen in dieses Dokument sind deshalb nicht zulässig. Gleiches gilt für
 vom Internationalen Roten Kreuz (ICRC) ausgestellte Reisedokumente,
 "Romanopässe",
 Pässe des "International Parliament für Safety and Peace",
@@ -25,6 +24,7 @@ Member Identification,
 Ausweise der „International Consular Corps Association“ und
 Ausweise der „Europäischen Wirtschaftskammer (EWIV) Brüssel“ (bei der „EWIV“ handelt es sich nicht um ein Organ der Europäischen Union).
 Pässe der "United Healthcare Organisation" (UNHCO).
+von dem sogen. "General Khalifat of World Union-General Assistanve" ausgestellte Phantasiepässe mit der Bezeichnung "World Diplomatic Passport"
 3.1.2. Ausweisersatz
 Die Passpflicht wird während des Aufenthalts im Bundesgebiet auch durch den Besitz eines Ausweisersatzes erfüllt, vgl. § 48 Abs. 2. Die Voraussetzungen für die Ausstellung eines Ausweisersatzes ergeben sich aus § 55 AufenthV. Beachte, dass die Regelerteilungsvoraussetzung gemäß § 5 Abs. 1 Nr. 4 zwar durch einen Ausweisersatz erfüllt wird, die Erteilung eines Ausweisersatzes nach § 55 AufenthV jedoch voraus setzt, dass der Ausländer einen gültigen Pass oder Passersatz seines Heimatstaates nicht in zumutbarer Weise erlangen kann.
 3.1.3. Reiseausweise für Staatenlose

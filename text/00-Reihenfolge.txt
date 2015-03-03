@@ -188,6 +188,9 @@ D 43
 D 55
 D 56
 D 58
+D 59
+D 59a
+D 59b
 D 60
 D 61
 D 67
@@ -197,6 +200,8 @@ D 73
 D 73b
 D 73c
 D 75
+D 85
+D 88a
 E Afghanistan 1
 E Afghanistan 2
 E Afghanistan 3

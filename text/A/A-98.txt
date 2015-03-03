@@ -1,7 +1,7 @@
 VAB A 98
 VAB A 98
 A.98. Bußgeldvorschriften
-(2. ÄndG; 23.04.2008)
+(23.04.2008; RechtstverbG)
 98.0. Soweit die Bußgeldvorschriften zwischen vorsätzlichen und fahrlässigen Handlungen unterscheiden, gilt folgendes:
 Vorsätzlich handelt, wer die Rechtswidrigkeit seines Handelns kannte und bewusst gegen die Vorschrift verstoßen hat.
 Fahrlässig handelt, wer bei der gebotenen Sorgfalt hätte erkennen müssen, dass er rechtswidrig handelt, diese Sorgfalt aber nicht walten ließ. Bei den im Aufenthaltsrecht als Ordnungswidrigkeit geahndeten Rechtverstößen ist häufig mindestens von einem fahrlässigen Handel auszugehen, da sich die Handlungsgebote und-verbote entweder unmittelbar aus dem Gesetz oder aus dem Aufenthaltstitel ergeben oder der Ausländer auf andere Weise - etwa durch Hinweisblätter - auf diese hingewiesen worden ist oder aufgrund seiner bisherigen Erfahrungen mit dem deutschen Aufenthaltsrecht von einem Rechtsverstoß hätte ausgehen müssen.
@@ -10,6 +10,7 @@ Nur der Vollständigkeit halber sei darauf hingewiesen, dass der im Tatbestand �
 98.1. bis 98.2.3. frei
 98.2.4. Bußgeldbewehrt ist die mangelnde Teilnahme an einem Integrationskurs trotz Verpflichtung durch die Ausländerbehörde nach § 44a Abs. 1 Satz 1 Nr. 1 und 3. Für § 44a Abs. 1 Satz 1 Nr. 2 gilt gleiches, wenn ein Jobcenter den Ausländer außerhalb einer Eingliederungsvereinbarung vergeblich zur Teilnahme aufgefordert hat. Die Ordnungswidrigkeit wird durch die Ausländerbehörde geahndet.
 98.2a. bis 98.3.1. Ebenso bußgeldbewehrt ist die unerlaubte selbständige Tätigkeit oder die vorsätzliche oder leichtfertige (entgegen § 4 Abs. 3 Satz 4 vorgenommene) Beauftragung derselben. Die Ordnungswidrigkeit wird durch die Ausländerbehörde geahndet. Die Verfolgung der unerlaubten Beschäftigung eines Ausländers obliegt dagegen dem Hauptzollamt (vgl. § 404 i.V.m. § 405 SGB III).
-98.3.2. bis 98.3.6. frei
+98.3.2. § 98 Abs. 3 Nr. 2 umfasst sowohl den Verstoß gegen die räumliche Beschränkung kraft Gesetzes in den ersten drei Monaten geduldeten Aufenthalts wie auch den Verstoß gegen eine nachträglich aus den Gründen des § 61 Abs. 1c angeordnete Beschränkung.
+98.3. 3. bis 98.3.6. frei
 98.3.7. Verstößt eine im Sinne des § 38 a AufenthV anerkannte Forschungseinrichtung vorsätzlich oder fahrlässig gegen die Mitteilungspflichten des § 38 c AufenthV, so handelt sie gem. § 77 Nr. 1 AufenthV ordnungswidrig. Die Ordnungswidrigkeit wird durch die Ausländerbehörde geahndet.
 98.4. bis 98.6. frei
