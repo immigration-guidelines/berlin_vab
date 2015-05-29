@@ -6,7 +6,5 @@ A.90a. Mitteilungen der Ausländerbehörden an die Meldebehörden
 Eine An- und Abmeldung unterbleibt allerdings bei Ausländern, die in Amtshilfe für andere Ausländerbehörden im Abschiebungsgewahrsam einsitzen.
 Bei Strafhäftlingen sieht § 20 Abs. 2 Meldegesetz Berlin dagegen eine Ausnahme vor. Danach wird eine Meldepflicht durch den Vollzug einer richterlichen Entscheidung über eine Freiheitsentziehung (in der Anstalt/JVA) nicht begründet, solange der Meldepflichtige für eine andere Wohnung im Inland gemeldet ist. Anderenfalls muss der Leiter der Anstalt der zuständigen Meldebehörde die Aufnahme oder Entlassung mitteilen.
 90a.1.2.2.
-Reisen ausländische Staatsangehörige, die melderechtlich in Berlin erfasst waren, dauerhaft aus dem Bundesgebiet aus, wird die Meldebehörde nach Erfassung des Meldestatus „Abgang“ in AusReg durch das Fachverfahren darüber informiert.
-Bei bestehender E-Akte wird ein Vermerk automatisiert abgelegt.
-Das Formschreiben 50009 – Ausreise erfassen – (abrufbar über KK Meldestatus -> Abgang) ist grundsätzlich nicht mehr zu verwenden, es bleibt jedoch für die Mitteilung von Aliaspersonalien und als Abschlussvermerk weiterhin bestehen.
-90a.2.1. bis 90a.2.5. frei
+Reisen ausländische Staatsangehörige, die melderechtlich in Berlin erfasst waren, dauerhaft aus dem Bundesgebiet aus, wird die Meldebehörde nach Erfassung des Meldestatus „Abgang“ in AusReg durch das Fachverfahren darüber informiert. Bei bestehender E-Akte wird ein Vermerk automatisiert abgelegt.
+Das Formschreiben 50009 – Ausreise erfassen – (abrufbar über KK Meldestatus -> Abgang) ist grundsätzlich nicht mehr zu verwenden, es bleibt jedoch für die Mitteilung von Aliaspersonalien und als Abschlussvermerk weiterhin bestehen. 90a.2.1. bis 90a.2.5. frei

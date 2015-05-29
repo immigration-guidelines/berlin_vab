@@ -13,7 +13,7 @@ A.60a.s.1. Tatsächliche Abschiebungshindernisse
 A.60a.s.2. Zur Duldung des Aufenthalts ausländischer Strafgefangener im Freigang bzw. während Drogentherapie nach § 35 BTM-G
 A.60a.s.3. Fortsetzung einer Schul- und Berufsausbildung
 A.60a. Vorübergehende Aussetzung der Abschiebung (Duldung)
-(RechtstverbG; 02.03.2015)
+(20.04.2015; 08.05.2015; 21.05.2015)
 60a.1.1. Die nach § 60a Abs. 1 S. 1 mögliche Aussetzung ist auf maximal 6 Monate begrenzt. Zuständig ist hier SenInnSport.
 60a.1.2. Gemäß § 60a Abs. 1 S. 2 sind nach 6 Monaten nur Entscheidungen gem. § 23 Abs. 1 möglich.
 60a.2. Abschiebungsverbote und Ausreisehindernisse
@@ -76,7 +76,7 @@ A.25a.2.2.)
 Das Schriftformerfordernis der Duldung (=Bescheinigung über die Aussetzung der Abschiebung) ergibt sich aus § 77 Abs. 1 S. 1. In der Bescheinigung ist jeweils einzutragen, auf welcher Rechtsgrundlage die Aussetzung erfolgt (analog § 59 Abs. 3 AufenthV). Es ist jeweils zu bezeichnen, nach welchem Absatz des § 60 a die Bescheinigung ausgestellt wurde, für § 60a Abs. 2 Satz 1 und 2 existieren spezielle Meldesachverhalte an das AZR. An einer Grundlage zur Meldung der Ermessensduldung an das AZR fehlt es bisher.
 § 61 Abs. 1 sieht für vollziehbar Ausreisepflichtige das Entstehen der räumlichen Beschränkung kraft Gesetzes mit den Ausnahmemöglichkeiten des § 61 Abs. 1 vor (siehe A.61.1.1.). Mit dem Rechtsstellungsverbesserungsgesetz wurde die räumliche Beschränkung jedoch kraft Gesetzes faktisch auf 3 Monate nach Einreise in das Bundesgebiet befristet (§ 61 Abs. 1b; Näheres unter A.61.1b.). In bestimmten Fällen wird der Ausländerbehörde allerdings die Möglichkeit eröffnet, eine erloschene räumliche Beschränkung der Duldung (wieder) anzuordnen (§ 61 Abs. 1c; siehe A.61.1c.).
 Die Nebenbestimmung en
-„Erwerbstätigkeit nicht gestattet.“ und "Der Aufenthalt ist beschränkt auf das Land Berlin bis ... "
+„Erwerbstätigkeit nicht gestattet.“ und "Der Aufenthalt ist beschränkt auf das Land Berlin bis ..."
 werden nur in den Fällen verwandt, in denen der Ausländer das Abschiebungshindernis selbst zu vertreten hat. Mit Blick auf die gesetzliche Erlöschensfrist des § 61 Abs. 1b ist die räumliche Beschränkung dabei faktisch ohnehin auf einen Zeitraum von 3 Monaten ab Einreise in das Bundesgebiet befristet (s. auch B.BeschV.33. bzw. zur räumlichen Beschränkung 61.1.1.).
 Das BAFöG wurde zum 01.01.2009 dahingehend geändert, dass auch geduldeten Ausländern Ausbildungsförderung geleistet wird, wenn sie sich seit mindestens vier Jahren in Deutschland ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufgehalten haben. Damit hat der Gesetzgeber klargestellt, dass auch Geduldeten Ausländern das Studium jedenfalls nach einem längeren Aufenthalt im Bundesgebiet gestattet werden kann. Entsprechend dieser gesetzgeberischen Wertungen sind Duldungen bis zum vierjährigem ununterbrochenen rechtmäßigen, gestatteten und geduldeten Aufenthalt im Bundesgebiet gemäß § 61 Abs. 1 Satz 2 grundsätzlich mit der Auflage
 „Studium nicht gestattet.“
@@ -100,11 +100,11 @@ A.60a.s.1. Tatsächliche Abschiebungshindernisse
 Abschiebungen in folgende Staaten sind derzeit vor dem Hintergrund der aktuellen politischen Lage und/oder der fehlenden bzw. unzureichenden Flugverbindung nicht möglich:
 Irak – Bagdad (s. aber nachfolgend - Rückführungen in den Nordirak)
 Syrien - Damaskus (s. hierzu E.Syrien.2.)
+Jemen - Sanaa u.a.
 U.a. in die nachfolgend aufgeführten Staaten sind begleitete und unbegleitete Rückführungen möglich:
 Nordirak - Sulaymania (Rückführung in bestimmten Einzelfällen - s. hierzu E.Irak.2.)
 Burundi – Bujumbura (begleitete Rückf. nur im Einzelfall)
 Haiti – Port-au-Prince (begleitete Rückf. nur im Einzelfall)
-Jemen – Sanaa (begleitete Rückf. nur im Einzelfall)
 Kongo – Brazzaville (begleitete Rückf. nur im Einzelfall)
 Liberia – Monrovia (begleitete Rückf. nur im Einzelfall)
 Sierra Leone – Freetown
@@ -120,7 +120,7 @@ Nur unbegleitete Rückführungen sind möglich nach:
 Zentralafrikanische Republik – Jaunde
 Guinea-Bissau – Bissau
 Sonstige Hinweise:
-Gaza/Westbank Die Sicherheitslage in den Palästinensischen Gebieten ist nach wie vor angespannt. Gleichwohl können palästinensische Volkszugehörige, die im Besitz eines Passes der Palästinensischen Autonomiebehörde sind, der zur Rückkehr in den Gaza-Streifen berechtigt (vgl. PassInfo Gaza), grundsätzlich zurückgeführt werden. Die Rückführung erfolgt über Ägypten unter Nutzung des Grenzüberganges al-Arish - Raffah nach Gaza. Der Grenzübergang ist allerdings nur in unregelmäßigen Abständen und in unterschiedlicher Dauer geöffnet.
+Gaza/Westbank Die Sicherheitslage in den Palästinensischen Gebieten ist nach wie vor angespannt. P a lästinensische Volkszugehörige, die im Besitz eines Passes der Palästinensischen Autonomiebehörde sind, der zur Rückkehr in den Gaza-Streifen berechtigt (vgl. PassInfo Gaza), können derzeit gleichwohl nicht zurückgeführt werden. Bis auf weiteres werden nach Auskunft der Ägyptischen Botschaft vom 18.05.2015 keine Anträge auf Durchreisevisa von Palästinensern aus dem Gaza-Streifen entgegengenommen. Damit sind sowohl freiwillige Ausreisen als auch zwangsweise Rückführungen nicht möglich
 Somalia Grundsätzlich sind nach Erkenntnissen des Auswärtigen Amtes begleitete Rückführungen nach Somalia lediglich nach Hargeisa in Nordwestsomalia (Somaliland) möglich. In die restlichen Landesteile sind wegen unzureichender Fluganbindungen sowie der wegen der Verhältnisse in den einzelnen Clangebieten nicht auszuschließenden Gefährdung der Begleitbeamten begleitete Rückführungen nicht möglich.
 Der Aufenthalt ausreisepflichtiger ausländischer Staatsangehöriger, deren zwangsweise Rückführung nur ohne amtliche Begleitung erfolgen könnte, die sich aber ihrer Abschiebung widersetzen, ist nach § 60a Abs. 2 Satz 1 AufenthG zu dulden. Die Erteilung einer AE nach § 25 Abs. 5 AufenthG ist wegen des fehlenden Ausreisehindernisses aber ausgeschlossen.
 A.60a.s.2. Zur Duldung des Aufenthalts ausländischer Strafgefangener im
@@ -145,7 +145,7 @@ Die Fortsetzung einer Schul- und Berufsausbildung nach Eintritt der Ausreisepfli
 Dabei wird die Bitte des Abgeordnetenhauses von Berlin an den Senat berücksichtigt, eine Regelung für junge Ausländer mit ungesichertem Aufenthaltstatus zu treffen, die sich in Berlin in einer Schul- oder Berufsausbildung befinden und diese hier beenden wollen.
 Es ist wie folgt zu verfahren:
 60a.s.3. 1. Sind junge Ausländer vollziehbar zur Ausreise verpflichtet, weil eine Aufenthaltserlaubnis nach §§ 23 Abs. 1, 25 Abs. 3 -5 erloschen ist oder nicht mehr verlängert werden kann oder ein bisher bestehendes Ausreisehindernis oder Abschiebungsverbot weggefallen ist, ist im Rahmen der Aufenthaltsbeendigung insbesondere zu berücksichtigen,
-a) ob sie sich im letzten Schuljahr einer Real- bzw. Hauptschulausbildung (mittlerer Schulabschluss - MSA - bzw. Berufsbildungsreife) befinden und ein erfolgreicher Schulabschluss nach dem letzten Zeugnis zu erwarten ist,
+a) ob sie sich im letzten Schuljahr einer Real- bzw. Hauptschulausbildung (mittlerer Schulabschluss - MSA - bzw. (erweiterte) Berufsbildungsreife) befinden und ein erfolgreicher Schulabschluss nach dem letzten Zeugnis zu erwarten ist,
 b) ob sie sich im letzten Schuljahr auf einer Fachoberschule befinden und ein erfolgreicher Schulabschluss mit dem Fachabitur zu erwarten ist,
 c) ob sie sich in den letzten zwei Jahren der gymnasialen Oberstufe befinden und der erfolgreiche Abschluss mit dem Abitur zu erwarten ist,
 d) ob sie sich im letzten Jahr einer Berufsausbildung befinden.

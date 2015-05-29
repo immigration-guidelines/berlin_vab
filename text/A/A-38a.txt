@@ -2,7 +2,7 @@ VAB A 38a
 VAB A 38a
 A.38a. Aufenthaltserlaubnis für in anderen Mitgliedstaaten der EU langfristig
 Aufenthaltsberechtigte
-(05.12.2014; 26.01.2015)
+(26.01.2015; 16.04.2015)
 38a. 0. Spricht ein Drittstaatsangehöriger mit einem Aufenthaltstitel eines anderen Mitgliedstaates der EU (nicht des EWR) vor, so muß der Titel gem. Art. 8 Abs. 3 S. 2 der Daueraufenthaltsrichtlinie die Bezeichnung "Daueraufenthalt-EU" in (einer) der jeweiligen Amtssprache(-n) enthalten. Dies ist anhand der folgenden Liste, die den Hinweisen des BMI zum Richtlinienumsetzungsgesetz vom 2.10.2007 entnommen ist, zu prüfen.
 bulgarisch: " C"
 dänisch: " Fastboende udlænding – EF"
@@ -14,7 +14,7 @@ französisch: "carte de résident longue durée -- Communauté Européenne (Fran
 "résident de longue durée -- CE" (Belgien)
 griechisch: " -- " oder „ -“ ggf. zusätzlich: "LONG-TERM RESIDENT-EC"
 italienisch: "soggiornante di lungo periodo -- CE od. UE"
-kroatisch: "osoba s dugotrainim boravištem -- EZ"
+kroatisch: "osoba s dugotrainim boravištem -- EZ" oder "osoba s dugotrainim boravištem -- EU"
 lettisch: "pastvgi dzvojosa persona -- ES"
 litauisch: "ilgalaikis gyventojas -- EB"
 maltesisch: "residenti gat-tul -- KE " od. "resident fit-tul – UE"

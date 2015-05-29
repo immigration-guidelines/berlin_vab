@@ -1,7 +1,7 @@
 VAB A 82
 VAB A 82
 A.82. Mitwirkung des Ausländers
-(HQRLUmsG; AuslBeschR)
+(HQRLUmsG; AuslBeschR; 16.03.2015)
 82.0. Aus § 82 Abs. 1 ergibt sich eine echte Rechtspflicht des Ausländers zur Mitwirkung. Abs. 3 enthält eine ganze Reihe Hinweispflichten für die Ausländerbehörden. Dazu wurde eine Reihe von Informationsblättern geschaffen, die den Sachgebieten zur Verfügung gestellt wurden und deren Aushändigung jeweils aktenkundig zu machen ist.
 Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer "Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit" wird im Sachgebiet IV R 3 (Rückführung) konzentriert.
 82.1.1. bis 82.1.2. frei
@@ -31,4 +31,4 @@ Minderjährige Ausländer können verpflichtet werden, in der Vertretung ihres (
 82.6.1. bis 82.6.2. § 82 Abs. 6 ist mit dem Gesetz zur Umsetzung der Hochqualifiziertenrichtlinie zum 01.08.2012 eingefügt worden und dient der Umsetzung von Art. 13 Abs. 4 der Hochqualifiziertenrichtlinie (2009/50/EG). Bei den in S. 1 genannten befristeten Aufenthaltstiteln zur Beschäftigung (§§ 18, 18a, Blaue Karte EU) besteht die Pflicht des Titelinhabers, der zuständigen Ausländerbehörde unverzüglich mitzuteilen, wenn die Beschäftigung, für die die Aufenthaltserlaubnis bzw. die Blaue Karte EU erteilt wurde, vorzeitig beendet wurde. Ein Versäumen dieser Pflicht ist jedoch nicht bußgeldbewehrt. Personen in einer zustimmungsfreien Beschäftigung unterliegen dieser Mitteilungspflicht
 allerdings nicht.
 Mit vorzeitiger Beendigung der konkreten Beschäftigung ist eine Erteilungsvoraussetzung nachträglich entfallen, sodass die nachträgliche Verkürzung der Geltungsdauer der Aufenthaltserlaubnis nach § 7 Abs. 2 S. 2 zu prüfen ist (vgl. insoweit Ausführungen unter 7.2.2.).
-82.6.3. Ausländische Staatsangehörige, die der Mitteilungspflicht unterliegen, sind bei Erteilung des Aufenthaltstitels entsprechend zu unterrichten. Dazu wurde ein Informationsblatt erstellt (LABO4308 > Homepage > Formulare). Das Merkblatt ist bei der Erteilung des Aufenthaltstitels nach § 18, 18a oder § 19a auszuhändigen, sofern bei dem Betroffenen kein freier Arbeitsmarktzugang besteht bzw. eine zustimmungsfreie Beschäftigung aufgenommen oder fortgesetzt wird. Die Aushändigung des Informationsblattes ist aktenkundig zu machen.
+82.6.3. frei
