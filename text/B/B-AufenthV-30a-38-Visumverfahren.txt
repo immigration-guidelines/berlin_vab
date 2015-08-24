@@ -20,7 +20,7 @@ Working-Holiday-Abkommen mit der SVR Hongkong und Chile
 B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte B.AufenthV.37. Zustimmungsfreiheit in sonstigen Fällen
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 B.AufenthV.30a. - 38. Visumverfahren
-(15.01.2015; 26.05.2015)
+(15.01.2015; 26.05.2015; NeuBestG)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 Mit der 8. Verordnung zur Änderung der AufenthV wird die technische Abwicklung des nationalen wie auch schengenweiten Konsultationsverfahrens dem BVA als einheitlicher, nationaler Kommunikationsschnittstelle übertragen.
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -95,9 +95,9 @@ B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern
 Streitkräfte
 frei
 B.AufenthV.37. Zustimmungsfreiheit in sonstigen Fällen
-Bei § 37 neuer Fassung handelt es sich um Folgeänderungen, die wegen der Übernahme der bisherigen Regelungen in § 16 BeschV a.F. in den neuen § 30 BeschV erforderlich sind.
-Grundsätzlich muss die ABH der Visumserteilung nur zustimmen bei Aufenthalten über drei Monate, die weder der Erwerbstätigkeit noch der Arbeitsplatzsuche dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 1 AufenthV). Eine Zustimmung ist auch erforderlich für Aufenthalte, die der Ausübung selbständiger Tätigkeiten oder der Beschäftigung nach § 18 Abs. 4 Satz 2 dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 2 a und b AufenthV). Bei sonstigen Einreisen zur Erwerbstätigkeit ist die Zustimmung gem. § 31 Abs. 1 Satz 1 Nr. 2 c AufenthV nur noch erforderlich, wenn der Ausländer sich bereits zuvor im Bundesgebiet aufgehalten hat (zu § 31 AufenthV, vgl. VAB B.AufenthV.31.1.1.).
-Die Zustimmung der ABH ist jedoch dann entbehrlich, wenn Führungskräfte (§ 3 BeschV) lediglich für bis zu drei Monate innerhalb von sechs Monaten einen Aufenthaltstitel begehren (§ 37 AufenthV i.V.m. § 30 Nr. 1 BeschV). Die Zustimmung ist schließlich weiterhin nicht vonnöten, soweit Tätigkeiten nach § 30 Nr. 2 BeschV mit einer Dauer von maximal drei Monaten innerhalb sechs Monaten ausgeübt werden sollen.
+Grundsätzlich muss die ABH der Visumserteilung nur zustimmen bei Aufenthalten, die weder der
+Erwerbstätigkeit noch der Arbeitsplatzsuche dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 1 AufenthV). Eine Zustimmung ist auch erforderlich für Aufenthalte, die der Ausübung selbständiger Tätigkeiten oder der Beschäftigung nach § 18 Abs. 4 Satz 2 dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 2 a und b AufenthV). Bei sonstigen Einreisen zur Erwerbstätigkeit ist die Zustimmung gem. § 31 Abs. 1 Satz 1 Nr. 2 c AufenthV nur noch erforderlich, wenn der Ausländer sich bereits zuvor im Bundesgebiet aufgehalten hat (zu § 31 AufenthV, vgl. VAB B.AufenthV.31.1.1.).
+Die Zustimmung ist schließlich weiterhin nicht vonnöten, soweit Tätigkeiten nach § 30 Nr. 1 bis 3 BeschV ausgeübt werden sollen.
 '
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 frei

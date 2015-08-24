@@ -1,7 +1,8 @@
 VAB A 83
 VAB A 83
 A.83. Beschränkung der Anfechtbarkeit
-(20.07.2005; 2. RiLiUmG)
+(2. RiLiUmG; NeubestG)
 83.1. § 83 schließt nur die Anfechtbarkeit der Versagung eines nationalen Visums und eines Passersatzes an der Grenze aus. Siehe auch die Hinweispflicht nach § 83 S. 2.
 Artikel 32 Absatz 3 des Visakodex sieht Rechtsmittel gegen die Ablehnung eines Antrags auf Erteilung eines Schengen- Visums vor, worunter auch Visa zu touristischen Zwecken sowie an der Grenze zu erteilende Schengen-Ausnahmevisa fallen.
-83.2. Kein Widerspruchsverfahren bei Versagung einer Duldung, § 4 Abs. 2 S. 2 AGVwGO. Für die sonstigen Maßnahmen und Entscheidungen zur Vorbereitung und Durchsetzung der Ausreisepflicht gilt wie bisher § 4 Abs. 2 S. 2 AGVwGO. Des gleichen ist auch gegen Ablehnungen von Anträgen auf Erteilung und Verlängerung eines Aufenthaltstitels der Widerspruch nicht statthaft. Dies folgt aus § 4 Abs. 2 S. 1 AGVwGO.
+83.2. Kein Widerspruchsverfahren bei Versagung einer Duldung, § 4 Abs. 2 S. 2 AGVwGO. Für die sonstigen Maßnahmen und Entscheidungen zur Vorbereitung und Durchsetzung der Ausreisepflicht gilt wie bisher § 4 Abs. 2 S. 2 AGVwGO. Des Weiteren ist auch gegen Ablehnungen von Anträgen auf Erteilung und Verlängerung einer Aufenthaltserlaubnis der Widerspruch in der Regel nicht statthaft. Dies folgt aus § 4 Abs. 2 S. 1 AGVwGO. Etwas anderes gilt aber unter Umständen dann, wenn durch die Entscheidung eine Ausreisepflicht nicht begründet wird. Dies ist bspw. dann möglich, wenn der Betreffende bereits einen Aufenthaltserlaubnis besitzt und dessen Antrag auf Erteilung eines anderen Aufenthaltstitels (Niederlassungserlaubnis oder einer Aufenthaltserlaubnis zu einem anderen Aufenthaltszweck) abgelehnt wird.
+83.3. Diese Regelung schließt das Widerspruchsverfahren in Fällen, in denen das Bundesamt für Migration und Flüchtlinge nach § 11 Abs. 7 AufenthG ein Einreise- und Aufenthaltsverbot angeordnet hat und eine Befristungsentscheidung hierüber traf, aus. Zur näheren Verfahrensweise vgl. auch A.11.7.
