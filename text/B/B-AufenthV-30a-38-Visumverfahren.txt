@@ -11,6 +11,7 @@ Vorabzustimmung
 B.AufenthV.32. Zustimmung der obersten Landesbehörde
 Familienangehörige von Ausländern, die zur Beschäftigung oder Arbeitsplatzsuche einreisen
 Einreise zum Zweck "sonstiger Beschäftigung" bei Voraufenthalten in der Bundesrepublik
+Familienangehörige anerkannter Flüchtlinge aus Syrien
 Youth-Mobility-Abkommen mit Kanada
 Working-Holiday-Programm mit Taiwan
 B.AufenthV.33. Zustimmung bei Spätaussiedlern
@@ -20,7 +21,7 @@ Working-Holiday-Abkommen mit der SVR Hongkong und Chile
 B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte B.AufenthV.37. Zustimmungsfreiheit in sonstigen Fällen
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 B.AufenthV.30a. - 38. Visumverfahren
-(15.01.2015; 26.05.2015; NeuBestG)
+(26.05.2015; NeuBestG; 23.09.2015)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 Mit der 8. Verordnung zur Änderung der AufenthV wird die technische Abwicklung des nationalen wie auch schengenweiten Konsultationsverfahrens dem BVA als einheitlicher, nationaler Kommunikationsschnittstelle übertragen.
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -75,6 +76,9 @@ Kann das Visum für einen Ausländer zum Zweck der Beschäftigung oder Arbeitspl
 Die Globalzustimmung war zunächst auf ein Jahr, also bis 06.02.2015, befristet und wurde am 05.01.2015 unbefristet bis auf Widerruf über den 06.02.2015 hinaus verlängert.
 Einreise zum Zweck "sonstiger Beschäftigung" bei Voraufenthalten in der Bundesrepublik
 Ebenfalls am 05.01.2015 hat die Senatsverwaltung für Inneres eine Globalzustimmung für Einreisen zum Zweck der Beschäftigung nach Voraufenthalten in der Bundesrepublik Deutschland (Fälle des § 31 Abs. 1 S. 1 Nr. 2c) AufenthG) erteilt. Diese Globalzustimmung gilt ebenfalls bis auf Widerruf unbefristet und erstreckt sich auch auf den mitreisenden Ehegatten/Lebenspartner und die minderjährigen ledigen Kinder des Ausländers. Das Auswärtige Amt hat die Auslandsvertretungen am 13.01.2015 entsprechend unterrichtet.
+Familienangehörige anerkannter Flüchtlinge aus Syrien
+Am 15.09.2015 hat die Senatsverwaltung für Inneres und Sport zur Verfahrensbeschleunigung eine Globalzustimmung für die Einreise von Ehegatten und/oder minderjährigen ledigen Kindern anerkannter Flüchtlinge aus Syrien erteilt, wenn ein Rechtsanspruch nach § 29 Abs. 2 S. 2 AufenthG besteht. Die Globalzustimmung gilt unbefristet und begünstigt als Stammberechtigte/n und Nachzugswillige/n sowohl syrische Staatsangehörige als auch Staatenlose aus Syrien, deren Identität feststeht.
+Die Prüfung (auch der Identität und Familienverhältnisse) erfolgt durch die zuständige deutsche Auslandsvertretung. Bei Anfragen zum Familiennachzug in den vorgenannten Fällen wird an die deutschen Auslandsvertretungen verwiesen. Die Erteilung einer Vorabzustimmungen erübrigt sich in diesen Fällen mit dem 15.09.2015. Bezüglich der Antragsfrist gemäß § 29 Abs. 2 S. 3 AufenthG beachte in der Übergangsphase die Frist des § 104 Abs. 11 AufenthG (Fristende ist der 30.10.2015).
 Youth-Mobility-Abkommen mit Kanada
 Zu den Erteilungsvoraussetzungen siehe B.AufenthV.41..
 Working-Holiday-Programm mit Taiwan
@@ -95,8 +99,7 @@ B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern
 Streitkräfte
 frei
 B.AufenthV.37. Zustimmungsfreiheit in sonstigen Fällen
-Grundsätzlich muss die ABH der Visumserteilung nur zustimmen bei Aufenthalten, die weder der
-Erwerbstätigkeit noch der Arbeitsplatzsuche dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 1 AufenthV). Eine Zustimmung ist auch erforderlich für Aufenthalte, die der Ausübung selbständiger Tätigkeiten oder der Beschäftigung nach § 18 Abs. 4 Satz 2 dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 2 a und b AufenthV). Bei sonstigen Einreisen zur Erwerbstätigkeit ist die Zustimmung gem. § 31 Abs. 1 Satz 1 Nr. 2 c AufenthV nur noch erforderlich, wenn der Ausländer sich bereits zuvor im Bundesgebiet aufgehalten hat (zu § 31 AufenthV, vgl. VAB B.AufenthV.31.1.1.).
+Grundsätzlich muss die ABH der Visumserteilung nur zustimmen bei Aufenthalten, die weder der Erwerbstätigkeit noch der Arbeitsplatzsuche dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 1 AufenthV). Eine Zustimmung ist auch erforderlich für Aufenthalte, die der Ausübung selbständiger Tätigkeiten oder der Beschäftigung nach § 18 Abs. 4 Satz 2 dienen (vgl. § 31 Abs. 1 Satz 1 Nr. 2 a und b AufenthV). Bei sonstigen Einreisen zur Erwerbstätigkeit ist die Zustimmung gem. § 31 Abs. 1 Satz 1 Nr. 2 c AufenthV nur noch erforderlich, wenn der Ausländer sich bereits zuvor im Bundesgebiet aufgehalten hat (zu § 31 AufenthV, vgl. VAB B.AufenthV.31.1.1.).
 Die Zustimmung ist schließlich weiterhin nicht vonnöten, soweit Tätigkeiten nach § 30 Nr. 1 bis 3 BeschV ausgeübt werden sollen.
 '
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde

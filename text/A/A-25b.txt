@@ -5,7 +5,7 @@ A.25b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.1.1. Erteilungsvoraussetzungen
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 25b.1.2.2.1. Bekenntnis zur freiheitlich demokratischen Grundordnung
-25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet .. 211
+25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet .. 212
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 25b.1.2.4. Sprachkenntnisse
 25b.1.2.5. Schulbesuch
@@ -18,6 +18,8 @@ A.25b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.5 Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
 A.25b. Aufenthaltsgewährung bei nachhaltiger Integration
 (NeubestG)
+Checkliste § 25b Abs. 1
+Checkliste § 25b Abs. 4
 25b.0. Durch die Regelung in § 25b wird eine alters- und stichtagsunabhängige Bleiberechtsregelung geschaffen, um nachhaltige Integrationsleistungen, die trotz des fehlenden rechtmäßigen Aufenthalts von einem Geduldeten erbracht wurden, durch Erteilung eines gesicherten Aufenthaltsstatus zu honorieren.
 25b.1.1. Erteilungsvoraussetzungen
 Wenn die Voraussetzungen des § 25b vorliegen, soll die Aufenthaltserlaubnis erteilt werden, d.h. nur in Ausnahmefällen kann von der Titelerteilung abgesehen werden.
@@ -28,8 +30,7 @@ Die Erteilung einer Aufenthaltserlaubnis bei nachhaltiger Integration setzt gem�
 seit mindestens acht Jahren
 oder
 seit mindestens sechs Jahren, falls er aktuell zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt,
-ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat.
-Die häusliche Gemeinschaft mit minderjährigen Kindern setzt das tatsächliche Zusammenleben unter einer Wohnanschrift zum Zeitpunkt der Entscheidung über den AE-Antrag voraus, eine gelebte familiäre Lebens-gemeinschaft mit getrennten Wohnsitzen reicht nach dem Wortlaut der Vorschrift nicht aus. Ferner muss es sich bei den Kindern um die eigenen leiblichen bzw. Adoptivkinder handeln.
+ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Die häusliche Gemeinschaft mit minderjährigen Kindern setzt das tatsächliche Zusammenleben unter einer Wohnanschrift zum Zeitpunkt der Entscheidung über den AE-Antrag voraus, eine gelebte familiäre Lebens-gemeinschaft mit getrennten Wohnsitzen reicht nach dem Wortlaut der Vorschrift nicht aus. Ferner muss es sich bei den Kindern um die eigenen leiblichen bzw. Adoptivkinder handeln.
 Der zu berücksichtigende Voraufenthalt muss ununterbrochen gewesen sein; kurzfristige Unterbrechungen der Mindestaufenthaltsdauer von bis zu drei Monaten sollen nach der Gesetzesbegründung unschädlich sein. Bei längeren Unterbrechungen des Aufenthalts werden die Voraufenthaltszeiten vor dem Auslandsauf-enthalt nicht mehr berücksichtigt. Anrechenbar sind alle ununterbrochenen Voraufenthaltszeiten, in denen sich der Ausländer in asyl- oder aufenthaltsrechtlichen Verfahren, d. h. geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat.
 Merke: Eine beachtliche Unterbrechungszeit liegt immer vor, wenn der Betreffende untergetaucht ist und sich dadurch seiner Abschiebung entzogen hat.
 Zum Absehen von der Aufenthaltsdauer bei Ehegatten, Lebenspartnern und minderjährigen Kindern vgl. A.25b.4.
@@ -37,7 +38,8 @@ Zum Absehen von der Aufenthaltsdauer bei Ehegatten, Lebenspartnern und minderjä
 Der Antragsteller muss sich zur freiheitlich demokratischen Grundordnung bekennen. Diese Voraussetzung ist der Voraussetzung in § 10 Abs. 1 Nr. 1 StAG entnommen, so dass davon auszugehen ist, dass ein entsprechender Maßstab bei der Auslegung anzuwenden ist.
 Vor Erteilung ist dem Antragsteller das Merkblatt mit dem Bekenntnis zur freiheitlichen demokratischen Grundordnung auszuhändigen, ggf. zu erläutern und von dem Antragsteller/der Antragstellerin unterschreiben zu lassen. Das Verfahren ist bei Antragstellern bis zur Vollendung des 16. Lebensjahres nicht anzuwenden.
 25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet Für die Erteilung der Aufenthaltserlaubnis müssen Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet vorliegen. Dies hat die Ausländerbehörde zu prüfen, wenn kein Integrationskurs erfolgreich abgeschlossen wurde.
-Aus Gründen der Verwaltungseffizienz ist von diesen Grundkenntnissen auszugehen, wenn der Betroffene im Bundesgebiet einen schulischen oder beruflichen Bildungsabschluss erworben oder sich zumindest für einen längeren Zeitraum – zumindest ein Jahr - in einer entsprechenden Ausbildung befunden hat. In den sonstigen Fällen sind die Grundkenntnisse in einem Alltagsgespräch bei Vorsprache zu prüfen. Beispielsfragen können dem Einbürgerungstest auf der Seite des Bundesamtes für Migration und Flüchtlinge entnommen werden (Link zur BAMF Seite).
+Aus Gründen der Verwaltungseffizienz ist von diesen Grundkenntnissen auszugehen, wenn der Betroffene im Bundesgebiet einen schulischen oder beruflichen Bildungsabschluss erworben oder sich zumindest für einen längeren Zeitraum – zumindest ein Jahr - in einer entsprechenden Ausbildung befunden hat. In den sonstigen Fällen sind die Grundkenntnisse in einem Alltagsgespräch bei Vorsprache zu prüfen. Beispielsfragen können dem Einbürgerungstest auf der Seite des Bundesamtes für Migration und Flüchtlinge entnommen werden (
+http://www.bamf.de/SharedDocs/Anlagen/DE/Downloads/Infothek/Integration/Sonstiges/).
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 Für die Erteilung einer Aufenthaltserlaubnis nach § 25b reicht es aus, wenn der Ausländer
 seinen Lebensunterhalt zum Zeitpunkt der Titelerteilung überwiegend sichert
