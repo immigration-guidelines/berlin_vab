@@ -1,18 +1,24 @@
 VAB D 71
 VAB D 71
 D.71. Folgeantrag
-(14.07.2015; 09.10.2015)
-71.0. Gemäß § 71 Abs. 5 Satz 2 AsylVfG darf die Abschiebung erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in einen sicheren Drittstaat abgeschoben werden. In diesen Fällen liegt dann ein gesetzliches Abschiebungsverbot und somit eine rechtliche Unmöglichkeit der Abschiebung vor.
-Asylfolgenantragstellern ist eine Duldung gemäß § 60a Abs. 2 S. 1 AufenthG auszustellen. Die Duldung ist mit der folgenden Nebenbestimmung zu versehen:
-"Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung "
-Eine Umverteilung gemäß § 51 AsylVfG findet bei Asylfolgeantragstellern nicht statt. War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht, § 71 Abs. 7 AsylVfG.
-Bzgl. sonstiger Auflagen, der Erweiterung der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, sind die Regelungen für Duldungsinhaber anzuwenden (vgl. A.60a. und A.61).
-Merke: Dies gilt auch in den Fällen, in denen der Antragsteller vom Erfordernis eines Aufenthaltstitels befreit ist, einen Aufenthaltstitel mit einer Gesamtgeltungsdauer von bis zu 6 Monaten besitzt oder einen Antrag auf Erteilung einer Aufenthaltserlaubnis gestellt hat, der eine Fiktionswirkung nach § 81 Abs. 3 und 4 AufenthG entfaltet. Insofern gilt § 55 Abs. 2 AsylVfG analog.
-Anders ist dagegen bei Asylfolgeanträgen von Angehörigen eines EU- oder EWR-Staates zu verfahren. Hier gelten die Ausführungen unter D.55.0.1.
-71.1.1. einstweilen frei
+(09.10.2015; AsylVfBeschlG)
+71.1.1. frei
 71.1.2. Satz 2 korrespondiert mit der Vorschrift des negativen Familienasyls des § 14a.
-71.2. bis 71.4. einstweilen frei
-71.5.1. Die Streichung der vor dem 01.01.2005 geltenden Zweijahresfrist im Asylfolgeverfahren hat zur Folge, dass in allen Fallkonstellationen, bei denen ohnehin kein Folgeverfahren durchgeführt wird, der lediglich wiederholende und insoweit verfahrensverzögernde Erlass von erneuten Abschiebungsandrohungen bzw. –anordnungen entbehrlich ist. Dies dient Verfahrensbeschleunigung.
-71.5.2. einstweilen frei
+71.2. 1. frei
+71.2.2. Mit Inkrafttreten des AsylVfBeschlG regelt § 71 Abs. 2 Satz 2 nunmehr eine entsprechende Geltung der §§ 47 – 67, für den Fall der zwischenzeitlichen Ausreise.
+Die entsprechende Anwendung hat zur Folge, dass für die Folgeantragsteller eine Wohnverpflichtung in der Erstaufnahmeeinrichtung des früheren Aufenthaltsortes besteht, wenn sie das Bundesgebiet vor der Folgeantragstellung verlassen hatten. Dadurch sollen die Kommunen entlastet werden. Eine Rechtspflicht der Länder, diese Personengruppe in einer solchen Einrichtung unterzubringen, ist damit nicht verbunden.
+71.2.3. bis 71.4. frei
+71.5.1. Nach der geltenden Regelung des § 71 Abs. 5 endet das Recht auf Verbleib im Bundesgebiet grundsätzlich mit der Entscheidung des BAMFs, kein weiteres Verfahren durchzuführen, so dass bisher ohne weitere Abschiebungsandrohung die Abschiebung betrieben werden konnte. Aufgrund der unmittelbaren Geltung von Art. 41 Abs. 1 der Richtlinie 2013/32/EU (Verfahrensrichtlinie) ist dies aber nur noch eingeschränkt der Fall nämlich wenn
+der Ausländer den Folgeantrag nur zur Verzögerung oder Behinderung der Durchsetzung einer Entscheidung gestellt hat, die zu seiner unverzüglichen Abschiebung führen würde oder
+der Ausländer nach einer bestandskräftigen Entscheidung, einen ersten Folgeantrag als unzulässig zu betrachten, oder nach einer bestandskräftigen Entscheidung, einen ersten Folgeantrag als unbegründet abzulehnen, in Deutschland einen weiteren Folgeantrag stellt.
+Die Entscheidung, ob eine weitere Abschiebungsandrohung zu erlassen ist, obliegt dem BAMF.
+Für die Dauer der Prüfung des BAMF, ob ein weiteres Asylverfahren durchgeführt wird gilt folgendes: Gemäß § 71 Abs. 5 Satz 2 darf die Abschiebung erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in einen sicheren Drittstaat abgeschoben werden. In diesen Fällen liegt somit bis zu einer Entscheidung des BAMF ein gesetzliches Abschiebungsverbot und somit eine rechtliche Unmöglichkeit der Abschiebung vor.
+Asylfolgenantragstellern ist daher eine Duldung gemäß § 60a Abs. 2 S. 1 AufenthG auszustellen. Die Duldung ist mit der folgenden Nebenbestimmung zu versehen:
+"Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung".
+Eine Umverteilung gemäß § 51 findet bei Asylfolgeantragstellern nicht statt. War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht, § 71 Abs. 7.
+Bzgl. sonstiger Auflagen, der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, sind die Regelungen der §§ 47 - 67 anzuwenden (vgl. insbes. zur räumlichen Beschränkung D.59a.). Hinsichtlich der Erwerbstätigkeit vgl. D.60.1. sowie A.60a.6.
+Merke: Dies gilt auch in den Fällen, in denen der Antragsteller vom Erfordernis eines Aufenthaltstitels befreit ist, einen Aufenthaltstitel mit einer Gesamtgeltungsdauer von bis zu 6 Monaten besitzt oder einen Antrag auf Erteilung einer Aufenthaltserlaubnis gestellt hat, der eine Fiktionswirkung nach § 81 Abs. 3 und 4 AufenthG entfaltet. Insofern gilt § 55 Abs. 2 AsylG analog.
+Anders ist dagegen bei Asylfolgeanträgen von Angehörigen eines EU- oder EWR-Staates zu verfahren. Hier gelten die Ausführungen unter D.55.0.1.
+71.5.2. frei
 71.6.1. Auf eine erneute Abschiebungsandrohung ist dann zu verzichten, wenn der Asylfolgeantrag nach Eintritt der Vollziehbarkeit einer früheren Abschiebungsandrohung gestellt worden ist und das BAMF die Durchführung eines weiteren Asylverfahrens abgelehnt hat. Dies gilt nach dem ausdrücklichen Gesetzeswortlaut auch dann, wenn der Betroffene zwischenzeitlich schon aus dem Bundesgebiet ausgereist und mithin (vorübergehend) seiner Ausreisepflicht nachgekommen ist. Nach dem eindeutigen Willen des Gesetzgebers erledigt sich eine Abschiebungsandrohung durch die zwischenzeitliche Ausreise des Ausländers in diesen Fällen gerade nicht.
-71.6.2. bis 71.8. einstweilen frei
+71.6.2. bis 71.8. frei

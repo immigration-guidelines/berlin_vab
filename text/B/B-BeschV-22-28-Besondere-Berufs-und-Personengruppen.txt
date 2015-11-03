@@ -10,7 +10,7 @@ B.BeschV.26. Beschäftigungen bestimmter Staatsangehöriger
 B.BeschV.27. Grenzgängerbeschäftigung
 B.BeschV.28. Deutsche Volkszugehörige
 B.BeschV.22. - 28. Besondere Berufs- und Personengruppen
-(AuslBeschR; 13.07.2015)
+(13.07.2015; AsylVfBeschlG)
 B.BeschV.22. Besondere Berufsgruppen
 Zum Umgang mit Berufssportlern und Trainern (§ 22 Nr. 4): Die Zustimmungsfreiheit für Berufssportler ist von deren beruflicher Qualifikation abhängig, die durch den Spitzenverband im Einvernehmen mit dem Deutschen Olympischen Sportbund bestätigt wird. Zur Bestätigung der Qualifikation reicht die jeweilige Spielberechtigung, wenn der Einsatz in der höchsten Spiel- bzw. Wettkampfklasse erfolgt. Allein für den Fußball genügt ein Einsatz in der zweiten Bundesliga. Dies gilt auch für Vertragsamateure, wenn diese unter gleichen Bedingungen wie Lizenzspieler ihrer Betätigung nachgehen. Insofern wurde durch den Deutschen Olympischen Sportbund pauschal das Einvernehmen erklärt.
 Berufstrainer können ligenunabhängig zugelassen werden, wenn der zuständige Spitzenverband die fachliche Eignung bestätigt. Für die Formulierung der Nebenbestimmung zur Erwerbstätigkeit gilt insoweit eine Besonderheit, als die Tätigkeit bei Berufssportlern auf die jeweilige Spiel- bzw. Wettkampfklasse zu beschränken ist.
@@ -21,7 +21,8 @@ frei
 B.BeschV.25. Kultur und Unterhaltung
 frei
 B.BeschV.26. Beschäftigungen bestimmter Staatsangehöriger
-Mit der Neufassung der BeschV zum 1.7.2013 wurde der Katalog der nach dieser Vorschrift Privilegierten um die Staatsangehörigen der Republik Korea erweitert. Damit kann auch dieser Personengruppe unabhängig von der beabsichtigten Tätigkeit und dem Sitz des Arbeitgebers die Zustimmung für jede Beschäftigung erteilt werden.
+Mit der Neufassung der BeschV zum 1.7.2013 wurde der Katalog der nach dieser Vorschrift Privilegierten um die Staatsangehörigen der Republik Korea erweitert. Damit kann auch dieser Personengruppe unabhängig von der beabsichtigten Tätigkeit und dem Sitz des Arbeitgebers die Zustimmung für jede Beschäftigung erteilt werden. Seit dem 28.10.2015 kann die Bundesagentur für Arbeit für Staatsangehörige von Albanien, Bosnien und Herzegowina, Kosovo, Mazedonien, Montenegro und Serbien eine Zustimmung zur Ausübung jeder Beschäftigung erteilen. Diese Regelung gilt vom 01.01.2016 bis zum 31.12.2020. Die Anwendung von § 26 Abs. 2 setzt Folgendes voraus: Bei der deutschen Auslandsvertretung im jeweiligen Herkunftsstaat wird ein entsprechendes Visum beantragt. Der Antragsteller darf in den letzten 2 Jahren vor Antragstellung keine Leistungen nach dem AsylbLG bezogen haben, es sei denn der Antragsteller hat nach dem 01.01.2015 und vor dem 28.10.2015 einen Asylantrag gestellt und ist am 28.10.2015 oder unverzüglich danach ausgereist.
+Merke: Gemäß § 31 Abs. 1 AufenthV sowie der Globalzustimmungen der Senatsverwaltung für Inneres und Sport ist die Ausländerbehörde nicht beteiligt. Vor diesem Hintergrund sind entsprechende Bitten der Auslandsvertretungen um Zulieferung zurückzuweisen.
 B.BeschV.27. Grenzgängerbeschäftigung
 frei
 B.BeschV.28. Deutsche Volkszugehörige
