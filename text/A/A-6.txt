@@ -101,13 +101,11 @@ Zugang zum VIS haben die Visumbehörden (Auslandsvertretungen), die für die Kon
 Auf das VIS kann insbesondere zu folgenden Zwecken zugegriffen werden:
 Prüfung und Entscheidung von Visumanträgen,
 Prüfung der Identität des Visuminhabers und/oder der Echtheit des Visums bei Kontrollen an den Außengrenzen, Ermittlung und Rückführung von illegalen Einwanderern,
-leichtere Bestimmung des Mitgliedstaates, der für die Bearbeitung eines Asylantrages zuständig ist.
-Darüber hinaus können die deutschen Sicherheits- und Strafverfolgungsbehörden im Rahmen des sogen. VIS-Zugangsgesetzes – VISZG - zum Zweck der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten Daten abfragen.
+leichtere Bestimmung des Mitgliedstaates, der für die Bearbeitung eines Asylantrages zuständig ist. Darüber hinaus können die deutschen Sicherheits- und Strafverfolgungsbehörden im Rahmen des sogen. VIS-Zugangsgesetzes – VISZG - zum Zweck der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten Daten abfragen.
 Vorrangiger Anwendungsbereich für die ABH sind die Visumverlängerungen nach § 6 Abs. 3 AufenthG. Dabei sind die Art. 14 und 15 VIS-VO sowie Art. 54 Visakodex zu beachten. Hiernach führen die Ausländerbehörden eine VIS-Abfrage durch und geben die Daten zur Verlängerung des Visums ein. Link zum VIS-Handbuch
 Soll die Identität eines Visuminhabers und/oder die Echtheit eines Visums überprüft werden, kann eine Verifizierung mit der Nummer der Visummarke durchgeführt werden. Die technischen Voraussetzungen, für eine solche Überprüfung auch die Fingerabdrücke des Visuminhabers heranzuziehen, bestehen gegenwärtig bei der ABH nicht.
 Seit dem 21.02.2012 besteht die Möglichkeit des Informationsaustausches zwischen den Mitgliedstaaten über das elektronische Kommunikationssystem VIS-Mail, das ebenfalls über das Registerportal des BVA erreichbar ist. Das System ermöglicht die Informationsübermittlung zwischen den Mitgliedstaaten zu Visumanträgen. Die Inhalte dieser Anträge können über das Registerportal Visa abgefragt werden. Der Informationsaustausch über VIS-Mail kann verschiedenen Zwecken dienen, so z.B. zum Zweck der konsularischen Zusammenarbeit oder für die Anforderung und Übermittlung von zum Visumantrag zugehörigen Dokumenten. Link zum Handbuch VIS-Mail
-Zur Umsetzung des VIS werden konsularische Vertretungen und Außengrenzübergangsstellen des Schengen-Raums mit der zentralen VIS-Datenbank verbunden. Die Inbetriebnahme erfolgt gestaffelt nach verschiedenen Regionen: Die erste Betriebsregion ist seit 11.10.2011 Nordafrika (Ägypten, Algerien, Libyen, Mauretanien, Marokko und Tunesien),
-die zweite seit 10.05.2012 die Region Naher Osten (Israel, Jordanien, Libanon und Syrien) und
+Zur Umsetzung des VIS werden konsularische Vertretungen und Außengrenzübergangsstellen des Schengen-Raums mit der zentralen VIS-Datenbank verbunden. Die Inbetriebnahme erfolgt gestaffelt nach verschiedenen Regionen: Die erste Betriebsregion ist seit 11.10.2011 Nordafrika (Ägypten, Algerien, Libyen, Mauretanien, Marokko und Tunesien), die zweite seit 10.05.2012 die Region Naher Osten (Israel, Jordanien, Libanon und Syrien) und
 die dritte seit dem 02.10.2012 die Golfregion (Afghanistan, Bahrain, Iran, Irak, Kuwait, Oman, Katar, Saudi-Arabien, Vereinigte Arabische Emirate und Jemen);
 seit dem 14.03.2013 ist die vierte Region Westafrika (Benin, Burkina Faso, Elfenbeinküste, Gambia, Ghana, Guinea, Guinea-Bissau, Kapverdische Inseln, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leona und Togo); ebenfalls am 14.03. wurde die fünfte Region Zentralafrika (Äquatorialguinea, Burundi, Demokratische Republik Kongo. Gabun, Kamerun, Kongo, Ruanda, Sao Tomé & Principe, Tschad und Zentralafrikanische Republik) in Betrieb genommen.
 Am 06.06.2013 ist die sechste Region Ostafrika (Äthiopien, Dschibuti, Eritrea, Kenia, Komoren, Madagaskar, Mauritius, Seychellen, Somalia, Südsudan, Sudan. Tansania und Uganda) und
@@ -122,7 +120,9 @@ die vierzehnte Region Karibik (Antigua und Barbuda, Bahamas, Belize, Kuba, Domin
 die fünfzehnte Region Australasien (Australien, Fidschi, Kiribati, Marshallinseln, Mikronesien, Nauru, Neuseeland, Palau, Papua-Neuguinea, Samoa, Salomonen, Timor-Leste, Tonga, Tuvalu und Vanuatu) im Betrieb.
 Am 25.09.2014 ist die sechszehnte Region Westliche Balkanländer u. Türkei (Albaninen, Bosnien Herzegowina, ehemalige jugoslawische Republik Mazedonien (EJRM), Kosova, Montenegro, Serbien und Türkei) in Betrieb genommen worden.
 Die siebzehnte Betriebsregion ist seit dem 23.06.2015 Kaukasus und Osteuropa (Armenine, Aserbaidschan, Belarus, Georgien, Republik Moldau und die Ukraine).
-Am 14.08.2015 ist mit Russland die achtzehnte Region in den Betrieb gegangen.
+Am 14.09.2015 ist mit Russland die achtzehnte Region in den Betrieb gegangen.
+Seit dem 12.10.2015 ist die neunzehnte Region Ostasien (China, Japan, Mongolei, Nord-Korea, Süd-Korea und Taiwan) im Betreib.
+Die zwanzigste Region ist seit dem 02.11.2015 mit Bangladesh, Bhutan, Indien, den Malediven, Nepal, Pakistan und Sri Lanka.
 Weitere Regionen werden folgen.
 6.s.3. Visawarndatei
 1. Allgemeines

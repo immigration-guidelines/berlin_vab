@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(13.07.2015; 17.08.2015; NeubestG)
+(17.08.2015; 03.12.2015; NeubestG)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -54,7 +54,7 @@ A.2. Begriffsbestimmungen
 2.14. Anhaltspunkte für die Annahme einer Fluchtgefahr
 2.15. Fluchtgefahr bei Anwendung der Dublin-III-VO
 A.2. Begriffsbestimmungen
-(13.07.2015; 17.08.2015; NeubestG)
+(17.08.2015; 03.12.2015; NeubestG)
 Pfändungsfreibeträge
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -157,8 +157,7 @@ Um ein langwieriges und komplexes Verfahren zu vermeiden, werden zu Gunsten der 
 628,- € für einen 3-Personen-Haushalt
 712,- € für einen 4-Personen-Haushalt
 822,- € für einen 5-Personen-Haushalt
-zzgl. 102,- € je weiterer Person bei größeren Haushalten. Es ist allerdings zu beachten, dass gemäß § 22 Abs. 1 SGB II keinesfalls stets ein Anspruch auf Erstattung der gesamten o.g. Beträge besteht. So wird sich die leistungsrechtliche Erstattung auf eine geringere Miete beschränken, wenn der Betroffene tatsächlich günstiger wohnt. Ebenso wird nur die Miete einer früheren günstigeren Wohnung erstattet, wenn der Betroffene ohne Not in eine Wohnung mit höherer Miete umzieht. Diese gilt selbst dann, wenn auch die höhere Miete nach den o.g. Maßstäben noch angemessen ist. Die o.g. Richtwerte sind daher der Bedarfsermittlung nur dann zu Grunde zu legen, wenn sich auch unter Berücksichtigung der sonstigen Umstände des Einzelfalles eine dargelegte Miete als im Verhältnis zu den Richtwerten deutlich zu niedrig erweist, um von einer dauerhaften Aufrechterhaltung derart günstiger Wohnverhältnisse ausgehen zu können.
-Andererseits ist zu beachten, dass trotz der genannten Richtwerte gemäß Ziffer 3.2.1. Abs. 3 Ausführungsvorschriften zur Gewährung von Leistungen gemäß § 22 SGB II und §§ 35 und 36 SGB XII (AV-Wohnen) stets eine Einzelfallprüfung der Angemessenheit durchzuführen ist und mithin auch höhere Mieten erstattet werden. Über die Richtwerte hinausgehende höhere Wohnkosten sind daher bei der Bedarfsberechnung stets vollständig zu berücksichtigen.
+zzgl. 102,- € je weiterer Person bei größeren Haushalten. Es ist allerdings zu beachten, dass gemäß § 22 Abs. 1 SGB II keinesfalls stets ein Anspruch auf Erstattung der gesamten o.g. Beträge besteht. So wird sich die leistungsrechtliche Erstattung auf eine geringere Miete beschränken, wenn der Betroffene tatsächlich günstiger wohnt. Ebenso wird nur die Miete einer früheren günstigeren Wohnung erstattet, wenn der Betroffene ohne Not in eine Wohnung mit höherer Miete umzieht. Diese gilt selbst dann, wenn auch die höhere Miete nach den o.g. Maßstäben noch angemessen ist. Die o.g. Richtwerte sind daher der Bedarfsermittlung nur dann zu Grunde zu legen, wenn sich auch unter Berücksichtigung der sonstigen Umstände des Einzelfalles eine dargelegte Miete als im Verhältnis zu den Richtwerten deutlich zu niedrig erweist, um von einer dauerhaften Aufrechterhaltung derart günstiger Wohnverhältnisse ausgehen zu können. Andererseits ist zu beachten, dass trotz der genannten Richtwerte gemäß Ziffer 3.2.1. Abs. 3 Ausführungsvorschriften zur Gewährung von Leistungen gemäß § 22 SGB II und §§ 35 und 36 SGB XII (AV-Wohnen) stets eine Einzelfallprüfung der Angemessenheit durchzuführen ist und mithin auch höhere Mieten erstattet werden. Über die Richtwerte hinausgehende höhere Wohnkosten sind daher bei der Bedarfsberechnung stets vollständig zu berücksichtigen.
 2.3.1.9. Einkommensberechnung – Grundsatz/Freibeträge
 Dem errechneten Bedarf ist das zur Verfügung stehende Einkommen gegenüber zu stellen. Die Berechnung des Einkommens richtet sich nach den für die Berechnung von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch geltenden Grundsätzen.
 Maßgeblich ist bei Erwerbstätigen daher das Nettoeinkommen, von dem die Freibeträge nach § 11b Abs. 1 Satz 1 Nr. 3 bis 5 i.V.m. Abs. 2 Satz 1 SGB II (Werbungskostenpauschale von 100,- €) sowie § 11b Abs. 1 Satz 1 Nr. 6 i.V.m. Abs. 3 SGB II (Erwerbstätigenfreibetrag) abgezogen werden (BVerwG, Urteil vom 26.08.2008 - 1 C 32/07 -; OVG Berlin, Urteile vom 25.04.2007 - OVG 12 B 2.05., 12 B 19.06 und 12 B 16.07 -; so auch Nr. 2.3.3 AufenthG- VwV - zum Verzicht auf die Berücksichtigung des Erwerbstätigenfreibetrages beim Familiennachzug vgl. A.2.3.4.; insb. A.2.3.4.1., zum Verzicht auf die Berücksichtigung der Werbungskostenpauschale bei Selbstständigen und sonstigen nicht gesetzlich Krankenversicherten vgl. 2.3.1.12.).
@@ -390,8 +389,8 @@ Im übrigen sind öffentliche Mittel nicht anrechenbar. Bei Verlängerung von Au
 2.3.6. Besonderheiten für Forscher
 Mit dem 2. ÄndG wurde des Weiteren eine Sonderregelung für die Berechnung des gesicherten Lebensunterhalts für Forscher geschaffen, soweit die Erteilung einer Aufenthaltserlaubnis nach § 20 Abs. 1 oder 5 in Betracht kommt. Die Änderung dient der Umsetzung des Art. 6 Abs. 2 b) der Forscherrichtlinie.
 Nach § 18 Abs. 1 SGB IV wird als Bezugsgröße für das frühere West-Berlin das Durchschnittsentgelt der gesetzlichen Rentenversicherung im vorvergangenen Kalenderjahr, aufgerundet auf den nächsthöheren, durch 420 teilbaren Betrag, angenommen. Die Bezugsgröße für das frühere Ost-Berlin verändert sich gem. § 18 Abs. 2 SGB IV zum 1. Januar eines jeden Kalenderjahres auf den Wert, der sich ergibt, wenn der für das vorvergangene Kalenderjahr geltende Wert der Anlage 1 zum Sechsten Buch Sozialgesetzbuch durch den für das Kalenderjahr der Veränderung bestimmten vorläufigen Wert der Anlage 10 zum Sechsten Buch Sozialgesetzbuch geteilt wird, aufgerundet auf den nächsthöheren, durch 420 teilbaren Betrag.
-Nach derzeitigem Sachstand liegt die Bezugsgröße danach im Jahr 2012 bei 2.765 Euro (für 2013 bei 2.835 Euro) monatlich in West-Berlin und 2.345 Euro (für 2013 bei 2.415 Euro) monatlich in Ost-Berlin. Ein Betrag von zwei Dritteln der Bezugsgröße gilt als ausreichend für die Lebensunterhaltssicherung.
-Zur Vereinheitlichung des Verwaltungshandelns wird bei der Berechnung des Lebensunterhalts von der Bezugsgröße des § 18 Abs. 2 SGB IV (Ost) ausgegangen. Danach ergibt sich ein Betrag von 1.563,33 Euro (für 2015 1.610,00 Euro), der für den Lebensunterhalt monatlich zur Verfügung stehen muss. Dieser Betrag muss nicht zwingend aus einem Erwerbseinkommen, sondern kann auch aus einem Stipendium (teilweise) gespeist sein.
+Nach derzeitigem Sachstand liegt die Bezugsgröße danach im Jahr 201 3 bei 2. 835 Euro (für 201 4 bei 2. 905 Euro) monatlich in West-Berlin und 2. 415 Euro (für 2014 bei 2. 520 Euro) monatlich in Ost-Berlin. Ein Betrag von zwei Dritteln der Bezugsgröße gilt als ausreichend für die Lebensunterhaltssicherung.
+Zur Vereinheitlichung des Verwaltungshandelns wird bei der Berechnung des Lebensunterhalts von der Bezugsgröße des § 18 Abs. 2 SGB IV (Ost) ausgegangen. Danach ergibt sich ein Betrag von 1. 610 Euro (für 201 6 1.6 8 0,00 Euro), der für den Lebensunterhalt monatlich zur Verfügung stehen muss. Dieser Betrag muss nicht zwingend aus einem Erwerbseinkommen, sondern kann auch aus einem Stipendium (teilweise) gespeist sein.
 Reist ein Forscher mit seinem Ehegatten und/oder minderjährigen ledigen Kindern ein oder will er seine Familienangehörigen nachziehen lassen, so sind entgegen § 2 Abs. 3 S. 6 für die Berechnung des Lebensunterhalts der Familienangehörigen, die Regelungen unter A.2.3.1 (Regelsatz SGB II plus anteiliger Miete inkl. Freibeträge) maßgeblich.
 2.3.7. einstweilen frei
 2.4. Ausreichender Wohnraum
