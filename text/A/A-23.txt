@@ -30,7 +30,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 177
+23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 179
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -50,7 +50,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 5. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 ==
-(NeubestG; 23.09.2015; 05.10.2015)
+(05.10.2015; ÄndV AufenthV)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
 23.1.1.1. Spätaussiedler
@@ -153,8 +153,7 @@ Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (§ 29 Abs
 7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Flüchtlinge findet § 33 AufenthG Anwendung. Sind beide Eltern oder der allein personensorgeberechtigte Elternteil von Malta anerkannte Flüchtlinge nach der GK oder Asylberechtigte und somit im Besitz eines Reiseausweises für Flüchtlinge so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. § 5 Abs. 1, 6 Nr. 1 AufenthV.
 Andernfalls unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. AufenthG. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 8. Gebühren
-8.1. Nach § 52 Abs. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 AufenthG besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EG.
-Eine Gebührenbefreiung für die Erteilung und Übertragung einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG hat der Gesetzgeber nicht vorgesehen, gleichwohl ist von der Erhebung dieser Gebühr wie auch der Antragsgebühr nach § 52 Abs. 7 AufenthV aus humanitären Gründen abzusehen.
+8.1. Nach § 52 Abs. 3 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 4 AufenthG besitzen (bzw. vor Inkrafttreten des § 23 Abs. 4 zum 01.08.2015 eine Aufnahmezusage nach § 23 Abs. 2 S. 1 AufenthG erhalten haben), u.a. von den Gebühren für die Erteilung, Verlängerung und Übertragung der Aufenthaltserlaubnis, für die Erteilung und Übertragung der Niederlassungserlaubnis von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt- EU.
 8.2. Ein Absehen von der Gebühr für die Ausstellung eines Reiseausweises gem. § 48 Nr. 1 a AufenthV etwa gem. § 53 Abs. 1 2. HS oder Abs. 2 AufenthV kommt hingegen vor dem Hintergrund der angespannten Haushaltslage und der Möglichkeit einen Ausweisersatz erhalten zu können, nicht in Betracht. Bei Ausstellung eines Ausweisersatzes ist dagegen der Gebührenbefreiungstatbestand des § 53 Abs. 1 Nr. 8 AufenthV zu beachten.
 23.s.4. Aufnahme von besonders schutzbedürftigen Flüchtlingen aus Drittstaaten
 in Zusammenarbeit mit dem UNHCR (Resettlement)
@@ -202,11 +201,10 @@ Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (§ 23 Abs
 „Wohnsitznahme im Land Berlin erforderlich"
 versehen (bzgl. der Einzelheiten vgl. die Ausführungen unter A.12.2.).
 Besteht ein Anspruch auf einen Integrationskurs (§ 44 Abs. 1 S. 1 Nr. 2 i.V.m. Abs. 3) und verfügt die Person nicht über ausreichende Kenntnisse der deutschen Sprache, ist eine Verpflichtung zur Teilnahme an einem Integrationskurs zu verfügen (§ 44 Abs. 1 S. 1 Nr. 1 b).
-4.3. Auf die Verlängerung der AE finden dieselben Vorschriften Anwendung wie auf die Erteilung (§ 8 Abs. 1 AufenthG). Daraus folgt, dass im Rahmen der Verlängerung lediglich das Vorliegen von Ausweisungsgründen (vgl. 3.) bzw. eine Ausweisung sowie ggf. das Erfüllen der Passpflicht und ggf. das Erfüllen der Teilnahmepflicht am Integrationskurs zu prüfen sind.
+4.3. Auf die Verlängerung der AE finden dieselben Vorschriften Anwendung wie auf die Erteilung (§ 8 Abs. 1 AufenthG). Daraus folgt, dass im Rahmen der Verlängerung lediglich das Vorliegen von Ausweisungsgründen (vgl. 3.) bzw. eine Ausweisung sowie ggf. das Erfüllen der Teilnahmepflicht am Integrationskurs zu prüfen sind.
 Beachte: Rechtsgrundlage für die Verlängerung ist dann § 23 Abs. 4, vgl. A.104.
 5. Passpflicht
-In den Fällen, in denen kein gültiger Nationalpass vorliegt, gilt für die Ersterteilung eine Ausnahme von der Passpflicht gem. §§ 5, 6 Nr. 1 bzw. Nr. 2 AufenthV. Die Reiseausweise für Ausländer werden mit einer Gültigkeit für alle Staaten ausgestellt.
-Gleichzeitig sind bei der Ersterteilung diejenigen Personen, die über keinen Nationalpass verfügen, mittels Hinweisblattes aufzufordern, sich um die Ausstellung eines Nationalpasses zu bemühen und diese Bemühungen bei der Verlängerung nachzuweisen.
+In den Fällen, in denen kein gültiger Nationalpass vorliegt, gilt grundsätzlich für die Erteilung eine Ausnahme von der Passpflicht gem. §§ 5, 6 Nr. 1 bzw. Nr. 2 AufenthV. Wegen der vom UNHCR festgestellten begründeten Furcht vor Verfolgung ist es den aufgenommenen Personen in der Regel nicht zumutbar, sich mit den Behörden des mutmaßlichen Verfolgerstaates zur Erlangung von Passpapieren in Verbindung zu setzen. Die Reiseausweise für Ausländer werden mit einer Gültigkeit für alle Staaten ausgestellt.
 6. Aufenthaltsrechtliche Verfestigung
 6.1. Eine spätere Aufenthaltsverfestigung durch Erteilung einer Niederlassungserlaubnis ist nach § 26 Abs. 3 AufenthG möglich, vgl. 26.3.
 6.2. Daneben ist auch die Erteilung einer Erlaubnis zum Daueraufenthalt-EG nach § 9a AufenthG möglich, denn vom Anwendungsausschluss für Aufenthaltstitel nach dem 5. Abschnitt des AufenthG sind Titel nach § 23 Abs. 2 AufenthG ausdrücklich ausgenommen (§ 9a Abs. 3 Nr. 1 AufenthG).

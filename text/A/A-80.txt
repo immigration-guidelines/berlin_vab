@@ -1,16 +1,22 @@
 VAB A 80
 VAB A 80
 A.80. Handlungsfähigkeit Minderjähriger
-(10.04.2013; UMFVerbG)
+(UMFVerbG; 25.01.2016; 16.02.2016)
 80.1. Ab Inkrafttreten des Gesetzes zur Verbesserung der Unterbringung, Versorgung und Betreuung ausländischer Kinder und Jugendlicher am 01.11.2015 sind ausländische Staatsangehörige nach § 80 Abs. 1 erst mit Vollendung des 18. Lebensjahres, also Eintritt der Volljährigkeit, grundsätzlich voll verfahrensfähig.
 Mangels einer Übergangsregelung zu § 80 gilt bei Altfällen folgende Regelung:
 Wurde vor dem 01.11.2015 ein Antrag von einem Ausländer gestellt und
 hat dieser Ausländer zum Zeitpunkt der Antragstellung bereits das 16. Lebensjahr vollendet und
 wurde der Ausländer bei der Antragstellung nicht von seinem gesetzlichen Vertreter vertreten,
 gilt der Antrag als von Anfang an wirksam gestellt, wenn der gesetzliche Vertreter der Antragstellung nachträglich zustimmt. In diesen Fällen gilt somit eine bereits ausgestellte Fiktionsbescheinigung weiter fort.
+Die Bestellung eines Bevollmächtigten ist als Verfahrenshandlung im Sinne von § 80 Abs. 1 AufenthG anzusehen, sodass diese erst mit Vollendung des 18. Lebensjahres wirksam erfolgen kann. Für die Erteilung der Vollmacht gilt daher ebenfalls bei Altfällen folgende Regelung:
+• Wurde die Vollmacht vor dem 01.11.2015 durch den Ausländer unterzeichnet und
+• hat der Ausländer zum Zeitpunkt der Ausstellung der Vollmacht bereits das 16. Lebensjahr vollendet und
+• wurde der Ausländer bei der Ausstellung der Vollmacht nicht von seinem gesetzlichen Vertreter vertreten,
+ist nachträglich die Genehmigung der Vollmacht durch den gesetzlichen Vertreter einzuholen.
 Bei Ungewissheit über den Tag der Geburt (im Pass ist z.B. nur "1994" als Geburtsdatum eingetragen) ist bei Minderjährigen von dem innerhalb des bekannten Geburtsjahres für den Betroffenen günstigsten Geburtsdatum - also bei der Handlungsfähigkeit dem 31.12. - auszugehen (BVerwG 9 C 156.84 vom 31.07.1984). Sind Geburtsmonat und-jahr bekannt, nicht aber der Geburtstag, so ist in analoger Anwendung der letzte Tag des Monats anzunehmen.
 Wenn im Rahmen eines z.B. von SenBWF oder einem BA als Amtsvormund in Auftrag gegebenen oder im Rahmen des Inobhutnahmeverfahrens gerichtlich angeordneten Altersgutachtens ein anderes als das von dem Betr. angegebene Alter festgestellt wird, ist der Datensatz entsprechend zu korrigieren. Dabei soll neben dem festgestellten Geburtsjahr als fiktives Geburtstagesdatum der Tag der Untersuchung angenommen werden, weil zu diesem Zeitpunkt ein bestimmtes (und im Gutachten genanntes) Alter festgestellt wurde. Die bisherigen Altersangaben des Betr. sind als Aliasdaten im Datensatz zu erfassen.
 Wird im Gutachten kein konkretes Geburtsjahr genannt, sondern lediglich eine Altersspanne („zwischen dem ... und dem ... Lebensjahr“) festgestellt, ist das Lebensalter zugunsten des Betroffenen festzulegen.
+Wird im Rahmen des amtsgerichtlichen Verfahrens zur Vormundbestellung festgestellt, dass aufgrund der fehlenden Mitwirkung des Betroffenen eine Minderjährigkeit nicht nachgewiesen ist und daher von der Volljährigkeit des Betroffenen auszugehen ist, so ist auch im aufenthaltsrechtlichen Verfahren von der Volljährigkeit des Ausländers auszugehen. Als Geburtsjahr ist dann die Angabe des Gerichts zu übernehmen. Wird kein konkretes Alter benannt, ist das Geburtsjahr zu wählen, nach dem der Betroffene mindestens 18 Jahre alt wäre. Monat und Tag richten sich nach dem Erlass des gerichtlichen Beschlusses.
 80.2. bis 80.3.2. frei
 80.4. Da § 80 Abs. 4 nicht in den Katalog des § 82 Abs. 3 aufgenommen wurde, besteht ausdrücklich keine Hinweisverpflichtung der Ausländerbehörde bezogen auf die dort genannte Rechtspflicht.
 '
