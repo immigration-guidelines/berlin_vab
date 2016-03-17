@@ -1,8 +1,9 @@
 VAB D 61
 VAB D 61
 D.61. Erwerbstätigkeit
-(AsylVfBeschlG; 16.12.2015)
+(AsylVfBeschlG; 16.12.2015; 15.03.2016)
 61.1. 1. Die Regelung enthält ein Verbot der Erwerbstätigkeit für alle geduldet oder gestattet Aufhältigen, die verpflichtet sind, in einer Aufnahmeeinrichtung zu wohnen (vgl. 47.). Besteht danach die Verpflichtung in einer Aufnahmeeinrichtung zu wohnen auch über den in § 61 Abs. 2 S. 1 geregelten Drei-Monats-Zeitraum hinaus, kommt auch eine Erwerbstätigkeit nach § 61 Abs. 2 nicht in Betracht. Dies folgt schon aus dem Wortlaut des Abs. 2 S. 1 („im übrigen“- lex specialis).
+Merke: Stellt die Ausländerbehörde bereits die erste Gestattung aus, wird diese mit der Nebenbestimmung „Beschäftigung nur nach Erlaubnis der Ausländerbehörde“ verfügt. Etwas anderes gilt, wenn der Betroffene aus einem sicheren Herkunftsstaat kommt oder sich in einem beschleunigten Verfahren nach § 30a befindet.
 61.1.2. Altfallregelung
 Bezüglich Personen aus sicheren Herkunftsstaaten gem. § 29 a, die
 - zum Zeitpunkt des Inkrafttretens des Asylverfahrensbeschleunigungsgesetzes am 24.10.2015 mit einer Duldung oder Gestattung aufhältig waren,

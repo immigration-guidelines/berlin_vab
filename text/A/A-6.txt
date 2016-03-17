@@ -21,7 +21,7 @@ Rechtsmittel gegen Beseitigung eines Visums
 3.3. Vorgehen im Trefferfall
 4. Auskunftsrecht Betroffener
 A.6. Visum
-(SchutzberArb; 17.10.2013; 26.05.2015)
+(SchutzberArb; 26.05.2015; 15.03.2016)
 6.0. Allgemeines zum Visakodex
 Am 05.10.2009 ist die Verordnung (EG) Nr. 810/2009 - der sog. Visakodex - in Kraft getreten. Diese Verordnung findet seit dem 05.04.2010 in den Schengen-Staaten (vgl. A.2.5.) grundsätzliche Anwendung. Am 05.04.2010 in Kraft getreten ist darüber hinaus die Verordnung (EU) Nr. 265/2010 vom 25.03.2010 zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und der VO (EG) Nr. 562/2006 in Bezug auf den Verkehr von Personen mit einem Visum für den längerfristigen Aufenthalt, mit der u.a. Art. 18 und Art. 21 des SDÜ geändert wurden.
 Der Visakodex ersetzt u.a. Art. 9 bis 17 des Schengener Durchführungsübereinkommens (SDÜ) und die Gemeinsamen Konsularischen Instruktionen (GKI.
@@ -50,6 +50,7 @@ keine Gefahr für die öffentliche Ordnung, die nationale Sicherheit oder die in
 6.1. frei
 6. 2. Zur Verlängerung von Schengenvisa
 Gemäß § 6 Abs. 2 Satz 1 AufenthG können Schengen-Visa nach Maßgabe des Art. 33 Visakodex höchstens bis zu einer Gesamtaufenthaltsdauer von 90 Tage in einem Zeittraum von 180 Tagen vom Tag der ersten Einreise an verlängert werden. Flughafentransitvisa sind nicht verlängerbar.
+Merke: Findet die Einreise mit einem Schengen-Visum statt, dass auf einen bestimmten Mitgliedstaat räumlich beschränkt ist, vgl. A.6.0.2., ist eine Verlängerung des Visums ausgeschlossen. Da das Visum nicht zu einer Einreise in einen anderen Mitgliedstaat berechtigt, handelt es sich um eine illegale Einreise in das Bundesgebiet, so dass grundsätzlich das Verfahren nach § 15a durchzuführen ist.
 6.2.1. Verlängerung des Schengen-Visums
 Die Verlängerung des Schengen-Visums kommt nur ausnahmsweise in Betracht, wenn
 sich nach der Erteilung des Visums neue Tatsachen ergeben haben,
@@ -122,8 +123,9 @@ Am 25.09.2014 ist die sechszehnte Region Westliche Balkanländer u. Türkei (Alb
 Die siebzehnte Betriebsregion ist seit dem 23.06.2015 Kaukasus und Osteuropa (Armenine, Aserbaidschan, Belarus, Georgien, Republik Moldau und die Ukraine).
 Am 14.09.2015 ist mit Russland die achtzehnte Region in den Betrieb gegangen.
 Seit dem 12.10.2015 ist die neunzehnte Region Ostasien (China, Japan, Mongolei, Nord-Korea, Süd-Korea und Taiwan) im Betreib.
-Die zwanzigste Region ist seit dem 02.11.2015 mit Bangladesh, Bhutan, Indien, den Malediven, Nepal, Pakistan und Sri Lanka.
-Weitere Regionen werden folgen.
+Seit dem 02.11.2015 bilden Bangladesh, Bhutan, Indien, den Malediven, Nepal, Pakistan und Sri Lanka die zwanzigste Region.
+Am 20.11.2015 ist die einundzwanzigste Betriebsregion (Andorra, Vtikan, Monaco und San Marino), ebenfalls am 20.11.2015 die zweiundzwnazigste Region mit Irland und Großbritannien sowie auch
+am 20.11.2015 die dreiundzwanzigste und letzte Betriebsregion (Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechien, Dänemark, Estland, Frankreich, Deutschland, Ungarn, Italien, Island, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Polen, Portugal, Rumänien, Slovakei, Slovenien, Spanien, Schweden und die Schweiz) in Betrieb genommen worden.
 6.s.3. Visawarndatei
 1. Allgemeines
 Zum 01.06.2013 ist das vom 22.12.2011 datierende Gesetz zur Errichtung einer Visa-Warndatei (Visa-Warndateigesetz – VWDG) in Kraft getreten (Link zum VWDG). Ergänzt wird das Gesetz durch eine Durchführungsverordnung (Link zu VWDG-DV) und eine Verwaltungsvorschrift (Link zur VWDG-AV).

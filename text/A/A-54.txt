@@ -4,12 +4,14 @@ Inhaltsverzeichnis
 A.54. Ausweisungsinteresse
 54.1. Besonders schweres Ausweisungsinteresse
 Nummer 1:
+Nummer 1a:
 Nummer 2:
 Nummer 3:
 Nummer 4:
 Nummer 5:
 54.2. Schweres Ausweisungsinteresse
 Nummer 1:
+Nummer 1 a:
 Nummer 2:
 Nummer 3:
 Nummer 4:
@@ -19,13 +21,25 @@ Nummer 7:
 Nummer 8:
 Nummer 9:
 A.54. Ausweisungsinteresse
-(07.01.2010 VwV; 01.01.2016 -NeubestG-)
+(01.01.2016 -NeubestG -; GErlAW)
 § 54 konkretisiert und gewichtet die Ausweisungsinteressen, die in die Abwägung nach § 53 Abs. 1 einzubeziehen sind. Das Vorliegen eines der in § 54 normierten Interessen führt noch nicht zur Ausweisung des Betroffenen. Erst die Abwägung nach § 53 Abs. 1 unter umfassender Würdigung aller Umstände des Einzelfalles ergibt, ob das öffentliche Interesse an der Ausweisung überwiegt.
 54.1. Besonders schweres Ausweisungsinteresse
 In § 54 Abs. 1 werden Umstände aufgezählt, die dazu führen, dass das öffentliche Interesse an der Ausweisung besonders schwer wiegt, d.h. es sind Umstände aufgeführt, die grundsätzlich ein erhebliches Fehlverhalten des Ausländers belegen. Sind mehrere besonders schwere Ausweisungsinteressen erfüllt, verstärkt dies bei der Abwägung nach § 53 Abs. 1 das öffentliche Interesse an der Ausweisung (vgl. 53.1.1.).
 Nummer 1:
-§ 54 Abs. 1 Nr. 1 bestimmt als besonders schwerwiegendes Ausweisungsinteresse die Fälle, in denen der Ausländer wegen einer oder mehrere vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mehr als zwei Jahren verurteilt worden ist. Liegt eine Verurteilung zu einer Gesamtfreiheitsstrafe oder Einheitsjugendstrafe vor, so ist das vom Strafgericht gefundene Strafmaß verbindlich. Auch wenn nachträglich eine Gesamtstrafe gebildet wird und diese ein Strafmaß von mehr als zwei Jahren Freiheitsstrafe beinhaltet, liegt ein besonders schwerwiegendes Ausweisungsinteresse vor. Eine weitere Voraussetzung ist, dass die Vollstreckung der Freiheits- oder Jugendstrafe von mehr als zwei Jahren nicht zur Bewährung ausgesetzt wurde. Das Zusammenziehen von mehreren Freiheits- oder Jugendstrafen ist nicht mehr möglich. Zu den besonders schwerwiegenden Ausweisungsinteressen sind auch die Fälle zu rechnen, in denen bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist.
-Nummer 2:
+§ 54 Abs. 1 Nr. 1 bestimmt als besonders schwerwiegendes Ausweisungsinteresse die Fälle, in denen der Ausländer wegen einer oder mehrere vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens zwei Jahren verurteilt worden ist. Unerheblich ist, ob die Vollstreckung der Freiheitsstrafe zur Bwährung ausgesetzt worden ist. Liegt eine Verurteilung zu einer Gesamtfreiheitsstrafe oder Einheitsjugendstrafe vor, so ist das vom Strafgericht gefundene Strafmaß verbindlich. Auch wenn nachträglich eine Gesamtstrafe gebildet wird und diese ein Strafmaß von mehr als zwei Jahren Freiheitsstrafe beinhaltet, liegt ein besonders schwerwiegendes Ausweisungsinteresse vor. Eine weitere Voraussetzung ist, dass die Vollstreckung der Freiheits- oder Jugendstrafe von mehr als zwei Jahren nicht zur Bewährung ausgesetzt wurde. Das Zusammenziehen von mehreren Freiheits- oder Jugendstrafen ist nicht mehr möglich. Zu den besonders schwerwiegenden Ausweisungsinteressen sind auch die Fälle zu rechnen, in denen bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist.
+Nummer 1a:
+Mit § 54 Abs. 1 a wird ein zusätzliches besonders schweres Ausweisungsinteresse für Fälle geschaffen, in denen Straftaten gegen höchstpersönliche Rechtsgüter, gegen Vollstreckungsbeamte oder serielle Straftaten gegen das Eigentum vorliegen. Hiernach wiegt das Ausweisungsinteresse besonders schwer, wenn ein Ausländer wegen einer oder mehrerer vorsätzlicher Straftaten gegen
+• das Leben, '
+• die körperliche Unversehrtheit,
+• die sexuelle Selbstbestimmung,
+• das Eigentum oder
+• wegen Widerstandes gegen Vollstreckungsbeamte'
+rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist. Unerheblich ist, ob die Vollstreckung der Freiheits- oder Jugendstrafe zur Bewährung ausgesetzt worden ist. '
+Dies gilt aber nur dann, wenn die vorgenannten Straftaten '
+mit Gewalt (also mittels physisch vermittelten Zwangs zur Überwindung eines geleisteten oder erwarteten Wi- derstandes einer Person),'
+unter Anwendung von Drohung mit Gefahr für Leib und Leben (hierunter ist das Inaussichtstellen eines künftigen erheblichen Übels gegen Leib und Leben zu verstehen, auf dessen Einfluss der Drohende Einfluss hat oder vorgibt zu haben und dessen Verwirklichung er nach dem Inhalt der Äußerung haben will),
+mit List (also dem geflissentlichen und geschicktem Verbergen einer wahren Absicht)'
+begangen worden sind. In der Regel sind diese Einschränkungen bereits zur Erfüllung des abgeurteilten Straftatbestandes erforderlich und vom Strafgericht geprüft und festgestellt worden (vgl. nur §§ 113, 177, 223 ff., 249 ff. und 253, 255 StGB). Einer eigenständigen Prüfung bedarf es hier nicht, vielmehr genügt der Hinweis auf die strafgerichtlichen Feststellungen. Bei serienmäßig begangenen Straftaten gegen das Eigentum (vgl. §§ 243 Abs. 1 Satz 2 Nr. 3, 244 Abs. 1 Nr. 2, 244 a StGB) gelten die vorstehenden Ausführungen nicht. Hier bedarf es einer eigenständigen Prüfung durch die Ausländerbehörde. Nummer 2:
 Besonders schwer wiegt das öffentliche Ausweisungsinteresse bei Ausländern, die die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik gefährden. Hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass der Ausländer einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder eine in § 89a Absatz 1 des Strafgesetzbuches bezeichnete schwere staatsgefährdende Gewalttat gemäß § 89a Absatz 2 des Strafgesetzbuches vorbereitet oder vorbereitet hat, es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand. Der Ausländer muss dies glaubhaft machen. Die Möglichkeit der Schuldbefreiung in Satz 2 zweiter Halbsatz zeigt, dass der Betroffene Kenntnis davon gehabt haben muss, dass die Vereinigung den Terrorismus unterstützt, der ohne Vorsatz agierende Unterstützer fällt daher nicht unter § 54 Abs. 1 Nr. 2. Nummer 3:
 Der Ausländer, der als Leiter eines z.B. verfassungsfeindlichen Vereins tätig war, stellt in besonderer Weise eine Gefahr für die öffentliche Sicherheit und Ordnung dar. Anders kann je nach den Umständen des Einzelfalles die Situation bewertet werden, wenn die Leitereigenschaft des Ausländers bereits weit in der Vergangenheit abgeschlossen wurde und der Ausländer seit langer Zeit keine Verbindung mehr zu dem (verbotenen) Verein und dessen Tätigkeit erkennen lässt. Nummer 4:
 Das öffentliche Interesse an der Ausweisung eines Ausländers, der zur Verfolgung politischer oder religiöser Ziele Gewalt anwendet, zu Gewalt aufruft oder diese androht, wird als besonders schwerwiegend bewertet. Neben den politischen Zielen werden auch religiöse Ziele – als Untergruppe der politischen Ziele – von diesem Ausweisungsinteresse erfasst. Eine Schuldbefreiung wie in § 54 Abs. 1 Nr. 2 ist im Rahmen der Nr. 4 nicht vorgesehen, da der Ausländer bereits Gewalt eingesetzt hat und sich davon, anders als von einem bestimmten Gedankengut, nicht distanzieren kann. Nummer 5:
@@ -34,6 +48,8 @@ Besonders schwer wiegt das öffentliche Ausweisungsinteresse bei Ausländern, di
 In § 54 Abs. 2 werden Umstände aufgezählt, die dazu führen, dass das öffentliche Interesse an der Ausweisung schwer wiegt. Sind mehrere schwere Ausweisungsinteressen erfüllt, verstärkt dies bei der Abwägung nach § 53 Abs. 1 das öffentliche Interesse an der Ausweisung (vgl. 53.1.1.).
 Nummer 1:
 § 54 Abs. 2 Nr. 1 bestimmt als schwerwiegendes Ausweisungsinteresse die Fälle, in denen der Ausländer wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheitsstrafe von mindestens einem Jahr verurteilt worden ist. Liegt eine Verurteilung zu einer Gesamtfreiheitsstrafe vor, so ist das vom Strafgericht gefundene Strafmaß verbindlich. Das schwerwiegende Ausweisungsinteresse liegt auch vor, wenn die Vollstreckung der Strafe zur Bewährung ausgesetzt worden ist.
+Nummer 1 a:
+§ 54 Abs. 2 Nr. 1 a bestimmt als schwerwiegendes Ausweisungsinteresses die Fälle, in denen ein Ausländer unter Bezug auf die in 54.1 besonders schweres Ausweisungsinteresse Nummer 1a genannten Rechtsgüter und Tatmodalitäten rechtskräftig zu einer Freiheits- oder Jugendstrafe verurteilt worden ist. Unabhängig von einem Mindeststrafmaß genügt jede Verurteilung zu einer Freiheits- oder Jugendstrafe, unabhängig davon, ob diese zur Bewährung ausgesetzt worden ist oder nicht. Der unter Nummer 9 sowie 5.1.2 genannte Bagatellvorbehalt greift auf Grund der Spezialität des Tatbestandes und der damit verbundenen gesetzgeberischen Wertung nicht ein.
 Nummer 2:
 § 54 Abs. 2 Nr. 2 bestimmt als schwerwiegendes Ausweisungsinteresse die Fälle, in denen der Ausländer wegen einer oder mehrere vorsätzlicher Straftaten rechtskräftig zu einer Jugendstrafe von mindestens einem Jahr verurteilt worden ist. Liegt eine Verurteilung zu einer Einheitsjugendstrafe zugrunde, so ist das vom Strafgericht gefundene Strafmaß verbindlich. Das schwerwiegende Ausweisungsinteresse liegt hier nur dann vor, wenn die Vollstreckung der Strafe nicht zur Bewährung ausgesetzt worden ist.
 Nummer 3:
