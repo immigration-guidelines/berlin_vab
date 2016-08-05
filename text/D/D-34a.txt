@@ -1,8 +1,8 @@
 VAB D 34a
 VAB D 34a
 D.34a. Abschiebungsanordnung
-(14.01.2014; AsylVfBeschlG)
-34a.0. Zur Umsetzung der Neufassung der Richtlinie 2011/95/EU (Qualifikationsrichtlinie) wurde insbesondere § 34a AsylVfG geändert. Normadressat ist das BAMF. Das BAMF erstellt im Rahmen von Rücküberstellungsfällen nach der Dublin-II- resp. Dublin-III- Verordnung (vgl. D.13.s.2. und 13.s.3.) in allen Fällen, in denen aufgrund von Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages ein anderer Staat für die Durchführung des Asylverfahrens zuständig ist – d.h. sowohl in Asylantragsfällen als auch in Aufgriffsfällen – Bescheide, die mit einer Abschiebungsanordnung versehen sind.
+(AsylVfBeschlG; IntG)
+34a.0. Zur Umsetzung der Neufassung der Richtlinie 2011/95/EU (Qualifikationsrichtlinie) wurde insbesondere § 34a AsylVfG geändert. Normadressat ist das BAMF. Das BAMF erstellt im Rahmen von Rücküberstellungsfällen nach der Dublin-II- resp. Dublin-III- Verordnung (vgl. D.13.s.2. und 13.s.3.) in allen Fällen, in denen aufgrund von Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages ein anderer Staat für die Durchführung des Asylverfahrens zuständig ist – d.h. sowohl in Asylantragsfällen als auch in Aufgriffsfällen – Bescheide, die mit einer Abschiebungsanordnung oder-androhung versehen sind.
 34a.1. frei
 34a.2. Die Klage gegen die Abschiebungsanordnung entfaltet keine aufschiebende Wirkung. In diesen Fällen ist einstweiliger Rechtsschutz nach § 80 Abs. 5 VwGO gegen die Abschiebungsanordnung möglich. Überstellungen sind somit erst nach Eintritt der Vollziehbarkeit zulässig. Für den Vollzug ist immer die Vollziehbarkeitsanordnung durch das BAMF abzuwarten.
 Anträge auf Gewährung vorläufigen Rechtschutzes gegen die Befristung eines Einreise- und Aufenthaltsverbots nach § 11 Abs. 2 AufenthG sind zwar ebenfalls zulässig, haben aber keinen Einfluss auf die Vollziehbarkeit der Abschiebungsanordnung.

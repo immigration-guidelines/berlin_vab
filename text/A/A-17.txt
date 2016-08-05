@@ -10,12 +10,13 @@ A.17. Sonstige Ausbildungszwecke
 17.3. Arbeitsplatzsuche und Aufnahme einer Erwerbstätigkeit nach erfolgreichem Abschluss einer qualifizierten Berufsausbildung
 A.17. Sonstige
 Ausbildungszwecke
-(21.10.2014; 14.07.2015)
+(14.07.2015; 21.06.2016)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
-17.0 Auf die Regelungen der AufenthG- VwV zu § 17 wird verwiesen.
+17.0 1. Auf die Regelungen der AufenthG- VwV zu § 17 wird verwiesen.
 Aus § 17 Abs. 1 i.V.m. § 16 Abs. 2 folgt, dass ein Wechsel des Aufenthaltszwecks außer in gesetzlichen Anspruchsfällen in der Regel nicht zugelassen werden soll. Eine Ausnahme vom Zweckwechsel gilt
 - auf Grund des § 17 Abs. 3 n.F. in den Fällen der Betrieblichen Ausbildung,
 - wenn nach Absolvierung der Aus- oder Weiterbildung einer Fachkraft mit einem deutschen Hochschulabschluss oder einem solchen vergleichbaren ausländischen Hochschulabschluss beabsichtigt ist, eine begonnene Promotion abzuschließen. Praktisch wird dies regelmäßig in Fällen der Facharztausbildung. Hier ist von einem Regel- Ausnahmefall des § 17 Abs. 1 S. 3 i.V.m. § 16 Abs. 2 auszugehen und der Zweckwechsel zuzulassen (bzgl. der Frage, ob in diesen Fällen § 16 Abs. 1 bzw. § 18 Abs. 4 in Betracht kommt vgl. A.16.3.1.2.).
+17.0.2. Die Erteilung eines Visums zum Zweck der Ausbildung oder der erstmaligen Aufenthaltserlaubnis zu diesem Zweck setzt grundsätzlich den Nachweis deutscher Sprachkenntnisse des Niveaus B1 voraus. Hiermit soll gewährleistet werden, dass ausländische Staatsangehörige, die im Inland eine Ausbildung beginnen, nicht wegen fehlender Sprachkenntnisse an den Anforderungen der Ausbildungseinrichtung scheitern und die Ausbildung abbrechen müssen.Eine Ausnahme von dem Grundsatz ist dann zulässig, wenn glaubhaft gemacht wird, dass die Ausbildungseinrichtung dem Auszubildenden eine besondere Sprachförderung zukommen lässt.
 17.1. Arbeitsmarktzulassung bestimmter Berufsgruppen in Aus- bzw. Weiterbildung
 17.1.1. Grundsätze zur Vorrangprüfung und Prüfung der Beschäftigungsbedingungen bei Ärzten zu einer Facharzt- oder sonstigen ärztlichen Weiterbildung
 Die Bundesagentur für Arbeit (BA) kann gem. ihrer zum 01.05.2010 geänderten Weisungslage Beschäftigungen ausländischer Ärzte zur ärztlichen Weiterbildung gemäß § 17 zulassen zwecks
@@ -27,9 +28,7 @@ Unter diese Stipendiaten begünstigende Regelung fallen insbesondere die Fälle,
 Aus dem bisher Gesagten folgt im Umkehrschluss: Bei Ärzten, die ohne ein Stipendium eine Facharztausbildung oder eine sonstige ärztliche Weiterbildung absolvieren möchten, ist für die Vorrangprüfung zusätzlich die Vorlage eines Arbeitsvertrages erforderlich, weil von der BA die Beschäftigungsbedingungen inkl. der angemessenen Vergütung zu prüfen sind. Im Falle der Facharztausbildung wäre nach Zustimmung dann allerdings eine Aufenthaltserlaubnis nach § 18 i.V.m. § 2 Abs. 3 BeschV zu erteilen (vgl. B.BeschV.2.).
 Die Prüfung durch die Arbeitsagentur ist in allen Fällen zwingend vor der Zustimmung zur Visaerteilung oder der AE - Erteilung zu veranlassen.
 Merke: Wird im Einreiseverfahren ein Visum zur Einreise zum Zweck eines Sprachkurses im Sinne des § 16 Abs. 5 beantragt und dient der zu absolvierende Sprachkurs von vornherein der unmittelbaren Vorbereitung auf einen Aufenthalt gem. § 17 oder § 18 (etwa Facharztausbildung), so ist im Visumverfahren zunächst zu prüfen, ob die Visumerteilung nicht zu dem weitergehenden Zweck nach § 17 bzw. § 18 erfolgen kann. Der Visumerteilung ist in einem solchen Fall nur nach Prüfung der Arbeitsmarktzulassung durch die Bundesagentur für Arbeit und ggf. Vorlage des Arbeitsvertrages auf Basis des § 17 bzw. § 18 zuzustimmen. In diesen Fällen ist im Visum und dann auch in der Aufenthaltserlaubnis als Nebenbestimmung zu verfügen:
-„Facharztausbildung inklusive vorbereitendem Sprachkurs“
-und bei Stipendiaten ohne Arbeitsvertrag zusätzlich:
-„Vor Eintritt in die Facharztausbildung ist die Berufsausübungserlaubnis vorzulegen.“
+„Facharztausbildung inklusive vorbereitendem Sprachkurs“und bei Stipendiaten ohne Arbeitsvertrag zusätzlich: „Vor Eintritt in die Facharztausbildung ist die Berufsausübungserlaubnis vorzulegen.“
 17.1.2. Beschäftigungsbedingungen bei Lehramts- und Rechtsreferendaren
 Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel – zweijährige Dauer des Vorbereitungsdienstes (Referendariat) eine AE nach § 17 Abs. 1. Die Beschäftigung ist bei Vorliegen eines inländischen Hochschulabschlusses zustimmungsfrei, vgl. VAB.B.BeschV.2.1.3.
 17.1.3. Beschäftigungsbedingungen bei Volontären

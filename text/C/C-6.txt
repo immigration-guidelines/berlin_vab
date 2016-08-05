@@ -9,7 +9,7 @@ C.6.4. Feststellung des Verlusts des Daueraufenthaltsrechts
 C.6.5. Feststellung des Verlusts des Freizügigkeitsrechts aus zwingenden Gründen der öffentlichen Sicherheit
 C.6.8. Anhörung und Schriftform des Feststellungsbescheides
 C.6. Verlust des Rechts auf Einreise und Aufenthalt
-(05.09.2013; 18.03.2014)
+(18.03.2014; GErlAW)
 C.6.1. Feststellung des Verlust des Freizügigkeitsrechts aus Gründen der öffentlichen Ordnung,
 Sicherheit oder Gesundheit
 C.6.1.1. § 6 Abs. 1 Satz 1 eröffnet neben den Regelungen der §§ 2 Abs. 7 und 5 Abs. 4 die Möglichkeit der Aufenthaltsbeendigung für freizügigkeitsberechtigte Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige aus Drittstaaten. Da diese drei Regelungen die Aufenthaltsbeendigung abschließend behandeln, ist für Unionsbürger und ihre Familienangehörigen keine Ausweisung auf Grundlage des AufenthG möglich.
@@ -29,7 +29,7 @@ C.6.3. Ist die Gefahrenprognose zu Ungunsten des Ausländers ausgefallen, ist zu
 Neben § 6 Abs. 3 Satz 1 empfiehlt es sich bei einem Feststellungsbescheid immer auch auf Art. 27 der UnionsRL Bezug zu nehmen und die dort genannten allgemeinen Grundsätze zu berücksichtigen.
 C.6.4. Feststellung des Verlusts des Daueraufenthaltsrechts
 C.6.4. Maßgeblich ist nicht, wie lange sich der Betroffene rechtmäßig im Bundesgebiet aufgehalten hat, sondern ob er zum Zeitpunkt seiner Feststellung gem. § 6 Abs. 1 ein Recht auf Daueraufenthalt gem. § 4a besitzt (vgl. hier Ausführungen zu § 4a).
-Bezüglich der Auslegung des unbestimmten Rechtsbegriffs der schwerwiegenden Gründe ist grundsätzlich der Maßstab des § 56 Abs. 1 Satz 2 und 3 AufenthG heranzuziehen.
+Bezüglich der Auslegung des unbestimmten Rechtsbegriffs der schwerwiegenden Gründe ist grundsätzlich der Maßstab des § 53 Abs. 3 AufenthG heranzuziehen.
 C.6.5. Feststellung des Verlusts des Freizügigkeitsrechts aus zwingenden Gründen der öffentlichen Sicherheit
 C.6.5.1. Hält sich der Unionsbürger oder der Familienangehörige eines solchen seit 10 Jahren rechtmäßig im Bundesgebiet auf oder handelt es sich um einen Minderjährigen, ist die Feststellung des Verlusts des Rechts auf Freizügigkeit gem. § 6 Abs. 5 nur noch aus zwingenden Gründen möglich.
 Der für die Gewährung des verstärkten Schutzes erforderliche Aufenthalt von 10 Jahren ist vom Zeitpunkt der Verfügung der Feststellung an zurückzurechnen (Urteil des EuGH vom 16.01.2014, C-400/12).

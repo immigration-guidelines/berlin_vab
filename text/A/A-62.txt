@@ -18,12 +18,12 @@ A.62. Abschiebungshaft
 62.S.1. Berichts- und Meldepflichten; Statistik
 62.S.2. Impfprophylaxe für Ausreisepflichtige
 A.62. Abschiebungshaft
-(13.07.2015; NeubestG)
+(NeubestG; 31.03.2016)
 62.0. Allgemeine Verfahrenshinweise
-Bei der Abschiebungshaft ist zu berücksichtigen, dass das aus Artikel 2 Abs. 2 Satz 2 GG abzuleitende Beschleunigungsgebot dazu verpflichtet, die Abschiebung eines in Abschiebungshaft befindlichen Ausländers mit größtmöglicher Beschleunigung zu betreiben.Geltendmachung von zielstaatsbezogenenen Abschiebungshindernissen aus Haft vgl. Ausführungen zu § 60 Abs. 7 bzw. § 72 Abs. 2. Zur Problematik von Anträgen auf Erteilung eines Titels aus Haft vgl. Ausführungen zu § 81 Abs. 4.
+Bei der Abschiebungshaft ist zu berücksichtigen, dass das aus Artikel 2 Abs. 2 Satz 2 GG abzuleitende Beschleunigungsgebot dazu verpflichtet, die Abschiebung eines in Abschiebungshaft befindlichen Ausländers mit größtmöglicher Beschleunigung zu betreiben.
 Zum Verfahren bei Geltendmachung von zielstaatsbezogenenen Abschiebungshindernissen aus Haft vgl. Ausführungen zu § 60 Abs. 7 bzw. § 72 Abs. 2. Zur Problematik von Anträgen auf Erteilung eines Titels aus Haft vgl. Ausführungen zu § 81 Abs. 4.
 62.1.1. bis 62.1.2. Grundsatz der Verhältnismäßigkeit
-In Abs. 1 wird nunmehr der Ultima-Ratio-Gedanke der Abschiebungshaft explizit im Gesetz geregelt. Die Abschiebungshaft ist daher ausgeschlossen, wenn der Zweck der Haft durch ein milderes, ebenfalls ausreichendes anderes Mittel erreicht werden kann. Es gilt jeweils ein strenger Verhältnismäßigkeitsmaßstab. Die Dauer der Haft ist auf die kürzest mögliche Zeit zu beschränken.
+In Abs. 1 wird der Ultima-Ratio-Gedanke der Abschiebungshaft explizit im Gesetz geregelt. Die Abschiebungshaft ist daher ausgeschlossen, wenn der Zweck der Haft durch ein milderes, ebenfalls ausreichendes anderes Mittel erreicht werden kann. Es gilt jeweils ein strenger Verhältnismäßigkeitsmaßstab. Die Dauer der Haft ist auf die kürzest mögliche Zeit zu beschränken.
 62.1.3. Abschiebungshaft bei Familien mit minderjährigen Kindern
 Abs. 1 S. 3 betrifft ausweislich der Gesetzesbegründung (BT-Drs. 17/5470) nur den Fall, dass Familien mit minderjährigen Kindern als Ganzes in Haft genommen werden sollen. Bei Familien mit minderjährigen Kindern stellt die Abschiebungshaft einen besonders schweren Eingriff verbunden mit einer besonders belastenden Wirkung dar. Im Rahmen der Prüfung eines Haftantrages sind daher stets das Beschleunigungsgebot und das Kindeswohl zu berücksichtigen. Regelmäßig ist zu prüfen, ob andere ausreichende aber weniger intensive Maßnahmen zur Verfügung stehen, um die Abschiebung der betroffenen Familie auch ohne Abschiebungshaft durchführen zu können. Die Abschiebungshaft stellt bei Familien mit minderjährigen Kindern die äußerste Ausnahme dar.
 62. 2.1 bis 62.2.3 frei
@@ -50,11 +50,10 @@ der gewöhnliche Aufenthaltsort des Betroffenen,
 die Erforderlichkeit der Freiheitsentziehung, also die Haftgründe nach § 62 Abs. 2 oder 3 AufenthG, die erforderliche Dauer der Freiheitsentziehung,
 woraus sich die Verpflichtung des Ausländers zur Ausreise ergibt,
 wann und in welcher Form der Ausländer von seiner Ausreisepflicht Kenntnis erlangt hat oder voraussichtlich erlangen wird (sofern die Rückkehrentscheidung bereits vorhanden ist einschließlich der Art und des Zeitpunkts der Zustellung der Entscheidung)
-dass – bei minderjährigen Ausländern - geprüft wurde, ob mildere Mittel (Angebot einer Selbstgestellung wegen Unkenntnis der Ausreiseverpflichtung, Unterbringung bspw. in einer Jugendeinrichtung, Anordnung von Meldeauflagen) die beabsichtigte Abschiebung sichern könnten und aus welchen Gründen diese nicht in Betracht kommen (bspw. fehlende Glaubhaftmachung, sich der Abschiebung nicht zu entziehen, d.h. Vorlage von Pass- und Reisedokumenten bzw. volle Mitwirkung bei der Passbeschaffung),
+dass – bei minderjährigen Ausländern - geprüft wurde, ob mildere Mittel (Unterbringung bspw. in einer Jugendeinrichtung, Anordnung von Meldeauflagen) die beabsichtigte Abschiebung sichern könnten und aus welchen Gründen diese nicht in Betracht kommen (bspw. fehlende Glaubhaftmachung, sich der Abschiebung nicht zu entziehen, d.h. Vorlage von Pass- und Reisedokumenten bzw. volle Mitwirkung bei der Passbeschaffung),
 wenn an der vom Betroffenen angegebenen Minderjährigkeit ernsthafte Zweifel bestehen und womit diese begründet werden,
 die Voraussetzungen und die Durchführbarkeit der Abschiebung, also der konkrete, auf den Einzelfall bezogene „Abschiebungsplan“, d.h. Aufzeigen aller für die Abschiebung erforderlicher Verfahrensschritte und die erfahrungsgemäß dafür veranschlagte Verfahrensdauer.
 Mit dem Haftantrag soll dem Haftrichter zugleich die Ausländerakte vorgelegt werden. Ist diese nicht verfügbar, sind mindestens Bescheide über aufenthaltsbeendende Maßnahmen und verwaltungsgerichtliche Entscheidungen über deren Rechtmäßigkeit in Fotokopie beizufügen. Auf noch anhängige verwaltungsgerichtliche Verfahren soll unter Angabe des Aktenzeichens hingewiesen werden. Ist ein Verwaltungsstreitverfahren anhängig, ist darauf hinzuweisen, dass dieses an sich die vollziehbare Ausreiseverpflichtung unberührt lässt und eine ggf. abgegebene Zusicherung, vor Entscheidung der Kammer nicht abzuschieben, kein Hafthindernis darstellt, da die Zusicherung jederzeit befristet werden kann bzw. bereits befristet wurde.
-.
 62. 3.1. 0.2. Prüfung der Vermeidbarkeit von Abschiebungshaft
 Ergänzend ist stets eine Prüfung der Vermeidbarkeit von Abschiebungssicherungshaft durchzuführen: Es ist immer zu prüfen, ob die Anordnung und der Vollzug von Abschiebungshaft mit dem Grundsatz der Verhältnismäßigkeit trotz vorhandener Haftgründe gem. § 62 Abs. 3 S. 1 und 2 vereinbar ist, wie er insbesondere in § 62 Abs. 3 S. 2 und 3 zum Ausdruck kommt. Daraus folgt, dass für besonders schutzbedürftige Personen folgende besonderen Verfahrensregeln gelten:
 Grundsätzlich werden keine Haftanträge gestellt für
@@ -65,7 +64,7 @@ Die Beantragung von Vorabhaft bleibt von den vorstehenden Regelungen unberührt,
 62. 3.1.0.3. Keine Trennungen von Eltern und Kindern vor Vollendung des 18. Lebensjahres
 Treffen Polizeibeamte im Rahmen von Kontrollen vollziehbar ausreisepflichtige Familien mit Kindern an und wird der telefonische Auskunftsdienst des Abschiebungsbereichs in die Entscheidung über die Einlieferung miteinbezogen, ist durch diesen die Einlieferung für LABO IV R 3 abzulehnen bzw. die Entlassung der festgenommenen Personen zu verfügen. Eine derartige Trennung von Familien und eine Haftantragstellung für einzelne Familienmitglieder erfolgt grundsätzlich nicht.
 62. 3.1. 0.4. Hafthöchstdauer in bestimmten Fällen
-Zu beachten ist darüber hinaus, dass die Hafthöchstdauer für Schwangere außerhalb der Duldungsfristen ... weggefallen ... auf drei Monate begrenzt wird. Diese Regelung gilt auch für Personen, die nur mit Zustimmung SenInnSport im Ausnahmefall in Haft genommen werden dürfen (siehe oben unter 62.3.1.0.2.).
+Zu beachten ist darüber hinaus, dass die Hafthöchstdauer für Schwangere außerhalb der Duldungsfristen auf drei Monate begrenzt wird. Diese Regelung gilt auch für Personen, die nur mit Zustimmung SenInnSport im Ausnahmefall in Haft genommen werden dürfen (siehe oben unter 62.3.1.0.2.).
 Diese Hafthöchstdauer gilt im Falle der Erstinhaftierung eines Ausländers, der zu dem hiervon begünstigten Personenkreis zählt, ausnahmslos. Eine Entlassung nach Erreichen der Dreimonatsfrist hat daher ohne Ansehen des Verhaltens des Betroffenen zu erfolgen, also auch in dem Fall, in dem der Ausländer mit seinem Verhalten seine Abschiebung beharrlich verhindert.
 Es kann erneut ein Haftantrag gestellt werden, wenn nach der Entlassung durch den Betroffenen neue Haftgründe im Sinne des § 62 Abs. 3 S. 1 gesetzt werden und die sonstigen Voraussetzungen des § 62 Abs. 3 und 4 erfüllt sind. Ist ein Haftantrag nach Weisungslage nur nach telefonischer Zustimmung der Senatsverwaltung möglich, ist erneut die Zustimmung einzuholen.
 Grundsätzlich ist auch in den Fällen einer wiederholten Inhaftierung aus Verhältnismäßigkeitsgründen die erneute Entlassung nach Erreichen der Dreimonatsfrist zu prüfen. Allerdings ist dann das Verhalten des Betroffenen in die Bewertung der Verhältnismäßigkeit fortdauernder Freiheitsentziehung einzubeziehen. In besonders gelagerten Einzelfällen (z.B. bei beharrlichem Verhindern der Abschiebung oder kurzfristig ablaufendem Heimreisedokument) ist auch eine längerfristige Inhaftierung vertretbar. Ist im Einzelfall eine längere Inhaftierung geboten, so ist telefonisch die Zustimmung SenInnSport einzuholen.
@@ -83,20 +82,21 @@ Steht im Einzelfall fest, dass aus Gründen, die der Ausländer nicht zu vertret
 62. 5.0. Rechtsgrundlage für die vorläufige Festnahme
 Der durch das 2. Änderungsgesetz angefügte Absatz 5 schafft für die Ausländerbehörden und die Polizei als den zur Haftantragstellung nach § 71 Abs. 1 und 5 AufenthG zuständigen Stellen eine Rechtsgrundlage zur vorläufigen Festnahme mit dem Ziel, die richterliche Anordnung über die Sicherungshaft herbeizuführen. Neben dem Vorliegen von Haftgründen ist Voraussetzung, dass eine richterliche Haftanordnung nicht vorher eingeholt werden kann und die Gefahr besteht, dass der Ausländer diese ansonsten vereiteln könnte. Bisher galt in Berlin insofern die Rechtsgrundlage des § 30 Abs. 1 Nr. 2 ASOG i.V.m. § 95 Abs. 1 Nr. 2 AufenthG, so dass die Gesetzesänderung sich nicht auf die Verfahrenspraxis auswirkt.
 Laut Gesetzesbegründung liegen der Regelung beispielhaft vier Fallkonstellationen zugrunde:
-1. Die Polizei überprüft die Personalien eines Ausländers zur Nachtzeit und stellt fest, dass er sich unrechtmäßig im 1.
-Bundesgebiet aufhält.
+1. Die Polizei überprüft die Personalien eines Ausländers zur Nachtzeit und stellt fest, dass er sich unrechtmäßig im Bundesgebiet aufhält.
 2. Der Ausländerbehörde ist nicht zuvor bekannt, dass Sicherungshaft beantragt werden soll. Dies ergibt sich erst während einer Vorsprache bei der Ausländerbehörde.
-3. Der Ausländerbehörde ist bereits bekannt, dass Sicherungshaft beantragt werden soll. Der Ausländer erscheint zufällig bei der Ausländerbehörde.
+3. Der Ausländerbehörde ist bereits bekannt, dass Sicherungshaft beantragt werden soll. Der Ausländer erscheint Verfahrenshinweise
+3.
+der Ausländerbehörde Berlin
+zufällig bei der Ausländerbehörde.
 4. Der Aufenthalt des vollziehbar ausreisepflichtigen Ausländers ist unbekannt.
 Auch in der zweiten und dritten Fallkonstellation einer Vorsprache bei der Ausländerbehörde wird wie bisher eine vorläufige Festnahme durch die Polizei durchgeführt.
 Rechtsgrundlage für die vorläufige Festnahme eines Ausländers, der bei der Begehung von Straftaten oder Ordnungswidrigkeiten festgestellt wird, und mithin für die vorläufige Festnahme im Vorfeld der Vorbereitungshaft im Sinne von § 62 Abs. 2 ist weiterhin § 30 Abs. 1 Nr. 2 ASOG.
 62.S.1. Berichts- und Meldepflichten; Statistik
 Die Senatsverwaltung für Inneres und Sport ist über besondere Vorkommnisse in Abschiebungshaft unverzüglich zu unterrichten.
 Statistisch zu erfassen ist jeweils die Zahl der Personen, die
-eine Aufforderung zur Selbstgestellung erhalten,
-dieser Selbstgestellung nicht folgen,
-nach Pass-/Ticketvorlage zur Selbstgestellung aus der Abschiebungshaft entlassen wurden,
-nach entspr. Entlassung zur Selbstgestellung erschienen sind,
+,
+,
+,
 sich länger als zwei Monate in Haft befinden,
 nach Ablauf der 6-Monatsfrist entlassen wurden.
 Diese Zahlen werden SenInnSport durch IV R 3 auf Anfrage übermittelt.
