@@ -36,7 +36,7 @@ B.BeschV.33. Versagung der Erlaubnis zur Ausübung einer Beschäftigung von Pers
 B.BeschV.31.-33. Beschäftigung bei Aufenthalten aus völkerrechtlichen,
 humanitären oder politischen Gründen sowie von Personen mit Duldung und
 Asylbewerbern
-(AsylVfBeschlG; IntG)
+(IntG; 06.09.2016)
 B.BeschV.31. Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen § 31 räumt allen Ausländerinnen und Ausländern, die eine AE aus humanitären Gründen besitzen, einen uneingeschränkten Arbeitsmarktzugang ein. Der Gesetzgeber geht davon aus, dass diese Personengruppe bereits nach der bis zum 30.06.2013 gültigen Rechtslage weitestgehend uneingeschränkten Arbeitsmarktzugang hatte (vgl. insbesondere § 25 Abs. 1 Satz 4, Abs. 2 Satz 2 AufenthG, § 3 b Abs. 1 Nr. 2 BeschVerfV in der bis zum 30.06.2013 gültigen Fassung). Im Interesse der Rechtsvereinfachung wird das Recht auf uneingeschränkten Arbeitsmarktzugang allein vom Besitz der Aufenthaltserlaubnis abhängig gemacht. Die ab dem 01.07.2013 geltende Rechtslage ist von dem Grundsatz geprägt, dass alle Ausländerinnen und Ausländer, die sich hier rechtmäßig aufhalten, auch arbeiten dürfen (vgl. BR-Drs. 182/13, S. 23 sowie § 27 Abs. 5 AufenthG i.d.F. des Gesetzes zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern). Dies soll auch die Inanspruchnahme von Sozialleistungen vermindern.
 Das durch § 31 BeschV i.V.m. § 4 Abs. 2 Satz 3 AufenthG eingeräumte Ermessen ist daher grundsätzlich zu Gunsten der Inhaber von AEs nach dem 5. Abschnitt auszuüben und
 „Erwerbstätigkeit gestattet.“
@@ -100,7 +100,7 @@ D.61.2.1.): zustimmungspflichtige Tätigkeiten mit Vorrangprüfung und zustimmun
 nach vierjährigem ununterbrochenen erlaubten, geduldeten oder gestatteten Aufenthalt: uneingeschränkter Zugang zur Beschäftigung (§ 62 Abs. 2 AsylVfG, § 32 Abs. 4 i.V.m. Abs.2 Nr. 5 BeschV).
 Konsequenz des § 61 Abs. 2 AsylVfG ist also vor allem, dass Asylbewerbern anders als Duldungsinhabern die zustimmungsfreien Beschäftigungen nach § 32 Abs. 2 erst nach dreimonatigem gestatteten Aufenthalt offen stehen. Die Versagungsgründe des § 60a Abs. 6 AufenthG sind auf Asylbewerber hingegen nicht entsprechend anwendbar. Anders als geduldete Ausländer halten sich Asylbewerber mit einer Aufenthaltsgestattung grundsätzlich erlaubt im Bundesgebiet auf (zum Zweck des § 60a Abs. 6 AufenthG vgl. A.60a.6.0.).
 B.BeschV.32.5.1 bis B.BeschV.32.5.2. frei
-B.BeschV.32.5.3. Die Vorschrift, nach der bei Geduldeten und Gestatteten auf die Vorrangprüfung durch die BA gänzlich verzichtet wird, wenn sie sich in einem Bezirk mit unterdurchschnittlicher Arbeitslosenquote aufhalten, dürfte für Berlin ohne Bedeutung sein.
+B.BeschV.32.5.3. Auf eine Vorrangprüfung bei Geduldeten und Gestatteten durch die BA wird in Berlin gänzlich verzichtet, wenn die Tätigkeit im Stadtgebiet ausgeübt wird. Dies folgt daraus, dass die in der Anlage zu § 32 genannten Arbeitsagenturen Süd, Nord und Mitte das gesamte Stadtgebiet abdecken. Erfolgte vor Inkrafttreten des Integrationsgesetzes eine ablehnende Stellungnahme der Agentur für Arbeit unter Hinweis auf die Vorrangprüfung, ist daher im Widerspruchs- bzw. Klageverfahren die BA unter Hinweis auf § 32 Abs. 2 Nr. 5 erneut zu beteiligen.
 B.BeschV.33. Versagung der Erlaubnis zur Ausübung einer Beschäftigung von Personen mit Duldung
 aufgehoben; siehe nunmehr A.60a.6.
 E-Mail an die VAB-Redaktion

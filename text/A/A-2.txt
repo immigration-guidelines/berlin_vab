@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(21.06.2016; IntG)
+(06.09.2016; IntG)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -55,7 +55,7 @@ A.2. Begriffsbestimmungen
 2.14. Anhaltspunkte für die Annahme einer Fluchtgefahr
 2.15. Fluchtgefahr bei Anwendung der Dublin-III-VO
 A.2. Begriffsbestimmungen
-(21.06.2016; IntG)
+(06.09.2016; IntG)
 Pfändungsfreibeträge
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -378,18 +378,17 @@ gilt für mehrere Beschäftigungsverhältnisse. Der erste Arbeitgeber erhält di
 Eine Verpflichtungserklärung eines nicht unterhaltsverpflichteten Dritten ist dann nicht geeignet, den Lebensunterhalt eines nachzugswilligen Familienangehörigen zu sichern, wenn der nachzugsvermittelnde Familienangehörige selbst nicht in der Lage ist, seinen eigenen Lebensunterhalt ganz ohne Inanspruchnahme öffentlicher Mittel zu bestreiten. Dies folgt schon daraus, dass der den Nachzug vermittelnden gegenüber dem Nachziehenden regelmäßig zum Unterhalt verpflichtet sein wird und bereits die mangelnde Fähigkeit, Unterhaltspflichten nachzukommen, die Annahme eines gesicherten Lebensunterhalts des Nachziehenden ausschließt. Darüber hinaus gilt, dass der Lebensunterhalt des Familienverbandes in der Gesamtschau sowohl in quantitativer als eben auch in qualitativer Hinsicht, d.h. über einen längeren Zeitraum, gesichert sein muss. Ist aber schon der hier Aufhältliche nicht in der Lage, seinen Lebensunterhalt zu bestreiten, so kann auch - trotz entsprechender Verpflichtungserklärung - nicht davon ausgegangen werden, dass dies dem Familienverband als Ganzem dauerhaft und nachhaltig gelingt.
 2.3.5. Besonderheiten für Studenten
 Erforderlich sind ausreichende Mittel zur Sicherung des Lebensunterhalts einschließlich ausreichenden Krankenversicherungsschutzes. Ausreichende Mittel stehen dann zur Verfügung, wenn sie dem
-BAföG-Förderungshöchstsatz (§§ 13 und 13a Absatz 1 BAföG) entsprechen. Der jew. geltende Satz wird durch das Bundesministerium des Innern im Bundeszeiger veröffentlicht; dieser Betrag ist der für die Berechnung maßgebende. Gemäß § 13 und § 13 a Abs. 1 BAFöG ergibt sich danach ab dem 01.10.2010 der folgende Bedarf für Studierende:
+BAföG-Förderungshöchstsatz (§§ 13 und 13a Absatz 1 BAföG) entsprechen. Der jew. geltende Satz wird durch das Bundesministerium des Innern im Bundesanzeiger veröffentlicht; dieser Betrag ist der für die Berechnung maßgebende. Gemäß § § 12, 13 und § 13 a Abs. 1 BAFöG ergibt sich danach ab dem 01.08.2016 der folgende Bedarf für Studierende:
 a) in Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt, Abendgymnasien und Kollegs von
-348,- € zuzüglich
-224, - € für die Unterkunft (49,- €, wenn der Student bei den Eltern wohnt),
-,
-62,- € für die Krankenversicherung (der in § 13a Abs. 2 BAFöG vorgesehene Zuschlag für die Pflegeversicherung in Höhe von 11, - € ist nach dem Wortlaut des § 2 Abs. 3 Satz 5 bei ausländischen Studenten nicht zu berücksichtigen), d.h. insg. 634, - €
+372,- € zuzüglich
+250, - € für die Unterkunft (52,- €, wenn der Student bei den Eltern wohnt),
+71,- € für die Krankenversicherung (der in § 13a Abs. 2 BAFöG vorgesehene Zuschlag für die Pflegeversicherung in Höhe von 15, - € ist nach dem Wortlaut des § 2 Abs. 3 Satz 5 bei ausländischen Studenten nicht zu berücksichtigen), d.h. insg. 693, - €
 b) an Höheren Fachschulen (FH), Akademien und Hochschulen von
-373,- € (statt 348,- €)
+399,- € (statt 372,- €)
 zuzüglich der oben aufgeführten Beträge
-d.h. insg. 659, - € Merke: Handelt es sich bei dem Antragsteller nicht um einen Studierenden oder Hochschulabsolventen (Fälle des § 16 Abs. 1, 4 und 6) sondern etwa um einen Schüler einer allgemeinbildenden Schule ist als Bedarf der niedrigere Bedarf von insgesamt 634,- Euro anzusetzen. Über diese genannten Beträge hinausgehende Sicherheitsleistungen sind nicht zu erbringen. Ein Nachweis der Deckung der Rückreisekosten wird ausweislich der Gesetzesbegründung wie bisher nicht gefordert, weil Studenten nach § 16 Abs. 4 die Möglichkeit haben, nach Beendigung des Studiums in Deutschland zu verbleiben, um hier erwerbstätig zu sein. Die Möglichkeit eines zustimmungsfreien Zuverdienstes kann bei der Entscheidung über die Verlängerung mit berücksichtigt werden. Vertraglich nachgewiesene zu erwartende Einkünfte aus einer erlaubten Tätigkeit (z.B. Praktikumsvergütung, Einkünfte als Tutor) werden auf die nachzuweisende Finanzierungshöhe angerechnet. Die Mittel zur Deckung der Studienkosten, die nicht zum Lebensunterhalt zählen (etwa Studiengebühren), sind nicht nachzuweisen, da die Bildungseinrichtung die Möglichkeit hat, die Zulassung zum Studium, die Voraussetzung für die Erteilung der Aufenthaltserlaubnis ist, von einer entsprechenden Deckung abhängig zu machen. Den Anforderungen an den Nachweis hinreichender Mittel zur Sicherung des Lebensunterhalts bei Ersterteilung genügt insbesonders
-eine Verpflichtung gemäß § 68 oder
-die Einrichtung eines Sperrkontos auf Basis des zum Zeitpunkt der Kontoeröffnung veröffentlichten Monatsbeitrags, auf das der entsprechende Betrag für 12 Monate (7.608,- €/7.908,- €) eingezahlt wird, oder
+d.h. insg. 720, - €
+Merke: Handelt es sich bei dem Antragsteller nicht um einen Studierenden oder Hochschulabsolventen (Fälle des § 16 Abs. 1, 4 und 6) sondern etwa um einen Schüler einer allgemeinbildenden Schule ist als Bedarf der niedrigere Bedarf von insgesamt 693,- Euro anzusetzen. Über diese genannten Beträge hinausgehende Sicherheitsleistungen sind nicht zu erbringen. Ein Nachweis der Deckung der Rückreisekosten wird ausweislich der Gesetzesbegründung wie bisher nicht gefordert, weil Studenten nach § 16 Abs. 4 die Möglichkeit haben, nach Beendigung des Studiums in Deutschland zu verbleiben, um hier erwerbstätig zu sein. Die Möglichkeit eines zustimmungsfreien Zuverdienstes kann bei der Entscheidung über die Verlängerung mit berücksichtigt werden. Vertraglich nachgewiesene zu erwartende Einkünfte aus einer erlaubten Tätigkeit (z.B. Praktikumsvergütung, Einkünfte als Tutor) werden auf die nachzuweisende Finanzierungshöhe angerechnet. Die Mittel zur Deckung der Studienkosten, die nicht zum Lebensunterhalt zählen (etwa Studiengebühren), sind nicht nachzuweisen, da die Bildungseinrichtung die Möglichkeit hat, die Zulassung zum Studium, die Voraussetzung für die Erteilung der Aufenthaltserlaubnis ist, von einer entsprechenden Deckung abhängig zu machen. Den Anforderungen an den Nachweis hinreichender Mittel zur Sicherung des Lebensunterhalts bei Ersterteilung genügt insbesonders eine Verpflichtung gemäß § 68 oder
+die Einrichtung eines Sperrkontos auf Basis des zum Zeitpunkt der Kontoeröffnung veröffentlichten Monatsbeitrags, auf das der entsprechende Betrag für 12 Monate (8.316,- € / 8.640,- €) eingezahlt wird, oder
 die Darlegung hinreichender eigener Einkommens- und Vermögensverhältnisse durch Nachweis einer gesicherten finanziellen Unterstützung durch die Eltern (z.B. Nachweise über die Einkommenssituation der Eltern nebst notariell beglaubigtem Schreiben der Eltern, dass der Aufenthalt finanziell ausreichen unterstützt wird, und/oder Kontoauszüge, die den ausreichenden Mittelzufluss zeigen).
 Wurde im Einreiseverfahren eine andere Form des Nachweises der LU-Sicherung akzeptiert, muss die Ausländerbehörde dies bei der Ersterteilung der Aufenthaltserlaubnis gegen sich gelten lassen.
 Der Nachweis ausreichender Mittel gilt des weiteren als geführt, wenn der Aufenthalt in Höhe des nach maßgeblichen BAföG-Betrags finanziert wird durch
