@@ -7,7 +7,7 @@ A.12.1. Geltungsbereich
 12.2.2. Wohnsitzauflage
 12.5. Verlassen des Aufenthaltsbereichs
 A.12. Geltungsbereich; Nebenbestimmungen
-(15.03.2016; IntG)
+(15.03.2016; IntG; 20.09.2016)
 A.12.1. Geltungsbereich
 12.1.1. einstweilen frei
 12.1.2. Ausweislich Nr. 12.1.1.2 VwV- AufenthG darf ein Aufenthaltstitel nicht unter Ausschluss der eigenen örtlichen Zuständigkeit nur für andere Teile des Bundesgebietes erteilt oder verlängert werden. Soll ausnahmsweise ein Aufenthaltstitel unter Ausschluss des eigenen Zuständigkeitsbereiches erteilt werden, ist das Benehmen mit den obersten Landesbehörden der betreffenden Ausländerbehörden herzustellen. Diese Regelung gilt entsprechend auch in den Fällen, in denen eine wohnsitzbeschränkende Auflage unter Ausschluss der Wohnsitznahme im eigenen Zuständigkeitsbereich erfolgen soll.
@@ -36,12 +36,14 @@ sowie '
 für die Erteilung oder Verlängerung von anderen Aufenthaltstiteln aus völkerrechtlichen, humanitären oder politischen Gründen mit Ausnahme der oben genannten AEs nach §§ 25 Abs. 1 bis 3, 22, 23, die nach dem Inkrafttreten des IntG am 06.08.2016 erteilt wurden,'
 gilt die folgende bisherige Regelung fort.
 Zum jeweiligen Anwendungsbereich von § 12 Abs. 2 und § 12a vgl. folgende Übersicht:
-Zeitpunkt der § 12a Abs. 1 AufenthG
+Zeitpunkt der
+§ 12a Abs. 1 AufenthG
 Anerkennung BAMF (§
+Merke: Wohnsitzzuweisung nach Abs. 1 S. 1
 25 Abs. 1 u. 2) bzw. § 12 Abs. 2 AufenthG
-Ersterteilung nach dem Merke: Wohnsitzzuweisung nach Abs. 1 S. 1
-gilt jew. für die Dauer von 3 Jahren gerechnet
-5. Abschnitt ab Anerkennung BAMF bzw. Ersterteilung AE
+gilt jew. für die Dauer von 3 Jahren
+Ersterteilung nach dem gerechnet ab Anerkennung BAMF bzw.
+5. Abschnitt Ersterteilung AE
 die Reglungen gemäß § 12 Abs.2 AufenthG
 werden weiterhin angewandt, d.h.
 - keinerlei Wohnsitzzuweisung für § 25
@@ -60,17 +62,16 @@ Regelung rückwirkend ab 01.01.2016 für §§
 25 Abs.1, 2 sowie 22, 23 und 25 Abs.3
 AufenthG
 dies gilt auch dann, wenn diese Titel nach
-dem 01.01.2016 erstmals erteilt wurden und
 die Reglungen gemäß § 12 Abs.2 AufenthG
-die Betroffenen in der Folge zur
+dem 01.01.2016 erstmals erteilt wurden und
 werden weiterhin angewandt für alle
-Wiedererteilung oder Verlängerung ihres
+die Betroffenen in der Folge zur
 nach dem 01.01.2016 sonstigen AE nach dem 6. Abschnitt - § 23
-und vor dem 06.08.2016 Titels vorsprechen
-a, sowie § 25 Abs. 4 – 5 gem. A.12.2.
-dies gilt auch für Wiedererteilung und
-Verlängerung von diesen Titeln Ausnahme bei Zuzugsfällen nach Berlin
-zwischen individueller Anerkennung BAMF
+Wiedererteilung oder Verlängerung ihres
+und vor dem 06.08.2016 a, sowie § 25 Abs. 4 – 5 gem. A.12.2.
+Titels vorsprechen
+dies gilt auch für Wiedererteilung und Ausnahme bei Zuzugsfällen nach Berlin
+Verlängerung von diesen Titeln zwischen individueller Anerkennung BAMF
 bzw. Ersterteilung AE und Inkrafttreten des
 Integrationsgesetzes am ….:
 Es ist ausnahmslos vom Vorliegen eines
@@ -99,13 +100,13 @@ dies gilt für Wiedererteilung und
 Verlängerung von Titeln, welche vor dem
 01.01.2016 oder nach dem …
 erstmals erteilt wurden
-Für die Auflage „ Wohnsitznahme im Land Berlin erforderlich “ gilt in Anwendung des § 12 Abs. 2 bei Nichtanwendbarkeit des § 12 a vor dem Hintergrund der Regelungen der Nr. 12.2.5.2.2 bis 12.2.5.2.5 VwV-AufenthG das Folgende:
-Die Auflage wird erteilt und aufrechterhalten soweit und solange die Betroffenen
+Für die Auflage „ Wohnsitznahme im Land Berlin erforderlich“ gilt in Anwendung des § 12 Abs. 2 bei Nichtanwendbarkeit des § 12 a vor dem Hintergrund der Regelungen der Nr. 12.2.5.2.2 bis 12.2.5.2.5 VwV-AufenthG das Folgende: Die Auflage wird erteilt und aufrechterhalten soweit und solange die Betroffenen
 Leistungen nach dem SGB II, dem SGB XII oder dem AsylbLG beziehen. Hierzu zählen auch Aufenthaltserlaubnisse nach § 104 a und b. Für Geduldete gilt dagegen § 61 Abs. 1d S. 1. Diese Vorschrift ist im Unterschied dazu keine Auflage im Sinne einer selbständig anfechtbaren Nebenbestimmung als Teil eines Verwaltungsaktes (vgl. § 36 VwVfG), sondern eine gesetzliche Beschränkung. Insofern ist der Wortlaut dieser Vorschrift missverständlich. § 60 Abs. 1 AsylVfG für Gestattete ist lex specialis zur allgemeinen Wohnsitzauflage gem. § 12 Abs. 2. (siehe hierzu A.61.1d., D.60.). Merke: Entscheidend ist allerdings nach dem Wortlaut der Nr. 12.2.5.2.2 AufenthG- VwV, dass die genannten Leistungen tatsächlich bezogen werden. Die bloße Möglichkeit solche Leistungen – ggf. ergänzend zu einem Erwerbseinkommen oder sonstigen Leistungen wie BAFöG - beanspruchen zu können, genügt somit für das Verfügen der wohnsitzbeschränkenden Auflage gerade nicht. Eine gesonderte Prüfung, ob die Prognose gerechtfertigt ist, dass aktuell und künftig kein Anspruch auf die Zahlung öffentlicher Mittel zur Sicherung seines Lebensunterhaltes insbesondere nach dem SGB II oder XII entsteht, etwa weil sich der Betroffene lediglich in einem Zeit- oder Probearbeitsverhältnis befindet, findet nicht statt. s. hierzu F.A.12.
 Bei Aufenthaltserlaubnissen auf der Grundlage des § 25 Abs. 1 und 2 sowie Niederlassungserlaubnissen gem. § 26 Abs. 3 für ' Asylberechtigte, ' Flüchtlinge und subsidiär Schutzberechtigte kommt ein Verfügen der wohnsitzbeschränkenden Auflage gem. § 12 Abs. 2 auch dann nicht in Betracht, wenn die Wohnsitzzuweisung gem. § 12a erloschen ist oder gem. § 12a Abs. 5 aufgehoben wurde. Entsprechendes gilt auf der Grundlage einer Entscheidung des BVerwG aus Gründen der Verhältnismäßigkeit auch für jüdische Zuwanderer, die eine Niederlassungserlaubnis nach § 23 Abs. 2 besitzen, wenn sie das 65.te Lebensjahr vollendet haben oder pflegebedürftig sind (vgl. BVerwG Urteil vom 15.01.2013; BVerwG 1 C 7.12).
 Merke: In den VwV- AufenthG nicht geregelt ist, ob auch Familienangehörige der Titelinhaber, bei denen eine wohnsitzbeschränkende Auflage verfügt wurde, eine solche Auflage erhalten, wenn diese einen nicht eigenständigen Titel nach dem 6. Abschnitt des AufenthG von diesem Titelinhaber ableiten, und für ihren Unterhalt Leistungen nach dem SGB II, XII oder dem AsylbLG bezogen werden. Da es nicht sachgerecht wäre, diese Personen, die leistungsrechtlich als eine Bedarfsgemeinschaft gelten, insoweit unterschiedlich zu behandeln, erhalten auch diese eine wohnsitzbeschränkende Auflage. Ebenso nicht geregelt ist, ob bei der Erteilung einer Niederlassungserlaubnis, die trotz des Bezugs von Leistungen nach dem SBG II oder XII gem. § 26 Abs. 4 i.V.m. § 9 Abs. 2 S. 6 oder i.V.m. § 35 erteilt wird, eine wohnsitzbeschränkende Auflage verfügt wird. Hier ist mangels einer Regelung in den AufenthG- VwV und vor dem Hintergrund der Vergleichbarkeit der Lebenssachverhalte zu den Fällen des § 9 bzw. § 35 eine wohnsitzbeschränkende Auflage nicht zu verfügen.
 Eine Streichung der Auflage erfolgt bei Nichtbezug von Leistungen nach dem SGB II, XII oder dem AsylbLG auf Antrag, wenn der Nichtbezug glaubhaft gemacht werden kann. Der Betroffene ist ggf. auf die Regelung der Nr. 12.2.5.2.5 AufenthG- VwV hinzuweisen (erneute wohnsitzbeschränkende Auflage für Berlin nach Entstehen von Bedürftigkeit am neuen Wohnsitz möglich).
 Wird die Streichung auf Grund eines konkret beabsichtigten länderübergreifenden Wohnortwechsels beantragt, so ist die Streichung nur nach vorheriger Zustimmung der für den Zuzugsort örtlich zuständigen Ausländerbehörde möglich. Diese ist schriftlich unter Verweis auf Nr. 12.2.5.2.4 ff. VwV-AufenthG um Zustimmung zu bitten.
+Merke: Eine Streichung, Änderung oder Beteiligung kommt nicht in Betracht, wenn kein dauerhafter Wohnortwechsel beabsichtigt wird, wie etwa bei mehrtägigen oder mehrwöchigen Fortbildungsmaßnahmen oder Praktika, stationären Krankenhausaufenthalten, Klassen- und Studienreisen, oder der vorübergehenden Inanspruchnahme von Jugendhilfe außerhalb der eigenen Familie nach dem SGB VIII außerhalb Berlins. Von nur vorübergehenden Wohnortwechseln ist immer dann auszugehen, wenn Berlin als Ort des gewöhnlichen Aufenthalts für nicht länger als drei Monate verlassen wird. Ein Wechsel der örtlichen Zuständigkeit findet hierbei nicht statt.
 Eine Zustimmung ist in folgenden Fällen zu erteilen:
 der Lebensunterhalt ist am neuen Wohnort voraussichtlich dauerhaft ohne die Inanspruchnahme öffentlicher Leistungen gesichert.
 Hier gilt grundsätzlich der Maßstab des § 2 Abs. 3. Dabei gilt die am Zuzugsort übliche Berechnungsweise des für die Sicherung des Lebensunterhalts erforderlichen Einkommens.
@@ -130,8 +131,6 @@ In den Fällen, in denen andere Ausländerbehörden entgegen einer wohnsitzbesch
 12.5. Verlassen des Aufenthaltsbereichs
 12.5.1.1. § 12 Abs. 5 S. 1 gilt nach Nr. 12.5.1. VwV- AufenthG gerade auch für die Fälle des § 61 Abs. 1 S. 1 – räumliche Beschränkung auf das Bundesland bei Aussetzung der Abschiebung –, auch wenn der Wortlaut hier auch eine andere Auslegung zulässt, denn § 61 Abs. 1 S. 1 (!) stellt keine Rechtsgrundlage für eine räumliche Beschränkung dar. Diese Beschränkung ergibt sich vielmehr schon aus dem Gesetz. Beachte die Ausführungen zur Erweiterung der räumlichen Beschränkung bei Geduldeten unter 61.1.1. 1. und 61.1.1.2.
 Von § 12 Abs. 5 S. 1 sollte großzügig Gebrauch gemacht werden. Dies gilt für Inhaber einer GÜB insbesondere auch dann, wenn sie auf dem Landweg ausreisen wollen. Eine Versagung sollte dabei grundsätzlich nur ausnahmsweise erfolgen, etwa in den Fällen, in denen eine räumliche Beschränkung nach § 61 Abs. 1c wieder angeordnet wurde. Darüber hinaus sollte eine Versagung erfolgen, wenn Erkenntnisse vorliegen, dass der Betroffene nicht nach Berlin zurückkehren wird oder er beabsichtigt, sich strafbar zu machen. Die zeitweise Ausweitung des Geltungsbereichs ist ohne Einvernehmen der betroffenen Ausländerbehörden möglich. Etwas anderes gilt nur dann, wenn der Aufenthalt allgemein auf ein anderes Land ausgeweitet werden soll. Hier gilt § 58 Abs. 1 AsylVfG analog.
-Merke: Da das Aufenthaltsgesetz für die Verlassenserlaubnis – anders als für eine Vielzahl anderer aufenthaltsrechtlicher Verwaltungsakte – kein Schriftformerfordernis vorsieht (vgl. § 77 Abs. 1 AufenthG), wird die Verlassenserlaubnis formlos mündlich erteilt und die Entscheidung aktenkundig gemacht. Ein Gebührentatbestand ist damit nicht erfüllt. Beantragt der/die Betroffene ausdrücklich eine Bescheinigung über eine ihm nach § 12 Abs. 5 Satz 1 AufenthG bereits mündlich erteilte Verlassenserlaubnis bzw. eine Bescheinigung über das gesetzlich normierte Recht auf Verlassen gemäß § 12 Abs. 5 S. 3 AufenthG, wird hierfür eine Gebühr von 10 Euro erhoben. Rechtsgrundlage ist § 47 Abs. 1 Nr. 9 AufenthV.
-12.5.1. 2. Die Teilnahme an Auslandsreisen von geduldeten Minderjährigen und Heranwachsenden ist mit dem Inkraftreten des 2. Änderungsgesetzes erschwert, da dies einen gültigen Aufenthaltstitel voraussetzt und die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 4 S. 1 zum Zwecke des vorübergehenden Auslandsaufenthalts für Geduldete nicht in Betracht kommt. Durch das 2. Änderungsgesetz wurde ausdrücklich klargestellt, dass sich die Regelung des § 25 Abs. 4 Satz 1 nicht auf vollziehbar ausreisepflichtige Ausländer erstreckt.
-Geduldete Minderjährigen und Heranwachsenden, können lediglich nach dem mit dem 2. ÄndG eingefügten § 22 Abs. 2 AufenthV über das Reisendenlistenverfahren an der Auslandsreise teilnehmen, wenn sie Schüler einer allgemeinbildenden oder berufsbildenden Schule sind und in Begleitung einer Lehrkraft reisen. Sie sind dann für die Wiedereinreise vom Erfordernis eines Aufenthaltstitels befreit. Voraussetzung ist, dass im Vorgriff auf die erwartete Wiedereinreise entschieden wurde, die Abschiebung erneut auszusetzen. Diese Entscheidung ist auf der Reisendenliste zu vermerken.
-12.5.2. frei
+Merke: Da das Aufenthaltsgesetz für die Verlassenserlaubnis – anders als für eine Vielzahl anderer aufenthaltsrechtlicher Verwaltungsakte – kein Schriftformerfordernis vorsieht (vgl. § 77 Abs. 1 AufenthG), wird die Verlassenserlaubnis formlos mündlich erteilt und die Entscheidung aktenkundig gemacht. Ein Gebührentatbestand ist damit nicht erfüllt. Beantragt der/die Betroffene ausdrücklich eine Bescheinigung über eine ihm nach § 12 Abs. 5 Satz 1 AufenthG bereits mündlich erteilte Verlassenserlaubnis bzw. eine Bescheinigung über das gesetzlich normierte Recht auf Verlassen gemäß § 12 Abs. 5 S. 3 AufenthG, wird hierfür eine Gebühr von 10 Euro erhoben. Rechtsgrundlage ist § 47 Abs. 1 Nr. 9 AufenthV. 12.5.1. 2. Die Teilnahme an Auslandsreisen von geduldeten Minderjährigen und Heranwachsenden ist mit dem Inkraftreten des 2. Änderungsgesetzes erschwert, da dies einen gültigen Aufenthaltstitel voraussetzt und die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 4 S. 1 zum Zwecke des vorübergehenden Auslandsaufenthalts für Geduldete nicht in Betracht kommt. Durch das 2. Änderungsgesetz wurde ausdrücklich klargestellt, dass sich die Regelung des § 25 Abs. 4 Satz 1 nicht auf vollziehbar ausreisepflichtige Ausländer erstreckt.
+Geduldete Minderjährigen und Heranwachsenden, können lediglich nach dem mit dem 2. ÄndG eingefügten § 22 Abs. 2 AufenthV über das Reisendenlistenverfahren an der Auslandsreise teilnehmen, wenn sie Schüler einer allgemeinbildenden oder berufsbildenden Schule sind und in Begleitung einer Lehrkraft reisen. Sie sind dann für die Wiedereinreise vom Erfordernis eines Aufenthaltstitels befreit. Voraussetzung ist, dass im Vorgriff auf die erwartete Wiedereinreise entschieden wurde, die Abschiebung erneut auszusetzen. Diese Entscheidung ist auf der Reisendenliste zu vermerken. 12.5.2. frei
 12.5.3. Termine bei Behörden und Gerichten, die ein persönliches Erscheinen erfordern, können ohne besondere Erlaubnis der ABH wahrgenommen werden (§ 12 Abs. 5 S. 3). Ein Termini.S. dieses Satzes ist nicht nur ein von einem Gericht oder einer Behörde festgesetzter Termin. Erforderlich ist die persönliche Anwesenheit nach Nr. 12.5.3. VwV- AufenthG auch dann, wenn die Anwesenheit bei objektiver Betrachtung geboten erscheint. Behörden in diesem Sinne sind auch Botschaften und Konsulate ausländischer Staaten.

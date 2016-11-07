@@ -26,7 +26,7 @@ beabsichtigter Arbeitsplatzwechsel
 18a.3. Sperrwirkung des § 10 Abs. 3
 A.18a. Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der
 Beschäftigung
-(AuslBeschR; IntG)
+(AuslBeschR; IntG; 20.09.2016)
 18a. 0. Allgemeines
 Mit der Regelung des § 18a Abs. 1 kann gut ausgebildeten Geduldeten, die einen ihrer beruflichen Qualifikation entsprechenden Arbeitsplatz gefunden haben, die Möglichkeit eröffnet werden, in einen erlaubten Aufenthalt zu wechseln. Grundsätzlich ist im wirtschaftlichen Interesse der Bundesrepublik Deutschland sowie der Betroffenen vom Ermessen großzügig positiv Gebrauch zu machen.
 Die Erteilung einer Aufenthaltserlaubnis auf dieser Rechtsgrundlage setzt immer die Zustimmung der Bundesagentur für Arbeit voraus. Liegen die allgemeinen und speziellen Erteilungsvoraussetzungen des 18a Abs. 1 bzw. 1a vor, ist die Bundesagentur zu beteiligen hinsichtlich der Frage, ob die beabsichtigte Beschäftigung der in der Berufsausbildung erworbenen beruflichen Qualifikation entspricht. Nur bei offenkundigem Nichtentsprechen (z.B. wenn nach erfolgreicher Bäckerlehre eine Sekretariatstätigkeit ausgeübt werden soll) kann ohne Beteiligung der Bundesagentur versagt werden.
@@ -119,5 +119,5 @@ Liegen die Voraussetzungen des § 18a Abs. 2 Satz 3 vor, enthält die Aufenthalt
 „Erwerbstätigkeit gestattet.“
 Beachte: Die Erlaubnis selbstständiger Tätigkeit (vgl. A.21.6.) kann in den Fällen des § 18a nur dazu dienen, die Möglichkeit eines Zuverdienstes neben der Beschäftigung zu eröffnen. Bei ausschließlich selbstständiger Tätigkeit kommt eine Aufenthaltserlaubnis zum Zwecke der Beschäftigung nicht in Betracht, hier muss der Antragsteller die Voraussetzungen nach § 21 erfüllen.
 18a.3. Sperrwirkung des § 10 Abs. 3
-Von der Sperrwirkung des § 10 Abs. 3 Satz 1 kann gemäß § 18a Abs. 3 abgesehen werden. In diesem Fall ist das entsprechende Ermessen im Interesse der gesetzgeberischen Zielsetzung ebenfalls zu Gunsten der Betroffenen auszuüben.
+Von der Sperrwirkung des § 10 Abs. 3 Satz 1 kann gemäß § 18a Abs. 3 abgesehen werden. In diesem Fall ist das entsprechende Ermessen im Interesse der gesetzgeberischen Zielsetzung ebenfalls zu Gunsten der Betroffenen auszuüben. Wurde der Asylantrag nach § 30 Abs. 3 Nr. 1 bis 6 AsylG als offensichtlich unbegründet abgelehnt, kommt wegen der Sperrwirkung des § 10 Abs. 3 Satz 2 nur eine Aufenthaltserlaubnis nach § 18a Abs. 1a in Betracht, da insoweit ein Anspruch besteht, vgl. § 10 Abs. 3 Satz 3.
 Gemäß § 18a Abs. 3 kann von den Regelerteilungsvoraussetzungen des § 5 Abs. 2 abgesehen werden. Das entsprechende Ermessen ist im Interesse der gesetzgeberischen Zielsetzung jedoch regelmäßig zu Gunsten der Betroffenen auszuüben.

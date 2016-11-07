@@ -18,7 +18,7 @@ A.62. Abschiebungshaft
 62.S.1. Berichts- und Meldepflichten; Statistik
 62.S.2. Impfprophylaxe für Ausreisepflichtige
 A.62. Abschiebungshaft
-(NeubestG; 31.03.2016)
+(31.03.2016; 17.10.2016)
 62.0. Allgemeine Verfahrenshinweise
 Bei der Abschiebungshaft ist zu berücksichtigen, dass das aus Artikel 2 Abs. 2 Satz 2 GG abzuleitende Beschleunigungsgebot dazu verpflichtet, die Abschiebung eines in Abschiebungshaft befindlichen Ausländers mit größtmöglicher Beschleunigung zu betreiben.
 Zum Verfahren bei Geltendmachung von zielstaatsbezogenenen Abschiebungshindernissen aus Haft vgl. Ausführungen zu § 60 Abs. 7 bzw. § 72 Abs. 2. Zur Problematik von Anträgen auf Erteilung eines Titels aus Haft vgl. Ausführungen zu § 81 Abs. 4.
@@ -38,7 +38,7 @@ Eine Ausnahme ergibt sich für Abschiebungen im Wege der Amtshilfe: Gelingt es e
 Bei dem Personenkreis unbegleiteter minderjähriger Ausländer bis zur Vollendung des 18. Lebensjahres hat sich die Behörde vor der Abschiebung nach Art. 10 Abs. 2 der seit dem 24.12.2010 unmittelbar Anwendung findenden Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16.12.2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger – Rückführungsrichtlinie - von der kindgerechten Inobhutnahme im Herkunftsland (Aufnahme in Familie, geeigneter Einrichtung etc.) zu vergewissern. Dies wird regelmäßig nicht in der Frist des § 62 Abs. 2 S. 3 AufenthG zu bewerkstelligen sein, so dass bereits vor diesem Hintergrund auf eine Inhaftnahme vor Klärung der Unterbringung im Herkunftsland grundsätzlich zu verzichten ist.
 62.3.1. 0.1. Zum Freiheitsentziehungsverfahren
 § 62 Abs. 3 S. 1 sieht unter den darin genannten Voraussetzungen die Inhaftierung auf richterliche Anordnung vor. Zum Freiheitsentziehungsverfahren und zum Erfordernis der Prüfung der Vermeidbarkeit der Abschiebungssicherungshaft sind folgende Grundsätze zu beachten:
-Vor dem Hintergrund der Rechtsprechung des Kammergerichts, welche vom Vorliegen einer Freiheitsentziehung im Sinne des Art. 104 Abs. 2 GG ausgeht, sobald die körperliche Bewegungsfreiheit des Betroffenen bspw. im Gewahrsam nach jeder Richtung hin aufgehoben wird, ist in den folgenden Fallkonstellationen immer Vorabhaft auf der Grundlage des § 62 Abs. 3 S. 1 – zu beantragen:
+Vor dem Hintergrund der Rechtsprechung des Kammergerichts, welche vom Vorliegen einer Freiheitsentziehung im Sinne des Art. 104 Abs. 2 GG ausgeht, sobald die körperliche Bewegungsfreiheit des Betroffenen bspw. im Gewahrsam nach jeder Richtung hin aufgehoben wird, ist in den folgenden Fallkonstellationen immer Vorabhaft auf der Grundlage des § 62 Abs. 3 S. 1 zu beantragen:
 Festnahmen zum Zwecke von Direktabschiebungen (am selben oder an Folgetagen),
 sogen. Saalfestnahmen,
 Übernahmen aus der Straf- oder Untersuchungshaft und
@@ -70,10 +70,10 @@ Es kann erneut ein Haftantrag gestellt werden, wenn nach der Entlassung durch de
 Grundsätzlich ist auch in den Fällen einer wiederholten Inhaftierung aus Verhältnismäßigkeitsgründen die erneute Entlassung nach Erreichen der Dreimonatsfrist zu prüfen. Allerdings ist dann das Verhalten des Betroffenen in die Bewertung der Verhältnismäßigkeit fortdauernder Freiheitsentziehung einzubeziehen. In besonders gelagerten Einzelfällen (z.B. bei beharrlichem Verhindern der Abschiebung oder kurzfristig ablaufendem Heimreisedokument) ist auch eine längerfristige Inhaftierung vertretbar. Ist im Einzelfall eine längere Inhaftierung geboten, so ist telefonisch die Zustimmung SenInnSport einzuholen.
 62.3.1.1. frei
 62. 3.1.1a. Für die Beantragung der Haft nach § 62 Abs. 3 S. 1 Nr. 1a sind die Polizeien der Länder (Anordnung durch das Land) oder die Bundespolizei (Anordnung durch den BMI) zuständig (§ 58a Abs. 2 S. 2, 71 Abs. 5). Nach Auskunft des BMI vom 27.10.2004 ist in den Fällen der Abschiebungsanordnung nach § 58a Abschiebungshaft auf dieser Grundlage zu beantragen, da die Abschiebungsanordnung jedenfalls bis zum Ablauf der in § 58a Abs. 4 S. 2 genannten Frist (7 Tage) nicht vollzogen werden darf. Angesichts des vorausgesetzten Gefahrenpotentials des betroffenen Personenkreises sei dies sachgerecht.
-62.3.1.2. bis 62.3.1. 4. frei
+62.3.1.2. bis 62.3.1.4. frei
 62.3.1.5. Nach Nr. 5 liegt ein Haftgrund vor, wenn im Einzelfall Gründe vorliegen, die auf den in § 2 Abs. 14 bzw. bei Überstellungen nach der Dublin-II-VO zusätzlich in § 2 Abs. 15 festgelegten Anhaltspunkten beruhen und deshalb der begründete Verdacht der Entziehung durch Flucht besteht.
 62.3. 2. Absehen von Abschiebungshaft
-In Auslegung des § 62 Abs. 3 S. 2 ist für aufgrund der unerlaubten Einreise vollziehbar ausreisepflichtige Ausländer, die nicht gemeldet sind, aber bei der Ausländerbehörde vorsprechen, kein Haftantrag zu stellen, wenn keine Anhaltspunkte für eine Fluchtgefahr gemäß § 62 Abs. 3 Nr. 5 vorliegen.
+In Auslegung des § 62 Abs. 3 S.2 ist für aufgrund der unerlaubten Einreise vollziehbar ausreisepflichtige Ausländer, die nicht gemeldet sind, aber bei der Ausländerbehörde vorsprechen, kein Haftantrag zu stellen, wenn keine Anhaltspunkte für eine Fluchtgefahr gemäß § 62 Abs. 3 Nr. 5 vorliegen.
 Soweit die übrigen die Voraussetzungen dafür vorliegen, ist ein Verfahren nach § 15a AufenthG einzuleiten.
 62. 3. 3. Unzulässigkeit der Abschiebungshaft
 Steht im Einzelfall fest, dass aus Gründen, die der Ausländer nicht zu vertreten hat, die Abschiebung nicht innerhalb der nächsten drei Monate durchgeführt werden kann, ist die Abschiebungs(sicherungs-)haft unzulässig. Dabei sind insbesondere die Erfahrungen hinsichtlich der Dauer der Beschaffung von Ausreisepapieren (Verfahrenspraxis der Botschaften und Konsulate der Heimatbehörden) zu berücksichtigen.
@@ -84,19 +84,14 @@ Der durch das 2. Änderungsgesetz angefügte Absatz 5 schafft für die Auslände
 Laut Gesetzesbegründung liegen der Regelung beispielhaft vier Fallkonstellationen zugrunde:
 1. Die Polizei überprüft die Personalien eines Ausländers zur Nachtzeit und stellt fest, dass er sich unrechtmäßig im Bundesgebiet aufhält.
 2. Der Ausländerbehörde ist nicht zuvor bekannt, dass Sicherungshaft beantragt werden soll. Dies ergibt sich erst während einer Vorsprache bei der Ausländerbehörde.
-3. Der Ausländerbehörde ist bereits bekannt, dass Sicherungshaft beantragt werden soll. Der Ausländer erscheint Verfahrenshinweise
-3.
-der Ausländerbehörde Berlin
-zufällig bei der Ausländerbehörde.
+3. Der Ausländerbehörde ist bereits bekannt, dass Sicherungshaft beantragt werden soll. Der Ausländer erscheint zufällig bei der Ausländerbehörde.
+4.
 4. Der Aufenthalt des vollziehbar ausreisepflichtigen Ausländers ist unbekannt.
 Auch in der zweiten und dritten Fallkonstellation einer Vorsprache bei der Ausländerbehörde wird wie bisher eine vorläufige Festnahme durch die Polizei durchgeführt.
 Rechtsgrundlage für die vorläufige Festnahme eines Ausländers, der bei der Begehung von Straftaten oder Ordnungswidrigkeiten festgestellt wird, und mithin für die vorläufige Festnahme im Vorfeld der Vorbereitungshaft im Sinne von § 62 Abs. 2 ist weiterhin § 30 Abs. 1 Nr. 2 ASOG.
 62.S.1. Berichts- und Meldepflichten; Statistik
 Die Senatsverwaltung für Inneres und Sport ist über besondere Vorkommnisse in Abschiebungshaft unverzüglich zu unterrichten.
 Statistisch zu erfassen ist jeweils die Zahl der Personen, die
-,
-,
-,
 sich länger als zwei Monate in Haft befinden,
 nach Ablauf der 6-Monatsfrist entlassen wurden.
 Diese Zahlen werden SenInnSport durch IV R 3 auf Anfrage übermittelt.
@@ -106,16 +101,9 @@ Dabei ist zu beachten, dass Impfungen nur im Rahmen der ausländerrechtlichen Vo
 Zum Zweck der entsprechenden Unterrichtung ausreisepflichtiger Ausländer ist das bereits Verwendung findende Informationsblatt zur Ausreiseverpflichtung um die notwendigen Hinweise ergänzt worden. Dieses Informationsblatt erhält jeder in Freiheit befindliche ausreisepflichtige Ausländer (zur Aushändigung im einzelnen s. 62. 3.0.1.).
 Für ausreisepflichtige Ausländer in Abschiebungshaft gilt Folgendes:
 Impfungen sind nur im Rahmen der angeordneten Abschiebungshaft bzw. spätestens bis zum festgesetzten Abschiebungstermin möglich und dürfen nicht zu einer Verzögerung der Abschiebung führen. Dies bedeutet, dass bereits begonnene Impfmaßnahmen nicht zu Ende geführt werden, wenn eine Abschiebung möglich ist. Der Betroffene wird auch mit einer Teil-Immunisierung abgeschoben, weil medizinische Risiken hieraus nicht erwachsen.
-Impfungen von Abschiebungshäftlingen werden nach Begutachtung durch den Polizeiärztlichen Dienst (PÄD) von diesem organisiert und z.B. im Tropeninstitut vorgenommen, wobei folgende Grundsätze Berücksichtigung finden: Das Angebot erstreckt sich nur auf solche Impfungen, die sich aus medizinischer Sicht risikomindernd auswirken. Da Impfungen kein Abschiebungshindernis begründen dürfen, werden immunisierende Maßnahmen, durch die der Impfling für die Inkubationszeit zu einem Ansteckungsrisiko für andere Personen wird, generell ausgeschlossen. Anderenfalls würde der Termin der Rückführung abhängig von der Frage eines Ansteckungsrisikos.
+Äußert ein in Abschiebungshaft befindlicher Ausländer den Wunsch nach einer Impfung, nimmt die Ausländerbehörde mit den für die medizinische Betreuung Verantwortlichen Kontakt auf und klärt das Procedere einer möglichen Impfung, wobei folgende Grundsätze Berücksichtigung finden:
+Das Angebot erstreckt sich nur auf solche Impfungen, die sich aus medizinischer Sicht risikomindernd auswirken. Da Impfungen kein Abschiebungshindernis begründen dürfen, werden immunisierende Maßnahmen, durch die der Impfling für die Inkubationszeit zu einem Ansteckungsrisiko für andere Personen wird, generell ausgeschlossen. Anderenfalls würde der Termin der Rückführung abhängig von der Frage eines Ansteckungsrisikos.
 Bei Risikofällen, bspw. bei Zweifeln an der medizinischen Vorgeschichte oder dem Herkunftsland bzw. dem Zielland der Abschiebung, wird vor dem Hintergrund drohender gesundheitlicher Risiken und evt. Haftungsansprüche von einer Impfung abgesehen.
-Abschiebungshäftlinge, die aktenkundig noch kein Informationsblatt und damit auch noch keine Information zur Impfprophylaxe erhalten haben, werden nach Aufnahme in den Abschiebungsgewahrsam vom Haftsachbearbeiter im Rahmen der gesetzlich vorgeschriebenen Beratung über die Möglichkeit einer Impfberatung informiert. Dies geschieht mittels eines Merkblattes. Hierin wird dem Ausländer Gelegenheit gegeben, umgehend den Wunsch nach einem ärztlichen Beratungsgespräch zu äußern. Die Aushändigung des Merkblattes ist aktenkundig zu machen.
-Nach Durchführung eines evt. Beratungsgespräches hat sich der Ausländer wiederum umgehend zu entscheiden, ob er Impfungen wünscht. Einer Fristsetzung hierfür bedarf es nicht, weil die ausländerrechtlichen Vorgaben den Zeitrahmen bieten und ein später geäußerter Impfwunsch eine geplante Abschiebung zu keinem Zeitpunkt hindert.
-Zur Information zwischen LABO und Polizeiärztlichem Dienst:
-Wenn ausreisepflichtige Personen in Abschiebungshaft gegenüber dem Haftsachbearbeiter den Wunsch nach einer Impfberatung äußern, informiert der Haftsachbearbeiter den polizeiärztlichen Dienst im Abschiebungsgewahrsam hierüber schriftlich unter Angabe der Sprache, in der der Betroffene sich verständigt (zwecks Bestellung des entsprechenden Dolmetschers), des Ziellandes der Rückführung und der bisherigen Aufenthaltsdauer in Deutschland, damit dies in der Impfberatung entsprechend berücksichtigt werden kann, denn selbst eine mehrjährige Aufenthaltsdauer in Deutschland kann möglicherweise eine Impfung aus ärztlicher Sicht überflüssig machen.
-Sollte der Betroffene aus eigenem Antrieb ein Beratungsgespräch beim polizeiärztlichen Dienst in Anspruch nehmen, hält dieser Rücksprache mit dem Haftsachbearbeiter, damit die notwendigen Angaben schriftlich nachgereicht werden können.
-Sofern Zweifel am Herkunftsland bzw. Zielland der Abschiebung bestehen, wird der polizeiärztliche Dienst nicht eingebunden, weil eine medizinsch angezeigte Erstellung eines Impfplanes dann nicht möglich ist. In Fällen, in denen erst später Zweifel am Herkunftsland entstehen, etwa durch Aussagen der Botschaft im Rahmen einer Vorführung, wird der polizeiärztliche Dienst entsprechend informiert, damit evt. eingeleitete Maßnahmen (Beratungsgespräch, Erstellen eines Impfplanes oder Impfung selbst) bis zur Beseitigung der Zweifel ausgesetzt werden. Ob eine Wiederaufnahme der Maßnahmen nach Beseitigung der Zweifel (worüber der polizeiärztliche Dienst wiederum zu unterrichten ist) noch sinnvoll ist, hängt vom geplanten Zeitpunkt der Rückführung ab. Der polizeiärztliche Dienst ist ebenfalls zu informieren, wenn
-der Abschiebungstermin feststeht,
-der Betroffene den Wunsch nach Beratung zurückgezogen hat,
-der Betroffene aus der Haft entlassen wurde.
-Der polizeiärztliche Dienst informiert die ABH darüber, ob eine Impfung erfolgt. Medizinische Daten werden nicht an den Haftsachbearbeiter weitergegeben.
+Das Zielland der Rückführung, die bisherige Aufenthaltsdauer in Deutschland sowie der Zeitpunkt der voraussichtlichen Abschiebung werden der für die medizinische Betreuung verantwortliche Person übermittelt, damit dies in der Impfberatung entsprechend berücksichtigt werden kann, denn selbst eine mehrjährige Aufenthaltsdauer in Deutschland kann möglicherweise eine Impfung aus ärztlicher Sicht überflüssig machen.
+Sofern Zweifel am Herkunftsland bzw. Zielland der Abschiebung bestehen ist eine medizinisch angezeigte Erstellung eines Impfplanes nicht möglich ist.
 Das vorstehende Verfahren gilt nicht für Personen, die in Amtshilfe für andere Ausländerbehörden zurückgeführt werden.
