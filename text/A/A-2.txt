@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(06.09.2016; IntG; 18.10.2016)
+(18.10.2016; IntG; 28.11.2016)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -55,7 +55,7 @@ A.2. Begriffsbestimmungen
 2.14. Anhaltspunkte für die Annahme einer Fluchtgefahr
 2.15. Fluchtgefahr bei Anwendung der Dublin-III-VO
 A.2. Begriffsbestimmungen
-(06.09.2016; IntG; 18.10.2016)
+(18.10.2016; IntG; 28.11.2016)
 Pfändungsfreibeträge
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -153,14 +153,13 @@ Bei Personen, die ihr Wohneigentum selbst nutzen, sind anstatt der Miete die tat
 Werden Mietverträge vorgelegt, wonach Wohnraum zu besonders günstiger Miete genutzt wird bzw. ergeben sich in den Fällen genutzten Wohneigentums besonders günstige Wohnkosten und ist davon auszugehen, dass diese geringe Miete bzw. die geringen Kosten nicht dauerhaft, sondern nur vorübergehend beibehalten werden können, kann sich die Lebensunterhaltsprüfung nicht an diesen Wohnkosten orientieren. Die Prognose einer nachhaltigen Lebensunterhaltssicherung setzt nämlich voraus, dass der Betroffene auch eine ortsangemessene Miete bezahlen kann (OVG Berlin-Brandenburg, Urteil vom 25.03.2010 – 3 B 9.08).
 Maßstab für die Angemessenheit der Miete (§ 22 SGB II) war die gem. § 22 a SGB II erlassene
 Wohnaufwendungsverordnung (WAV). Am 01.07.2015 trat an ihre Stelle die AV-Wohnen. Verwendet wird die Richtwerttabelle gem. Anlage 4 zur AV-Wohnen.
-Um ein langwieriges und komplexes Verfahren zu vermeiden, werden zu Gunsten der Betroffenen die jeweils günstigsten Werte der Richtwerttabelle zu Grunde gelegt (Stand Juli 2015):
-438,- € für einen 1-Personen-Haushalt
-525,- € für einen 2-Personen-Haushalt
-628,- € für einen 3-Personen-Haushalt
-712,- € für einen 4-Personen-Haushalt
-822,- € für einen 5-Personen-Haushalt
-zzgl. 102,- € je weiterer Person bei größeren Haushalten. Es ist allerdings zu beachten, dass gemäß § 22 Abs. 1 SGB II keinesfalls stets ein Anspruch auf Erstattung der gesamten o.g. Beträge besteht. So wird sich die leistungsrechtliche Erstattung auf eine geringere Miete beschränken, wenn der Betroffene tatsächlich günstiger wohnt. Ebenso wird nur die Miete einer früheren günstigeren Wohnung erstattet, wenn der Betroffene ohne Not in eine Wohnung mit höherer Miete umzieht. Diese gilt selbst dann, wenn auch die höhere Miete nach den o.g. Maßstäben noch angemessen ist. Die o.g. Richtwerte sind daher der Bedarfsermittlung nur dann zu Grunde zu legen, wenn sich auch unter Berücksichtigung der sonstigen Umstände des Einzelfalles eine dargelegte Miete als im Verhältnis zu den Richtwerten deutlich zu niedrig erweist, um von einer dauerhaften Aufrechterhaltung derart günstiger Wohnverhältnisse ausgehen zu können.
-Andererseits ist zu beachten, dass trotz der genannten Richtwerte gemäß Ziffer 3.2.1. Abs. 3 Ausführungsvorschriften zur Gewährung von Leistungen gemäß § 22 SGB II und §§ 35 und 36 SGB XII (AV-Wohnen) stets eine Einzelfallprüfung der Angemessenheit durchzuführen ist und mithin auch höhere Mieten erstattet werden. Über die Richtwerte hinausgehende höhere Wohnkosten sind daher bei der Bedarfsberechnung stets vollständig zu berücksichtigen.
+Um ein langwieriges und komplexes Verfahren zu vermeiden, werden zu Gunsten der Betroffenen die jeweils günstigsten Werte der Richtwerttabelle zu Grunde gelegt (Stand November 2015):
+43 4,- € für einen 1-Personen-Haushalt
+52 1,- € für einen 2-Personen-Haushalt
+62 2,- € für einen 3-Personen-Haushalt
+7 05,- € für einen 4-Personen-Haushalt
+8 14,- € für einen 5-Personen-Haushalt
+zzgl. 10 1,- € je weiterer Person bei größeren Haushalten. Es ist allerdings zu beachten, dass gemäß § 22 Abs. 1 SGB II keinesfalls stets ein Anspruch auf Erstattung der gesamten o.g. Beträge besteht. So wird sich die leistungsrechtliche Erstattung auf eine geringere Miete beschränken, wenn der Betroffene tatsächlich günstiger wohnt. Ebenso wird nur die Miete einer früheren günstigeren Wohnung erstattet, wenn der Betroffene ohne Not in eine Wohnung mit höherer Miete umzieht. Diese gilt selbst dann, wenn auch die höhere Miete nach den o.g. Maßstäben noch angemessen ist. Die o.g. Richtwerte sind daher der Bedarfsermittlung nur dann zu Grunde zu legen, wenn sich auch unter Berücksichtigung der sonstigen Umstände des Einzelfalles eine dargelegte Miete als im Verhältnis zu den Richtwerten deutlich zu niedrig erweist, um von einer dauerhaften Aufrechterhaltung derart günstiger Wohnverhältnisse ausgehen zu können. Andererseits ist zu beachten, dass trotz der genannten Richtwerte gemäß Ziffer 3.2.1. Abs. 3 Ausführungsvorschriften zur Gewährung von Leistungen gemäß § 22 SGB II und §§ 35 und 36 SGB XII (AV-Wohnen) stets eine Einzelfallprüfung der Angemessenheit durchzuführen ist und mithin auch höhere Mieten erstattet werden. Über die Richtwerte hinausgehende höhere Wohnkosten sind daher bei der Bedarfsberechnung stets vollständig zu berücksichtigen.
 2.3.1.9. Einkommensberechnung – Grundsatz/Freibeträge
 Dem errechneten Bedarf ist das zur Verfügung stehende Einkommen gegenüber zu stellen. Die Berechnung des Einkommens richtet sich nach den für die Berechnung von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch geltenden Grundsätzen.
 Maßgeblich ist bei Erwerbstätigen daher das Nettoeinkommen, von dem die Freibeträge nach § 11b Abs. 1 Satz 1 Nr. 3 bis 5 i.V.m. Abs. 2 Satz 1 SGB II (Werbungskostenpauschale von 100,- €) sowie § 11b Abs. 1 Satz 1 Nr. 6 i.V.m. Abs. 3 SGB II (Erwerbstätigenfreibetrag) abgezogen werden (BVerwG, Urteil vom 26.08.2008 - 1 C 32/07 -; OVG Berlin, Urteile vom 25.04.2007 - OVG 12 B 2.05., 12 B 19.06 und 12 B 16.07 -; so auch Nr. 2.3.3 AufenthG- VwV - zum Verzicht auf die Berücksichtigung des Erwerbstätigenfreibetrages beim Familiennachzug vgl. A.2.3.4.; insb. A.2.3.4.1., zum Verzicht auf die Berücksichtigung der Werbungskostenpauschale bei Selbstständigen und sonstigen nicht gesetzlich Krankenversicherten vgl. 2.3.1.12.).
@@ -382,7 +381,9 @@ b) an Höheren Fachschulen (FH), Akademien und Hochschulen von
 399,- € (statt 372,- €)
 zuzüglich der oben aufgeführten Beträge
 d.h. insg. 720, - €
-Merke: Handelt es sich bei dem Antragsteller nicht um einen Studierenden oder Hochschulabsolventen (Fälle des § 16 Abs. 1, 4 und 6) sondern etwa um einen Schüler einer allgemeinbildenden Schule ist als Bedarf der niedrigere Bedarf von insgesamt 693,- Euro anzusetzen. Über diese genannten Beträge hinausgehende Sicherheitsleistungen sind nicht zu erbringen. Ein Nachweis der Deckung der Rückreisekosten wird ausweislich der Gesetzesbegründung wie bisher nicht gefordert, weil Studenten nach § 16 Abs. 4 die Möglichkeit haben, nach Beendigung des Studiums in Deutschland zu verbleiben, um hier erwerbstätig zu sein. Die Möglichkeit eines zustimmungsfreien Zuverdienstes kann bei der Entscheidung über die Verlängerung mit berücksichtigt werden. Vertraglich nachgewiesene zu erwartende Einkünfte aus einer erlaubten Tätigkeit (z.B. Praktikumsvergütung, Einkünfte als Tutor) werden auf die nachzuweisende Finanzierungshöhe angerechnet. Die Mittel zur Deckung der Studienkosten, die nicht zum Lebensunterhalt zählen (etwa Studiengebühren), sind nicht nachzuweisen, da die Bildungseinrichtung die Möglichkeit hat, die Zulassung zum Studium, die Voraussetzung für die Erteilung der Aufenthaltserlaubnis ist, von einer entsprechenden Deckung abhängig zu machen. Den Anforderungen an den Nachweis hinreichender Mittel zur Sicherung des Lebensunterhalts bei Ersterteilung genügt insbesonders eine Verpflichtung gemäß § 68 oder
+Merke: Handelt es sich bei dem Antragsteller nicht um einen Studierenden oder Hochschulabsolventen (Fälle des § 16 Abs. 1, 4 und 6) sondern etwa um einen Schüler einer allgemeinbildenden Schule ist als Bedarf der niedrigere Bedarf von insgesamt 693,- Euro anzusetzen. Über diese genannten Beträge hinausgehende Sicherheitsleistungen sind nicht zu erbringen. Ein Nachweis der Deckung der Rückreisekosten wird ausweislich der Gesetzesbegründung wie bisher nicht gefordert, weil Studenten nach § 16 Abs. 4 die Möglichkeit haben, nach Beendigung des Studiums in Deutschland zu verbleiben, um hier erwerbstätig zu sein. Die Möglichkeit eines zustimmungsfreien Zuverdienstes kann bei der Entscheidung über die Verlängerung mit berücksichtigt werden. Vertraglich nachgewiesene zu erwartende Einkünfte aus einer erlaubten Tätigkeit (z.B. Praktikumsvergütung, Einkünfte als Tutor) werden auf die nachzuweisende Finanzierungshöhe angerechnet. Die Mittel zur Deckung der Studienkosten, die nicht zum Lebensunterhalt zählen (etwa Studiengebühren oder Semesterbeiträge), sind grundsätzlich nicht nachzuweisen, es sei denn diese übersteigen die
+Semesterbeiträge staatlicher Hochschulen deutlich. In Berlin sind dies ca. 300 Euro pro Semester inklusive Semesterticket. Den Anforderungen an den Nachweis hinreichender Mittel zur Sicherung des Lebensunterhalts bei Ersterteilung genügt insbesonders
+eine Verpflichtung gemäß § 68 oder
 die Einrichtung eines Sperrkontos auf Basis des zum Zeitpunkt der Kontoeröffnung veröffentlichten Monatsbeitrags, auf das der entsprechende Betrag für 12 Monate (8.316,- € / 8.640,- €) eingezahlt wird, oder
 die Darlegung hinreichender eigener Einkommens- und Vermögensverhältnisse durch Nachweis einer gesicherten finanziellen Unterstützung durch die Eltern (z.B. Nachweise über die Einkommenssituation der Eltern nebst notariell beglaubigtem Schreiben der Eltern, dass der Aufenthalt finanziell ausreichen unterstützt wird, und/oder Kontoauszüge, die den ausreichenden Mittelzufluss zeigen).
 Wurde im Einreiseverfahren eine andere Form des Nachweises der LU-Sicherung akzeptiert, muss die Ausländerbehörde dies bei der Ersterteilung der Aufenthaltserlaubnis gegen sich gelten lassen.
