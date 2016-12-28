@@ -2,7 +2,6 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(10.VO ÄndAufenthV, 21.10.2014)
 B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
@@ -21,7 +20,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(10.VO ÄndAufenthV, 21.10.2014)
+(21.10.2014 10.VO ÄndAufenthV, 27.12.2016)
 Merkblatt_Gebühren_Stand_20.05.2014
 Zu den Gebühren für assoziationsberechtigte türkische Staatsangehörige vgl. E.Türk.1.
 B.AufenthV.44.1.Kassenautomat
@@ -156,6 +155,7 @@ B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortb
 • Hanns-Seidel-Stiftung
 • Hans-Böckler-Stiftung
 • Konrad-Adenauer-Stiftung
+• Rosa-Luxemburg-Stiftung
 • Stiftungsverband Regenbogen
 • Studienstiftung des deutschen Volkes
 • Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
