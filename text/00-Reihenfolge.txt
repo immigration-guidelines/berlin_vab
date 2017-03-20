@@ -198,6 +198,7 @@ D 34a
 D 36
 D 43
 D 47
+D 51
 D 55
 D 56
 D 58
@@ -243,6 +244,8 @@ E Kosovo 1
 E Libanon 1
 E Libanon 2
 E Libanon 3
+E Lib 4
+E Libyen 1
 E Montenegro 1
 E Myanmar 1
 E Rumänien 1

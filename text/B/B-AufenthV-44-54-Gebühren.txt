@@ -6,6 +6,7 @@ B.AufenthV.44.1.Kassenautomat
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
 B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis und Blaue Karte EU
+B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
 B.AufenthV.45.a. Gebühren für den elektronischen Identitätsnachweis
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
@@ -31,7 +32,10 @@ Die Ausgabe von elektronischen Aufenthaltstiteln (eAT) macht eine Anpassung der 
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EG
 frei
 B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis und Blaue Karte EU
-B.AufenthV.45.1. - 2. frei
+B.AufenthV.45.1. frei
+B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
+In diesen Fällen ist grundsätzlich eine Bearbeitungsgebühr gem. § 49 Abs. 2 i.V.m. § 45 Nr. 1 a zu erheben. Hiervon kann allerdings abgesehen werden, wenn die Betroffenen bereits bei der Erteilung der Aufenthaltserlaubnis gem. § 53 von der Gebühr befreit worden sind. Hier ist kein erneuter Nachweis des Leistungsbezugs zu fordern. Vor Bescheiderlaß sollte bei "Widersprüchen" ein Hinweis auf die Umdeutung des Widerspruchs zu einem Antrag und die Anregung der Antragsrücknahme gegeben werden (vgl. insofern Ausführungen unter A.12).
+B.AufenthV.45.1b - 2. frei
 B.AufenthV.45.3. Bei jedem Wechsel des Aufenthaltszwecks beträgt die Gebühr 90 Euro. Jeder Rechtsgrundlagenwechsel, auch innerhalb eines Paragraphen, stellt einen Zweckwechsel dar. Die regelmäßig mit dem Zweckwechsel einhergehende Verlängerung der Aufenthaltserlaubnis ist mit der erhobenen Gebühr ebenfalls abgedeckt. Keinesfalls sind etwa doppelte Gebühren, z.B. von 170 Euro gem. § 45 Nr. 2b) + Nr. 3, zu erheben.
 Für die Verlängerung der Aufenthaltserlaubnis zu dem neuen Zweck beträgt die Gebühr wieder je nach Gültigkeit 65 oder 80 Euro, vgl. § 45 Nr. 2a oder b.
 Gebührenermäßigungen oder-befreiungen kommen auch in Fällen des § 45 Nr. 3 zur Anwendung.
@@ -42,14 +46,15 @@ die erstmalige Aktivierung der Online-Ausweisfunktion eines eAT-Inhabers nach Vo
 die Sperrung der Online-Ausweisfunktion und
 die Anschriftenänderung.
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
-B.AufenthV.45.b.1. In Anlehnung an die bisherige Gebühr für die Verlängerung einer Aufenthaltserlaubnis von bis zu drei Monaten ist nunmehr für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG eine Gebühr in Höhe von 15 Euro zu erheben. B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte, vgl., ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 50 Euro. die im Rahmen der Härtefallregelung zu erhebenden Gebühren entsprechen damit den bislang vor dem 01.09.2011 erhobenen Gebühren.
+B.AufenthV.45.b.1. In Anlehnung an die bisherige Gebühr für die Verlängerung einer Aufenthaltserlaubnis von bis zu drei Monaten ist nunmehr für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG eine Gebühr in Höhe von 15 Euro zu erheben.
+B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 50 Euro. die im Rahmen der Härtefallregelung zu erhebenden Gebühren entsprechen damit den bislang vor dem 01.09.2011 erhobenen Gebühren.
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
 Es ist zwischen der Gültigkeit der eAT-Karte und der Gültigkeit des Aufenthaltstitels zu unterscheiden. Da auf der eAT-Karte ein Bezug zum Personaldokument aufgedruckt ist und die Karten generell technisch nur zehn Jahre haltbar sind, kann die eAT-Karte kürzer gültig sein, als der Aufenthaltstitel, den sie dokumentiert. Dies gilt immer dann, wenn das Personaldokument früher abläuft als der Aufenthaltstitel oder - v.a. bei unbefristeten Titeln - wenn das Haltbarkeitsdatum der Karte nach zehn Jahren erreicht wird. Die Rechtmäßigkeit des Aufenthalts wird durch den Ablauf der eAT-Karte nicht beeinträchtigt. Der Ausländer ist allerdings verpflichtet, eine neue eAT-Karte zu beantragen. Für die Neuausstellung der eAT-Karte aufgrund des Ablaufs der Gültigkeitsdauer des Personaldokuments bzw. der technischen
 Kartennutzungsdauer ist eine Gebühr in Höhe von 60 Euro zu erheben. eine Gebühr von 60 Euro ist ebenfalls für die Neuausstellung einer eAT-Karte zu erheben, wenn die Neuausstellung notwendig wird aufgrund
 einer Änderung von übrigen Angaben nach § 78 Abs. 1 s. 3 Nr. 1 bis 18 AufenthG,
 des Verlustes der eAT-Karte,
-des Verlustes der technischen Funktionsfähigkeit der Karte und der Defakt auf einem unsachgemäßen Gebrauch bzw. auf einer unsachgemäßen Verwendung des Ausländers beruht (vgl. hierzu auch) oder
+des Verlustes der technischen Funktionsfähigkeit der Karte und der Defakt auf einem unsachgemäßen Gebrauch bzw. auf einer unsachgemäßen Verwendung des Ausländers beruht oder
 der Beantragung nach § 105b S. 2 AufenthG.
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
 B.AufenthV.46. Gebühren für das Visum
@@ -74,8 +79,8 @@ Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahre
 B.AufenthV.51. Widerspruchsgebühr
 Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpflichtigen Amtshandlung vor dem 01.09.2011 Widerspruch erhoben, aber erst nach dem 01.09.2011 über den Widerspruch entschieden, so bemessen sich die nach § 51 Abs. 1 Nr. 1 zu erhebenden Gebühren nach der vor dem 01.09.2011 geltenden Rechtslage.
 B.AufenthV.52. Befreiungen und Ermäßigungen
-B.AufenthV.52.o. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Auch Lebenspartner Deutscher sind gebührenfrei gestellt (§ 52 Abs. 1). Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
-B.AufenthV.52.1. Aufgrund der erhöhten Produktionskosten und des gestiegenen Bearbeitungs- und Informationsaufwands hinsichtlich der Ausstellung von eATs sind die vor dem 01.09.2011 bestehenden Gebührenbefreiungen nicht mehr im bisherigen Umfang aufrechterhalten worden. So ist die Gebührenbefreiung für Familienangehörige deutscher Staatsangehöriger weitgehend entfallen. Lediglich die Gebührenbefreiung für die Erteilung nationaler Visa bleibt bestehen. Diese Gebührenbefreiung gilt unabhängig davon, ob die Antragsteller ihr Aufenthaltsrecht von dem deutschen Staatsangehörigen ableiten. Sie ergibt sich allein aus dem beschriebenen verwandschaftlichen Verhältnis bzw. dem Status als Ehegatte oder Lebenspartner eines Deutschen. -weggefallen-
+B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Auch Lebenspartner Deutscher sind gebührenfrei gestellt (§ 52 Abs. 1). Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
+B.AufenthV.52.1. Aufgrund der erhöhten Produktionskosten und des gestiegenen Bearbeitungs- und Informationsaufwands hinsichtlich der Ausstellung von eATs sind die vor dem 01.09.2011 bestehenden Gebührenbefreiungen nicht mehr im bisherigen Umfang aufrechterhalten worden. So ist die Gebührenbefreiung für Familienangehörige deutscher Staatsangehöriger weitgehend entfallen. Lediglich die Gebührenbefreiung für die Erteilung nationaler Visa bleibt bestehen. Diese Gebührenbefreiung gilt unabhängig davon, ob die Antragsteller ihr Aufenthaltsrecht von dem deutschen Staatsangehörigen ableiten. Sie ergibt sich allein aus dem beschriebenen verwandschaftlichen Verhältnis bzw. dem Status als Ehegatte oder Lebenspartner eines Deutschen.
 B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowei die nach § 45c notwendig werdenden Neuausstellunge ist jeweils eine Gebühr in Höhe von 28,80 Euro zu erheben bzw. - wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe von 22,80 Euro. Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben.
 B.AufenthV52.3.bis B.AufenthV.52.4.2. frei
 B.AufenthV.52.5. Die Freie Universität Berlin führt Direktaustauschprogramme mit Partneruniversitäten in verschiedenen Staaten durch. Diese Direktaustauschprogramme werden zu 100 % aus Mitteln des Landes Berlin finanziert. Teilnehmern an diesen Programmen ist Gebührenbefreiung zu gewähren. Diese Partneruniversitäten sind:
@@ -133,37 +138,37 @@ Universidad Católica del Perú
 Der Nachweis ist von den Begünstigten durch Vorlage der Einladung, des Bescheides über die Stipendiumgewährung oder einer Bescheinigung der betreuenden Stelle zu führen.
 B.AufenthV.52.5.1.1. bis B.AufenthV.52.5.2. frei
 B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden. B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
-• Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
-• Medizinal- und Medizinalhilfspersonen, die im Rahmen der Entwicklungshilfe oder des Kulturprogramms des Landes Berlin von dem für das Gesundheitswesen zuständigen Mitglied des Senats zur Aus- oder Fortbildung beschäftigt werden,
-• Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
-• Forschungsstipendiaten der Alexander-von-Humboldt-Stiftung und des Deutschen Akademischen Austauschdienstes,
-• Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
-• Austauschschüler,
-• ehrenamtliche Jugend-Mitarbeiter des CVJM-Missio-Center Berlin,
-• Teilnehmer am Jugendfreiwilligendienst (Freiwilliges soziales Jahr gemäß § 3 Jugendfreiwilligendienstgesetz (JFDG) oder Freiwilliges ökologisches Jahr (§ 4 JFDG)
-• Teilnehmer am Bundesfreiwilligendienst
-• Lehrer aus Übersee, die auf Einladung deutscher öffentlicher Stellen einen Studienaufenthalt in der Bundesrepublik Deutschland nehmen, um sich mit deutschen pädagogischen Grundsätzen vertraut zu machen,
-• Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
-• Stipendiaten des "Berlin Programms" der FU Berlin,
-• Stipendiaten der Stiftung Luftbrückendank,
-• Stipendiaten der Fulbright-Kommission,
-• und Stipendiaten folgender Stiftungen:
-• Cusanuswerk
-• Evangelisches Studienwerk Villigst
-• Friedrich-Ebert-Stiftung
-• Friedrich-Naumann-Stiftung
-• Hanns-Seidel-Stiftung
-• Hans-Böckler-Stiftung
-• Konrad-Adenauer-Stiftung
-• Rosa-Luxemburg-Stiftung
-• Stiftungsverband Regenbogen
-• Studienstiftung des deutschen Volkes
-• Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
-• Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
-• Personengruppen, die in den Art. 5 und 14 des Deutsch-Russischen Regierungsabkommens über Reiserleichterungen genannt sind.
-• Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
-• nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
-• Inhaber von Diplomatenpässen für die Verlängerung eines Visums gem. § 6 Abs.3 AufenthG
+Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
+Medizinal- und Medizinalhilfspersonen, die im Rahmen der Entwicklungshilfe oder des Kulturprogramms des Landes Berlin von dem für das Gesundheitswesen zuständigen Mitglied des Senats zur Aus- oder Fortbildung beschäftigt werden,
+Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
+Forschungsstipendiaten der Alexander-von-Humboldt-Stiftung und des Deutschen Akademischen Austauschdienstes, Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
+Austauschschüler,
+ehrenamtliche Jugend-Mitarbeiter des CVJM-Missio-Center Berlin,
+Teilnehmer am Jugendfreiwilligendienst (Freiwilliges soziales Jahr gemäß § 3 Jugendfreiwilligendienstgesetz (JFDG) oder Freiwilliges ökologisches Jahr (§ 4 JFDG)
+Teilnehmer am Bundesfreiwilligendienst
+Lehrer aus Übersee, die auf Einladung deutscher öffentlicher Stellen einen Studienaufenthalt in der Bundesrepublik Deutschland nehmen, um sich mit deutschen pädagogischen Grundsätzen vertraut zu machen,
+Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
+Stipendiaten des "Berlin Programms" der FU Berlin,
+Stipendiaten der Stiftung Luftbrückendank,
+Stipendiaten der Fulbright-Kommission,
+und Stipendiaten folgender Stiftungen:
+Cusanuswerk
+Evangelisches Studienwerk Villigst
+Friedrich-Ebert-Stiftung
+Friedrich-Naumann-Stiftung
+Hanns-Seidel-Stiftung
+Hans-Böckler-Stiftung
+Konrad-Adenauer-Stiftung
+Rosa-Luxemburg-Stiftung
+Stiftungsverband Regenbogen
+Studienstiftung des deutschen Volkes
+Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
+Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
+Personengruppen, die in den Art. 5 und 14 des Deutsch-Russischen Regierungsabkommens über Reiserleichterungen genannt sind.
+Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
+nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
+Mitarbeiter der Türkisch-Zypriotischen Repräsentanz in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
+Inhaber von Diplomatenpässen für die Verlängerung eines Visums gem. § 6 Abs.3 AufenthG
 B.AufenthV.52. 8.
 Gem. dem Abs. 8 sind Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstatten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28.09.2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), u.a. von den Gebühren für die Verlängerung eines Schengen-Visums im Bundesgebiet befreit (§ 46 Nr. 2).
 B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
@@ -207,8 +212,7 @@ Aufenthaltstitels als eAT mit dem i.V.m.
 Zusatz Ausweisersatz
 § 48 Abs. 1 S. 1 Nr. 15
 Erteilung von unbefristeten 8,00 € § 52a Abs. 2 Nr. 2
-Aufenthaltstiteln
-i.V.m.
+Aufenthaltstiteln i.V.m.
 (NE, Daueraufenthalt- EU) §§ 45b Abs. 2, 44, 44a
 jeweils als Etikett
 Überträge'' von unbefristeten 8,00 € § 52a Abs. 2 Nr. 2
@@ -288,7 +292,9 @@ Verarbeitungsmeidum nach § 78 AufenthG
 Die Vorschrift regelt bestimmte Pflichten eines eAT-Inhabers zum Umgang mit seiner eAT-Karte.
 Bei Verlust der eAT-Karte begründet Nr. 1 für den eAT-Inhaber die Pflicht, der im Inland zuständigen Ausländerbehörde oder
 - sofern der eAT im Ausland verloren geht - einer deutschen Auslandsvertretung anzuzeigen. Sofern die Online-Ausweisfunktion der eAT-Karte eingeschaltet ist, ist diese zu sperren. In jedem Fall ist eine neue eAT-Karte gebührenpflichtig zu bestellen. Taucht die als verloren gemeldete eAT-Karte wieder auf, ist der Betroffene verpflichtet, der zuständigen Behörde das Wiederauffinden anzuzeigen und die "alte" eAT-Karte vorzulegen. Die rechtzeitige Anzeige einer wiederaufgefundenen eAT-Karte eröffnet der Behörde die Möglichkeit zu entscheiden, ob diese einbehalten wird oder eine Entsperrung und Weiternutzung in Betracht kommt. Denn eine "alte" eAT-Karte kann nur dann ggf. entsperrt und weitergenutzt werden, wenn noch keine neue eAT- Karte bei der Bundesdruckerei bestellt wurde.
-Nach § 57a Nr. 2 ist der betroffene eAT-Inhaber verpflichtet, sofern er von dem Defekt des in der Karte vorhandenen Chips Kenntnis erlangt, diese der zuständigen Behörde vorzulegen. eine neue eAT-Karte ist zu bestellen. Kann keine unsachgemäße Einwirkung von außen festgestellt werden, erfolgt die Bestellung gebührenfrei (vgl.). Dem Betroffenen ist in der Zeit der Bestellung der neuen eAT-Karte nach seiner Wahl entweder eine Bescheinigung über sein bestehendes Aufenthaltsrecht oder sein (bestehender) Aufenthaltstitel in Form eines Klebeetiketts auszustellen. Die Bescheinigung sowie das Klebeetikett sind im Fall des Verlustes des eAT und bei Feststellung einer unsachgemäßen Einwirkung jeweils gebührenpflichtig. Für eine Bescheinigung ist eine Gebühr in Höhe von 10 Euro zu erheben. Für ein Klebeetikett richtet sich die Gebühr nach § 45b, da es sich um eine Ausstellung im Ausnahmefall nach § 78a Abs. 1 handelt. Erhält der Betroffene die neue eAT-Karte, ist der Aufenthaltstitel in Form des Klebeetiketts als ungültig zu stempeln. B.AufenthV.58. Vordruckmuster
+Nach § 57a Nr. 2 ist der betroffene eAT-Inhaber verpflichtet, sofern er von dem Defekt des in der Karte vorhandenen Chips Kenntnis erlangt, diese der zuständigen Behörde vorzulegen. eine neue eAT-Karte ist zu bestellen. Kann keine unsachgemäße Einwirkung von außen festgestellt werden, erfolgt die Bestellung gebührenfrei.
+Dem Betroffenen ist in der Zeit der Bestellung der neuen eAT-Karte nach seiner Wahl entweder eine Bescheinigung über sein bestehendes Aufenthaltsrecht oder sein (bestehender) Aufenthaltstitel in Form eines Klebeetiketts auszustellen. Die Bescheinigung sowie das Klebeetikett sind im Fall des Verlustes des eAT und bei Feststellung einer unsachgemäßen Einwirkung jeweils gebührenpflichtig. Für eine Bescheinigung ist eine Gebühr in Höhe von 10 Euro zu erheben. Für ein Klebeetikett richtet sich die Gebühr nach § 45b, da es sich um eine Ausstellung im Ausnahmefall nach § 78a Abs. 1 handelt. Erhält der Betroffene die neue eAT-Karte, ist der Aufenthaltstitel in Form des Klebeetiketts als ungültig zu stempeln.
+B.AufenthV.58. Vordruckmuster
 Die Ausstellung von Reiseausweisen nach § 4 Abs. 1 S. 1 Nr. 1, 3 und 4 mit maschinenlesbaren biometrischen Daten erfolgt durch die Bundesdruckerei auf besonderem Muster, das sich von den vorläufigen Dokumenten durch ein Symbol auf der Deckseite unterscheidet, mit dem alle biometrischen Pässe gekennzeichnet werden. Die biometrischen Reiseausweise werden nicht verlängert (§ 58 S. 2).
 Für zwei Jahre ab Inkrafttreten des 2. ÄndG (also bis zum 27.08.2009) durften die alten Vordruckmuster für die Ausstellung von vorläufigen, durch die ABH ausgestellten Reiseausweisen noch weiter verwendet werden Ab
 September 2009 finden ausschließlich nur noch die neuen Dokumentenvordrucke Verwendung (erkennbar an dem Wegfall des Feldes "Ordens- oder Künstlername" und dem Druckstand 07/07 in der hinteren Passdecke).
@@ -309,13 +315,13 @@ Estnisch: „Rahvusvahelise kaitse andis EST (=Name des Mitgliedstaats) (Datum)�
 Finnisch: „FIN (=Name des Mitgliedstaats) myöntänyt kansainvälistä suojelua (Datum).“
 Französisch: “FRA (=Name des Mitgliedstaats) a accordé la protection internationale le (Datum)”.
 Griechisch: “ GRC (=Name des Mitgliedstaats) (Datum)”.
-Italienisch: “Protezione internazionale concessa da ITA (=Name des Mitgliedstaats) il (Datum)”. Lettisch: “Starptautisk aizsardzba, piešrusi LVA (=Name des Mitgliedstaats) (Datum)”.
+Italienisch: “Protezione internazionale concessa da ITA (=Name des Mitgliedstaats) il (Datum)”.
+Lettisch: “Starptautisk aizsardzba, piešrusi LVA (=Name des Mitgliedstaats) (Datum)”.
 Litauisch: „(Datum) tarptautin apsaug suteik LTU (=Name des Mitgliedstaats).“
 Maltesisch: „Protezzjoni internazzjonali mogtija minn MLT (=Name des Mitgliedstaats) fi (Datum)“.
 Niederländisch: „Internationale bescherming verleend op (Datum) door NLD (=Name des Mitgliedstaats)”.
 Polnisch: „Ochrona midzynarodowa przyznana przez POL (=Name des Mitgliedstaats) w dniu (Datum)“.
-Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”.
-Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
+Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”. Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
 Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnutá v SVK (=Name des Mitgliedstaats) (Datum)“.
 Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
 Schwedisch: „Internationellt skydd beviljat av SWE (=Name des Mitgliedstaats) den (Datum)“.
@@ -359,7 +365,7 @@ B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten,
 Schlussvorschriften
 (8. ÄndVO AufenthV; 04.07.2013)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
-In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg (Hinweise zur Verarbeitung sind unter für Reiseausweise bzw. ' für eATs zusammengefasst).
+In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg.
 Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht.
 Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
