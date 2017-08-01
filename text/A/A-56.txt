@@ -1,10 +1,13 @@
 VAB A 56
 VAB A 56
-A.56. Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
-(01.01.2016 - NeubestG))
+A.56. Überwachung ausreisepflichtiger Ausländer aus Gründen der inneren
+Sicherheit
+(NeubestG, 28.07.2017, ÄndG Ausreisepflicht)
 56.0. Die Ausländerbehörde hat eine ganze Reihe von Möglichkeiten, um ausgewiesene Ausländer zu überwachen bzw. Gefahren für die innere Sicherheit abzuwenden.
-§ 56 Abs. 1 S. 1 nennt eine Meldepflicht von Gesetzes wegen, auf die bei der Ausweisung hingewiesen werden sollte. In allen sonstigen Fällen, in denen Ausweisungen verfügt werden, hat die Ausländerbehörde künftig ein Ermessen, dies mit einer Meldepflicht bei der Polizei zu verknüpfen. Hier wird dann im Einzelfall immer auch die sofortige Vollziehbarkeit der Anordnung zu prüfen sein (Abs. 5 S. 2 gilt nicht).
-Auch die Möglichkeiten des § 56 Abs. 3 und 4 gelten nach dem Wortlaut, wenn eine Meldepflicht nach Abs. 1 S. 2 angeordnet wurde. Praktisch dürfte von diesen Regelungen aber eher selten Gebrauch gemacht werden. In den Fällen, in denen eine Verpflichtung zur Wohnsitznahme außerhalb des Bezirks der Ausländerbehörde angeordnet wird, kommt auch nach Auffassung des BMI vom 27.09.2004 § 72 Abs. 3 analog zur Anwendung.
-Alle Maßnahmen bedürfen gem. § 77 in der Fassung des 1. Änderungsgesetzes der Schriftform.
 Der wiederholte Verstoß gegen Pflichten aus dieser Vorschrift ist gem. § 95 Abs. 1 Nr. 6a strafbewehrt.
-56.1.1. bis 56.5.2. frei
+56.1. Die Möglichkeiten des § 56 Abs. 3 und 4 gelten nach dem Wortlaut, wenn eine Meldepflicht nach Abs. 1 S. 1 besteht oder nach S. 2 angeordnet wurde. Praktisch dürfte von diesen Regelungen aber eher selten Gebrauch gemacht werden. In den Fällen, in denen eine Verpflichtung zur Wohnsitznahme außerhalb des Bezirks der Ausländerbehörde angeordnet wird, kommt auch nach Auffassung des BMI vom 27.09.2004 § 72 Abs. 3 analog zur Anwendung.
+Alle Maßnahmen bedürfen gem. § 77 Abs. 1 Satz 1 Nr. 7 der Schriftform.
+56.1.1. § 56 Abs. 1 S. 1 nennt eine Meldepflicht von Gesetzes wegen, auf die bei der Ausweisung hingewiesen werden sollte.
+56.1.2.1. Für eine Anordnung der Meldepflicht und weiterer Überwachungsmaßnahmen im Ermessen genügt das Vorliegen der in § 54 Abs. 1 Nr. 2 bis 5 genannten Ausweisungsinteressen; der Erlass einer hierauf gestützten Ausweisung ist nicht erforderlich. Bei bestehender vollziehbarer Ausreisepflicht können Überwachungsmaßnahmen im Einzelfall ohne die bei Erlass einer Ausweisung notwendige Abwägung zwischen öffentlichem und Bleibeinteresse des Ausländers angeordnet werden; die sofortige Vollziehung der Anordnung ist zu prüfen.
+56.1.2.2. Auch i n allen sonstigen Fällen, in denen Ausweisungen verfügt werden, hat die Ausländerbehörde in Ermessen, dies mit einer Meldepflicht bei der Polizei zu verknüpfen. Auch in diesen Fällen ist die sofortige Vollziehbarkeit der Anordnung zu prüfen (Abs. 5 S. 2 gilt nicht).
+56. 2. bis 56.5.2. frei

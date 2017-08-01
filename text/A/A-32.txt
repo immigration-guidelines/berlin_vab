@@ -2,6 +2,7 @@ VAB A 32
 VAB A 32
 Inhaltsverzeichnis
 A.32. Kindernachzug
+Änderungsdatum
 32.0.1. Allgemeines
 32.0.2. Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
 Sorgerechtsübertragung durch ausländische Gerichtsentscheidung
@@ -13,8 +14,10 @@ Kindernachzug unter 16 Jahren
 32.2. Sprachkenntnisse
 32.3. KIndernachzug bei gemeinsamen Sorgerecht und einem im Ausland aufhältlichen Elternteil
 32.4. Kindernachzug im Ermessen
+32.5. mobile Forscher begleitende minderjährige ledige Kinder
 A.32. Kindernachzug
-(NeubestG; 20.09.2016; 18.10.2016)
+Änderungsdatum
+(18.10.2016, RiLiUmsG2017)
 32.0.1. Allgemeines
 Der Nachzug setzt in allen Fällen des § 32 voraus, dass das Kind nicht verheiratet, geschieden oder verwitwet ist und das
 18. Lebensjahr noch nicht vollendet hat (vgl. § 80 Absatz 3 Satz 1; hiervon abweichende Volljährigkeitsgrenzen nach dem Recht der Herkunftsstaaten sind unerheblich). Darüber hinaus kommt ein Kindernachzug nur nach § 36 Absatz 2 in Fällen einer außergewöhnlichen Härte im Ermessenswege in Betracht (zur Geltungsdauer vgl. A.7.2.3.1.). 32.0. 2. Nachweis der Personensorge bzw. Vaterschaftsanerkennungen im Inland
@@ -73,3 +76,6 @@ Um sicher auszuschließen, dass die aufenthaltsrechtliche Entscheidung in keinem
 32.4.1. Durch die Neufassung des § 32 Abs. 1- 3 mit dem Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern dürfte der praktische Anwendungsbereich stark eingeschränkt sein. In jedem Fall setzt eine positive Entscheidung voraus, dass die Herauslösung des Kindes aus seinen bisher bestehenden persönlichen Bindungen jenseits des § 32 Abs. 1 – 3 schon nach dem Wortlaut des § 32 Abs. 4 maßgeblich dem Wohl des Kindes dienen. Die Feststellung ist im Sinne einer offenen Abwägung bei gleichwertiger Betrachtung des Lebensumfelds beider Eltern zu treffen; nicht ausschlaggebend ist ein abstrakter Vergleich des allgemeinen Lebensstandards im Herkunftsland und in Deutschland (vgl. dazu noch zum alten Recht auch VG Berlin, Urteil vom 15.10.2010 - VG 28 K 152.09 V-).
 Zur Kindeswohlprüfung sind geeignete Nachweise zur familiären Kindessituation im Ausland beizubringen. Soweit deutsche Auslandsvertretungen im Rahmen des Visumsverfahrens des Kindes auf einer Stellungnahme des örtlichen Jugendamtes beharren, leiten wir entsprechende Bitten im Wege der Amtshilfe an das Jugendamt zur unmittelbare Beantwortung an die anfragende Auslandsvertretung weiter. Im übrigen ist bei der Ausübung des Ermessens nach § 32 Absatz 4 auch die in den § 32 Absatz 1 und 2 enthaltene, auf das Kindesalter und die individuelle Integrationsprognose abstellende Gesetzessystematik zu berücksichtigen.
 32.4.2. frei
+32.5. mobile Forscher begleitende minderjährige ledige Kinder
+Minderjährige ledige Kinder von kurzfristig mobilen Forschern bedürfen keines Aufenthaltstitels, sofern sie sich bereits in dem anderen Mitgliedstaat als Kinder des Forschers rechtmäßig aufgehalten haben, die Passpflicht erfüllen und in der Bedarfsgemeinschaft mit dem Forscher ihren Lebensunterhalt sichern. Es ist nicht erforderlich, dass der Forscher und seine Kinder zeitgleich einreisen. Die Befreiung vom Erfordernis eines Aufenthaltstitels richtet sich nach der Dauer der kurzfristigen Mobilität des Forschers. Dies liegt zum einen daran, dass die REST-Richtlinie die Bescheinigung nur für die Forscher selbst vorsieht (Art. 28 Abs. 10). Zum anderen ist die Ausstellung der Bescheinigung auch nicht erforderlich, da maßgebliches Dokument ohnehin der Aufenthaltstitel des anderen Mitgliedstaates ist.
+Da der Stammberechtigte die Rechtmäßigkeit seines Aufenthalts und seiner Beschäftigung mittels der Bescheinigung des BAMF nachweisen kann und die Rechtmäßigkeit des Aufenthalts des Kindes sich aus dem Gesetz ergibt, besteht für die weitere Ausstellung von Bescheinigungen und Titeln durch die Ausländerbehörde kein Sachbescheidungsinteresse. Vorsprechende Kunden sind an die Nationale Kontaktstelle des BAMF zu verweisen.

@@ -1,14 +1,15 @@
 VAB D 59b
 VAB D 59b
 D.59b. Anordnung der räumlichen Beschränkung
-(RechtstverbG)
+(RechtstverbG; ÄndG Ausreisepflicht)
 59b.0. Die mit dem Rechtsstellungsverbesserungsgesetz eingeführte Vorschrift eröffnet der Ausländerbehörde in bestimmten Fällen die Möglichkeit, eine kraft Gesetzes erloschene räumliche Beschränkung der Aufenthaltsgestattung (vgl. § 59a Abs. 1) behördlich wieder anzuordnen. Der Aufenthalt wird dabei räumlich auf das Land Berlin beschränkt. Verstöße gegen die so angeordnete räumliche Beschränkung sind ebenso wie Verstöße gegen eine räumliche Beschränkung kraft Gesetzes sanktionsbewehrt (einmaliger Verstoß =Ordnungswidrigkeit, mehrmaliger Verstoß=Straftat).
 59b.1.1. Eine räumliche Beschränkung der Aufenthaltsgestattung kann auch nach ihrem Erlöschen kraft Gesetzes durch die zuständige Ausländerbehörde (wieder) angeordnet werden, wenn der Ausländer wegen einer Straftat rechtskräftig verurteilt wurde. Eine räumliche Beschränkung wird deshalb angeordnet bei Ausländern, die zu einer Jugend- oder Freiheitsstrafe oder Geldstrafe von mehr als 180 Tagessätzen (additiv) verurteilt wurden; Sie soll angeordnet werden bei Strafhäftlingen im Freigang (siehe hierzu auch A.60a.s.2.).
 Erziehungsmaßregeln und Zuchtmittel im Sinne des JGG bleiben dabei außer Betracht wie auch alle Verurteilungen nach § 95 AufenthG – außer § 95 Abs. 1 Nr. 8 und § 95 Abs. 2 Nr. 2 AufenthG - und § 85 AsylVfG.
 59b.1.2. Eine räumliche Beschränkung der Aufenthaltsgestattung kann ferner angeordnet werden, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass der Ausländer gegen Vorschriften des BtMG verstoßen hat. Ausweislich des Berichts über den Beratungsverlauf im Innenausschuss des Deutschen Bundestages im Rahmen des
 Gesetzgebungsverfahrens sind „Tatsachen, die die Schlussfolgerung rechtfertigen“ solche, die verwertbar sind, dem Betroffenen vorgehalten und im Zweifelsfall auch belegt werden können. Das Vorliegen hinreichenden Tatverdachts – und damit insbesondere die Erhebung einer Anklage – ist dabei nicht erforderlich. Daraus folgt, dass bei Einleitung eines Ermittlungsverfahrens wegen des Verstoßes gegen das BtMG (z.B. Mitteilung in KK Sicherheit), Ausländern, die wegen eines Verstoßes gegen das BtMG nur deshalb nicht verurteilt wurden, weil die Betäubungsmittel lediglich zum Eigenverbrauch hergestellt oder erworben wurden (§ 29 Abs. 5 BtMG) sowie bei
-Ausländern, bei denen lediglich aus den vorgenannten Gründen von der Strafverfolgung abgesehen wurde (§ 31a BtMG) eine räumliche Beschränkung angeordnet wird.'
+Ausländern, bei denen lediglich aus den vorgenannten Gründen von der Strafverfolgung abgesehen wurde (§ 31a BtMG) eine räumliche Beschränkung angeordnet wird.
 Wurden die Straftaten allerdings ausschließlich in Berlin begangen, wird das behördliche Ermessen zugunsten des Betroffenen ausgeübt und keine räumliche Beschränkung verfügt. Die Wohnsitzauflage bleibt hiervon unberührt.
 59b.1.3. Diese Vorschrift sieht die Möglichkeit vor, eine räumliche Beschränkung der Aufenthaltsgestattung anzuordnen, wenn aufenthaltsbeendende Maßnahmen konkret bevorstehen, die ABH also konkrete Schritte zur Beendigung des Aufenthalts unternommen bzw. sie bereits eingeleitet hat.
+59b.1.4. Die mit dem Gesetz zur besseren Durchsetzung der Ausreisepflicht aufgenommene Regelung eröffnet die Möglichkeit, die Bewegungsfreiheit während des anhängigen Asylverfahrens für Gefährder einzuschränken. Die ABH ist in diesem Zusammenhang auf entsprechende Hinweis der Sicherheitsbehörden angewiesen.
 59b.2. frei
 E-Mail an die VAB-Redaktion

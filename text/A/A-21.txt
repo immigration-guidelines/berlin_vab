@@ -34,7 +34,7 @@ Grundsatz
 Einschränkungen
 Erlaubnis der selbstständigen Tätigkeit für Inhaber einer aus sonstigen Gründen erteilten Aufenthaltserlaubnis resp. ausgestellten Duldung oder Aufenthaltsgestattung
 A.21. Selbstständige Tätigkeit
-(18.01.2017; 16.05.2017)
+(16.05.2017; 25.07.2017; RiLiUmsG 2017)
 Antrag Statusprüfung Katalog Berufsgruppen
 21.0. Allgemeines
 Bei § 21 Abs. 1, 2a, und 5 handelt es sich um Ermessensnormen, die gleichermaßen für Ausländer gelten, die im Ausland bereits ein Unternehmen betreiben und nach Deutschland übersiedeln wollen, wie auch für Existenzgründer, die aus dem Ausland zu diesem Zweck einreisen wollen oder sich bereits mit einem Aufenthaltstitel in Deutschland aufhalten. Begünstigt sind:
@@ -230,10 +230,12 @@ Neben den Nebenbestimmungen in VAB.A.21.4.1. ist die AE zusätzlich mit der Nebe
 zu versehen.
 21.6. Erlaubnis der selbstständigen Tätigkeit an Inhaber anderer Aufenthaltserlaubnisse
 Grundsatz
-§ 21 Absatz 6 regelt die Voraussetzungen, unter denen Ausländer, denen eine Aufenthaltserlaubnis zu einem anderen Zweck erteilt worden ist, die selbständige Tätigkeit - grundsätzlich ohne Mitwirkung der Senatsverwaltung für Wirtschaft, Energie und Betriebe oder der Senatsverwaltung für Bildung, Jugend und Familie - erlaubt werden kann, ohne dass sich daraus für die ausländerbehördliche Praxis Änderungen ergeben.
-Bezüglich der Ermöglichung einer selbstständigen Tätigkeit für Titelinhaber, die nicht § 21 Abs. 1, 2a oder Abs. 5 unterfallen und bei denen die selbstständige Tätigkeit nicht ohnehin bereits durch das Aufenthaltsgesetz erlaubt ist (vgl. etwa §§ 27 Abs. 5, 25 Abs. 1 S. 4) wird die selbstständige Tätigkeit grundsätzlich ermöglicht. Gleiches gilt auch für Inhaber einer Blauen Karte EU (vgl. § 4 Abs. 1 S. 3).
+§ 21 Absatz 6 regelt die Voraussetzungen, unter denen Ausländer, denen eine Aufenthaltserlaubnis zu einem anderen Zweck erteilt worden ist, die selbständige Tätigkeit - grundsätzlich ohne Mitwirkung der für Wirtschaft zuständigen Senatsverwaltung oder der Senatsverwaltung für Bildung, Jugend und Familie - erlaubt werden kann, ohne dass sich daraus für die ausländerbehördliche Praxis Änderungen ergeben.
+Bezüglich der Ermöglichung einer selbstständigen Tätigkeit für Titelinhaber, die nicht § 21 Abs. 1, 2a oder Abs. 5 unterfallen und bei denen die selbstständige Tätigkeit nicht ohnehin bereits durch das Aufenthaltsgesetz erlaubt ist (vgl. etwa §§ 27 Abs. 5, 25 Abs. 1 S. 4) wird die selbstständige Tätigkeit grundsätzlich ermöglicht. Gleiches gilt auch für Inhaber einer Blauen Karte EU (vgl. § 4 Abs. 1 S. 3) einer ICT-Karte oder einer Mobilen ICT-Karte.
 Dies gilt insbesondere auch für türkische Staatsangehörige, die nach dem ARB 1/80 privilegiert sind und denen kein stärkeres Aufenthaltsrecht nach nationalem Recht zusteht und eine Aufenthaltserlaubnis auf der Grundlage von § 4 Abs. 5 erhalten.
-Auch bei Aufenthaltstiteln nach § 7 Abs. 1 S. 3 gilt, dass grundsätzlich die Auflage „selbständige Tätigkeit gestattet“ verfügt wird. Für Ausnahmen von diesem Grundsatz vgl. A 7.1.3.
+Auch bei Aufenthaltstiteln nach § 7 Abs. 1 S. 3 gilt, dass grundsätzlich die Auflage
+„selbständige Tätigkeit gestattet“
+verfügt wird. Für Ausnahmen von diesem Grundsatz vgl. A 7.1.3.
 Einschränkungen
 Im Einzelnen gelten folgende Einschränkungen zu diesem Grundsatz:
 In den Fällen, in denen zur Aufnahme einer Beschäftigung durch die BeschV eine zeitliche Begrenzung bestimmt ist, wird grundsätzlich der Zusatz

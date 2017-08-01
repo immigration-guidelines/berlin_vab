@@ -1,8 +1,10 @@
 VAB A 77
 VAB A 77
 A.77. Schriftform; Ausnahme von Formerfordernissen
-(SchutzberArb; NeubestG)
+(NeubestG; RiLiUmsG 2017)
 77.1. 0. Zur besseren Verständlichkeit wird § 77 Abs. 1 durch das Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern neu strukturiert, ohne im Wesentlichen inhaltlich geändert zu werden. Lediglich § 77 Abs. 1 Nr. 1 b), wonach die Versagung der Änderung und Aufhebung einer Nebenbestimmung zu einem Aufenthaltstitel immer der Schriftform sowie einer Begründung bedarf wurde ergänzt. Dies ist allerdings ohne praktische Bedeutung, weil bereits zuvor so verfahren wurde.
-77.1.1. bis 77.2. 2. frei
+77.1.1. frei
+77.1a. Die ICT-Richtlinie sieht vor, dass auch der aufnehmenden Niederlassung bzw. dem aufnehmenden Unternehmen die Gründe für den Entzug eines in den Anwendungsbereich der Richtlinie fallenden Aufenthaltstitels, d.h. der ICT- Karte zw. Mobilen ICT- Karte mitzuteilen sind. Eine Durchschrift des ablehnenden Bescheides ist daher dem aufnehmenden Unternehmen zur Kenntnis zu übersenden.
+77.2. frei
 77.3.1. Neben Entscheidungsformel und Rechtsbehelfsbelehrung ist auch der Hinweis auf die Ausreisepflicht und eine ggf. gewährte Ausreisefrist zu übersetzen. Eine Übersetzung erfolgt nur auf Antrag. Dabei spielt es keine Rolle, ob der Betroffene anwaltlich vertreten ist oder nicht. Das Übersetzungserfordernis besteht nicht, wenn der Ausländer in ausreichendem Maß der deutschen Sprache mächtig ist. Eine Übersetzung muss dem Ausländer auch dann nicht vorgelegt werden, wenn er unerlaubt in das Bundesgebiet eingereist ist oder auf Grund einer strafrechtlichen Verurteilung ausgewiesen worden ist. In diesen Fällen erhält der Ausländer ein Standardformular mit Erläuterungen, die in mindestens fünf der am häufigsten verwendeten oder verstandenen Sprachen bereitgehalten werden. Eine Übersetzung ist auch dann nicht erforderlich, wenn der Ausländer noch nicht eingereist oder bereits ausgereist ist.
 77.3.2. bis 77.3.5. frei

@@ -1,7 +1,7 @@
 VAB A 87
 VAB A 87
 A.87. Übermittlungen an Ausländerbehörden
-(04.02.2014; DatenaustauschVerbG)
+(04.02.2014; DatenaustauschVerbG; ÄndG Ausreisepflicht)
 87.1. Die Entstehung einer Übermittlungspflicht der öffentlichen Stellen auf Ersuchen der Ausländerbehörde hängt von der Erforderlichkeit der Übermittlung für die in § 86 S. 1 genannten Zwecke ab.
 87.2.1. frei
 87.2.2. § 87 Abs. 2 Satz 2 enthält eine Mitteilungspflicht öffentlicher Stellen von Amts wegen, sobald diese im Zusammenhang mit der Erfüllung ihrer Aufgaben von einer besonderen Integrationsbedürftigkeit eines Ausländers Kenntnis erlangen. Die Mitteilungspflicht besteht in Hinblick auf die Möglichkeit der Ausländerbehörde, einen solchen Ausländer gemäß § 44a Abs. 1 Satz 1 Nr. 3 zu einem Integrationskurs zu verpflichten. Die Regelung soll laut Gesetzesbegründung vor allem solche Ausländer betreffen, die wegen langfristiger Aufenthaltstitel der Ausländerbehörde aus dem Blick geraten sind.
@@ -13,4 +13,4 @@ Die praktische Bedeutung der Regelung dürfte gering sein. Erfolgt eine Mitteilu
 87.4.2. frei
 87.5.1. § 87 Abs. 5 Nr. 1 formuliert eine Mitteilungspflicht der Staatsanwaltschaft, des Strafgerichts oder der Polizei, über Umstände, die den Widerruf einer Aufenthaltserlaubnis für Zeugen gemäß § 25 Abs. 4a bzw. 4b oder die Verkürzung einer nach § 59 Abs. 7 diesem Personenkreis gewährten Ausreisefrist rechtfertigen können. Diese Vorschrift betrifft z.B. Fälle, in denen Zeugen ihre (weitere) Kooperation mit den genannten Behörden versagen.
 87.5.2. § 87 Abs. 5 Nr. 2 formuliert eine Mitteilungspflicht der Staatsanwaltschaft, des Strafgerichts oder der Polizei, über (gewechselte) Zuständigkeiten der Strafverfolgungsbehörden in Fällen des § 25 Abs. 4a bzw. bzw. 4b oder des § 59 Abs. 7.
-87.6. s. A.27.1a.1.
+87.6.

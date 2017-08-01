@@ -2,6 +2,7 @@ VAB A 18
 VAB A 18
 Inhaltsverzeichnis
 A.18. Beschäftigung
+Änderungsdatum
 18.0. Grundsätze
 Tunesische Staatsangehörige
 Zulassung zum Aufenthalt und zur Erwerbstätigkeit
@@ -12,10 +13,12 @@ Zulassung zum Aufenthalt und zur Erwerbstätigkeit
 18.2.1.4. Arbeitslosigkeit eines Beschäftigten
 18.2.1.5. Verlängerung der Aufenthaltserlaubnis
 18.4. Beschäftigung mit qualifizierter Berufsausbildung
+18.4a. Tätigkeit im Beamtenverhältnis zu einem deutschen Dienstherrn
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 18.6. Versagungsgründe
 A.18. Beschäftigung
-(13.12.2016; 18.01.2017)
+Änderungsdatum
+(18.01.2017, RiLiUmsG2017)
 18. 0. Grundsätze
 Tunesische Staatsangehörige
 Für tunesische Staatsangehörige ergibt sich kein Anspruch auf Verlängerung einer Aufenthaltserlaubnis zum Zwecke einer Beschäftigung aus dem Diskriminierungsverbot des Art. 64 Abs. 1 des Europa-Mittelmeer-Abkommens/Tunesien (s. BVerwG 1 C 14.08, Urteil vom 08.12.2009). Diese Bestimmung sieht vor, dass jeder Mitgliedstaat den in seinem Hoheitsgebiet beschäftigten tunesischen Staatsangehörigen hinsichtlich der Arbeits-, Entlohnungs- und Kündigungsbedingungen eine Behandlung gewährt, die keine auf der Staatsangehörigkeit beruhende Benachteiligung gegenüber seinen Staatsangehörigen bewirkt.
@@ -46,7 +49,8 @@ Geduldete oder Gestattete beantragen eine AE nach § 18 unter Berufung etwa auf 
 Vgl. dazu die Ausführungen unter B.BeschV.9.
 18.2.2. einstweilen frei
 18.4. Beschäftigung mit qualifizierter Berufsausbildung
-18.4.0. Aufenthaltserlaubnisse nach § 18 Abs. 4 Satz 1 oder Satz 2 sind grundsätzlich mit der Nebenbestimmung „Erlischt mit dem Bezug v. Leistungen nach dem SGB II oder SGB XII bzw. AsylbLG“
+18.4.0. Aufenthaltserlaubnisse nach § 18 Abs. 4 Satz 1 oder Satz 2 sind grundsätzlich mit der Nebenbestimmung
+„Erlischt mit dem Bezug v. Leistungen nach dem SGB II oder SGB XII bzw. AsylbLG“
 sowie
 Beschäftigung n. gestattet mit Ausnahme der Tätigkeit als …. bei….“
 zu versehen.
@@ -54,8 +58,16 @@ zu versehen.
 18.4.2. Ist die Tätigkeit nicht in der BeschV oder einer zwischenstaatlichen Vereinbarung genannt, so kann nur in den Fällen, in denen eine qualifizierte Ausbildung Voraussetzung ist (vgl. dazu auch OVG Berlin-Brandenburg, Beschluss vom 27.01.2011 - OVG 2 S 60.10 -), einzelfallbezogen eine Ausnahme zugelassen werden (Abs. 4 S. 2). Hierzu muss dann allerdings ein öffentliches insbesondere ein regionales, wirtschaftliches oder arbeitsmarktpolitisches Interesse bestehen. Zu Ärzten in Weiterbildung beachte A.17.3.
 Ob ein arbeitsmarktpolitisches Interesse besteht, beurteilt ausweislich Nr. 18.4.3 VwV- AufenthG ausschließlich die Bundesagentur für Arbeit, die insofern zu beteiligen ist. Soll der Titel allerdings auf Grund eines sonstigen öffentlichen Interesses erteilt werden, bedarf es der Beteiligung der Bundesagentur nicht.
 Dies gilt etwa in den Fällen der Beschäftigung israelischen Sicherheitspersonals durch die jüdische Gemeinde oder die israelische Fluglinie EL AL, für die Beschäftigung als Lehrpersonal an der saudischen König-Fahd-Akademie oder aber bei E-Sportlern, die für oder im Rahmen von computergestützten Wettkämpfen tätig sind. Bei der Erteilung von Aufenthaltserlaubnissen nach § 18 Abs. 4 S. 2 ist die Beschäftigung allerdings auf die konkrete Beschäftigung bei dem Arbeitgeber für die Geltungsdauer des Titels zu beschränken. In all diesen Fällen ist die Entscheidung den Sachgebietsleitern und Hauptsachbearbeitern vorbehalten.
+18.4a. Tätigkeit im Beamtenverhältnis zu einem deutschen Dienstherrn
+Sowohl § 7 Absatz 3 des Bundesbeamtengesetzes als auch § 7 Absatz 3 des Beamtenstatusgesetzes sehen vor, dass auch Personen ohne deutsche Staatsangehörigkeit in das Beamtenverhältnis berufen werden dürfen. Nach dem Beamtenstatusgesetz betrifft dies insbesondere Hochschullehrer und andere Mitarbeiter des wissenschaftlichen und künstlerischen Personals. Da auch Ausländer für diese Tätigkeit einwandern und in das Beamtenverhältnis berufen werden, wurde mit dem Richtlinienumsetzungsgesetz 2017 ein neuer Aufenthaltstitel eingeführt.
+Durch die Reglung in Satz 3 erhalten Inhaber dieses Titels abweichend von § 9 Abs. 2 Satz 1 Nummer 1 und 3 bereits nach drei Jahren eine Niederlassungserlaubnis. Voraussetzung ist hierfür, dass der Ausländer mindestens drei Jahre in einem Beamtenverhältnis zu einem deutschen Dienstherren stand und aktuell auch noch steht. Letzteres begründet sich aus Sinn und Zweck des § 18 Abs. 4 a in diesen Fällen auf eine weitere Alterssicherung zu verzichten, da die Sicherung des Lebensunterhalts nach dem Alimentationsprinzip durch Pensionszahlungen erfolgt.
+Merke: Bei der Berechnung der Dreijahresfrist können auch Zeiten berücksichtigt werden, in denen der Ausländer nicht Inhaber eines Titlels nach § 18 Abs. 4 a S. 1 war, sondern über einen anderen Aufenthaltstitel verfügte. Maßgeblich für die Frist ist allein, ob der Betroffene in einem solchen Beamtenverhältnis stand und der Ausländer im Zeitpunkt der Entscheidung über die Niederlassungserlaubnis – zumindest für eine logische Sekunde – Inhaber eines solchen Titels nach § 18 Abs. 4a S. 1 gewesen ist. Die tatsächliche Erteilung der Aufenthaltserlaubnis ist aber nicht erforderlich.
+§ 18 Absatz 4a Satz 3 stellt anders als § 18 Abs. 4 a keine eigenständige Erteilungsgrundlage für die Niederlassungserlaubnis dar.
 18.5. Vorliegen eines konkreten Arbeitsplatzangebotes
 In jedem Fall ist ein konkretes Arbeitsplatzangebot erforderlich. Ist für eine Berufsausübung eine Erlaubnis vorgeschrieben, muss der Ausländer das Vorliegen der Erlaubnis bzw. deren Zusage vor Erteilung des Titels nachweisen. Soweit der Beruf im Land Berlin reglementiert ist (z.B. Human-, Zahn-, und Veterinärmedizin, Ingenieuer-wesen, Notariat oder Lehrberufe an staatlichen Schulen) ist die jeweilige Fachbehörde zuständig, an die der Betroffene jeweils zu verweisen ist.
 Merke: Die Vorschrift lässt zumindest offen, ob das Vorliegen einer Berufsausübungserlaubnis schon vor der Beteiligung der BA vorliegen muss und sodann das Vorliegen auch durch diese geprüft wird. Aus Gründen der Verwaltungseffizienz sollte die Beteiligung der BA auch ohne Vorliegen einer Berufsaus-übungserlaubnis oder deren Zusage erfolgen, so der Antragsteller glaubhaft macht, die erforderlichen An-träge gestellt zu haben. Die Prüfung des Vorliegens einer Berufsausübungserlaubnis obliegt den Auslän-derbehörden. Die Erteilung der Aufenthaltserlaubnis mit der aufschiebenden Bedingung der vorliegenden Berufsausübungserlaubnis ist gem. Abs. 5 zwingend ausgeschlossen.
 18.6. Versagungsgründe
-Mit der zum 1.8.2012 neu in das Gesetz aufgenommenen Vorschrift des Abs. 6 kann die Erteilung oder Verlängerung einer AE zur Ausübung einer zustimmungsfreien Beschäftigung von der Ausländerbehörde versagt werden, wenn die Beschäftigung bei einem Arbeitgeber erfolgen soll, der wegen illegaler Beschäf-tigung mit einer Geld- oder Freiheitsstrafe bestraft worden ist oder gegen den aus diesem Grund eine Geldbuße festgesetzt worden ist. Regelmäßig dürfte die Ausländerbehörde keine Kenntnis hierüber haben. Da hier zudem auf Grund eines Tatbestandes, der nicht durch den Antragsteller zu vertreten ist, in seine Rechte eingegriffen wird, dürfte von dieser Möglichkeit nur in Ausnahmefällen Gebrauch gemacht werden. Die Entscheidung obliegt den Sachgebietsleitungen bzw. deren Vertretern.
+Mit der Vorschrift des Abs. 6 kann die Erteilung oder Verlängerung einer AE zur Ausübung einer
+zustimmungsfreien Beschäftigung von der Ausländerbehörde versagt werden, wenn die Beschäftigung bei einem Arbeitgeber erfolgen soll, der wegen illegaler Beschäf-tigung mit einer Geld- oder Freiheitsstrafe bestraft worden ist oder gegen den aus diesem Grund eine Geldbuße festgesetzt worden ist.
+Für die Erteilung oder Verlängerung einer ICT-Karte gelten darüber hinaus Versagungsgründe des § 40 Abs. 3: Nichterfüllung der rechtlichen Verpflichtungen in Bezug auf Sozialversicherung, Steuern, Arbeitnehmerrechte sowie Arbeits- und Beschäftigungsbedingungen durch den Arbeitgeber; Insolvenz oder Geschäftsuntätigkeit des Arbeitgebers; Einflussnahme auf arbeitsrechtliche oder betriebliche Auseinandersetzungen. Zur Absicherung dieser Anforderungen ermöglicht § 18 Abs. 6 i.V.m. § 40 Abs. 3 die Versagung in den Fällen, in denen keine Zustimmung der Bundesagentur erforderlich ist.
+Regelmäßig dürfte die Ausländerbehörde keine Kenntnis vom Vorliegen dieser Versagungsgründe haben. Da hier zudem auf Grund eines Tatbestandes, der nicht durch den Antragsteller zu vertreten ist, in seine Rechte eingegriffen wird, dürfte von dieser Möglichkeit nur in Ausnahmefällen Gebrauch gemacht werden. Die Entscheidung obliegt den Sachgebietsleitungen bzw. deren Vertretern.

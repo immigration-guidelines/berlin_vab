@@ -2,6 +2,7 @@ VAB A 25
 VAB A 25
 Inhaltsverzeichnis
 A.25. Aufenthalt aus humanitären Gründen
+Änderungsdatum
 A.25.1. Anerkannte Asylberechtigte
 A.25.2. Flüchtlingseigenschaft nach dem Abkommen über die Rechtsstellung der Flüchtlinge (Genfer Flüchtlingskonvention)/Subsidiärer Schutz nach § 4 AsylVfG
 A.25.3. Abschiebungsverbote gemäß § 60 Abs. 5 oder 7
@@ -26,6 +27,7 @@ A.25.s.1. Beginn und Fortsetzung einer Schul- oder Berufsausbildung bzw. eines S
 Aufnahme eines Studiums während des Besitzes einer Aufenthaltserlaubnis nach § 25 Abs. 4 Satz 1 oder Abs. 4a Aufnahme eines Studiums während des Besitzes einer Aufenthaltserlaubnis nach § 25 Abs. 5
 Fortsetzung des Studiums nach Wegfall des Ausreisehindernisses in den Fällen des § 25 Abs. 5
 A.25. Aufenthalt aus humanitären Gründen
+Änderungsdatum
 (Asylpaket II; 14.02.2017, 16.05.2017)
 A.25.1. Anerkannte Asylberechtigte
 25.1.0 § 25 Abs. 1 regelt die Rechtsfolge nach Anerkennung als Asylberechtigter.
@@ -62,8 +64,7 @@ Bei Vorliegen der Voraussetzungen ist der Ausschluss der Aufenthaltserlaubnis ge
 Im Übrigen ist auch unerheblich, wo die Taten und Handlungen nach § 25 Absatz 3 Satz 2 Nr. 1. - 4. begangen wurden. Zum Ausschluss der Aufenthaltserlaubnis führt eine Tatbegehung im Herkunftsland, in einem Drittstaat oder im Bundesgebiet. Für die Anwendung der Ausschlussklauseln ist auch keine strafrechtliche Verurteilung des Ausländers erforderlich. Umgekehrt schließt die Verbüßung einer Strafe die Anwendung der Ausschlussklauseln nicht aus.Allerdings müssen schwerwiegende Gründe die Annahme rechtfertigen, dass Ausschlusstaten begangen wurden. Dafür sind mehr als bloße Verdachtsmomente erforderlich. Andererseits sind die Beweisanforderungen geringer als die für eine strafrechtliche Verurteilung geltenden Maßstäbe. Zum Nachweis können u. a. Aussagen des Antragstellers in seiner Anhörung vor der Ausländerbehörde oder dem Bundesamt für Migration und Flüchtlinge herangezogen werden.
 25.3.2. 2. Von den allgemeinen Erteilungsvoraussetzungen – inkl. Fehlen eines Ausweisungsinteresses – ist im Ermessen abzusehen (§ 5 Abs. 3).
 Besteht eine Sperrwirkung nach § 11 Abs. 1, ist bei Vorliegen der Erteilungsvoraussetzungen zu prüfen, ob eine Aufhebung der Sperrwirkung nach § 11 Abs. 4 Satz 2 in Betracht kommt.
-Das in § 10 Abs. 3 Satz 2 festgelegte Verbot der Erteilung eines Aufenthaltstitels nach Ablehnung eines Asylantrages als offensichtlich unbegründet nach § 30 Abs. 3 AsylVfG gilt nach § 10 Abs. 3 2. HS in der Konstellation des § 25 Abs. 3 nicht.
-25.3.2. 3. Soll nach Ausschluss der Versagungsgründe (s. 25.3.2.1.) eine Aufenthaltserlaubnis nach § 25 Abs. 3 erteilt werden und verfügt der Ausländer über keinen Pass, ist nach §§ 5 Abs. 3, 48 Abs. 4 ein Ausweisersatz gekoppelt an die Gültigkeitsdauer der Aufenthaltserlaubnis zu erteilen. Die Voraussetzungen, unter denen ein Reiseausweis für Ausländer ausgestellt wird, ergeben sich aus B.AufenthV.5.-11.
+Das in § 10 Abs. 3 Satz 2 festgelegte Verbot der Erteilung eines Aufenthaltstitels nach Ablehnung eines Asylantrages als offensichtlich unbegründet nach § 30 Abs. 3 AsylVfG gilt nach § 10 Abs. 3 2. HS in der Konstellation des § 25 Abs. 3 nicht. 25.3.2. 3. Soll nach Ausschluss der Versagungsgründe (s. 25.3.2.1.) eine Aufenthaltserlaubnis nach § 25 Abs. 3 erteilt werden und verfügt der Ausländer über keinen Pass, ist nach §§ 5 Abs. 3, 48 Abs. 4 ein Ausweisersatz gekoppelt an die Gültigkeitsdauer der Aufenthaltserlaubnis zu erteilen. Die Voraussetzungen, unter denen ein Reiseausweis für Ausländer ausgestellt wird, ergeben sich aus B.AufenthV.5.-11.
 A.25.4. Aufenthaltserlaubnisse aus dringenden humanitären oder persönlichen Gründen oder erheblichem öffentlichen Interesse
 25.4.0. Im § 25 Abs. 4 sind Aufenthaltserlaubnisse aus dringenden humanitären oder persönlichen Gründen oder erheblichem öffentlichen Interesse geregelt. (Zur Geltungsdauer vgl. A.7.2.1.2, zur Erwerbstätigkeit vgl. B.BeschV.31). Die Sätze 1 und 2 stehen nicht in einem Stufenverhältnis. Daraus folgt: Auch wenn der Ausländer bisher einen humanitären Titel etwa nach § 23 Abs. 1 besaß, der nicht mehr verlängert werden kann, ist die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 4 S. 2 möglich, ohne dass zuvor eine Erlaubnis nach § 25 Abs. 4 S. 1 erteilt wurde. Bei abgelehnten Asylbewerbern ist § 10 Abs. 3 zu beachten.
 25.4.1. 1. Durch das 2. Änderungsgesetz wurde klargestellt, dass sich die Regelung des § 25 Abs. 4 Satz 1 nicht auf vollziehbar ausreisepflichtige Ausländer erstreckt. Danach war es nicht Wille des Bundesgesetzgebers, hier eine allgemeine Härtefallregelung zu schaffen. Für vollziehbar ausreisepflichtige Ausländer existieren spezielle Vorschriften, und zwar § 25 Abs. 5, § 25 Abs. 4a und § 23a.

@@ -1,0 +1,16 @@
+VAB A 91g
+VAB A 91g
+A.91g Auskünfte zur Durchführung der Richtlinie 2014/66/EU
+(RiLiUmsG 2017)
+91g.0. Der § 91g regelt die im Rahmen des unternehmensinternen Transfers zwischen den Mitgliedstaaten der Euro-päischen Union auszutauschenden Auskünfte und Mitteilungen.
+91g.1. Das Bundesamt für Migration und Flüchtlinge ist hier nationale Kontaktstelle und nimmt die Anträge und Mitteilungen für den Wechsel von unternehmensintern Transferierten zwischen verschiedenen Mitgliedstaaten vor ihrer Einreise entgegen und sorgt für den Informationsaustausch zwischen den im Bundesgebiet zuständigen Behörden und den Behörden in anderen Mitgliedstaaten sowie den zuständigen Organen der Europäischen Union (vgl. insofern zum Verfahren A.19.c.0).
+91g.2. frei
+91g.3. Soweit die im Datenbestand des AZR gespeicherten Sachverhalte für die Entscheidung eines anderen Mitgliedsstaates über die Mobilität im Rahmen der ICT-Richtlinie nicht genügen, erteilt die Ausländerbehörde auf Ersuchen des BAMF diesem die gewünschten Auskünfte aus der Ausländerakte.
+91g.4. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der ICT-Richtlinie sind an die nationale Kontaktstelle des BAMF (NKS ICT, Referat 220, E-Mail: ict@bamf.bund.de) zu richten.
+91g.5. Die Ausländerbehörde ist verpflichtet, dem BAMF folgende Sachverhalte mitzuteilen.
+1. den Widerruf, die Rücknahme, die Versagung oder die nachträgliche Verkürzung einer ICT-Karte nach § 19b
+2. Ablehnung einer kurzfristigen Mobilität nach § 19 c
+3. Erteilung einer Mobiler-ICT-Karte nach § 19 d
+Die Mitteilungspflicht umfasst Art und Datum der Entscheidung. Die Übermittlung eines rechtsmittelfähigen Bescheides an das BAMF ist nicht erforderlich. Ein automatisierter Datenaustausch über das AZR zum BAMF findet derzeit hierzu nicht statt.
+91g.6. frei
+E-Mail an die VAB-Redaktion
