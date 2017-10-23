@@ -23,7 +23,7 @@ B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
 Änderungsdatum
 (27.12.2016; 06.06.2017; RiLiUmsG 2017)
-Merkblatt_Gebühren_Stand_20.05.2014
+Merkblatt_Gebühren_Stand_01.09.2017
 Zu den Gebühren für assoziationsberechtigte türkische Staatsangehörige vgl. E.Türk.1.
 B.AufenthV.44.1.Kassenautomat
 Seit dem 14.03.2007 werden Einzahlungen ausländerbehördlicher Gebühren verknüpft mit dem jeweiligen LEA-OM über den Kassenautomaten und im Ausnahmefall über die personell bediente Kasse elektronisch verbucht. Damit ist im Bedarfsfall jede zu einer Person an einem bestimmten Tag getätigte Einzahlung über eines der beiden Systeme dokumentierbar. Der Ausdruck eines Einzahlbeleges für die (elektronische) AA hat sich damit erübrigt (Ausnahme s. 2. Spiegelpunkt). Allerdings sind weiterhin Befreiungen und Ermäßigungen von Gebühren (§§ 52, 53 AufenthV) wie bisher aktenkundig zu machen. Dazu sind im Fachverfahren-Dialog „Titel erteilen“ / „AA21 - Vermerk für Aktenbeleg“ als Gebühr „0,00“ und im dazugehörigen Datenfeld „Vermerk“ der Gebührenbefreiungsgrund resp. -ermäßigungsgrund (z.B. „Sozialhilfe“, „Stipendium“ u.Ä.) einzutragen.
