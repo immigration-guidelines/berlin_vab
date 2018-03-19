@@ -11,7 +11,7 @@ Grundsätzliche Anmerkungen
 19a.5. Ausschluss der Erteilung der Blauen Karte EU
 19a.6. Niederlassungserlaubnis für Inhaber der Blauen Karte EU
 A.19a. Blaue Karte EU
-(30.12.2016; 05.12.2017)
+(05.12.2017; 16.01.2018)
 Grundsätzliche Anmerkungen
 Mit dem neuen § 19a werden wesentliche Regelungen der Hochqualifizierten-Richtlinie zur Erteilung der Blauen Karte EU umgesetzt. Bei Vorliegen der in Abs. 1 Nr. 1 – 3 geregelten Voraussetzungen für die Erteilung einer Blauen Karte EU besteht außer in den in Abs. 5 genannten Voraussetzungen ein Anspruch auf Erteilung zum Zweck der Ausübung einer der Qualifikation angemessenen Beschäftigung. Grundlage für die Erteilung kann nur ein Beschäftigungsverhältnis im Inland sein, allerdings ist der Sitz des Arbeitgebers unerheblich. Danach ist im Ergebnis nur entscheidend, ob der Arbeitsvertrag für eine Beschäftigung gerade in Deutschland geschlossen wurde und kein Fall der Entsendung vorliegt. Ein „ruhendes“ Arbeitsverhältnis im Ausland ist unschädlich, auch ist nicht entscheidend, ob in Deutschland Sozialversicherungsbeiträge gezahlt werden.
 Merke: Liegt ein ausschließlich ausländisches Arbeitsverhältnis vor, kommt eine Erteilung nur nach § 18 in Betracht. Hierbei ist die Bundesagentur für Arbeit gemäß § 72 Abs. 7 AufenthG fakultativ zu beteiligen.
@@ -20,7 +20,7 @@ Abs. 5
 Abs. 1 Nr. 3
 Abs. 1 Nr. 1a
 sodann ggf. Anfrage nach Abs. 1 Nr. 2.
-Die Blaue Karte EU kann ausschließlich als elektronischer Aufenthaltstitel erteilt werden.
+Die Blaue Karte EU soll grundsätzlich als elektronischer Aufenthaltstitel erteilt werden.
 Beachte: Leiharbeitsverhältnisse können nur dann Grundlage für die Erteilung einer Blauen Karte sein, wenn es sich um eine zustimmungsfreie Beschäftigung handelt. Ist die Beschäftigung hingegen zustimmungspflichtig, kommt die Berücksichtigung eines Leiharbeitsverhältnisses nicht in Betracht, vgl. § 40 Abs. 1 Nr. 2 AufenthG.
 19a.1.1 Höherer beruflicher Bildungsabschluss
 Ein höherer beruflicher Bildungsabschluss ist zwingende Erteilungsvoraussetzung für die Blaue Karte EU. Dies ist ein deutscher Hochschulabschluss, ein anerkannter ausländischer Hochschulabschluss oder ein einem deutschen Hochschulabschluss vergleichbarer ausländischer Hochschulabschluss. Nachgewiesen wird der Hochschulabschluss durch die Vorlage eines entsprechenden Hochschulzeugnisses.
@@ -32,11 +32,12 @@ Ob nach § 19a Abs. 1 Nr. 2 für die Beschäftigung eine Zustimmung der Bundesag
 Die Zustimmung der Bundesagentur für Arbeit ist nach § 2 Abs. 2 BeschV erforderlich wenn,
 - der Betreffende über einen ausländischen Hochschulabschluss verfügt und
 - eine Beschäftigung in einem gesetzlich bestimmten Mangelberuf vorliegt und
-- hierfür mindestens 52 % (3 9.6 24 Euro jährlich / 3. 302 Euro monatlich; ab 01.01.201 8: 40.560 Euro jährlich/ 3.3 80 Euro monatlich) aber weniger als 2/3 der jährlichen Beitragsbemessungsgrenze zur allgemeinen Rentenversicherung (50.8 00 Euro jährlich / 4. 2 33 Euro monatlich; ab 01.01.201 8: 5 2.0 00 Euro jährlich/4. 3 33,33 Euro monatlich) vereinbart sind.
+- hierfür mindestens 52 % (39.624 Euro jährlich / 3.302 Euro monatlich; ab 01.01.2018: 40.560 Euro jährlich/ 3.380 Euro monatlich) aber weniger als 2/3 der jährlichen Beitragsbemessungsgrenze zur allgemeinen Rentenversicherung (50.800 Euro jährlich / 4.233 Euro monatlich; ab 01.01.2018: 52.000 Euro jährlich/4.3 33,33 Euro monatlich) vereinbart sind.
 Keine Zustimmung der Bundesagentur ist gem. 2 Abs. 1 Nr. 2 BeschV erforderlich,
-wenn der Ausländer 50.8 00 (ab 01.01.201 8: 5 2.0 00) Euro brutto jährlich/ 4. 2 33 (ab dem 01.01.201 8: 4. 3 33) Euro brutto monatlich erhält (§ 2 Abs. 1 Nr. 2a, Abs. 4 BeschV)
+wenn der Ausländer 50.800 (ab 01.01.2018: 52.000) Euro brutto jährlich/ 4.233 (ab dem 01.01.2018: 4.333) Euro brutto monatlich erhält (§ 2 Abs. 1 Nr. 2a, Abs. 4 BeschV)
 oder
-wenn der Ausländer einen inländischen Hochschulabschluss in einem gesetzlich bestimmten Mangelberuf besitzt und 3 9.6 24 (ab 01.01.201 8: 40.560) Euro brutto jährlich / 3. 302 (ab 01.01.201 8: 3.3 80) Euro brutto monatlich erzielt (§ § 2 Abs. 1 Nr. 2b, Abs. 2 Satz 1, Abs. 4 BeschV)
+wenn der Ausländer einen inländischen Hochschulabschluss in einem gesetzlich bestimmten Mangelberuf besitzt und
+39.624 (ab 01.01.2018: 40.560) Euro brutto jährlich / 3.302 (ab 01.01.2018: 3.380) Euro brutto monatlich erzielt (§ § 2 Abs. 1 Nr. 2b, Abs. 2 Satz 1, Abs. 4 BeschV)
 Merke:
 Mangelberufe sind derzeit: Naturwissenschaftler, Mathematiker, Architekten, Raum-, Stadt- und Verkehrsplaner, Grafik- und Multimedia-Designer, Ingenieure, Ingenieurwissenschaftler, Humanmediziner – außer Zahnärzte – sowie akademische Fachkräfte in der Informations- und Kommunikationstechnologie (vgl. hierzu die in § 2 Abs. 2 S. 1 BeschV genannten Gruppen 21, 221 und 25 auf der von der EU-Kommission am 29.10.2009 empfohlenen Liste über die Verwendung der Internationalen Standardklassifikation der Berufe - ISCO-08)
 Sowohl die AufenthG-VwV in Nr. 19.2.3. als auch die DA der Bundesagentur für Arbeit zum Aufenthaltsgesetz in Nr. 1.19.210 sowie die Gesetzesbegründung (BT- Drs. 17/8682) sehen bundeseinheitlich die Beitragsbemessungsgrenze West als maßgeblich an.

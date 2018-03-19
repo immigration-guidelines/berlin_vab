@@ -1,11 +1,13 @@
 VAB D 14a
 VAB D 14a
 D.14a. Familieneinheit
-(2.ÄndG; AsylVfBeschlG)
+(2.ÄndG; AsylVfBeschlG; 22.01.2018)
 14a.1. Mit dieser Vorschrift soll verhindert werden, dass durch das zeitlich versetzte Stellen von Asylanträgen für nicht verfahrensfähige Kinder die Asylverfahren verlängert und damit eine mögliche Ausreisepflicht verzögert wird.
 14a.2.1. frei
 14a.2.2. Die Ausländerbehörde ist von der Regelung insofern betroffen, als ihr eine Meldepflicht für hier geborene bzw. nachgezogene minderjährige ledige Kinder obliegt. Die Anzeige erfolgt gegenüber der Berliner Außenstelle des BAMF.
-Die Meldepflicht der Ausländerbehörde gilt des Weiteren dann, wenn der Elternteil, der § 14a Abs. 2 unterfällt, nicht oder nicht allein sorgeberechtigt ist. Hält sich der andere (ggf. allein sorgeberechtigte) Elternteil im Bundesgebiet auf und kann dem hier geborenen oder eingereisten Kind einen Aufenthaltstitel vermitteln, so entfällt die Meldepflicht allerdings. Ist dies nicht möglich, etwa weil der Lebensunterhalt nicht gesichert ist, greift die Meldepflicht der Ausländerbehörde.
+Die Meldepflicht der Ausländerbehörde gilt immer dann, wenn Mutter oder Vater im Besitz
+einer Aufenthaltsgestattung sind bzw. sie oder er sich nach Abschluss eines Asylverfahrens ohne Aufenthaltstitel hier aufhalten. Sind z.B. etwa beide Eltern personensorgeberechtigt und besitzt ein Elternteil einen Titel, der andere dagegen lediglich eine Aufenthaltsgestattung, ist der Anzeigepflicht zu folgen (vgl. A.33.0.2.).
+Merke: Hält sich ein sorgeberechtigter Elternteil im Bundesgebiet auf und wird dem hier geborenen oder eingereisten Kind einen Anspruch auf einen Aufenthaltstitel oder die deutsche Staatsangehörigkeit vermitteln, entfällt gemäß Abs. 1 die Meldepflicht.
 14a.2.3. frei
 14a.3. Mit der Neufassung des Absatzes zum 1.12.2013 wird die Möglichkeit für Eltern, Verzichtserklärungen hinsichtlich des Asylverfahrens für das Kind begrenzt. Diese ist nicht mehr jederzeit, sondern nur noch bis zur Zustellung des Bescheides abzugeben. Dadurch sollen weitere Verfahrensverzögerungen verhindert werden. Die Verzichtserklärung kann allerdings beschränkt werden (vgl. § 13 Abs. 2 S. 2).
 14a.4. Die Regelungen der Absätze 1 bis 3 gelten auch in den Fällen, in denen die Antragstellung der Eltern vor dem 01.01.2005 erfolgte. Ausweislich einer Entscheidung des Bundesverwaltungsgerichts vom 21.11.2006 (BVerwG 1 C 10.06) gilt die Anzeigepflicht und die daran anknüpfende Fiktion der Asylantragstellung auch für die Kinder, die vor dem 01.01.2005 geboren oder eingereist sind. Diese sind anlassbezogen nachzumelden. Durch Abs. 4 wird dies noch einmal - ergänzt um die Fälle, in denen das Kind später in das Bundesgebiet einreist oder hier geboren wird - klargestellt.
