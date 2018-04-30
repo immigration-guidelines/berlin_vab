@@ -10,7 +10,7 @@ Zuständigkeiten der Agenturen für Arbeit
 39.1.1.6. Versagung der Zustimmung
 39.4. Dauer und Verlängerung der Zustimmung
 A.39. Zustimmung zur Ausländerbeschäftigung
-(08.11.2016; 13.02.2018; RiLiUmsG 2017)
+(13.02.2018; 06.04.2018)
 39. 0. Normadressat der Vorschriften der §§ 39 bis 42 sowie der Beschäftigungsverordnung – BeschV - sind neben den Ausländerbehörden die Arbeitgeber- Services der BA.
 Die BeschV regelt sowohl die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich zum Zwecke der Beschäftigung oder gewerblichen Ausbildung hier aufhalten wollen als auch die Zulassung zur Ausübung einer Beschäftigung und das Verfahren für Ausländer, die sich erlaubt zu einem anderen Zweck – etwa aus humanitären Gründe n - gestattet oder geduldet hier aufhalten. Sie gilt auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr einen Aufenthaltstitel nach § 17 oder § 18 oder § 19a begehren, wie etwa Arbeitsplatzsuchende (vgl. § 16 Abs. 4, Abs. 5b, § 17 Abs. 3 oder § 18c) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
 Merke: In allen Zweifelsfällen ist die Agentur für Arbeit ''' um Stellungnahme zu ersuchen (vgl. A.72.7.).
@@ -35,57 +35,45 @@ Zuständigkeiten der Agenturen für Arbeit
 Zuständig ist grundsätzlich d iejenige Agentur für Arbeit, in de ren Bezirk der Betrieb seinen Sitz oder seine Niederlassung hat, in der der Ausländer arbeiten soll. Im Zweifel ist der Betrieb die Betriebsstätte, dass heißt der Ort an dem der Ausländer tätig werden soll. Bei Beschäftigungen mit wechselnden Arbeitsstätten gilt der Sitz der für die Lohnabrechnung zuständigen Stelle als Beschäftigungsort.
 Für die Regionaldirektionen Berlin-Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen ist zentral die Agentur für Arbeit Essen, Team 009, zuständig. Befindet sich der Betrieb in einem anderen Bundesland als den vorgenannten, ist die Zuständigkeit dem Internetauftritt der BA zu entnehmen.
 Spezielle Zuständigkeiten gelten für
-1) Gastarbeitnehmer, Pflegekräfte und Fachschulpraktikanten
-2) Ferienbeschäftigungen ausländischer Studierender
-3) studienfachbezogene Praktika,
-4) Landwirtschaftsweiterbildungspraktikanten, internationalen Personalaustausch,
-5) ICT-Karte/Mobiler-ICT-Karte und innerbetrieblicher Transfer bis 90 Tage
-6) angestellte Künstler,
-7) Spezialitätenköche,
-8) Familienangehörige von Diplomaten und Konsuln und
-9) Werkvertragsarbeitneher, Kurz- und längerfristig entsandte Arbeitnehmer im Rahmen von Liefer- und Montageverträgen von Maschinen, Anlagen und EDV-Programmen und Arbeitnehmer, die im Rahmen von Verträgen bis zu 90 Tagen in NATO-Stützpunke entsandt werden.
-Agentur für Arbeit Köln
-Team 008
-Villemobler Str. 76
-53107 Bonn
-Zebtrale Rufnummer 0228 713-2000
-Agentur für Arbeit Essen
-Team 009 (Standort Duisburg)
-Dahlmannstr. 23
-47169 Duisburg
-Zentrale Rufnummer 0228/713 2000
-Agentur für Arbeit Stuttgart
-Team 008
-70145 Stuttgart
-Zentrale Rufnummer 0711 920-4500
-Zu 1):
-Fax: 0711 / 920-3232
-Koeln.Gastarbeitnehmer @arbeitsagentur.de
-Zu 2):
-Fax: 0228 / 713 270-1166
-Koeln .Ferienbeschaeftigung @arbeitsagentur.de
-Zu 3):
-Fax: 0228 / 713-1525
-Koeln .Studenten @arbeitsagentur.de
-Zu 4):
-Fax: 0228/713-1037
-Koeln .Personalaustausch @arbeitsagentur.de
-Zu 5):
-Fax: 0228/713-1091
-Koeln .ICT-Karte @arbeitsagentur.de
-Zu 6):
+Arbeitnehmergruppe Zuständige Agentur Fax-nr. und E-Mail-Adresse
+Gastarbeitnehmer, Pflegekräfte und Fax: 0228/713-270-1166
+Fachschulpraktikanten Koeln.Gastarbeitnehmer@arbeitsagentur.de
+Ferienbeschäftigungen ausländischer Fax: 0228 / 713 -1525
+Studierender Agentur für Arbeit Köln Koeln.Ferienbeschaeftigung@arbeitsagentur.de
+Team 008 Villemobler Fax: 0228 / 713- 1037
+studienfachbezogene Praktika
+Str. 76 53123 Bonn Koeln.Studenten@arbeitsagentur.de
+Landwirtschaftsweiterbildungspraktikanten, Zentrale Rufnummer Fax: 0228/713-10 91
+internationalen Personalaustausch 0228/713-2000 Koeln.Personalaustausch@arbeitsagentur.de
+ICT-Karte/Mobiler-ICT-Karte und Fax: 0228/713-1 123
+innerbetrieblicher Transfer bis 90 Tage Koeln.ICT-Karte@arbeitsagentur.de
 Fax: 0228/713-1600
-Koeln .AMZ- Kuenstler @arbeitsagentur.de
-Zu 7):
+angestellte Künstler
+Koeln.AMZ-Kuenstler@arbeitsagentur.de
 Fax: 0228/713-2281
-Koeln .Spezialitaetenkoeche @arbeitsagentur.de
-Zu 8):
-Fax: 0228/713--270-2279
-Essen.009-OS@arbeitsagentur.de
-Zu 9):
-Fax: 0711/920-3234
-Stuttgart.007-OS@arbeitsagentur.de und
-Stuttgart.009-OS@arbeitsagentur.de
+Spezialitätenköche
+Koeln.Spezialitaetenkoeche@arbeitsagentur.de
+Agentur für Arbeit
+Essen
+Team 009 (Standort
+Duisburg)
+Familienangehörige von Diplomaten und Fax: 0203/9907-238
+Dahlmannstr. 23
+Konsuln Essen.009-OS@arbeitsagentur.de
+47169 Duisburg
+Zentrale
+Rufnummer
+0228/713 2000
+Werkvertragsarbeitnehmer auf der Fax: 0711/920-3234
+Grundlage zwischenstaatlischer Agentur für Arbeit Stuttgart.007-OS@arbeitsagentur.de
+Vereinbarungen Stuttgart Stuttgart.009-OS@arbeitsagentur.de
+Werkvertragsarbeitnehmer, Kurz- und Team 00 7 und
+längerfristig entsandte Arbeitnehmer im Team 009
+Rahmen von Liefer- und Montageverträgen 70145 Stuttgart WVV-Team 009
+von Maschinen, Anlagen und Zentrale Fax: 0711/920-3234
+EDV-Programmen und Arbeitnehmer, die Rufnummer 0711 Stuttgart.009-OS@arbeitsagentur.de
+im Rahmen von Verträgen bis zu 90 Tagen 920-4500
+in NATO-Stützpunke entsandt werden
 Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörde regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen so noch Unterlagen des Arbeitgebers fehlen. In diesen Fällen erfolgt zwingend ein Schreiben an die anfragende Ausländerbehörde, um die Zustimmungsfiktion des § 36 BeschV nicht eintreten zu lassen.
 Fehlen dagegen aus Sicht der Agentur für Arbeit bei der Zustimmungsanfrage arbeitnehmerbezogene Unterlagen bzw. ist auf Grund einer fehlenden oder unzutreffenden Rechtsgrundlage durch die Ausländerbehörde keine Prüfung möglich, so wird die Ausländerbehörde – im Regelfall innerhalb von 48 Stunden nach Eingang der Zustimmungsanfrage - gebeten, die erforderlichen Unterlagen/Informationen nachzureichen bzw. beim Betroffenen einzuholen oder zu erheben. Mit diesem Schreiben wird mitgeteilt, dass die Zustimmungsfiktion des § 36 Abs. 1 BeschV nicht eintritt. Soweit Unterlagen/Informationen durch den Betroffenen nachzureichen sind, ist dieser schriftlich und unter Hinweis auf die Mitwirkungspflicht gem. § 82 und dem Setzen einer Frist aufzufordern, diese unmittelbar zur Agentur für Arbeit zu übersenden (AusReg > KK Schreiben > Beschäftigung, Nachforderung Unterlagen).
 Merke: In jedem Fall erfolgt auf eine Bitte um Zustimmung auch eine förmliche Antwort. Dies auch deshalb, weil im Regelfall die Geltungsdauer der Zustimmung sowie die berufliche Tätigkeit festgelegt und die Beschäftigung auf bestimmte Betriebe beschränkt wird. Ein Wiedervorlagesystem zur Überwachung der Verschweigensfrist ist somit entbehrlich.
@@ -110,5 +98,6 @@ Eine Rückmeldung seitens der Ausländerbehörde, ob aufgrund einer Zustimmung d
 39.4. Dauer und Verlängerung der Zustimmung
 Die Zustimmung kann sowohl zeitlich als auch sachlich beschränkt (§ 34 Abs. 1 BeschV) und für längstens drei Jahre jeweils zu einem bestimmten Aufenthaltstitel erteilt werden (§ 34 Abs. 2i.V.m. § 35 Abs. 1 BeschV). Wurde eine Zustimmung irrtümlich entgegen § 34 Abs. 2 BeschV für einen längeren Zeitraum als drei Jahre erteilt, so ist von einer Zustimmung für drei Jahre auszugehen und ist auch der Aufenthaltstitel ggf. für drei Jahre zu erteilen. Auf eine Nachfrage bei der Agentur für Arbeit sollte verzichtet werden.
 Endet die Zustimmung, ohne dass der Aufenthaltstitel ausläuft, ist die erneute Vorsprache des Betroffenen bei der Ausländerbehörde erforderlich, die dann erneut die Zustimmung der Agentur für Arbeit' einholen muss.
-Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten von der Gültigkeit des Aufenthaltstitels unabhängigen Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein. 39.5. vgl. A.19.
+Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten von der Gültigkeit des Aufenthaltstitels unabhängigen Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein.
+39.5. vgl. A.19.
 39.6. Für eine Beschäftigung als Saisonarbeitnehmer ist die Zustimmung der Bundesagentur für Arbeit erforderlich. Die Vorschrift ermächtigt die Bundesagentur für Arbeit, am Bedarf für Saisonarbeitnehmer orientierte Zahlen festzulegen. Hat die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl festgelegt, erteilt diese eine formelle Arbeitserlaubnis zum Zweck der Saisonbeschäftigung nach § 15a Absatz 6 BeschV ohne Vorrangprüfung.

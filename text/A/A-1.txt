@@ -2,20 +2,18 @@ VAB A 1
 VAB A 1
 Inhaltsverzeichnis
 A.1. Zweck des Gesetzes; Anwendungsbereich
-(03.12.2009 - VwV; 04.04.2011)
 1.2. Das Europäische Gemeinschaftsrecht hat Anwendungsvorrang vor dem Aufenthaltsgesetz.
 1.2.0 Anträge auf Aufenthaltstitel von Personen, die nicht dem AufenthG unterfallen
 1.2.1. Unionsbürger
 1.2.2. Diplomaten und vergleichbar bevorrechtigte Personen
 1.2.3. Ausländische Mitarbeiter von Internationalen Organisationen im Bundesgebiet
 A.1. Zweck des Gesetzes; Anwendungsbereich
-(03.12.2009 - VwV; 04.04.2011)
+(04.04.2011; 09.04.2018)
 1.1.1. bis 1.1.5. einstweilen frei
 1.2. Das Europäische Gemeinschaftsrecht hat Anwendungsvorrang vor dem Aufenthaltsgesetz.
 1.2.0 Anträge auf Aufenthaltstitel von Personen, die nicht dem AufenthG unterfallen
 Bei Ausländern, auf die gemäß § 1 Abs. 2 Nr. 2 i.V.m. §§ 18 -20 GVG bzw. § 1 Abs. 2 Nr. 3 das Aufenthaltsgesetz keine Anwendung findet, gilt Folgendes:
-Soweit für die Einreise und den Aufenthalt überhaupt eine besondere Erlaubnis erforderlich ist, ist für die Erteilung, Versagung, Verlängerung oder Entziehung einer solchen Erlaubnis das Auswärtige Amt einschließlich der deutschen Auslandsvertretungen zuständig. Einer Beteiligung der Ausländerbehörden bedarf es grundsätzlich nicht (Abschnitt IV A.I.1 des Rundschreibens des Auswärtigen Amtes über Diplomaten und andere bevorrechtigte Personen vom 19.9.2008 (GMBl 2008 S. 1154 ff.)). Bei entsprechenden Anfragen sind die Betroffenen daher an das Auswärtige Amt zu verweisen.
-Problematisch ist, dass das Rundschreiben bei bestimmten bevorrechtigten Personengruppen das AufenthG trotz Vorliegens der Voraussetzungen der §§ 18 -20 GVG für anwendbar erklärt, wenn die Betroffenen ständig im Bundesgebiet ansässig sind (Abschnitt IV A.I.2 des RdSchr.) Wann eine Person als ständig ansässig gilt, ist nicht zweifelsfrei geregelt. Dies hängt auch davon ab, welche Funktion diese als bevorrechtigte Person wahrgenommen hat und/oder wahrnimmt, ob sie sich zum Zeitpunkt der Anstellung bereits längere Zeit im Bundesgebiet aufgehalten hat und/oder wie lange sie sich bevorrechtigt hier aufgehalten hat. Vor diesem Hintergrund sind Anträge auf Ersterteilung eines Aufenthaltstitels von Diplomaten und anderen völkerrechtlich im Zusammenhang mit diplomatischen und konsularischen Tätigkeiten bevorrechtigten Personen der Referats- oder Abteilungsleitung zur Entscheidung vorzulegen.
+Soweit für die Einreise und den Aufenthalt überhaupt eine besondere Erlaubnis erforderlich ist, ist für die Erteilung, Versagung, Verlängerung oder Entziehung einer solchen Erlaubnis das Auswärtige Amt einschließlich der deutschen Auslandsvertretungen zuständig. Einer Beteiligung der Ausländerbehörden bedarf es grundsätzlich nicht (Abschnitt IV A.I.1 des Rundschreibens des Auswärtigen Amtes über Diplomaten und andere bevorrechtigte Personen vom 19.9.2008 (GMBl 2008 S. 1154 ff.)). Bei entsprechenden Anfragen sind die Betroffenen daher an das Auswärtige Amt zu verweisen. Problematisch ist, dass das Rundschreiben bei bestimmten bevorrechtigten Personengruppen das AufenthG trotz Vorliegens der Voraussetzungen der §§ 18 -20 GVG für anwendbar erklärt, wenn die Betroffenen ständig im Bundesgebiet ansässig sind (Abschnitt IV A.I.2 des RdSchr.) Wann eine Person als ständig ansässig gilt, ist nicht zweifelsfrei geregelt. Dies hängt auch davon ab, welche Funktion diese als bevorrechtigte Person wahrgenommen hat und/oder wahrnimmt, ob sie sich zum Zeitpunkt der Anstellung bereits längere Zeit im Bundesgebiet aufgehalten hat und/oder wie lange sie sich bevorrechtigt hier aufgehalten hat. Vor diesem Hintergrund sind Anträge auf Ersterteilung eines Aufenthaltstitels von Diplomaten und anderen völkerrechtlich im Zusammenhang mit diplomatischen und konsularischen Tätigkeiten bevorrechtigten Personen der Referats- oder Abteilungsleitung zur Entscheidung vorzulegen.
 Merke: Etwas anderes gilt, wenn es sich bei den Betroffenen um Unionsbürger, EWR- Staatsangehörige, Schweizer und/oder deren freizügigkeitsberechtigte Familienangehörige handelt. Hier findet gem. § 1 Abs. 2 Nr. 1 AufenthG i.V.m. § 1 FreizügG/EU das FreizügG/EU voll Anwendung. Insbesondere Voraufenthaltszeiten als bevorrechtigte Person sind folgerichtig auf die Zeiten eines ständig rechtmäßigen Aufenthalts gem. § 4a FreizügG/EU anzurechnen (für Ortskräfte vgl.
 B.27.0.)
 1.2.1. Unionsbürger
@@ -50,3 +48,4 @@ International Finance Cooperation - IFC -, Frankfurt/Main
 Asiatische Entwicklungsbank, Frankfurt/Main
 Deutsch-französisches Jugendwerk, Bad Honnef
 Sekretariat der Klimarahmenkonvention, Bonn (19.02.1997)
+Zu Angehörigen von Botschaften und Konsulaten, die nicht mehr vom Erfordernis der Aufenthaltserlaubnis befreit sind, vgl. B.AufenthV.39.1.2.

@@ -2,7 +2,7 @@ VAB A 11
 VAB A 11
 Inhaltsverzeichnis
 A.11. Einreise- und Aufenthaltsverbot
-(15.02.2018; 15.03.2018)
+(15.03.2018; 28.03.2018)
 11.1. Einreise- und Aufenthaltsverbot
 11.2. Befristung von Amts wegen
 11.2.1. Befristung bei Ausweisung
@@ -33,7 +33,7 @@ Maximal möglicher Prognosezeitraum:
 11.9.2. Verlängerung bei Wiedereinreise entgegen Einreise- und Aufenthaltsverbot
 11.9.3. Dauer der Sperrfrist in Fällen des § 11 Abs. 9 AufenthG
 A.11. Einreise- und Aufenthaltsverbot
-(15.02.2018; 15.03.2018)
+(15.03.2018; 28.03.2018)
 11.1. Einreise- und Aufenthaltsverbot
 Ausweisung, Abschiebung oder Zurückschiebung eines Ausländers haben zur Folge, dass der Ausländer nicht erneut in das Bundesgebiet einreisen und sich darin aufhalten darf (= Sperrwirkung). Er unterliegt damit einem Einreise-, Aufenthalts- und Titelerteilungsverbot. Dieser Versagungsgrund gilt mit Inkrafttreten des Gesetzes zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung für nahezu alle Aufenthaltstitel. Das Einreise-, Aufenthalts- und Titelerteilungsverbot ist entweder eine Rechtsfolge der Ausweisung, Abschiebung oder Zurückschiebung oder kann unter den Voraussetzungen des § 11 Abs. 6 AufenthG als eigenständiger Verwaltungsakt angeordnet werden.
 11.2. Befristung von Amts wegen
@@ -116,7 +116,7 @@ Mit § 11 Abs. 4 AufenthG wurde eine spezielle Rechtsgrundlage für die nachträ
 Schutzwürdige Belange des Ausländers stellen insbesondere nachträglich eingetretene familiäre Bindungen dar, die den Schutzwirkungen aus Art. 6 Abs. 1 GG unterfallen. Diese müssen geeignet sein, dem Betreffenden im Fall der Wiedereinreise in das Bundesgebiet einen Rechtsanspruch auf Erteilung eines Aufenthaltstitels zu vermitteln (Auslandsfälle). Denkbar sind ebenfalls außergewöhnliche persönliche Belastungen des Klägers im Bundesgebiet, bspw. durch eine eigene (nachträglich eingetretene) Pflegebedürftigkeit oder die Pflege naher Familienangehöriger in Inlandsfällen. Grundsätzlich nicht berücksichtigungsfähig sind wirtschaftliche, kulturelle und sonstige Bindungen des Betreffenden im Bundesgebiet bei Inlandsfällen. Denn diese sind zum einen regelmäßig bereits bei der erstmaligen Bestimmung der Frist nach § 11 Abs. 2 berücksichtigt worden. Zum anderen weiß der Betreffende, dass er zur Ausreise aus dem Bundesgebiet verpflichtet ist. Sein Vertrauen darauf, dass solche nachträglichen, während der Ausreisepflicht eingetretenen Umstände, zu seinen Gunsten berücksichtigt werden, ist dem entsprechend erheblich reduziert.
 Erforderlich ist ein Einreise- und Aufenthaltsverbot nach dessen Sinn und Zweck dann nicht mehr, wenn die mit der Maßnahme verfolgten spezial- bzw. generalpräventiv verfolgten Zwecke der Gefahrenabwehr entweder bereits erreicht sind (Aufhebung) oder voraussichtlich zügiger erreicht werden (Verkürzung). Dies erfordert stets eine Veränderung der Gefahrenprognose auf Grund nachträglich eingetretener Umstände. Eine Aufhebung des Einreise- und Aufenthaltsverbots kommt vor allem in den Fällen in Betracht, in denen das Bundesverwaltungsgericht bisher eine vollständige Beseitigung der Sperrfrist ohne vorherige Ausreise aus dem Bundesgebiet als geboten ansah (vgl. BVerwG, Urteil vom 06.03.2014 – 1 C 5.13, Rn. 14 m.w.N.). Dies ist bspw. dann der Fall, wenn seit dem Zeitpunkt der Verfügung der (nichtvollzogenen) Ausweisung und erstmaligen Befristung ein so langer Zeitraum verstrichen ist, dass die damals bestehenden spezial- und generalpräventiven Gesichtspunkte vollständig entfallen sind. Ein Anspruch auf vollständige Beseitigung der Wirkungen des Einreise- und Aufenthaltsverbots mit Wirkung für die Zukunft kann sich aber auch unter
 Verhältnismäßigkeitsgesichtspunkten ergeben, bspw., weil grundrechtlich geschützte familiäre Belange oder humanitäre Erwägungen dies erfordern (BVerwG, Urteil vom 13.04.2010 – 1 C 5.09, Rn. 17 m.w.N.). Dies gilt sowohl für Inlands- als auch für Auslandsfälle.
-Merke: Kommt eine Aufhebung des Einreise- und Aufenthaltsverbots in Betracht, so ist im Tenor ausdrücklich zu verfügen, dass diese mit Wirkung für die Zukunft (ex nunc) erfolgt. Eine Aufhebung mit Wirkung für die Vergangenheit (ex tunc) kommt demgegenüber regelmäßig nicht in Betracht.
+Merke: Kommt eine Aufhebung des Einreise- und Aufenthaltsverbots in Betracht, so ist im Tenor ausdrücklich zu verfügen, dass diese mit Wirkung für die Zukunft (ex nunc) erfolgt. Eine Aufhebung mit Wirkung für die Vergangenheit (ex tunc) kommt demgegenüber regelmäßig nicht in Betracht. Dies gilt auch bei der Aufhebung eines vom BAMF nach § 11 Abs. 7 verfügten Einreise- und Aufenthaltsverbots.
 Tenorierungsbeispiel: "Das aus dem Bescheid vom XX.XX.XXXX (Verfügungspunkt XX) wegen
 Ausweisung/Abschiebung/Zurückschiebung/Anordnung folgende Einreise- und Aufenthaltsverbot wird mit dem Tag der Zustellung dieses Bescheides aufgehoben."
 Zu berücksichtigen ist in diesem Zusammenhang auch das Verwertungsverbot aus §§ 51, 52 i.V.m. §§ 45 ff. BRZG. Ist der Ausländer ausgereist, so muss der Befristungszeitraum in der Regel spätestens mit dem Eintritt des Verwertungsverbots enden. Ausnahmen hiervon ergeben sich dann, wenn eine Befristung nach § 11 Abs. 5 nicht stattfindet oder die Voraussetzungen für die Verlängerung der Sperrfrist nach § 11 Abs. 4 Satz 2 bzw. § 11 Abs. 9 Satz 2 vorliegen. Siehe hierzu: 11.4.2. und 11.9.2.

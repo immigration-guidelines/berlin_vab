@@ -1,7 +1,7 @@
 VAB A 81
 VAB A 81
 A.81. Beantragung des Aufenthaltstitels
-(18.11.2016; 18.01.2017; RiLiUmsG 2017)
+(RiLiUmsG 2017; 09.04.2018)
 81.0. Grundsätzlich entfaltet ausschließlich die rechtzeitige Antragstellung die Erlaubnisfiktion nach § 81 (zur Ausnahme siehe unten 81.4.3.). In den Fällen, in denen die Rechtmäßigkeit des Aufenthaltes nach § 81 fingiert wird, kommt § 51 Abs. 1 Nr. 6 und 7 zur Anwendung. Denn der Betroffene kann im Falle seiner Ausreise nicht besser gestellt werden, als wenn ihm der begehrte Titel vor der Ausreise erteilt worden ist.
 81.1. frei
 81.2.0. Entgegen § 82 Abs. 3 S. 1 und Nr. 81.2.2 AufenthG-VwV wird es nicht für erforderlich gehalten, jeden Ausländer – gleichsam vorsorgend – durch ein Merkblatt auf seine gesetzliche Verpflichtung gem. § 81 Abs. 2 hinzuweisen.
@@ -17,6 +17,7 @@ Mangels eines Aufenthaltstitels im Sinne des § 4 Abs. 3 ist die Fiktionsbeschei
 zu erteilen.
 81.3.1. Bezüglich der Ausstellung der Bescheinigung und der Erhebung der Gebühr gelten für die Positivstaater die verfahrensbezogenen Ausführungen zu § 81 Abs. 4 entsprechend.
 Merke: Die Fiktionsbescheinigung, die nach Absatz 3 erteilt wird, ersetzt keinen Aufenthaltstitel, sondern bewirkt nur die Fiktion der Rechtmäßigkeit des Aufenthalts. Dies kommt durch die unterschiedlichen Formulierungen der Absätze 3 und 4 zum Ausdruck. Anders als die Fiktionsbescheinigung, die nach Absatz 4 erteilt wird, ermöglichst die Fiktionsbescheinigung nach Absatz 3 daher keine Einreisen in das Bundesgebiet (so ausdrücklich Nr. 81.3.6. sowie 81.5.3 AufenthG- VwV). Den Ratschlag aus Nr. 81.3.6 AufenthG-VwV, auf dem Trägervordruck den Vermerk „Gilt nicht für Auslandsreisen“ aufzunehmen, um den Unterschied zur Fiktionswirkung nach § 81 Abs. 4 zu verdeutlichen, greifen wir nicht auf. Es ist nicht erforderlich, diesen Umstand nochmals zu bestätigen.
+Zu Ausländern, deren Aufenthalt bisher nach dem Wiener Übereinkommen für diplomatische bzw. konsularische Beziehungen (WÜD bzw. WÜK) erlaubt war, vgl. B.AufenthV.39.1.2.
 81.3.2. Stellt ein Positivstaater oder ein Ausländer, der vom Erfordernis eines Aufenthaltstitels befreit war, verspätet einen Antrag auf Erteilung einer AE, so gilt sein Aufenthalt gem. § 81 Abs. 3 S. 2 als geduldet. Für eine entsprechende Anwendung des § 81 Abs. 3 S. 1 bei verspäteter Antragstellung ist damit - anders als in den Fällen des § 81 Abs. 4 - kein Raum. Der verspätete Antrag hat im Übrigen nicht die Entlassung aus der Abschiebungshaft zur Folge. Der Ausländer gilt ja auch nicht gem. § 58 Abs. 2 S. 1 Nr. 2 als erlaubt aufhältig. Da nach der Rechtsprechung des LG Berlin eine Duldung/Aussetzung der Abschiebung der Abschiebungshaft nicht entgegensteht, verbleibt der Ausländer in Haft, darf jedoch nicht abgeschoben werden, bevor nicht über seinen Antrag entschieden ist.
 81.4.0 Buchung eines Termins über die Online-Terminvereinbarung (OTV)
 Allein die Buchung eines Termins über die OTV stellt noch keine Antragstellung im Sinne von § 81 Abs. 4 dar und vermag daher auch keine Fiktionswirkung auszulösen.
