@@ -2,17 +2,19 @@ VAB A 73
 VAB A 73
 A.73. Sonstige Beteiligungserfordernisse im Visumverfahren und bei der Erteilung
 von Aufenthaltstiteln
-(2. RiLiUmG; DatenaustauschVerbG)
+(2. RiLiUmG; DatenaustauschVerbG, FzNeuG)
 73.1. Die technische Abwicklung des nationalen wie auch schengenweiten Konsultationsverfahrens erfolgt über das BVA als einheitlicher, nationaler Kommunikationsschnittstelle.
-73.1.2. bis 73. 1.3. frei
+73.1.2. bis 73.1.3. frei
 73.1a. Der durch das Datenaustauschverbesserungsgesetz eingeführte Abs. 1a sieht eine unverzügliche Beteiligung der Sicherheitsbehörden bei bestimmten Personen vor, deren Daten zur Feststellung ihrer Identität im Rahmen einer unerlaubten Einreise oder eines unerlaubten Aufenthalts im Bundesgebiet nach § 49 oder eines Asylgesuchs nach § 16 AsylG erhoben werden. Der Sicherheitsabgleich soll sicherstellen, dass zum jeweils frühestmöglichen Zeitpunkt Erkenntnisse zu Asylversagungsgründen sowie ggf. bestehende sonstige Sicherheitsbedenken für das Asylverfahren bzw. für aufenthaltsrechtliche Entscheidungen zur Verfügung stehen.
-Die technische Umsetzung des Sicherheitsabgleichs über das Bundesverwaltungsamt ist allerdings noch nicht realisiert. Die Fertigstellung und Inbetriebnahme soll voraussichtlich Ende 2016 erfolgen. '
-73.2. 1. Nach § 73 Abs. 2 in der ab dem 26.11.2011 gültigen Fassung kann vor der Erteilung oder Verlängerung eines Aufenthaltstitels, einer Duldung oder Aufenthaltsgestattung bei den Sicherheitsbehörden angefragt werden, wenn dies zur Feststellung von Versagungsgründen nach § 5 Abs. 4 oder zur Prüfung von Sicherheitsbedenken geboten ist.
+Die technische Umsetzung des Sicherheitsabgleichs über das Bundesverwaltungsamt ist allerdings noch nicht realisiert. Die Fertigstellung und Inbetriebnahme soll voraussichtlich Ende 2016 erfolgen.
+73.2.1. Nach § 73 Abs. 2 in der ab dem 26.11.2011 gültigen Fassung kann vor der Erteilung oder Verlängerung eines Aufenthaltstitels, einer Duldung oder Aufenthaltsgestattung bei den Sicherheitsbehörden angefragt werden, wenn dies zur Feststellung von Versagungsgründen nach § 5 Abs. 4 oder zur Prüfung von Sicherheitsbedenken geboten ist.
 Somit ist vor jeder Einladung zum Zwecke der Verlängerung einer Aufenthaltserlaubnis oder bei einer sonstigen Terminvereinbarung zu prüfen, ob hier die Erteilung einer Niederlassungserlaubnis in Betracht kommt. Eine gesonderte Liste speziell zur Vorladung dieser Fälle wird nicht erstellt. Sodann sind die Sicherheitsbehörden vor der Vorsprache zu beteiligen. Sprechen Ausländer ohne eine Terminvereinbarung vor, so kommt die sofortige Erteilung der Niederlassungserlaubnis nicht in Betracht. Auch diese erhalten einen Termin und ggf. eine Fiktionsbescheinigung. Bis zum Termin sind die Sicherheitsbehörden sodann zu beteiligen.
+Beachte: Für die Prüfung der Ausschlussgründe des § 27 Abs. 3a im Familiennachzug durch die Ausländerbehörden werden die Sicherheitsbehörden nicht im automatisierten Verfahren beteiligt (s. A.27.3a.).
 73.2.2. frei
 73.3.1. frei
 73.3.2. Nach § 73 Abs. 3 S. 2 teilen die Auslandsvertretungen und Ausländerbehörden den Sicherheitsbehörden und Nachrichtendiensten die Gültigkeitsdauer der erteilten und verlängerten Aufenthaltstitel mit.
 Die Sicherheitsbehörden teilen den Ausländerbehörden ihnen während der Gültigkeitsdauer einer erteilten AE oder eines Visums bekannt gewordene Erkenntnisse oder Sicherheitsbedenken mit.
 73.3.3. frei
 73.3a. Die technische Umsetzung des Sicherheitsabgleichs im Falle einer unerlaubten Einreise, des unerlaubten Aufenthalts oder eines Asylgesuchs nach Abs. 1 a und die ggf. nachfolgende Übermittlung dieser Erkenntnisse ist technisch noch nicht realisiert. Die Fertigstellung und Inbetriebnahme soll voraussichtlich Ende 2016 erfolgen (vgl. auch 73.1a.).
-73.4.'' frei
+73.3b. Normadressat sind in erster Linie die Sicherheitsbehörden sowie das BVA.
+73.4. frei

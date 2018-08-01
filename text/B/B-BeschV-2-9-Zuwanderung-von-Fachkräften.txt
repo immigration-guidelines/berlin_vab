@@ -18,7 +18,7 @@ B.BeschV.7. Absolventinnen und Absolventen deutscher Auslandsschulen
 B.BeschV.8. Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen B.BeschV.9. Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt
 B.BeschV.2. - 9. Zuwanderung von Fachkräften
 Änderungsdatum
-(RiLiUmsG 2017; 05.12.2017; 19.04.2018)
+(RiLiUmsG 2017; 19.04.2018; 17.07.2018)
 B.BeschV.2. Hochqualifizierte, Blaue Karte, Fachkräfte mit inländischen Hochschulabschluss
 2.1.1 NE für Hochqualifizierte
 Keiner Zustimmung bedarf die Zustimmung zur NE nach § 19 AufenthG, s. VAB.A.19.1.1.
@@ -82,8 +82,9 @@ Beabsichtigt der Betroffene, neben der eigentlichen Bildungsmaßnahme eine zeitl
 2. die Zustimmung zu dem vorzulegenden konkreten Arbeitsplatzangebot für eine nachgelagerte spätere Beschäftigung nach erfolgreichem Abschluss der Bildungsmaßnahme. Diese Prüfung richtet sich nach dem jeweiligen Zulassungstatbestand für diese Beschäftigung.
 8.3. frei
 B.BeschV.9. Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt
-Der Wortlaut des 9 Abs. 1 setzt den aktuellen Besitz eines Aufenthaltstitels nach §§ 18-21 AufenthG voraus. Die Norm kann nicht eigenständige Rechtsgrundlage für die erstmalige Erteilung einer Aufenthaltserlaubnis oder eigenständige Verlängerung einer Aufenthaltserlaubnis sein, wenn die Voraussetzungen für die Verlängerung oder Erteilung des ursprünglich erteilten Aufenthaltstitels nicht (mehr) vorliegen. Vielmehr ist es in diesen Fällen erforderlich, dass der Betreffende zunächst die Erteilungsvoraussetzungen für den neuen Aufenthaltszweck - wenigstens für eine logische Sekunde - erfüllt.
-Somit können sich insbesondere Ausländer, deren Aufenthalt lediglich geduldet oder gestattet ist, oder die eine Aufenthaltserlaubnis aus familiären Gründen besessen haben, die auf Grund des Wegfalls einer wesentlichen Voraussetzung nicht mehr verlängert werden kann, ohne dass ein eigenständiges Aufenthaltsrecht entstanden wäre, nicht darauf berufen, sie erfüllten die Voraussetzungen des § 9 Abs. 1 Nr. 1 oder Nr. 2 und ihnen sei daher eine Aufenthaltserlaubnis auf der Grundlage von § 18 Abs. 3 oder 4 AufenthG zu erteilen. Vielmehr ist in diesen Fällen wie vor einer Ersterteilung nach § 18 Abs. 3 bzw. Abs. 4 AufenthG - wenn keine Zustimmungsfreiheit besteht - zunächst die erforderliche Zustimmung der Bundesagentur für Arbeit unter Angabe der einschlägigen Norm der BeschV einzuholen.
+Die Norm kann nicht eigenständige Rechtsgrundlage für die erstmalige Erteilung einer
+Aufenthaltserlaubnis oder eigenständige Verlängerung einer Aufenthaltserlaubnis sein, wenn die Voraussetzungen für die Verlängerung oder Erteilung des ursprünglich erteilten Aufenthaltstitels nicht (mehr) vorliegen. Vielmehr ist es in diesen Fällen erforderlich, dass der Betreffende zunächst die Erteilungsvoraussetzungen für den neuen oder alten Aufenthaltszweck - wenigstens für eine logische Sekunde - (weiter) erfüllt.
+Somit können sich insbesondere Ausländer, deren Aufenthalt lediglich geduldet oder gestattet ist, oder die eine Aufenthaltserlaubnis z.B. aus familiären Gründen oder gem. § 7 Abs. 1 S. 3 AufenthG besessen haben, die auf Grund des Wegfalls einer wesentlichen Voraussetzung nicht mehr verlängert werden kann, ohne dass ein eigenständiges Aufenthaltsrecht entstanden wäre, nicht darauf berufen, sie erfüllten die Voraussetzungen des § 9 Abs. 1 Nr. 1 oder Nr. 2 und ihnen sei daher eine Aufenthaltserlaubnis auf der Grundlage von § 18 Abs. 3 oder 4 AufenthG in Verbindung mit § 9 Abs. 1 BeschV zu erteilen. Vielmehr ist in diesen Fällen wie vor einer Ersterteilung nach § 18 Abs. 3 bzw. Abs. 4 AufenthG - wenn keine Zustimmungsfreiheit besteht - zunächst die erforderliche Zustimmung der Bundesagentur für Arbeit unter Angabe der einschlägigen Norm der BeschV einzuholen.
 In Fällen der
 Erteilung eines Aufenthaltstitels mit dem erstmals auch die Beschäftigung erlaubt wird,
 mit einer Gültigkeitsdauer von mehr als zwei Jahren,

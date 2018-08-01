@@ -5,6 +5,7 @@ B.AufenthV.30a. - 38. Visumverfahren
 Änderungsdatum
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
+Familiennachzug zu subsidiär Schutzberechtigten
 Erteilung von langfristig gültigen D- Visa durch die deutschen Auslandsvertretungen
 Akteneinsicht im Visumverfahren
 Einvernehmen zwischen Auslandsvertretung und Ausländerbehörde
@@ -23,12 +24,12 @@ B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 B.AufenthV.30a. - 38. Visumverfahren
 Änderungsdatum
-(DatenaustauschVerbG; 24.07.2017; RiLiUmsG 2017)
+(DatenaustauschVerbG; 24.07.2017; RiLiUmsG 2017, 31.07.2018)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 frei
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
 B.AufenthV.31.0. Zur erkennungsdienstlichen Behandlung von Staatsangehörigen bestimmter Staaten, die Visa für einen längerfristigen Aufenthalt (D-Visa) beantragen, siehe unter A.49.5.5.
-B.AufenthV.31. 1.1.
+B.AufenthV.31.1.1.
 Die Zustimmung der ABH bei Einreisen zur Erwerbstätigkeit ist nur noch in den in § 31 Abs. 1 S. 1 Nr. 2 genannten Fällen erforderlich. Das Visumverfahren zur Arbeitsmigration soll durch den weitgehenden Verzicht auf das Zustimmungserfordernis der ABH vereinfacht werden.
 Für Aufenthalte über 90 Tage, die weder der Erwerbstätigkeit noch der Arbeitsplatzsuche dienen, verbleibt es beim bisherigen Zustimmungsverfahren. Gleiches gilt für die Ausübung der selbständigen Tätigkeit sowie der Beschäftigung nach § 18 Abs. 4 Satz 2 AufenthG (vgl. § 31 Abs. 1 S. 1 Nr. 2 a und b).
 Kann das Visum für einen Ausländer zum Zweck der Beschäftigung oder Arbeitsplatzsuche ohne Zustimmung der Ausländerbehörde erteilt werden, bedürfen mit Inkrafttreten der Änderung der AufenthV zum 29.12.2015 nunmehr auch die Visa für die begleitenden Familienangehörigen (Ehegatten, Lebenspartner, eigene minderjährige Kinder) unter den folgenden Voraussetzungen in der Regel keiner Zustimmung:
@@ -41,17 +42,21 @@ Visa zur Arbeitsplatzsuche bedürfen in keinem Fall der Zustimmung der ABH (vgl.
 „Eine Zustimmung der Ausländerbehörde ist nach § 31 Abs. 1 S. 1 Nr. 1 AufenthV nicht erforderlich."
 Gleichfalls zustimmungsfrei nach § 31 Abs. 1 S. 1 Nr. 1 sind Visa nach §§ 16 Abs. 6 Nr. 3 (studienvorbereitendes Betriebspraktikum) und 17b (studienbezogenes Praktikum EU) AufenthG, da sich in beiden Fällen die Betroffenen zunächst zum (Haupt-)Zweck der Beschäftigung hier aufhalten wollen.
 Über die in § 31 zustimmungspflichtigen Fälle hinaus können die Auslandsvertretungen auch künftig die ABH fakultativ zur Klärung von Sachverhalten mit Inlandsbezug im Visumverfahren einbeziehen. Machen die Auslandsvertretungen hiervon Gebrauch, bedarf die Einbeziehung der ABH im jeweiligen Fall jedoch einer konkreten Begründung. Bei Zustimmungen zur Visumserteilung für gleichgeschlechtliche Lebenspartner, Verlobte, Adoptionsfälle etc. ist als Rechtsgrundlage § 31 Abs. 1 i.V.m. der in der Anlage zur AZRG-DV Nr. 10 Buchstabe d) jeweils genannten Rechtsgrundlage zu nennen (bei Lebenspartnern nicht etwa § 27 Abs. 2 AufenthG, da dieser keine eigenständige Rechtsgrundlage für die Erteilung darstellt).
-Aussagen zur Möglichkeit der Erwerbstätigkeit während der Gültigkeit des Visums zum Zwecke des Familiennachzugs sollten immer gemacht werden. Die Auslandsvertretungen verweisen zu Recht darauf, dass sie gem. § 4 Abs. 2 S. 2 AufenthG im Visum eine Aussage zur Möglichkeit der Erwerbstätigkeit treffen müssen. Bei der Prüfung, ob eine Erwerbstätigkeit während der Gültigkeit des Visums möglich ist, werden die Vorschriften des § 2 7 Abs. 5 AufenthG entsprechend angewandt.
-B.AufenthV.31.1. 2. Wie in Nr. 6.4.3.2 AufenthG-VwV festgestellt, ist die Zustimmung zur Visumerteilung eine verwaltungsinterne, selbständig nicht einklagbare oder anfechtbare Handlung.
+Aussagen zur Möglichkeit der Erwerbstätigkeit während der Gültigkeit des Visums zum Zwecke des Familiennachzugs sollten immer gemacht werden. Die Auslandsvertretungen verweisen zu Recht darauf, dass sie gem. § 4 Abs. 2 S. 2 AufenthG im Visum eine Aussage zur Möglichkeit der Erwerbstätigkeit treffen müssen. Bei der Prüfung, ob eine Erwerbstätigkeit während der Gültigkeit des Visums möglich ist, werden die Vorschriften des § 27 Abs. 5 AufenthG entsprechend angewandt.
+Familiennachzug zu subsidiär Schutzberechtigten
+Mit Inkrafttreten des Gesetzes zur Neuregelung des Familiennachzugs zu subsidiär Schutzberechtigten am 01.08.2018 obliegt der Ausländerbehörde in diesen Fällen nicht nur die Zustimmung bzw. Ablehnung im Visumverfahren, sondern darüber hinaus auch die einzelfallbezogene Mitteilung an die Auslandsvertretung hinsichtlich des (Nicht-)Vorliegens der in § 36a AufenthG normierten humanitären Gründe, Integrationsaspekte, Aussetzungs- oder Versagungsgründe. Näheres ist in einer Verwaltungsvereinbarung zwischen AA und BVA geregelt.
+Die Rückmeldung an die Auslandsvertretung zu allen Aspekten in § 36a Abs. 2 und 3 sowie § 79 Abs. 3 AufenthG erfolgt standardisiert (vgl. A.36a.). Es obliegt den Auslandsvertretungen die auslands- und inlandsbezogenen Informationen zusammenzuführen und dem BVA zu übermitteln.
+Soweit Anträge für einen Familiennachzug von Familienangehörigen außerhalb der Kernfamilie vorliegen, ist der standardisierten Rückmeldung ein Hinweis auf die Rechtsgrundlage sowie den Familienverbund anzufügen (z.B. „§ 36 Abs. 2 AufenthG, Familienverbund, 2 Schwestern, 1 Bruder“).
+Wurde zugestimmt, ist über eine fortlaufende 3-monatige Wiedervorlage sicherzustellen, dass den Auslandsvertretungen neue Aspekte als Zwischennachricht mitgeteilt werden können. Liegen nach Anfrage beim BZR und der übrigen Aktenlage keine neuen Aspekte vor, dient die fortlaufende Übersendung der standardisierten Rückmeldung als Mitteilung und Hinweis auf den sich vergrößernden Trennungszeitraum der betroffenen Familie. Die fortlaufende Übersendung endet mit der Berücksichtigung im Kontingent oder dem Vorliegen von Versagungsgründen, insbesondere nach § 36a Abs. 3 AufenthG. B.AufenthV.31.1.2. Wie in Nr. 6.4.3.2 AufenthG-VwV festgestellt, ist die Zustimmung zur Visumerteilung eine verwaltungsinterne, selbständig nicht einklagbare oder anfechtbare Handlung.
 Erteilung von langfristig gültigen D- Visa durch die deutschen Auslandsvertretungen
 Seit 05.04.2010 dürfen Visa für den längerfristigen Aufenthalt (sog. D- Visa) mit einer Gültigkeitsdauer von bis zu einem Jahr ausgestellt werden (Art. 18 Abs. 2 SDÜ). Inhaber solcher nationaler Visa haben auch die Möglichkeit, sich bis zu 90 Tage je Zeitraum von 180 Tagen im Hoheitsgebiet anderer Mitgliedstaaten zu bewegen (Art. 21 Abs. 2 a SDÜ). Ausweislich des Schreibens des Auswärtigen Amts an den Deutschen Städtetag vom 19.03.2011 - 508-516.20 - sind die deutschen Auslandsvertretungen angewiesen, in bestimmten Fallgruppen, Visa für einen längeren Gültigkeitszeitraum auszustellen, wenn von vornherein ein Aufenthalt von bis zu maximal 12 Monaten beabsichtigt ist. Aber auch in anderen Fällen, in denen
 a) keine Veranlassung besteht, die Erteilungsvoraussetzungen für ein längerfristiges Visum bzw. eine Aufenthaltserlaubnis unmittelbar nach Einreise erneut zu prüfen, und
 b) auch sonst eine Vorsprache bei der Ausländerbehörde – etwa zur Prüfung einer Integrations-kursberechtigung oder –verpflichtung – nicht erforderlich ist,
 lässt Art. 18 Abs. 2 SDÜ die Erteilung eines längerfristigen Visums als sinnvoll und geboten erscheinen. Vor diesem Hintergrund ist bei der Erklärung unserer Zustimmung zur Erteilung des Visums gem. § 31 Abs. 1 AufenthV bei folgenden, den Auslandsvertretungen benannten Fallgruppen darum zu ersuchen, das Visum für den gesamten Aufenthaltszeitraum zu erteilen:
-1. alle Fälle, in denen der beabsichtigte Aufenthalt dem Zweck der Ausbildung oder Erwerbstätigkeit dient und voraussichtlich insgesamt ein Jahr oder weniger beträgt (§§ 16- 18, 18d, 19a, 20, 20b und 21 AufenthG). Praktisch gilt dies damit insbesondere für
+' 1. alle Fälle, in denen der beabsichtigte Aufenthalt dem Zweck der Ausbildung oder Erwerbstätigkeit dient und voraussichtlich insgesamt ein Jahr oder weniger beträgt (§§ 16- 18, 18d, 19a, 20, 20b und 21 AufenthG).' Praktisch gilt dies damit insbesondere für
 - Gastwissenschaftler und (Programm-) Studierende sowie deren Familienangehörige, soweit trotz § 34 um Zustimmung ersucht wird,
 - alle Sprachschüler, Schüler an allgemeinbildenden Schulen sowie Teilnehmer an beruflichen Bildungsmaßnahmen, soweit sie § 16b AufenthG unterfallen,
-- alle Teilnehmer von Maßnahmen der Aus- und Weiterbildung gem. § § 17 oder 17b AufenthG (zu den Fallkonstellationen vgl. Nr. 17.1.2.1 AufenthG-VwV),
+- alle Teilnehmer von Maßnahmen der Aus- und Weiterbildung gem. §§ 17 oder 17b AufenthG (zu den Fallkonstellationen vgl. Nr. 17.1.2.1 AufenthG-VwV),
 - Personen mit einem Anspruch auf Erteilung einer Blauen Karte EU, bei denen die Dauer des Arbeitsvertrages bis zu einem Jahr beträgt (zur Erteilungsdauer der Blauen Karte EU vgl. auch A.19a.3),
 - Personen mit Anspruch auf Erteilung einer ICT-Karte nach § 19b AufenthG, bei denen die Dauer des geplanten Aufenthalts bis zu einem Jahr beträgt (zur Erteilungsdauer der ICT-Karte vgl. A.19b.4.),
 - Fälle des Aufenthalts zur zustimmungsfreien Beschäftigung (vgl. § 18 AufenthG i.V.m. BeschV sowie § 19a AufenthG i.V.m. § 2 Abs. 1 Nr. 2 BeschV),
@@ -60,7 +65,7 @@ Merke: Ausweislich des Schreibens des Auswärtigen Amtes sind alle Aufenthalte z
 Hier sind etwa die Fälle des § 7 Abs. 1 S. 3 AufenthG zu nennen, in denen Betroffene zum Zwecke wissenschaftlicher Recherche in Archiven einreisen.
 3. für Aufenthalte zum Familiennachzug (§§ 28 – 36 AufenthG), wenn diese die unter 1. und 2. genannten Personengruppen begleiten.
 Damit kommt ein längerfristiges Visum nicht in Betracht, wenn die Familienangehörigen nachziehen, d.h. zu einem Zeitpunkt das Visum begehren, zu dem den Stammberechtigten bereits eine Aufenthaltserlaubnis erteilt wurde. Zur Erleichterung der Auswertung werden die Bitten zur längeren Geltungsdauer einheitlich wie folgt formuliert:
-„Ich bitte das Visum in diesem Fall für den gesamten Aufenthaltszeitraum von...........Monaten/Jahr (ggf. plus 4 Wochen für Ausreise) zu erteilen. (vgl. Art.18 Abs.2 SDÜ n.F.). An der Einreise und dem Aufenthalt besteht ein besonderes öffentliches Interesse / Die Einreise und der Aufenthalt dient der Ausbildung bzw. der Erwerbstätigkeit. Sofern von Ihrer Seite Bedenken gegen diese Verfahrensweise bestehen, bitten wir unbedingt um Rückäußerung.“
+„Ich bitte das Visum in diesem Fall für den gesamten Aufenthaltszeitraum von...........Monaten/Jahr (ggf. plus 4 Wochen für Ausreise) zu erteilen. (vgl. Art.18 Abs.2 SDÜ n.F.). An der Einreise und dem Aufenthalt besteht ein besonderes öffentliches Interesse/Die Einreise und der Aufenthalt dient der Ausbildung bzw. der Erwerbstätigkeit. Sofern von Ihrer Seite Bedenken gegen diese Verfahrensweise bestehen, bitten wir unbedingt um Rückäußerung.“
 Bei Zustimmungen zum Familiennachzug
 „Ich bitte das Visum in diesem Fall bereits für ein Jahr zu erteilen. (Es besteht kein Anspruch auf Teilnahme am Integrationskurs). An der Einreise und dem Aufenthalt besteht ein besonderes öffentliches Interesse, welchem mit diesem Service Rechnung getragen werden soll. Sofern von Ihrer Seite Bedenken gegen diese Verfahrensweise bestehen, bitten wir unbedingt um Rückäußerung.“
 Wird nach Einreise in den Sachgebieten der Referate IV Bund E festgestellt, dass das Visum entgegen unserer Bitte nur für einen kürzeren Zeitraum ausgestellt wurde, oder das Visum keine Regelung zur Möglichkeit der Erwerbstätigkeit enthält, ist die Akte nach Erteilung der Aufenthaltserlaubnis zur Auswertung an IV B 1 abzugeben.
@@ -108,7 +113,6 @@ Die Zustimmung ist schließlich weiterhin nicht vonnöten, soweit Tätigkeiten n
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 frei
 E-Mail an die VAB-Redaktion
-</div>
 VAB B.AufenthV.38a. - 38f. Anerkennung von
 Forschungseinrichtungen und Abschluss von
 Aufnahmevereinbarungen
@@ -169,10 +173,11 @@ Working-Holiday-Abkommen mit Israel
 Youth-Mobility-Abkommen mit Kanada
 Working-Holiday-Programm mit Korea
 Working-Holiday-Programm mit Taiwan
+Working-Holiday-Programm mit der Republik Östlich des Uruguay
 Besonderheiten für Anträge nach § 19b AufenthG
 B.AufenthV.39. - 41. Einholung eines Aufenthaltstitels im Bundesgebiet
 Änderungsdatum
-(RiLiUmsG2017; 09.04.2018)
+(09.04.2018; 11.05.2018)
 B.AufenthV.39. Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
 Besitz eines nationalen Visums oder einer Aufenthaltserlaubnis
 B.AufenthV.39.1.1. Besitzt der Ausländer ein D-Visum oder eine Aufenthaltserlaubnis, so kann er in jedem Fall einen Aufenthaltstitel im Bundesgebiet einholen oder verlängern lassen (§ 39 Nr. 1).
@@ -291,6 +296,11 @@ Neuseeland Working-Holiday nein ja Antrag im Inland möglich
 18 - 1x Inanspruchnahme, Kontingent festgesetzt, max. drei Monate
 Taiwan Working-Holiday ja --
 30 bei einem Arbeitgeber
+1x Inanspruchnahme, nicht länger als 6 Monate bei einem
+18 -
+Uruguay Working-Holiday ja ja Arbeitgeber, Besuch von Aus- und Fortbildungskursen bis zu 6
+30
+Monate
 * 18 - 30 bedeutet: nach dem 18ten und vor dem 31ten Geburtstag
 ** bei Titelerteilung im Inland
 Ist die Antragstellung nur bei der Botschaft möglich, darf in Inland keine Aufenthaltserlaubnis zu diesem Zweck erteilt werden.
@@ -321,6 +331,10 @@ Working-Holiday-Programm mit Taiwan
 Das Deutsche Institut in Taipei hat am 11.10.2010 mit der Taipeh Vertretung in Berlin eine Gemeinsame Erklärung über ein Working-Holiday-Programm verabschiedet. Die Gemeinsame Erklärung ist am gleichen Tag in Kraft getreten und sieht für den Erteilungszeitraum 11.10.2010 bis 10.10.2011 ein Kontingent von 200 D-Visa vor. Die Vereinbarung ermöglicht Aufenthalte von bis zu 12 Monaten. Zur ergänzenden Finanzierung des Aufenthalts können Ferienjobs angenommen werden.
 Es gibt erhebliche Unterschiede zu anderen bestehenden Working-Holiday-Abkommen. Ausnahmslos müssen die Inhaber eines gültigen taiwanesischen Passes das erforderliche nationale Visum beim Deutschen Institut in Taipeh beantragen. Die Erteilung einer Aufenthaltserlaubnis in Deutschland für diesen Zweck ist auch dann nicht möglich, wenn der Betroffene bereits einen rechtmäßigen gewöhnlichen Aufenthalt im Bundesgebiet besitzt. Das nationale Visum bedarf nicht der Zustimmung der Ausländerbehörde, da die Senatsverwaltung für Inneres und Sport als zuständige oberste Landesbehörde der Visaerteilung am 21.12.2010 gem. § 32 zugestimmt hat.
 Zur Sicherung des Lebensunterhalts dürfen die Begünstigten wie gewohnt jeder Erwerbstätigkeit nachgehen, jedoch nicht länger als drei Monate für denselben Arbeitgeber. Sie dürfen einen oder mehrere Aus- und Fortbildungskurse von insgesamt sechsmonatiger Dauer besuchen.
+Working-Holiday-Programm mit der Republik Östlich des Uruguay
+Die Regierung der Bundesrepublik Deutschland hat mit der Regierung der Republik Östlich des Uruguay am 09.02.2017 eine Absprache über ein Ferienarbeitsaufenthaltsprogramm getroffen. Diese Absprache trat am gelichen Tag in Kraft.
+Ermöglicht werden Aufenthalte von bis zu zwölf Monaten. Die entsprechenden Visa werden ausschließlich bei einer Auslandsvertretung der Bundesrepublik Deutschland beantragt; die Vertretungen benötigen nicht unsere Zustimmung oder die Zustimmung der Bundesagentur für Arbeit. Die Erteilung einer Aufenthaltserlaubnis im Inland ist ausgeschlossen, auch wenn uruguayische Staatsangehörige sich bereits aus anderen Gründen im Bundesgebiet aufhalten.
+Eine Beschäftigung darf längstens sechs Monate bei einem Arbeitgeber ausgeübt werden. Aus- und Fortbildungskurse dürfen bis zu insgesamt sechs Monate Dauer besucht werden. Die Teilnahme am Programm ist nur einmal möglich.
 Beachte: Bei allen Working-Holiday-Abkommen ist der Familiennachzug zum begünstigten Personenkreis ausgeschlossen! Weitere Details können den Abkommen in der Generalie, IV G 2, entnommen werden.
 Besonderheiten für Anträge nach § 19b AufenthG
 Ein zulässiger Antrag auf einen Aufenthaltstitel zum Zweck des unternehmensinternen Transfers (ICT) kann nur von einem Drittstaat aus gestellt werden. Die Ausnahmen von dem Grundsatz der Antragsstellung aus dem Ausland finden bei unternehmensintern Transferierten grundsätzlich keine Anwendung. Maßgeblich ist, dass der Wohnort bzw. Lebensmittelpunkt sich in dem Drittstaat befindet; eine bloße Anwesenheit im Drittstaat zur Antragstellung reicht nicht aus. Unberührt bleibt die Möglichkeit, die Vergünstigung des § 41 Absatz 1 bis 3 wahrzunehmen und anschließend einen Antrag auf einen anderen Aufenthaltstitel zum Zweck der Erwerbstätigkeit zu stellen.
