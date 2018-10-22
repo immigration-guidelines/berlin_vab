@@ -24,7 +24,6 @@ B.AufenthV.44. - 54. Gebühren
 (RiLiUmsG 2017; ÄndAufenthV; 15.03.2018; 17.07.2018)
 Merkblatt_Gebühren_Stand_01.09.2017
 B.AufenthV.44.1.
-Zu den Zahlungsmöglichkeiten in der ABH siehe GA IV A.XXXIII
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 Es ist zu beachten, dass die Gebührenregelungen die Erteilung eines eAT als Normalfall ansehen, d.h. dass sich alle Gebührentatbestände soweit in der Verordnung nicht ausdrücklich anders geregelt, immer auf die eAT-Ausstellung beziehen. Die demgegenüber speziellen Regelungen in Bezug auf den Ausnahmefall der Papiererteilung befinden sich in § 45b, § 47 Abs. 1 Nr. 11 (Übertrag als Papiertitel), § 47 Abs. 4 (Aufenthaltskarten EU in Papierform) und § 48 Abs. 1 Nr. 10-12 (Ausweisersatz in Papierform). Ein Auszug aus der Aufenthaltsverordnung n.F. zu den seit 01.09.2017 geltenden Gebühren ist in einem Merkblatt (s.o.) zusammengestellt.
 Zur "doppelten" Gebührenerhebung bei Zuzug siehe A.69.1.1.
@@ -324,7 +323,8 @@ Litauisch: „(Datum) tarptautin apsaug suteik LTU (=Name des Mitgliedstaats).�
 Maltesisch: „Protezzjoni internazzjonali mogtija minn MLT (=Name des Mitgliedstaats) fi (Datum)“.
 Niederländisch: „Internationale bescherming verleend op (Datum) door NLD (=Name des Mitgliedstaats)”.
 Polnisch: „Ochrona midzynarodowa przyznana przez POL (=Name des Mitgliedstaats) w dniu (Datum)“.
-Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”. Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
+Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”.
+Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
 Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnutá v SVK (=Name des Mitgliedstaats) (Datum)“.
 Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
 Schwedisch: „Internationellt skydd beviljat av SWE (=Name des Mitgliedstaats) den (Datum)“.

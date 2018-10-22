@@ -9,10 +9,9 @@ Rückführungen nach Italien
 Rückführungen nach Griechenland
 Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
 D.13. Asylantrag
-(09.02.2018; 19.03.2018)
+(19.03.2018; 09.08.2018)
 Anlage
-13.1. Mit Umsetzung der Richtlinie 2011/95/EU beinhaltet ein formloser Asylantrag i.S.d. § 13 AsylVfG neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst den Flüchtlingsschutz und den subsidiären Schutz nach der Richtlinie 2011/95/EU.
-Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und Flüchtling im Sinne des § 3 nicht erfüllt sind. Die Prüfung des subsidiären Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
+13.1. Mit Umsetzung der Richtlinie 2011/95/EU beinhaltet ein formloser Asylantrag i.S.d. § 13 AsylVfG neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst den Flüchtlingsschutz und den subsidiären Schutz nach der Richtlinie 2011/95/EU. Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und Flüchtling im Sinne des § 3 nicht erfüllt sind. Die Prüfung des subsidiären Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
 Beruft sich der Ausländer auf subsidiären Schutz im Sinne des § 4, liegt die Zuständigkeit für die Prüfung und Entscheidung – da es sich um Asylanträge handelt – ausschließlich beim BAMF. Für Entscheidungen über inlandsbezogene Abschiebungsverbote nach § 60 Abs. 5 und 7 AufenthG ist die Ausländerbehörde zuständig.
 13.2. Grundsätzlich erfolgt eine einheitliche Antragstellung, eine Beschränkung des Antrags auf die Gewährung internationalen Schutzes im Sinne der Richtlinie 2011/95/EU ist möglich. Die Belehrungspflicht trifft ausschließlich das Bundesamt.
 13.3. frei
@@ -60,6 +59,9 @@ Visumfreie Ersteinreise Art. 11 Art. 14
 Erstantrag im Transitbereich Art. 12 Art. 15
 Hilfsweise Erstantragsstaat Art. 13 Art. 3 Abs. 2
 Selbsteintrittsrecht Art. 3 Abs. 2 Art. 17 Abs. 1
+Die zu beachtenden Modalitäten und Fristen im Rahmen der Überstellung sind in Art. 29 geregelt. Nach Abs. 2 des Art. 29 ist ein Mitgliedstaat nicht mehr zur Aufnahme oder Wiederaufnahme einer Person verpflichtet, wenn die Überstellung nicht innerhalb von sechs Monaten durchgeführt ist. Diese Frist kann auf höchstens ein Jahr verlängert werden, wenn die Überstellung aufgrund einer Inhaftierung der zu überstellenden Person nicht innerhalb der Sechs-Monatsfrist erfolgen konnte; sie kann auf höchstens achtzehn Monate verlängert werden, wenn die betreffende Person flüchtig ist.
+Begibt sich eine Person, für deren Asylverfahren ein anderer Dublin-Staat zuständig ist, in Deutschland ins Kirchenasyl, übt das BAMF das Selbsteintrittsrecht nur aus, wenn die aufnehmende Kirche das BAMF am Tag des Eintritts in das Kirchenasyl unterrichtet und darüber hinaus vom BAMF eine besondere, unverhältnismäßige Härte bejaht wird. Allein die Tatsache, dass der Asylantrag bereits in einem anderen Mitgliedstaat abgelehnt wurde, ist kein ausreichender Grund für die Gewährung von Kirchenasyl in Deutschland.
+Auf der IMK im Juni 2018 wurde beschlossen, dass ab dem 01.08.2018 die 18-monatige Überstellungsfrist nach Art. 29 Abs. 2 DÜ III zugrunde gelegt wird, wenn die Vorgaben des BAMF im Rahmen von Kirchenasylmeldungen nicht eingehalten werden.
 Zum Dublin III-Verfahren und der Frage, welches Dokument vor bzw. nach dem Ablauf der Überstellungsfrist auszustellen ist, siehe VAB D 55.0.2.
 Verfahren bei freiwilliger Ausreise in den Mitgliedstaat
 Das Bundesamt stellte in der Sitzung der UAG BAMF am 12.05.2014 klar, dass der deutsche Gesetzgeber sich mit dem neuen § 34a AsylVfG für eine kontrollierte Ausreise entschieden hat. Gleichwohl prüft das BAMF in geeigneten Einzelfällen, ob eine freiwillige Rücküberstellung ermöglicht werden kann.
@@ -87,8 +89,8 @@ Für das Überstellungsverfahren gelten seit dem 01.02.2018 folgende Zuständigk
 BAMF Nürnberg – Referat DU 2:
 Bearbeitung, Prüfung und Entscheidung von Ersuchen um Übernahme aus den Dublin-Mitgliedstaaten an die Bundesrepublik Deutschland
 Planung und Koordination des Überstellungsverfahrens aus den Mitgliedstaaten an die Bundesrepublik Deutschland inklusive der Abstimmung mit den beteiligten Behörden (BPOL, ABH etc.)
-Beantwortung von Anfragen der Mitgliedstaaten gem. Art. 34 Dublin-III-Verordnung an die Bundesrepublik Deutschland Ersuchen um Übernahme an die Mitgliedstaaten in Haft- und Aufgriff-Fällen, in denen kein Schutzersuchen gestellt wurde. In diesen Fällen werden durch DU 2 auch Dublin-Bescheide gefertigt.
+Beantwortung von Anfragen der Mitgliedstaaten gem. Art. 34 Dublin-III-Verordnung an die Bundesrepublik Deutschland
 BAMF Dortmund – Referat DU 3:
 Koordination, Planung und Abstimmung sämtlicher Überstellungsverfahren von der Bundesrepublik Deutschland an die Mitgliedstaaten.
 BAMF Berlin – Referat DU 4:
-Haft- und Aufgriff-Fälle, in denen ein anderer Dublin-Mitgliedstaat zuständig ist und ein Schutzersuchen geäußert wurde
+Haft- und Aufgriff-Fälle, in denen ein anderer Dublin-Mitgliedstaat zuständig ist und ein Schutzersuchen geäußert wurde sowie seit dem 01.07.2018 Haft- und Aufgriff-Fälle, in denen kein Schutzersuchen gestellt wurde
