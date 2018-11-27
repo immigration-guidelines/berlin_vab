@@ -34,13 +34,21 @@ Grundsatz
 Einschränkungen
 Erlaubnis der selbstständigen Tätigkeit für Inhaber einer aus sonstigen Gründen erteilten Aufenthaltserlaubnis resp. ausgestellten Duldung oder Aufenthaltsgestattung
 A.21. Selbstständige Tätigkeit
-(17.04.2018; 26.04.2018)
+(26.04.2018; 15.11.2018)
 Antrag Statusprüfung Katalog Berufsgruppen
 21.0. Allgemeines
 Bei § 21 Abs. 1, 2a, und 5 handelt es sich um Ermessensnormen, die gleichermaßen für Ausländer gelten, die im Ausland bereits ein Unternehmen betreiben und nach Deutschland übersiedeln wollen, wie auch für Existenzgründer, die aus dem Ausland zu diesem Zweck einreisen wollen oder sich bereits mit einem Aufenthaltstitel in Deutschland aufhalten. Begünstigt sind:
 Unternehmensgründer,
 Einzelunternehmer und Freiberufler,
 Geschäftsführer und gesetzliche Vertreter von Personen- und Kapitalgesellschaften, soweit sie unternehmerische Verantwortung tragen. Dies ist bei Gesellschaftern einer Personengesellschaft (z.B. OHG, KG, GbR) grundsätzlich der Fall. Juristische Personen (AG, Genossenschaft, Kommanditgesellschaft auf Aktien) werden vom Vorstand, eine GmbH wird vom Geschäftsführer vertreten. Wollen diese Personen in den Genuss des § 21 kommen, müssen sie Kapitaleigner, Mitgesellschafter oder Genosse sein. Dabei erfüllt eine Unternehmensbeteiligung von weniger als 50% nur dann die Voraussetzung der Wahrnehmung unternehmerischer Verantwortung, wenn kein Miteigner eine höhere Beteiligung als der Betroffene am Unternehmen hält. Ist dies nicht der Fall, ist die Erteilung einer AE nach § 18 AufenthG i.V.m. § 3 BeschV zu prüfen.
+Bestehen Zweifel an der Geschäftsführereigenschaft, z.B. wenn mehr als zwei Geschäftsführer bei gleicher Unternehmensbeteiligung die Gesellschaft führen wollen, müssen die Antragsteller ihre Geschäftsführereigenschaft tatsächlich nachweisen.
+Hierzu müssen die Antragsteller versichern, dass sie unbeschränkt geschäftsfähig sind und keine Ausschlussgründe auf Grund von Straftaten vorliegen (§ 6 Abs. 2 GmbGH).
+Des Weiteren müssen sie nachweisen, dass eine korrekte Anmeldung der GmbH beim Handelsregister erfolgt ist (§ 7 GmbHG).
+Zudem obliegt den Geschäftsführern die Pflicht zur ordnungsgemäßen Buchführung und Bilanzierung (§§ 41, 42 GmbHG), sowie die unverzügliche Vorlage des Geschäftsberichts gegenüber den Gesellschaftern zur Feststellung des Jahresabschlusses (§ 42a GmbHG),
+die gerichtliche und außergerichtliche Vertretung der Gesellschaft (§ 35 GmbHG),
+die Einberufung der Gesellschafterversammlung, § 49 GmbHG sowie die
+Prüfung und Umsetzung von Beschlüssen der Gesellschafterversammlung.
+Die Aufzählung ist nicht abschließend. Die Antragsteller haben durch Vorlage von Unterlagen zu belegen, dass sie diese Aufgaben und Pflichten als Geschäftsführer auch wirklich wahrnehmen.
 Nicht hinreichend ist, wenn ein Anteilseigner einer juristischen Person, der nicht Vertreter oder Geschäftsführer ist, eine AE nach § 21 begehrt. Der Betroffene muss hier selbstständig tätig werden. Das ist er als bloßer Kapitaleigner nicht. Es muss zumindest die Geschäftsführerbestellung des Gesellschafters beabsichtigt und diese Absicht - etwa durch einen notariell beurkundeten Vorvertrag - nachgewiesen sein.
 Repräsentanzen
 Eine sogenannte Repräsentanz kann neben einer ausländischen Vertretung ähnlich einer Botschaft auch die rechtlich unselbständige Vertretung eines ausländischen Unternehmens im Inland sein. Die Repräsentanz gilt daher nicht als eigener Gewerbebetrieb. Über die Repräsentanz pflegt das ausländische Unternehmen Kontakte im Inland und fädelt neue Geschäfte ein. Der Repräsentanz steht eine Leiterin/ein Leiter vor, der je nach Ausgestaltung des Vertrages mit dem Mutterunternehmen als freiberuflich Selbstständiger oder Angestellter auf Basis eines ausländischen Arbeitsvertrages zu betrachten ist.
