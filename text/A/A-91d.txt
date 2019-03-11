@@ -1,12 +1,12 @@
 VAB A 91d
 VAB A 91d
 A.91d. Auskünfte zu Durchführung der Richtlinie 2016/801/EU
-(RiLiUmsG2017)
-91d.0. Die Überschrift wurde mit Inkrafttreten des Richtlinienumsetzungsgesetzes 2017 den neuen Aufgaben der Nationalen Kontaktstelle (BAMF Referat 221) nach der REST-Richtlinie angepasst. Die bisherigen Absätze 1 und 2 wurden in diesem Zusammenhang zu den Absätzen 3 und 4.
+(RiLiUmsG2017, 27.02.2019)
+91d.0. Die Überschrift wurde mit Inkrafttreten des Richtlinienumsetzungsgesetzes 2017 den neuen Aufgaben der Nationalen Kontaktstelle (BAMF Referat 72C) nach der REST-Richtlinie angepasst. Die bisherigen Absätze 1 und 2 wurden in diesem Zusammenhang zu den Absätzen 3 und 4.
 91d.1. Die Regelung dient der Umsetzung von Artikel 28 Absatz 2 und Artikel 31 Absatz 2 der REST-Richtlinie. Das Bundesamt für Migration und Flüchtlinge als Nationale Kontaktstelle nimmt alle Anträge und Mitteilungen über die kurzfristige Mobilität von Forschern und Studenten aus europäischen Mitgliedstaaten vor ihrer Einreise nach Deutschland entgegen, prüft diese auf Vollständigkeit und übersetzt sie ggf. auf Deutsch. Soll das Studium oder die Forschung in Berlin fortgesetzt werden, leitet das Bundesamt Mitteilungen über die kurzfristige Mobilität an IV B 2 weiter.
 91d.2. Adressat der Regelung ist das BAMF.
 91d.3. Frei
-91d.4. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der REST-Richtlinie sind an die Nationale Kontaktstelle des BAMF (NKS REST, Referat 221, E-Mail: rest@bamf.bund.de) zu richten.
+91d.4. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der REST-Richtlinie sind an die Nationale Kontaktstelle des BAMF (NKS REST, Referat 72C, E-Mail: rest@bamf.bund.de) zu richten.
 91d.5. Die Regelung dient der Umsetzung von Artikel 29 Absatz 5 und Artikel 32 Absatz 2 der REST-Richtlinie. Das Bundesamt für Migration und Flüchtlinge sorgt für den Informationsaustausch mit den Behörden in anderen Mitgliedstaaten sowie den zuständigen Organen der Europäischen Union. Beim Informationsaustausch mit den Behörden anderer Mitgliedstaaten geht es vor allem um den Austausch der Informationen, die für die Durchführung der Wechsel zwischen mehreren EU-Mitgliedstaaten erforderlich sind.
 § 91d Absatz 5 sieht dazu vor, dass das BAMF die zuständige Behörde eines anderen Mitgliedstaats über Ablehnungen nach § 16a und § 20a sowie die Erteilung einer Aufenthaltserlaubnis nach § 20b informiert. Die dafür nötigen Angaben bezieht das Bundesamt für Migration und Flüchtlinge aus einer entsprechenden Mitteilung der Ausländerbehörde. Der Nationalen Kontaktstelle des BAMF ist mitzuteilen, dass entweder
 • nach Eingang der nach Absatz 1 weitergeleiteten Mitteilung das Recht auf Einreise und Aufenthalt im Rahmen der kurzfristigen Mobilität für Forscher oder Studenten fristgerecht abgelehnt wurde oder

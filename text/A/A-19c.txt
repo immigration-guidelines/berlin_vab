@@ -9,7 +9,7 @@ A.19c. Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehme
 19c.4. Ablehnungsgründe
 19c.5. Bescheinigung über kurzfristige Mobilität
 A.19c. Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehmer
-(RiLiUmsG 2017; 12.12.2017)
+(RiLiUmsG 2017; 12.12.2017; 27.02.2019)
 19c.0. Kurzfristige Mobilität für ICTs
 § 19c erlaubt es Ausländern, die bereits eine ICT-Karte eines anderen europäischen Mitgliedsstaats besitzen, sich für bis zu 90 Tage innerhalb von 180 Tagen in Deutschland aufzuhalten und zu arbeiten.
 Auch das vom ersten Mitgliedsstaat erteilte Visum nach der ICT-Richtlinie gilt dabei als Aufenthaltstitel. Der Arbeitnehmer muss nicht zuerst in den ersten Mitgliedsstaat einreisen, um dort die ICT-Karte zu erhalten (vgl. Hinweise des BMI zur Anwendung des RiLiUmsG vom 16.11.2017).
@@ -18,7 +18,7 @@ Ein Familiennachzug zum kurzfristig mobilen ICT- Ausländer findet nicht statt. 
 Zu den Übermittlungspflichten im Zusammenhang mit der Ablehnung einer kurzfristigen Mobilität vgl. A.91g.5.
 19c.1. Mitteilung über die Absicht zur kurzfristigen Mobilität
 Normadressat für die Absätze 1 und 2 des § 19 c ist allein das BAMF als nationale Kontaktstelle Deutschlands bzw. der Ausländer und das ihn beschäftigende Unternehmen. Insofern sind diese Absätze für die ausländerbehördliche Tätigkeit ohne praktische Relevanz.
-Vom Verfahren her, muss das Unternehmen im europäischen Ausland (EU, nicht aber EWR und Schweiz, vgl. § 19 b Abs.5) dem BAMF die Absicht zur kurzfristigen Mobilität mitteilen und die Unterlagen vollständig einreichen. Zuständig im BAMF ist die Nationale Kontaktstelle (Referat 220; NKS ICT; ict@bamf.bund.de; Faxnummer +49911943-1000). Das nähere Verfahren ist derzeit allerdings noch offen. Alle irrtümlich bei der Ausländerbehörde eingehenden Mitteilungen werden ungeprüft an das aufnehmende Unternehmen zurückgegeben.
+Vom Verfahren her, muss das Unternehmen im europäischen Ausland (EU, nicht aber EWR und Schweiz, vgl. § 19 b Abs.5) dem BAMF die Absicht zur kurzfristigen Mobilität mitteilen und die Unterlagen vollständig einreichen. Zuständig im BAMF ist die Nationale Kontaktstelle (Referat 72C; NKS ICT; ict@bamf.bund.de; Faxnummer +49911943-1000). Das nähere Verfahren ist derzeit allerdings noch offen. Alle irrtümlich bei der Ausländerbehörde eingehenden Mitteilungen werden ungeprüft an das aufnehmende Unternehmen zurückgegeben.
 Nach Eingang und Prüfung leitet die Nationale Kontaktstelle des BAMF die vollständigen Mitteilungen in deutscher Sprache an die zuständige Ausländerbehörde (am Ort des geplanten Aufenthalts im Bundesgebiet) weiter (zu Art und Umfang der Unterlagen s. § 19 c Abs. 1).
 19c.2. frei
 19c.3. Verlängerung der ICT-Karte des anderen Mitgliedstaats
@@ -32,5 +32,5 @@ Der Ablehnungsbescheid ist dem Ausländer selbst, der aufnehmenden Niederlassung
 Die Sicherheitsbehörden sind entsprechend § 73 Abs. 2 und 3 zu beteiligen.
 19c.5. Bescheinigung über kurzfristige Mobilität
 Die nationale Kontaktstelle des BAMF stellt dem unternehmensintern transferierten Arbeitnehmer eine Bescheinigung über seine Berechtigung zur Einreise und zum Aufenthalt zum Zweck des unternehmensinternen Transfers aus. Diese Bescheinigung hat lediglich deklaratorischen Charakter.
-Merke: Da der Betroffene damit die Rechtmäßigkeit seines Aufenthalts und seiner Beschäftigung nachweisen kann, besteht für die weitere Ausstellung von Bescheinigungen und Titeln durch die Ausländerbehörde kein Sachbescheidungsinteresse. Vorsprechende Kunden sind etwa bei Verlust dieser Bescheinigung oder verzögerte Übersendung immer an die Nationale Kontaktstelle des BAMF (Referat220; NKS ICT; ict@bamf.bund.de) zu verweisen.
+Merke: Da der Betroffene damit die Rechtmäßigkeit seines Aufenthalts und seiner Beschäftigung nachweisen kann, besteht für die weitere Ausstellung von Bescheinigungen und Titeln durch die Ausländerbehörde kein Sachbescheidungsinteresse. Vorsprechende Kunden sind etwa bei Verlust dieser Bescheinigung oder verzögerte Übersendung immer an die Nationale Kontaktstelle des BAMF (Referat 72C; NKS ICT; ict@bamf.bund.de) zu verweisen.
 E-Mail an die VAB-Redaktion

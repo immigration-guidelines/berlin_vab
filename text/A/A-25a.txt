@@ -24,7 +24,7 @@ Erwerbstätigkeit
 25a.3. Ausweisungsinteresse
 A.25a. Aufenthaltsgewährung bei gut integrierten Jugendlichen und
 Heranwachsenden
-(AsylVfbeschlG, 19.07.2018, 08.10.2018)
+(AsylVfbeschlG, 08.10.2018, 11.01.2019)
 Checkliste § 25a Abs. 1
 Checkliste §§ 25a Abs. 2, 60a Abs. 2b
 25a.0. Zur Ermessensausübung
@@ -38,9 +38,10 @@ Zwar ist dem Wortlaut des § 25a Abs. 1 selbst nicht unmittelbar zu entnehmen, d
 Geduldeter Aufenthalt
 Voraussetzung für die Erteilung einer Aufenthaltserlaubnis ist nach dem Gesetzeswortlaut, dass der Ausländer, der von der Regelung profitieren will, geduldet bzw. dessen Abschiebung auszusetzen ist. Ausländer, die eine Aufenthaltserlaubnis etwa nach § 25 Abs. 5 besitzen, profitieren nicht von der Regelung, auch wenn sie dadurch etwa was die Geltungsdauer gem. § 26 Abs. 1 betrifft, schlechter gestellt werden als Geduldete. Dies entspricht auch dem Sinn und Zweck der Regelung, Personen zu begünstigen, die trotz ihrer Integration in das gesellschaftliche und soziale Leben längerfristig geduldet sind, ohne in eine Aufenthaltserlaubnis gewachsen zu sein und damit ohne die Möglichkeit, ihren Aufenthalt etwa über § 35 oder § 26 Abs. 4 verfestigen zu können. Etwas anderes ergibt sich auch nicht daraus, dass gemäß § 25 a Abs. 1 Satz 1 neben einem geduldeten auch ein erlaubter oder gestatteter Aufenthalt auf die geforderte Voraufenthaltszeit angerechnet werden soll.
 Die Frage, ob der Ausländer bei Antragstellung und/oder auch Entscheidung über die Erteilung der Aufenthaltserlaubnis geduldet sein muss, wird durch den Wortlaut des Gesetzes nicht beantwortet. Anders als etwa bei der Regelung des § 104 a Abs. 1 S. 1 hat der Gesetzgeber bewusst auf einen Antragsstichtag oder ein Datum, an dem der Antragsteller geduldet sein muss, verzichtet. Vor diesem Hintergrund ist die Vorschrift zugunsten des Betroffenen so auszulegen, dass es hinreichend ist, wenn der Betroffene bei Antragstellung oder Entscheidung über die Erteilung der Aufenthaltserlaubnis ausreisepflichtig, die Abschiebung allerdings ausgesetzt oder auszusetzen ist.
+Der Besitz einer reinen Verfahrensduldung, genügt für den Titelerwerb nicht. Insofern liegt eine Ausnahme von der Regel vor (vgl. hierzu: A.25b.1.1.).
 Regelerteilungsvoraussetzungen
 Die allgemeinen Regelerteilungsvoraussetzungen gemäß § 5 Abs. 1 einschließlich geklärter Identität und Passpflicht finden auch im Rahmen des § 25a Anwendung. Von der Erfüllung der Regelerteilungsvoraussetzungen kann im Ermessen nach § 5 Abs. 3 S. 2 abgesehen werden (vgl. A.5.3.2.).
-Eine Regel- Ausnahme gilt gemäß § 25a Abs. 1 Satz 2 bei der Lebensunterhaltssicherung, solange sich die Betroffenen noch in der Ausbildung befinden.
+Eine Regel-Ausnahme gilt gemäß § 25a Abs. 1 Satz 2 bei der Lebensunterhaltssicherung, solange sich die Betroffenen noch in der Ausbildung befinden.
 Familiennachzug
 Ein Familiennachzug zu Ausländern, die eine Aufenthaltserlaubnis nach § 25 a Abs. 1 besitzen, wird im Rahmen des § 29 Abs. 3 Satz 1 gewährt.
 Bei Personen, die einen Titel nach § 25a Abs. 2 besitzen, ist der Familiennachzug gemäß § 2 9 Abs. 3 Satz 3 ausgeschlossen.
@@ -72,7 +73,7 @@ Im Übrigen finden die allgemeinen zu § 5 Abs. 1 Nr. 2 entwickelten Maßstäbe 
 25a.1.1.5. Bekenntnis zur freiheitlich demokratischen Grundordnung
 Liegen konkrete Anhaltspunkte vor, dass der Ausländer/die Ausländerin sich nicht zur freiheitlichen demokratischen Grundordnung bekennt, ist die Aufenthaltserlaubnis zwingend zu versagen.
 25a.1.2. Zum Lebensunterhalt
-Die Privilegierung beim Erfordernis der Lebensunterhaltssicherung des § 25 a Abs. 1 S. 2 stellt eine Spezialregelung gegenüber der Regelerteilungsvoraussetzung nach § 5 Abs. 1 Nr. 1 dar.
+Die Privilegierung beim Erfordernis der Lebensunterhaltssicherung des § 25 a Abs. 1 S. 2 stellt eine Spezialregelung gegenüber der Regelerteilungsvoraussetzung nach § 5 Abs. 1 Nr. 1 dar und verdrängt diese (so ausdrücklich: OVG Berlin-Brandenburg, Beschluss vom 26.07.2018 – OVG 6 S 20.18).
 25a.1.3. Versagungsgründe
 Nach dem klaren Gesetzeswortlaut wird die Erteilung der Aufenthaltserlaubnis nur dann versagt, wenn die falschen Angaben von dem Jugendlichen oder Heranwachsenden selbst gemacht werden bzw. die Täuschung über Identität und Staatsangehörigkeit von ihm selbst begangen wird. Eine Zurechnung des Verhaltens der Eltern erfolgt demnach nicht. Nach dem Gesetzeswortlaut werden im Rahmen des § 25a Abs. 1 frühere Verhalten des Betroffenen nicht sanktioniert („ausgesetzt ist“). Eine Täuschung über Identität oder Staatsangehörigkeit im Rahmen einer wertenden Gesamtbetrachtung ist unbeachtlich, wenn der Jugendliche oder Heranwachsende seine wahre Identität und Staatsangehörigkeit etwa durch die Vorlage des für die Erteilung ohnehin erforderlichen Passes von sich aus offenbart. Eine Zusicherung der Aufenthaltserlaubnis bei Passvorlage kann im Einzelfall ausgestellt werden, wenn dies die Passbeschaffung erleichtert (BVerwG, Urteil vom 14. Mai 2013 - 1 C 17/12 - juris Rn. 20, 31).
 25a.2.1. Aufenthaltsrecht für Eltern von Minderjährigen
@@ -96,4 +97,4 @@ Ebenfalls mit Inkrafttreten des Gesetzes zur Neubestimmung des Bleiberecht und d
 25a.3. Ausweisungsinteresse
 Die Regelung des § 25a Abs. 3 enthält eine Privilegierung hinsichtlich eines vorliegenden Ausweisungsinteresses für die personensorgeberechtigten Eltern und minderjährigen Geschwistern von gemäß § 25a Abs. 1 begünstigten Jugendlichen und Heranwachsenden. Die Regelung ist missverständlich, da sie hinsichtlich der Straftaten sprachlich an den „Ausländer“ anstatt an die „Eltern oder die minderjährigen Geschwister des Ausländers “ anknüpft. Zu beachten ist, dass es an einer § 104a Abs. 3 AufenthG vergleichbaren Regelung fehlt, so dass es nicht zu einer Zurechnung von Straftaten im Familienverband kommt. Dies bedeutet zum Beispiel, dass Straftaten eines Elternteils, die die Grenze des § 25a Abs. 3 überschreiten, die Erteilung einer Aufenthaltserlaubnis gemäß § 25 Abs. 2 an den anderen Elternteil und eventuell vorhandene minderjährige Geschwister nicht hindern. Einem minderjährigen Geschwisterkind kann allerdings nur dann eine Aufenthaltserlaubnis nach § 25a Abs. 2 Satz 2 erteilt werden, wenn mindestens ein Elternteil über eine Aufenthaltserlaubnis nach § 25a Abs. 2 Satz 1 verfügt. Dies ergibt sich bereits aus dem Wortlaut der Norm.
 25a.4. Sämtliche Aufenthaltserlaubnisse nach § 25 a können abweichend von § 10 Abs. 3 Satz 2, d.h. auch nach offensichtlich unbegründeten Asylanträgen, erteilt werden und berechtigen vollumfänglich zur Erwerbstätigkeit. Besteht die Sperrwirkung gemäß 11 Abs.1, ist bei Vorliegen der Erteilungsvoraussetzungen des § 25a die Aufhebung der Sperrwirkung nach § 11 Abs. 4 Satz 2 zu prüfen.
-E -Mail an die VAB-Redaktion</div>
+E -Mail an die VAB-Redaktion
