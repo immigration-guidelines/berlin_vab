@@ -2,7 +2,7 @@ VAB A 6
 VAB A 6
 Inhaltsverzeichnis
 A.6. Visum
-(29.03.2018; 17.01.2019, 27.02.2019)
+(27.02.2019; 21.03.2019)
 6.0. Allgemeines zum Visakodex
 6.0.1. Visums-Kategorien
 6.0.2. Reiserechte innerhalb des Schengenraumes
@@ -22,7 +22,7 @@ Rechtsmittel gegen Beseitigung eines Visums
 3.3. Vorgehen im Trefferfall
 4. Auskunftsrecht Betroffener
 A.6. Visum
-(29.03.2018; 17.01.2019, 27.02.2019)
+(27.02.2019; 21.03.2019)
 6.0. Allgemeines zum Visakodex
 Am 05.10.2009 ist die Verordnung (EG) Nr. 810/2009 - der sog. Visakodex - in Kraft getreten. Diese Verordnung findet seit dem 05.04.2010 in den Schengen-Staaten (vgl. A.2.5.) grundsätzliche Anwendung. Am 05.04.2010 in Kraft getreten ist darüber hinaus die Verordnung (EU) Nr. 265/2010 vom 25.03.2010 zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und der VO (EG) Nr. 562/2006 in Bezug auf den Verkehr von Personen mit einem Visum für den längerfristigen Aufenthalt, mit der u.a. Art. 18 und Art. 21 des SDÜ geändert wurden. Der Visakodex ersetzt u.a. Art. 9 bis 17 des Schengener Durchführungsübereinkommens (SDÜ) und die Gemeinsamen Konsularischen Instruktionen (GKI.
 6.0.1. Visums-Kategorien
@@ -106,10 +106,14 @@ Zugang zum VIS haben die Visumbehörden (Auslandsvertretungen), die für die Kon
 Auf das VIS kann insbesondere zu folgenden Zwecken zugegriffen werden:
 Prüfung und Entscheidung von Visumanträgen,
 Prüfung der Identität des Visuminhabers und/oder der Echtheit des Visums bei Kontrollen an den Außengrenzen, Ermittlung und Rückführung von illegalen Einwanderern,
-leichtere Bestimmung des Mitgliedstaates, der für die Bearbeitung eines Asylantrages zuständig ist. Darüber hinaus können die deutschen Sicherheits- und Strafverfolgungsbehörden im Rahmen des sogen. VIS-Zugangsgesetzes – VISZG - zum Zweck der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten Daten abfragen.
+leichtere Bestimmung des Mitgliedstaates, der für die Bearbeitung eines Asylantrages zuständig ist.
+Darüber hinaus können die deutschen Sicherheits- und Strafverfolgungsbehörden im Rahmen des sogen. VIS-Zugangsgesetzes – VISZG - zum Zweck der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten Daten abfragen.
 Vorrangiger Anwendungsbereich für die ABH sind die Visumverlängerungen nach § 6 Abs. 3 AufenthG. Dabei sind die Art. 14 und 15 VIS-VO sowie Art. 54 Visakodex zu beachten. Hiernach führen die Ausländerbehörden eine VIS-Abfrage durch und geben die Daten zur Verlängerung des Visums ein. Link zum VIS-Handbuch
 Soll die Identität eines Visuminhabers und/oder die Echtheit eines Visums überprüft werden, kann eine Verifizierung mit der Nummer der Visummarke durchgeführt werden. Die technischen Voraussetzungen, für eine solche Überprüfung auch die Fingerabdrücke des Visuminhabers heranzuziehen, bestehen gegenwärtig bei der ABH nicht.
-Seit dem 21.02.2012 besteht die Möglichkeit des Informationsaustausches zwischen den Mitgliedstaaten über das elektronische Kommunikationssystem VIS-Mail, das ebenfalls über das Registerportal des BVA erreichbar ist. Das System ermöglicht die Informationsübermittlung zwischen den Mitgliedstaaten zu Visumanträgen. Die Inhalte dieser Anträge können über das Registerportal Visa abgefragt werden. Der Informationsaustausch über VIS-Mail kann verschiedenen Zwecken dienen, so z.B. zum Zweck der konsularischen Zusammenarbeit oder für die Anforderung und Übermittlung von zum Visumantrag zugehörigen Dokumenten. Link zum Handbuch VIS-Mail
+Seit dem 21.02.2012 besteht die Möglichkeit des Informationsaustausches zwischen den Mitgliedstaaten über das elektronische Kommunikationssystem VIS-Mail, das über das Registerportal des BVA erreichbar ist. Das System ermöglicht die Informationsübermittlung zwischen den Mitgliedstaaten des Schengener Abkommens zu Visumanträgen. Die Inhalte dieser Anträge können über das Registerportal Visa abgefragt werden. Der Informationsaustausch über VIS-Mail kann verschiedenen Zwecken dienen, so z.B. zum Zweck der konsularischen Zusammenarbeit oder für die Anforderung und Übermittlung von zum Visumantrag zugehörigen Dokumenten. Weitere Informationen sind im Link zum Handbuch VIS-Mail zu finden.
+Zum Umgang mit VIS-Mail sind ein Schulungsskript und eine Präsentation in der AusReg2Info: Bearbeitungshinweise und Anleitungen hinterlegt.
+Nach Mitteilung des Auswärtigen Amtes sind Visa-Antragsunterlagen ab dem 30.03.2019 ausschließlich über VIS-Mail anzufordern. Anforderungen von Visa-Antragsunterlagen, die auf anderen Wegen übermittelt werden (z.B. über das Auswärtige Amt), werden ab diesem Zeitpunkt nicht mehr bearbeitet.
+Beachte: Sollte eine konsularische Vertretung eines anderen Mitgliedsstaates auf eine Anfrage oder Anforderung von Visa-Antragsunterlagen nicht antworten, empfiehlt sich die Anforderung über die in diesem Land befindliche deutsche Auslandsvertretung.
 Zur Umsetzung des VIS werden konsularische Vertretungen und Außengrenzübergangsstellen des Schengen-Raums mit der zentralen VIS-Datenbank verbunden. Die Inbetriebnahme erfolgt e gestaffelt nach verschiedenen Regionen und ist seit dem 20.11.2015 abgeschlossen.
 Seit dem 29.01.2019 kann das VIS über AusReg abgefragt werden. Eine ent-sprechende Anleitung ist als Schulungsskript in der AusReg 2 Info (AusReg2Info:Bearbeitungshinweise und Anleitungen) hinterlegt.Eine Abfrage der VIS muss immer dann erfolgen, wenn die Einreise mit einem Visum ohne unsere Zustimmung erfolgt und das Visum verifiziert werden muss (s. oben).
 6.s.3. Visawarndatei
@@ -164,6 +168,7 @@ Das Vorgehen im Trefferfall ist im VWDG nicht geregelt.
 Bei festgestellten Notierungen im Zusammenhang mit Verpflichtungserklärungen (VE) ist 68.1.2.7. der VwV zum AufenthG heranzuziehen, wonach in Fällen, in denen im Rahmen von früheren Aufenthalten eine VE nicht erfüllt wurde oder die betroffene Person sich wg. unrichtigen Angaben gem. § 95 Abs. 2 Nr. 2 AufenthG strafbar gemacht hat, besondere Anforderungen an die Leistungsfähigkeit zu stellen sind, d.h. Einkommens- und Vermögensverhältnisse sind umfänglich zu prüfen. Kann danach eine Bonität (vgl. A.2.3.1.14) nicht ausreichend glaubhaft gemacht werden, kann sie auf der VE auch nicht bestätigt werden und die VE ist damit unbeachtlich (vgl. 68.1.2.2. der AufenthG-VwV).
 Wird im Zusammenhang mit einer beantragten Visumverlängerung eine Notierung aus einem Anlass nach § 2 Abs. 1 Nr. 2 VWDG festgestellt, so ist diese Notierung in die Entscheidung über den nun vorliegenden Verlängerungsantrag mit einzubeziehen. Die Notierung allein trägt eine Versagung der Visumverlängerung jedoch nicht.
 Wird im Zusammenhang mit einer VE oder bei beantragter Visumverlängerung eine Notierung im Sinne von § 2 Abs. 1 Nr. 1 a) – d) VWDG festgestellt, so gilt Vorstehendes entsprechend.
+</div>
 4. Auskunftsrecht Betroffener
 Nach § 12 VWDG können Betroffene jederzeit einen Antrag auf Auskunft über die über sie gespeicherten Daten stellen. Der Antrag kann auch von einem gesetzlichen oder bevollmächtigten Vertreter gestellt werden. Ein solcher Antrag ist schriftlich beim Bundesverwaltungsamt zu stellen und bedarf keiner ausdrücklichen Begründung. Für die Prüfung, ob eine Auskunftserteilung nach § 12 Abs. 2 VWDG unterbleiben muss, holt das BVA die Stellungnahme der zuständigen Stelle – also der Behörde, die die Notierung veranlasst hat – ein.
 Eine Auskunftserteilung unterbleibt, wenn

@@ -9,7 +9,7 @@ Rückführungen nach Italien
 Rückführungen nach Griechenland
 Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
 D.13. Asylantrag
-(09.08.2018; 17.01.2019)
+(17.01.2019; 23.05.2019)
 Anlage
 13.1. Mit Umsetzung der Richtlinie 2011/95/EU beinhaltet ein formloser Asylantrag i.S.d. § 13 neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst den Flüchtlingsschutz und den subsidiären Schutz nach der Richtlinie 2011/95/EU. Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und Flüchtling im Sinne des § 3 nicht erfüllt sind. Die Prüfung des subsidiären Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
 Beruft sich der Ausländer auf subsidiären Schutz im Sinne des § 4, liegt die Zuständigkeit für die Prüfung und Entscheidung – da es sich um Asylanträge handelt – ausschließlich beim BAMF. Für Entscheidungen über inlandsbezogene Abschiebungsverbote nach § 60 Abs. 5 und 7 AufenthG ist die Ausländerbehörde zuständig.
@@ -82,11 +82,19 @@ die mit einem griechischen Visum oder Aufenthaltstitel ab dem 15.03.2017 nach Gr
 bei Gefährdern und Straftätern in griechischer Zuständigkeit seit dem 15.03.2017.
 Eine Überstellung erfolgt nach Zustimmung und bis auf weiteres auf Basis einer einzuholenden Zusicherung durch Griechenland, dass die zu überstellende Person entsprechend den Normen der Richtlinie 2013/33/EU (Aufnahmerichtlinie) untergebracht und ihr Antrag nach Maßgabe der Richtlinie 2013/32/EU (Asylverfahrensrichtlinie) bearbeitet wird.
 Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
-Für das Überstellungsverfahren gelten seit dem 01. 10.2018 folgende Zuständigkeiten:
+Für das Überstellungsverfahren gelten - weggefallen- folgende Zuständigkeiten:
+BAMF Nürnberg - Referat 32A:
+Operative Steuerung des Dublinverfahrens
+EURODAC-Angelegenheiten
+Kirchenasyl im Dublinverfahren
 BAMF Nürnberg – Referat 32B:
 Bearbeitung, Prüfung und Entscheidung von Ersuchen um Übernahme aus den Dublin-Mitgliedstaaten an die Bundesrepublik Deutschland
 Planung und Koordination des Überstellungsverfahrens aus den Mitgliedstaaten an die Bundesrepublik Deutschland inklusive der Abstimmung mit den beteiligten Behörden (BPOL, ABH etc.)
-Beantwortung von Anfragen der Mitgliedstaaten gem. Art. 34 Dublin-III-Verordnung an die Bundesrepublik Deutschland Dublinzentren Berlin (Ref. 32D), Dortmund (ref. 32E) und Bayreuth (Ref. 32F)
+Beantwortung von Anfragen der Mitgliedstaaten gem. Art. 34 Dublin-III-Verordnung an die Bundesrepublik Deutschland BAMF Nürnberg - Referat 32C:
+Koordinierung und Prüfung der rechtlichen Voraussetzungen für Übersetllungen in die Mitgliedsstaaten inklusive der Abstimmung mit den beteiligten Behörden (BPOL, ABH, Mitgliedsstaat etc.)
+Koordinierung von Überstellungen aus Abschiebehaftanstalten (insbesondere in Aufgriffsverfahren) Korrdinierung und Organisation von Chartermaßnahmen im Dublinverfahren
+fachlichen Begleitung von Prozessverfahren hinsichtlich überstellungsrelevanter Sachverhalte
+Dublinzentren Berlin (Ref. 32D), Dortmund (Ref. 32E) und Bayreuth (Ref. 32F):
 Koordination, Planung und Abstimmung sämtlicher Überstellungsverfahren von der Bundesrepublik Deutschland an die Mitgliedstaaten.
 Haft- und Aufgriff-Fälle, in denen ein anderer Dublin-Mitgliedstaat zuständig ist und ein Schutzersuchen geäußert wurde sowie Haft- und Aufgriff-Fälle, in denen kein Schutzersuchen gestellt wurde
 Weiterleitung von Akten ins nationale Verfahren nach Abbruch, Einstellung oder Beendigung des Dublin-Verfahrens jedes Zentrum ist für festgelegte Bundesländer zuständig; Berliner Fälle werden vom Referat 32D bearbeitet

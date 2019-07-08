@@ -9,7 +9,7 @@ A.58. Abschiebung
 58.s.1. Rückübernahme- und Transitabkommen
 58.s.2. Abschiebung bzw. Rückführung unbegleiteter Minderjähriger unter 18 Jahren
 A.58. Abschiebung
-(G zur Bekämpfung von Kinderehen, 09.08.2018, 27.02.2019)
+(G zur Bekämpfung von Kinderehen, 27.02.2019; 21.03.2019)
 58.1. § 58 Abs. 1 ordnet unter den dort genannten Voraussetzungen die Vollziehung der Abschiebung an (kein Ermessen).
 Die mit dem 2. RL-Umsetzungsgesetz vorgenommenen Ergänzung wonach ein Ausländer abzuschieben ist, wenn eine Ausreisefrist nicht gewährt wurde oder diese abgelaufen ist, dient der Klarstellung, dass der Lauf der Ausreisefrist die verwaltungsrechtliche Vollziehbarkeit der Ausreisepflicht nicht berührt. Ungeachtet dessen bleibt die Abschiebung weiterhin nur zulässig, wenn eine gewährte Ausreisefrist abgelaufen ist.
 Ein Ausländer, der sich unerlaubt im Bundesgebiet aufhält und nicht ausreisewillig ist oder dessen Abschiebung geboten ist, wird grundsätzlich in sein Herkunftsland abgeschoben. Dies gilt auch, wenn er einen noch gültigen Aufenthaltstitel eines anderen Schengen-Vertrags- oder EU-Mitgliedsstaates besitzt. Für Unionsbürger und deren Familienangehörige sowie Inhaber einer Erlaubnis zum Daueraufenthalt- EU oder Personen, die eine entsprechende Rechtsstellung in einem anderen Mitgliedstaat der EU innehaben und dort in dem anderen Mitgliedstaat weiterhin internationalen Schutz genießen, gelten besondere Regelungen (vgl.nachfolgend 58.1b.).
@@ -25,10 +25,9 @@ Wird festgestellt, dass sich ein Kind in der Schule oder einer Kindertagesstätt
 Kommt die Familie Ihrer Ausreiseverpflichtung wiederum nicht nach, kann sodann bei weiteren Abschiebungsversuchen eine vorübergehende Trennung der Familie erfolgen. Eine isolierte Abschiebung oder ein Zurückbleiben von minderjährigen ledigen Kindern ohne einen sorgeberechtigten Elternteil erfolgt jedoch ebenso wenig wie eine Abholung des Kindes aus der Schule oder Kindertagesstätte.
 Liegt das Sorgerecht bei keinem der leiblichen Elternteile, sondern ist auf andere/dritte Personen übertragen worden und lebt das minderjährige, ledige Kind mit seinem/ihrem Sorgeberechtigten in einem gemeinsamen Haushalt, gilt das o.g. Verfahren zur Familientrennung, sollte/n der/die Sorgeberechtigte/n ebenfalls vollziehbar ausreisepflichtig sein und die Mitglieder dieser Haushaltsgemeinschaft im Rahmen der Rückführungsmaßnahme nicht vollzählig angetroffen werden können.
 Ist der Minderjährige infolge des Erlasses einer Rückkehrentscheidung im Sinne des Art. 6 Abs. 1 der Richtlinie 2008/115/EG vom 16. Dezember 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger (nachfolgend Rückführungsrichtlinie) vollziehbar ausreisepflichtig, ohne dass der/die Sorgeberechtigte von einer Ausreisepflicht berührt ist (z.B. Amtsvormund), ist im Fall der zwangsweisen Rückführung die kindgerechte Inobhutnahme im Zielstaat sicherzustellen, vgl. 58.1a.0.
-In Bezug auf kinderlose Ehegatten/Lebenspartner gilt die oben genannte Regelung zur Familientrennung entsprechend, auch wenn es sich bei Ehegatten/Lebenspartner nicht um eine Familie im rechtlichen Sinne handelt. Ausgehend von der Systematik des AufenthG sind Ehepaare Personen, die miteinander die Ehe im Sinne des Art. 6 GG eingegangen sind und Lebenspartner Partner eingetragener gleichgeschlechtlicher Lebensgemeinschaften.
-Ausnahmen:
+In Bezug auf kinderlose Ehegatten gilt die oben genannte Regelung zur Familientrennung entsprechend, auch wenn es sich bei Ehegatten nicht um eine Familie im rechtlichen Sinne handelt. Ausgehend von der Systematik des AufenthG sind Ehepaare Personen, die miteinander die Ehe im Sinne des Art. 6 GG eingegangen sind (beachte auch A.27.2.). Ausnahmen:
 Das Gebot der Wahrung der Familieneinheit gilt nicht
-bei Schein-Ehe oder Schein-Lebenspartnerschaft,
+bei Schein-Ehe (beachte auch A.27.1a.),
 bei nicht rechtswirksamer/ religiöser Ehe,
 bei Zwangsehe sowie Mehr-Ehe,
 ... bei einer Nichtehe ohne Rechtsfolgen, weil einer der Ehegatten bei Eheschließung unter 16 Jahre alt war (siehe dazu VAB.A.27.1.).

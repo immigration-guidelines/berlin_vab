@@ -2,20 +2,20 @@ VAB A 90
 VAB A 90
 Inhaltsverzeichnis
 A.90. Übermittlungen durch Ausländerbehörden
-(IntG; 16.05.2017; ÄndG Ausreisepflicht; 19.03.2018)
+(IntG; ÄndG Ausreisepflicht; 19.03.2018; 20.06.2019)
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.3.1. Übermittlungsregelungen nach Absprache mit den Berliner Leistungsbehörden
 90.3.2. Anspruchseinschränkungen nach § 1a AsylbLG
 90.3.3. Doppel- oder Mehrfachidentität
 90.3.4. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
-90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland. 490
+90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland. 488
 90.3.5. Leistungsgewährung nach 15 Monaten
 90.3.6. Datenübermittlung bei Integrationskursverpflichtung
 90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
 90.3.8. Zuständigkeiten der Sozialämter
 90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
 A.90. Übermittlungen durch Ausländerbehörden
-(IntG; 16.05.2017; ÄndG Ausreisepflicht; 19.03.2018)
+(IntG; ÄndG Ausreisepflicht; 19.03.2018; 20.06.2019)
 90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren. Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde und die zutreffende Nebenbestimmung zu verfügen.
 Bei Asyl folgeantragstellern ist die Nebenbestimmung „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung" zu verfügen. Bei Asyl zweitantragstellern sind die Nebenbestimmungen „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung“ und „Der Aufenthalt gilt nach § 71a Abs. 3 AsylVfG als geduldet“) zu verfügen. Nur so ist für die Leistungsbehörden erkennbar, dass ein Ausländer nach § 1 Abs. 1 Nr. 7 AsylbLG (und nicht nach Nr. 4) leistungsberechtigt ist.
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
@@ -58,7 +58,8 @@ Der zuständigen Leistungsbehörde (zur Bestimmung der Leistungsbehörde vgl. 90
 Auch in diesem Fall kommt dem Eintrag der konkreten Nr. in der Nebenbestimmung zur Duldung (Erwerbstätigkeit nicht gestattet (§ 60a Abs. 6 Nr. 2 AufenthG)) indizielle Wirkung für die Leistungsbehörden zu. Damit für die Leistungsbehörden erkennbar ist, dass bei einem GÜB-Inhaber ein Fall des § 1a Abs. 3 AsylbLG vorliegt, wird auch hier auf der GÜB die Nebenbestimmung „Erwerbstätigkeit nicht gestattet“ eingetragen. Zusätzlich erfolgt hier aber auch noch der Hinweis auf die Vollziehbarkeit der Abschiebungsandrohung oder –anordnung („Die Abschiebungsandrohung ist seit dem … vollziehbar.“ oder „Die Abschiebungsanordnung ist seit dem … vollziehbar.“).
 Wird der Eintrag "gestrichen", müssen die Leistungsbehörden in Hinblick auf die Regelung des § 2 Abs. 1 AsylbLG Kenntnis darüber erlangen, ob weiterhin davon auszugehen ist, dass der Ausländer in der Vergangenheit seinen Aufenthalt rechtsmissbräuchlich selbst beeinflusst hat.
 Rechtsmissbrauch liegt insbesondere dann vor, wenn ein Ausländer falsche Angaben macht, um seiner Abschiebung zu entgehen und so seinen Aufenthalt verlängert, wenn er eine falsche Identität vorspiegelt und/oder wahrheitswidrige Angaben zu seiner Herkunft macht bzw. solche Angaben verschweigt, wenn er eine sog. Scheinehe eingeht oder, um eine Duldung zu erzwingen, bei der Beschaffung von notwendigen Reisedokumenten nicht mitwirkt bzw. vorhandene Reisepässe und andere Identitätspapiere zurückhält oder vernichtet (vgl. etwa Sozialgericht Berlin, Beschluss vom 14.10.2005 - S 18 AY 312/05 ER -; Landessozialgericht Niedersachsen-Bremen, Urteil vom 20.12.2005 - L 7 AY 51/05 -; Sozialgericht Hannover, Beschluss vom 20.01.2005 - S 51 AY 1/05 ER).
-Den Leistungsbehörden wurde mitgeteilt, dass in allen Fällen, in denen der Eintrag auf der Duldung "Erwerbstätigkeit nicht gestattet (§ 60a Abs. 6 Nr. 2 AufenthG)" bzw. die entsprechenden Einträge auf der GÜB gestrichen werden, davon auszugehen ist, dass auch für die Vergangenheit keine rechtsmissbräuchliche Beeinflussung der Aufenthaltsdauer anzunehmen ist. Etwas anderes gilt nur, wenn unmittelbar im Zusammenhang mit der Streichung durch uns mitgeteilt wird, dass weiterhin von rechtsmissbräuchlicher Beeinflussung der Aufenthaltsdauer in der Vergangenheit auszugehen ist. Für die Praxis ergibt sich daraus folgendes:
+Den Leistungsbehörden wurde mitgeteilt, dass in allen Fällen, in denen der Eintrag auf der Duldung "Erwerbstätigkeit nicht gestattet (§ 60a Abs. 6 Nr. 2 AufenthG)" bzw. die entsprechenden Einträge auf der GÜB gestrichen werden, davon auszugehen ist, dass auch für die Vergangenheit keine rechtsmissbräuchliche Beeinflussung der Aufenthaltsdauer anzunehmen ist. Etwas anderes gilt nur, wenn unmittelbar im Zusammenhang mit der Streichung durch uns mitgeteilt wird, dass weiterhin von rechtsmissbräuchlicher Beeinflussung der Aufenthaltsdauer in der Vergangenheit auszugehen ist.
+Für die Praxis ergibt sich daraus folgendes:
 Immer dann, wenn einem Ausländer, dessen Duldung bisher den Eintrag "Erwerbstätigkeit nicht gestattet. (§ 60a Abs. 6 Nr. 2 AufenthG)" oder dessen GÜB die entsprechenden Einträge enthält
 eine Aufenthaltserlaubnis erteilt wird, die ja schon aus Rechtsgründen keinen der beiden Einträge enthalten kann, eine Duldung mit dem Eintrag "Beschäftigung nur nach Erlaubnis der Ausländerbehörde" oder
 eine Duldung mit einer eine Beschäftigung erlaubenden Nebenbestimmung
@@ -69,7 +70,8 @@ Nicht ausgegangen werden kann von Rechtsmissbrauch in der Vergangenheit, wenn de
 Ist nicht mehr von einer rechtsmissbräuchlichen Beeinflussung in der Vergangenheit auszugehen, erfolgt keine Mitteilung an die Leistungsbehörde.
 90.3.2.4. Nach § 1a Abs. 4 AsylbLG erhalten Ausländer, die im Besitz einer Aufenthaltsgestattung oder GÜB sind, verringerte Sozialleistungen, wenn sie sich aufgrund der durch die Europäische Union beschlossenen, von den Regelungen der Dublin-III-Verordnung abweichenden Verteilentscheidungen im Bundesgebiet aufhalten. Mit Inkrafttreten des IntG zum 06.08.2016 gilt dies auch für AG- oder GÜB-Inhaber, denen bereits von einem anderen EU-Mitgliedstaat oder am Dublin-Verfahren teilnehmenden Drittstaat internationaler Schutz oder ein Aufenthaltsrecht aus einem anderen Grund gewährt wurde.
 90.3.2.5. Ausländer, die im Besitz einer Aufenthaltsgestattung sind, oder einen Folge- oder Zweitantrag nach dem AsylG gestellt haben, erhalten verringerte Sozialleistungen, wenn sie im Rahmen des Asylverfahrens ihren Pass oder Passersatz nicht beim BAMF vorlegen, erforderliche Unterlagen zu ihrer Identitätsklärung, die sich in ihrem Besitz befinden, dem BAMF nicht vorlegen, aushändigen oder überlassen, den Termin zur Asylantragstellung beim BAMF nicht wahrgenommen haben oder Angaben über ihre Identität oder Staatsangehörigkeit verweigern. Die Leistungseinschränkung setzt schuldhaftes Handeln voraus. Sie endet, sobald die fehlende Mitwirkungshandlung erbracht wurde. Die Übermittlung dieser im Asylverfahren zu überprüfenden Pflichtverletzungen an die Leistungsbehörden erfolgt durch das BAMF auf der Grundlage des § 8 Abs. 2a AsylG.
-90.3.2.6. Soweit seitens der Leistungsbehörden grundsätzlicher Informationsbedarf zu den Möglichkeiten der Passbeschaffung in Bezug auf bestimmte Staaten bestehen, sind derartige Anfragen an die Generalie weiterzuleiten, damit sie unter Einbindung der Clearingstelle und ggf. der Rückkehrberatung des LAF allgemeingültig beantwortet werden können. 90.3. 3. Doppel- oder Mehrfachidentität
+90.3.2.6. Soweit seitens der Leistungsbehörden grundsätzlicher Informationsbedarf zu den Möglichkeiten der Passbeschaffung in Bezug auf bestimmte Staaten bestehen, sind derartige Anfragen an die Generalie weiterzuleiten, damit sie unter Einbindung der Clearingstelle und ggf. der Rückkehrberatung des LAF allgemeingültig beantwortet werden können.
+90.3. 3. Doppel- oder Mehrfachidentität
 Erhalten wir für den vorgenannten Personenkreis Kenntnis vom Vorliegen einer Doppel- oder Mehrfachidentität (insbesondere nach Durchführung einer ED-Behandlung) ist dies ohne Ersuchen dem zuständigen Sozialamt mitzuteilen. Bei Mehrfachidentitäten ist das zuständige Sozialamt in Berlin neben den verschiedenen Identitäten zusätzlich über die jeweiligen Erfassungsorte (soweit bekannt) zu unterrichten. Hintergrund hierfür ist die Zuständigkeitsregelung im Sozialhilferecht (Zuständigkeit richtet sich nach der Identität, unter der der Ausländer erstmalig im Bundesgebiet erfasst worden ist).
 Die Übermittlung erfolgt auch in den Fällen, in denen wir keine konkrete Kenntnis über einen aktuellen Sozialhilfebezug haben, als vorbeugende Maßnahme. Für die Mitteilung steht das Schreiben „ Doppelidentität“ zur Verfügung. 90.3. 4. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
 Gem. § 90 Abs. 3 besteht bei Leistungsberechtigten nach dem AsylbLG grundsätzlich auch eine Übermittlungspflicht von Daten der Bundesagentur für Arbeit. Einer gesonderten Übermittlung bedarf es allerdings nicht, weil sich die Angaben zur Beschäftigung aus dem Aufenthaltstitel ergeben.
@@ -99,12 +101,12 @@ abgelehnte Asylbewerber mit GÜB,
 Personen, die nach § 24 zum vorübergehenden Schutz aufgenommen werden – im Rahmen einer Erstversorgung, Personen, die als illegal Eingereiste nach § 15a AufenthG in andere Bundesländer weiterzuleiten sind – hier Leistungsgewährung bis zur Umsetzung der Verteilentscheidung,
 Personen, die als Opfer von Menschenhandel in entsprechenden Strafverfahren als Zeugen/Zeuginnen aussagen sollen sowie ggf. sie begleitende Kinder.
 2. Zuständigkeit der Sozialämter
-Öffentliche Leistungen für sonstige Anspruchsberechtigte nach § 1 AsylblG werden von den Sozialämtern der Bezirke gewährt. Die örtliche Zuständigkeit richtet sich unabhängig vom melderechtlichen Eintrag nach dem Geburtsdatum (s. nachfolgende Tabelle).
-Bei Ehepaaren/Familien richtet sich die Zuständigkeit nach dem Geburtsdatum (bzw. dem Anfangsbuchstaben des Familiennamens) des älteren von ihnen.
+Öffentliche Leistungen für sonstige Anspruchsberechtigte nach § 1 AsylblG werden von den Sozialämtern der Bezirke gewährt. Die örtliche Zuständigkeit richtet sich für Neufälle ab dem 01.07.2019 nach dem melderechtlichen Eintrag in Berlin, soweit dieser wohnsitzbegründend ist. Neufälle i.d.S. sind alle Personen die ab dem 01.07.2019 von der Zuständigkeit des LAF in die Zuständigkeit der Sozialämter/ Jobcenter i.d.R. durch ein erfolgreich abgeschlossenes Asylverfahren wechseln.
+Bei Ehepaaren/Familien, Lebenspartner oder in eheähnlicher Gemeinschaft lebenden Personen sowie deren im Haushalt lebende Kinder unabhängig von deren Alter oder Familienstand und ggf. im Haushalt wohnende weitere Familienangehörige richtet sich die Zuständigkeit für Neufälle ab dem 01.07.2019 grundsätzlich nach dem wohnsitzbegründenden melderechtlichen Eintrag des Ältesten von ihnen. Sofern kein wohnsitzbegründender melderechtlicher Eintrag vorliegt, z.B. Unterbringung im Hostel, richtet sich die Zuständigkeit nach dem Geburtsdatum (bzw. dem Anfangsbuchstaben des Familiennamens) des älteren von ihnen. Dies gilt auch, wenn das älteste Mitglied der Haushaltsgemeinschaft einen Asylantrag gestellt hat und daher an das LAF abgegeben worden ist. Für Bestandsfälle gilt weiterhin die örtliche Zuständigkeit nach dem Geburtsdatum (s. nachfolgende Tabelle). Diese werden sukzessive vom 01.01.2020 bis 31.12.2020 auf die neue Zuständigkeitsregelung umgestellt.
 Bei den sogenannten 00er-Fällen (kein konkretes Geburtsdatum, nur Geburtsjahr bekannt) richtet sich die Zuständigkeit nach den Anfangsbuchstaben des Familiennamens (s. ebenfalls nachfolgende Aufstellung).
 Bei Namen wie z. A. “Ben”, “El”, „Al“, „Abou“, „Abu“ oder „von“ gilt der Anfangsbuchstabe des darauffolgenden Namens, auch wenn beide Namen mit einem Bindestrich verbunden sind.
 Beantragen Ehegatten oder andere in Bedarfsgemeinschaft (eheähnlicher Gemeinschaft) lebende (auch gleichgeschlechtliche) Personen ohne eine Anmeldung für Berlin öffentliche Leistungen, richtet sich die Zuständigkeit nach dem Geburtsdatum bzw. Anfangsbuchstaben des Familiennamens des Älteren von ihnen. Lässt sich jedoch für einen von ihnen eine Anmeldung ermitteln, richtet sich die Zuständigkeit für alle Beteiligten hiernach.
-Bezirkliche Zuständigkeit ab 01.05.2012:
+Bezirkliche Zuständigkeit ab 01.05.2012 (gilt nicht für Neufälle ab dem 01.07.2019):
 BEZIRK GEBURTSDATUM BUCHSTABE
 Mitte Januar K
 Friedrichshain-Kreuzberg Februar B
@@ -139,6 +141,6 @@ Reinickendorf 31.10. – 15.11. O
 Marzahn-Hellersdorf 16.11. – 01.12. und I, X, Y, Z
 17.12. - 31.12.
 90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
-90.4. 0. § 90 Abs. 4 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutz - bzw. Sanktions richtlinie vor (vgl. hierzu A.25.4a und b sowie A.59.7.).
+90.4.0. § 90 Abs. 4 sieht Übermittlungspflichten der Ausländerbehörde gegenüber Polizei, Staatsanwaltschaft und Strafgericht bei ausländerrechtlichen Maßnahmen im Zusammenhang mit der Opferschutz - bzw. Sanktions richtlinie vor (vgl. hierzu A.25.4a und b sowie A.59.7.).
 90.4.1. bis 90.4. 5. frei
 90.5. siehe A.27.1a.
