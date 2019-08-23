@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(21.03.2019; 20.06.2019; 28.06.2019)
+(20.06.2019; 28.06.2019; 2.ÄndGAusreisepflicht)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -52,10 +52,10 @@ A.2. Begriffsbestimmungen
 2.11. ausreichende deutsche Sprachkenntnisse
 2.12. Beherrschen der deutschen Sprache
 2.13. International Schutzberechtigter
-2.14. Anhaltspunkte für die Annahme einer Fluchtgefahr
-2.15. Fluchtgefahr bei Anwendung der Dublin-III-VO
+2.14. Fluchtgefahr bei Anwendung der Dublin-III-Verordnung
+2.15.
 A.2. Begriffsbestimmungen
-(21.03.2019; 20.06.2019; 28.06.2019)
+(20.06.2019; 28.06.2019; 2.ÄndGAusreisepflicht)
 Pfändungsfreigrenzen
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -447,7 +447,6 @@ Gemäß § 2 Abs. 12 AufenthG beherrscht ein Ausländer die deutsche Sprache der
 Durch § 2 Abs. 13 wird der Begriff des „international Schutzberechtigten“ unter Verweis auf die entsprechenden europarechtlichen Vorgaben der sogenannten Qualifikationsrichtlinie (in ihrer überarbeiteten) Fassung definiert. Unter den Begriff des international Schutzberechtigten fallen Personen, denen die Flüchtlingseigenschaft oder ein subsidiärer Schutzstatus zuerkannt wurde (Art. 2 b) i.V.m. e) und g) der RL 2011/95/EU). Hierbei handelt es sich derzeit um Inhaber von Aufenthaltstiteln gem. § 25 Abs. 1, 2 bzw. 3 i.V.m. § 60 Abs. 2, 3 und 7 Satz 2 AufenthG. Der internationale Schutz in diesem Sinne umfasst auch den Schutz vor Verfolgung nach dem Abkommen über die Rechtsstellung der Flüchtlinge vom
 28. Juli 1951 (BGBl. 1953 II S. 559), der vor dem Inkrafttreten der genannten Richtlinien gewährt wurde. Nicht unter den Begriff des international Schutzberechtigten fallen hingegen Personen, denen Schutz auf nationaler Grundlage gewährt wurde, z.B. nach §§ 22, 23 Absatz 1, §§ 23a, 25 Absatz 3 i.V.m. § 60 Absatz 5 oder 7 Satz 1, § 25 Absatz 4 oder 5 oder §§ 104a und 104b AufenthG.
 Merke: Das Gesetz zur Umsetzung der RL 2011/95/EU, durch das eine Reihe von Regelungen der Qualifikationsrichtlinie (RL 2004/83/EG) durch Anpassungen des AsylVfG und des AufenthG präzisiert und der Status von subsidiär Schutzberechtigten verbessert werden wird, wird am 02.12.2013 in Kraft treten (ausgenommen hiervon sind der neue § 34a AsylVfG sowie eine Änderung des § 61 AsylVfG - diese Änderungen treten bereits zum 06.09.2013 in Kraft - vgl. VAB D.34a. und D.61.).
-2.14. Anhaltspunkte für die Annahme einer Fluchtgefahr
-Absatz 14 benennt beispielhaft konkrete Anhaltspunkte als mögliche objektive Kriterien für eine Fluchtgefahr im Fall einer Abschiebung bzw. Rückführung im Sinne der Richtlinie 2008/115/EG (Rückführungsrichtlinie) und nimmt insoweit auf § 62 Absatz 3 Satz 1 Nummer 5 Bezug.
-2.15. Fluchtgefahr bei Anwendung der Dublin-III-VO
-Absatz 15 Satz 1 und 2 benennt Anhaltspunkte für die Annahme einer Fluchtgefahr im Sinne der Verordnung (EU) Nr. 604/2013 (Dublin-III-VO).
+2.14. Fluchtgefahr bei Anwendung der Dublin-III-Verordnung
+Absatz 14 Satz 1 und 2 benennt Anhaltspunkte für die Annahme einer Fluchtgefahr im Sinne der Verordnung (EU) Nr. 604/2013 (Dublin-III-VO).
+2.15.

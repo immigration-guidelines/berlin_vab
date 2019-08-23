@@ -8,7 +8,6 @@ Nummer 2:
 Nummer 3:
 Nummer 4:
 Nummer 5:
-Nummer 6:
 55.2. Schwerwiegende Bleibeinteressen
 Nummer 1:
 Nummer 2:
@@ -18,7 +17,7 @@ Nummer 5:
 Nummer 6:
 55.3. Beachtung der Fiktionswirkung nach § 81 Abs. 3 und Abs. 4 AufenthG
 A.55. Bleibeinteresse
-(21.03.2019; 22.05.2019)
+(22.05.2019; 2. ÄndGAusreisepflicht)
 § 55 konkretisiert und gewichtet die Bleibeinteressen des Ausländers, die in die Abwägung nach § 53 Abs. 1 einzubeziehen sind. Das Vorliegen eines der in § 55 normierten Interessen führt noch nicht dazu, dass von der Ausweisung des Betroffenen abgesehen wird. Erst die Abwägung nach § 53 Abs. 1 unter umfassender Würdigung aller Umstände des Einzelfalles ergibt, ob das Bleibeinteresse letztendlich überwiegt.
 55.1. Besonders schwerwiegende Bleibeinteressen
 § 55 Abs. 1 benennt Personengruppen mit einer erheblichen Aufenthaltsverfestigung oder einer Verwurzelung im Bundesgebiet. Sind mehrere besonders schwere Bleibeinteressen erfüllt, verstärkt dies bei der Abwägung nach § 53 Abs. 1 das persönliche Interesse von der Ausweisung abzusehen (vgl. 53.1.1.).
@@ -30,16 +29,15 @@ Nummer 3:
 § 55 Abs. 1 Nr. 3 schützt Personen, die im Besitz einer Aufenthaltserlaubnis sind und mit einer der in § 55 Abs. 1 Nr. 1 und Nr. 2 bezeichneten Personen in ehelicher oder lebenspartnerschaftlicher Lebensgemeinschaft leben. Zusätzlich ist ein mindestens fünfjähriger rechtmäßiger Aufenthalt im Bundesgebiet erforderlich.
 Nummer 4:
 § 55 Abs. 1 Nr. 4 schützt Personen, die mit einem Deutschen in familiärer Lebensgemeinschaft leben (beachte auch A.27.2. )oder ihr Personensorgerecht für bzw. ihr Umgangsrecht mit einem minderjährigen ledigen Deutschen ausüben. Erforderlich für die Begünstigung des Personensorge- bzw. Umgangsrecht ist, dass es sich um eine tatsächlich gelebte Nähebeziehung, d.h. ein tatsächliches Kümmern um den deutschen Minderjährigen, handeln muss. Der besondere Schutz der in Nummer 4 bezeichneten Lebenskonstellationen beruht darauf, dass der Deutsche, der mit dem betroffenen Ausländer in einer familiären Lebensgemeinschaft lebt oder von der Personensorge oder dem Umgangsrecht profitiert, regelmäßig nicht auf ein Leben und eine Familienzusammenführung im Ausland verwiesen werden kann.
+Nummer 5: ...weggeffallen...
 Nummer 5:
-§ 55 Abs. 1 Nr. 5 schützt Personen, die als subsidiär Schutzberechtigte im Sinne des § 4 Abs. 1 AsylVfG anerkannt sind. Hierunter fallen auch die Personen die einen Aufenthaltstitel nach § 25 Abs. 3 besitzen. Der Ausweisungsmaßstab unter § 53 Abs. 3 gilt analog auch für diesen Personenkreis, da die Schutztatbestände aus Art. 21, 24 RL 2011/95/EU auch für subsidiär Schutzberechtigte gelten, Art. 20 Abs. 2 RL 2011/95/EU (vgl. A. 53.3.). Insofern liegt ein gesetzliches Redaktionsversehen vor, diesen Personenkreis nicht in § 53 Abs. 3 mit einzubeziehen.
-Nummer 6:
 § 55 Abs. 1 Nr. 6 schützt Personen, die einen Aufenthaltstitel nach §§ 23 Absatz 4, 24, 25 Absatz 4a Satz 3 oder § 29 Absatz 2 oder 4 besitzen.
 55.2. Schwerwiegende Bleibeinteressen
 In § 55 Abs. 2 werden typische Fallgruppen des schwerwiegenden Bleibeinteresses beschrieben, wobei die Aufzählung mit Blick auf die Einleitung der Vorschrift mit „insbesondere“ nicht abschließend ist. Denkbar als schwerwiegendes Interesse am Verbleib im Bundesgebiet ist je nach den Umständen des Einzelfalls zum Beispiel auch eine Betreuung eines sonstigen Verwandten durch den Ausländer als maßgebliche Betreuungsperson oder eine Betreuung des erwachsenen Kindes durch die Eltern, wenn dieses auf die Hilfe und Betreuung angewiesen ist (BVerfG, Beschluss vom 1. März 2004, 2 BvR 1570/03, Rn. 24). Sind mehrere schwere Bleibeinteressen erfüllt, verstärkt dies bei der Abwägung nach § 53 Abs. 1 das persönliche Interesse von der Ausweisung abzusehen (vgl. 53.1.1.).
 Nummer 1:
 § 55 Abs. 2 Nr. 1 schützt Personen, die minderjährig sind und eine Aufenthaltserlaubnis besitzen.
 Nummer 2:
-§ 55 Abs. 2 Nr. 2 schützt Personen, die eine Aufenthaltserlaubnis besitzen und sich seit fünf Jahren-weggefallen- im Bundesgebiet aufhalten.
+§ 55 Abs. 2 Nr. 2 schützt Personen, die eine Aufenthaltserlaubnis besitzen und sich seit fünf Jahren im Bundesgebiet aufhalten.
 Nummer 3:
 § 55 Abs. 2 Nr. 3 schützt Personen, die das Personensorgerecht für oder das Umgangsrecht mit einem minderjährigen, ledigen Ausländer mit rechtmäßigem Aufenthalt im Bundesgebiet besitzen. Voraussetzung ist, dass das Personensorgerecht oder das Umgangsrecht tatsächlich ausgeübt und gelebt wird (vgl. auch Ausführungen zu § 55 Abs. 1 Nr. 4). Nummer 4:
 § 55 Abs. 2 Nr. 4 schützt Personen, die minderjährig sind und deren Eltern oder der allein personensorgeberechtigte Elternteil sich rechtmäßig im Bundesgebiet aufhalten. Es liegt aber kein schwerwiegendes Bleibeinteresse vor, wenn beide Eltern eines Minderjährigen sich zwar rechtmäßig im Bundesgebiet aufhalten, allerdings beiden das Personensorgerecht entzogen worden ist. Das Erfordernis eines Personensorgerechts der sich rechtmäßig hier aufhaltenden Eltern für das schwerwiegende Bleibeinteresse folgt richtigerweise aus der zweiten Alternative des § 55 Abs. 2 Nr. 4 AufenthG. Bei nur einem hier aufhältlichen Elternteil bedarf es unstreitig des alleinigen Personensorgerechts dieses Elternteils. Ist der Minderjährige Halbwaise, hat der Entzug des alleinigen Personensorgerechts des noch lebenden Elternteils unzweifelhaft den Verlust des schwerwiegenden Bleibeinteresses zur Folge. Es ist aber nicht nachvollziehbar, warum Halbwaisen schlechter gestellt werden sollten, als Minderjährige, deren Eltern beide noch leben.

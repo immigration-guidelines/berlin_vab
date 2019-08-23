@@ -9,7 +9,7 @@ A.58. Abschiebung
 58.s.1. Rückübernahme- und Transitabkommen
 58.s.2. Abschiebung bzw. Rückführung unbegleiteter Minderjähriger unter 18 Jahren
 A.58. Abschiebung
-(G zur Bekämpfung von Kinderehen, 27.03.2019; 19.07.2019)
+(27.03.2019; 19.07.2019; 2. ÄndGAusreisepflicht)
 58.1. § 58 Abs. 1 ordnet unter den dort genannten Voraussetzungen die Vollziehung der Abschiebung an (kein Ermessen).
 Die mit dem 2. RL-Umsetzungsgesetz vorgenommenen Ergänzung wonach ein Ausländer abzuschieben ist, wenn eine Ausreisefrist nicht gewährt wurde oder diese abgelaufen ist, dient der Klarstellung, dass der Lauf der Ausreisefrist die verwaltungsrechtliche Vollziehbarkeit der Ausreisepflicht nicht berührt. Ungeachtet dessen bleibt die Abschiebung weiterhin nur zulässig, wenn eine gewährte Ausreisefrist abgelaufen ist.
 Ein Ausländer, der sich unerlaubt im Bundesgebiet aufhält und nicht ausreisewillig ist oder dessen Abschiebung geboten ist, wird grundsätzlich in sein Herkunftsland abgeschoben. Dies gilt auch, wenn er einen noch gültigen Aufenthaltstitel eines anderen Schengen-Vertrags- oder EU-Mitgliedsstaates besitzt. Für Unionsbürger und deren Familienangehörige sowie Inhaber einer Erlaubnis zum Daueraufenthalt- EU oder Personen, die eine entsprechende Rechtsstellung in einem anderen Mitgliedstaat der EU innehaben und dort in dem anderen Mitgliedstaat weiterhin internationalen Schutz genießen, gelten besondere Regelungen (vgl.nachfolgend 58.1b.).
@@ -32,7 +32,7 @@ Das Gebot der Wahrung der Familieneinheit gilt nicht
 bei Schein-Ehe (beachte auch A.27.1a.),
 bei nicht rechtswirksamer/ religiöser Ehe,
 bei Zwangsehe sowie Mehr-Ehe,
-... bei einer Nichtehe ohne Rechtsfolgen, weil einer der Ehegatten bei Eheschließung unter 16 Jahre alt war (siehe dazu VAB.A.27.1.).
+bei einer Nichtehe ohne Rechtsfolgen, weil einer der Ehegatten bei Eheschließung unter 16 Jahre alt war (siehe dazu VAB.A.27.1.).
 bei häuslicher Gewalt gegen Partner/ Kinder zulasten des Täters,
 bei aufenthaltsrechtlichen Gefährdern zulasten des Gefährders,
 bei Personen, die wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurden, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden außer Betracht bleiben können, sofern kein minderjähriges Kind aufgrund der Abschiebung allein in Deutschland zurückbleibt,
@@ -68,6 +68,9 @@ Da allerdings nach Art. 3 Abs. 5 der Entscheidung des Rates vom 23.02.2004 allei
 Die Richtlinie, die Entscheidung des Rates vom 23.02.2004, die im Zusammenhang mit der Umsetzung der Richtlinie Verwendung findenden Formulare sowie eine zusammenfassende Kurzbeschreibung dieser Vordrucke sind auf dem Laufwerk G: im Ordner „für alle Mitarbeiter“ > Gesetze-Verordnungen > EU-Richtlinien, Unterordner „Rückführungsrichtlinie“ abgelegt. Dort finden sich auch die Daten der Ansprechpartner der nationalen Kontaktstelle beim Bundesamt. 58.2.2. frei
 58.3. 0. Die Formulierung des § 58 Abs. 3 „insbesondere“ lässt weitere Fälle zu, in denen die Überwachung der Ausreise erforderlich ist
 58.3.1. bis 58.3.7. frei
+58.4. Die Regelung dient der Klarstellung, dass die die Abschiebung durchführende Behörde zur Beförderung des Ausländers zum Flughafen oder Grenzübergang als Teil der Abschiebung befugt ist und zu diesem Zweck den Ausländer kurzzeitig festhalten darf. Ein kurzzeitiges Festhalten kann beispielsweise dann nötig werden, wenn bis zum Abflug Wartezeit zu überbrücken ist oder Wartezeiten entstehen, weil Beförderungen gebündelt erfolgen sollen. Es wird klargestellt, dass, soweit die Maßnahme nur kurzzeitig und auf das zur Durchführung der Abschiebung unvermeidliche Maß beschränkt ist, lediglich eine – keine richterliche Anordnung erfordernde – Freiheitsbeschränkung vorliegen kann, wobei immer die Umstände des Einzelfalls zu berücksichtigen sind.
+58.5. bis 58.9. Für das Betreten und Durchsuchen wird erstmals im Aufenthaltsgesetz eine spezialgesetzliche Regelung geschaffen. Da im Land Berlin der Vollzug in der Zuständigkeit des Polizeipräsidenten in Berlin liegt, ist dieser auch Normadressat.
+58.10. frei
 58.s.1. Rückübernahme- und Transitabkommen
 Nachfolgend sind die von der Bundesrepublik Deutschland geschlossenen Rückübernahme- und Transitabkommen aufgelistet, soweit sie hier verfügbar sind:
 MULTILATERAL

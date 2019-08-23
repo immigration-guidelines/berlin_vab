@@ -1,9 +1,8 @@
 VAB A 82
 VAB A 82
 A.82. Mitwirkung des Ausländers
-(24.07.2017; RiLiUmsG 2017; 19.07.2019)
-82.0. Aus § 82 Abs. 1 ergibt sich eine echte Rechtspflicht des Ausländers zur Mitwirkung. Abs. 3 enthält eine ganze Reihe Hinweispflichten für die Ausländerbehörden. Dazu wurde eine Reihe von Informationsblättern geschaffen, die den Sachgebieten zur Verfügung gestellt wurden und deren Aushändigung jeweils aktenkundig zu machen ist.
-Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer "Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit" wird im Sachgebiet IV R 3 (Rückführung) konzentriert.
+(RiLiUmsG 2017; 19.07.2019; 2. ÄndG Ausreisepflicht)
+82.0. Aus § 82 Abs. 1 ergibt sich eine echte Rechtspflicht des Ausländers zur Mitwirkung. Abs. 3 enthält eine ganze Reihe Hinweispflichten für die Ausländerbehörden. Dazu wurde eine Reihe von Informationsblättern geschaffen, die den Sachgebieten zur Verfügung gestellt wurden und deren Aushändigung jeweils aktenkundig zu machen ist. Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer "Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit" wird im Sachgebiet IV R 3 (Rückführung) konzentriert.
 82.1.1. bis 82.1.2. frei
 82.1.3. § 82 Abs. 1 Satz 3 ist durch das 2. ÄndG eingefügt worden. Kann über den Antrag eines Ausländers wegen fehlender oder unzureichender Angaben des Betroffenen nicht oder nur negativ entschieden werden, kann die Ausländerbehörde das Verfahren aussetzen und dem Betroffenen eine Frist für die notwendigen Angaben und Nachweise setzen. Verspätet vorgebrachte Angaben und Nachweise können unberücksichtigt bleiben. Die praktischen Auswirkungen der Gesetzesänderung für das Verwaltungsverfahren sind gering. So kommt der Ausländerbehörde weiterhin ein Entscheidungsspielraum zu, ob überhaupt ausgesetzt werden soll, oder ob es aufgrund des bisherigen Vortrages weniger am Nachweis bestimmter Erteilungsvoraussetzungen als vielmehr an den Erteilungsvoraussetzungen selbst fehlt.
 82.1. 4. frei
@@ -13,8 +12,8 @@ Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer "Anordnung einer ärztlic
 Bevollmächtigten ist gegen Empfangsbekenntnis unter Benennung der verwendeten Sprachversionen aktenkundig zu machen. Soweit Unterschriften zu leisten sind, können diese sowohl vom Ausländer als auch von seinem Bevollmächtigten getätigt werden. Tritt der Bevollmächtigte an die Stelle seines Mandanten, sind diesem neben der deutschen Fassung auch die Fassung in der dem Ausländer verständlichen Sprache auszuhändigen.
 Es handelt sich im Einzelnen um
 Information zur Abschiebung (M 11)
-Mit diesem Merkblatt wird der Ausländer auf die Rechtsfolgen einer Abschiebung und die Möglichkeit der Befristungsbeantragung hingewiesen (§ 11 Abs. 1 S. 3). Das Merkblatt ist dem Ausländer vor der Abschiebung auszuhändigen. Es ist daher bei „Alt-Fällen“ regelmäßig dem an das LKA gerichteten Ersuchen um Abschiebung m.d.B. um Aushändigung beizufügen.
-In aufenthaltsbeendende Bescheide ist der Hinweis auf die Rechtsfolgen einer möglichen Abschiebung (Einreiseverbot, Schengenwirksamkeit, Befristungsantrag) sogleich aufzunehmen, so dass es für diese Fälle eines gesonderten Merkblattes nicht bedarf. Eines gesonderten Hinweises auf die Möglichkeit der Beantragung der Befristung der Wirkung einer Ausweisung bedarf es ebenfalls nicht, weil dieser Hinweis bereits schon seit längerer Zeit im Rahmen der Anhörung nach § 28 VwVfG gegeben wird.
+Mit diesem Merkblatt wird der Ausländer auf die Rechtsfolgen einer Abschiebung hingewiesen (§ 11 Abs. 1 und Abs. 2).
+In aufenthaltsbeendende Bescheide ist der Hinweis auf die Rechtsfolgen einer möglichen Abschiebung ( Schengenwirksamkeit, Strafbarkeit) sogleich aufzunehmen, so dass es für diese Fälle eines gesonderten Merkblattes nicht bedarf.
 Information über Verpflichtung zur Teilnahme an einem Integrationskurs
 Mit dem Merkblatt des Bundesamtes für Migration und Flüchtlinge wird der Ausländer zum einen auf seine festgestellte Verpflichtung zur Teilnahme an einem Integrationskurs und die sich aus § 82 Abs. 1 ergebende Nachweispflicht hingewiesen (§ 44a Abs. 1), zum anderen wird er über die Folgen einer Nichtteilnahme bzw. erfolglosen Teilnahme belehrt. Das Merkblatt ist im Rahmen der Vorsprache bei Feststellung der Teilnahmeberechtigung und-verpflichtung auszuhändigen.
 Besteht eine Teilnahmeverpflichtung nach § 44a Abs. 1, ist dies durch eine Auflage zur AE deutlich zu machen. Information über ausweisrechtliche Pflichten (M 48)
