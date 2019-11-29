@@ -168,6 +168,7 @@ B.AufenthV.40. Verlängerung eines visumfreien Kurzaufenthalts
 B.AufenthV.41. Vergünstigung für Angehörige bestimmter Staaten
 Working-Holiday-Abkommen
 Working-Holiday- Programm mit der Republik Argentinien
+Working-Holiday-Programm mit der Föderativen Republik Brasilien
 Working-Holiday-Abkommen mit der Republik Chile
 Working-Holiday-Abkommen mit der SVR Hongkong
 Working-Holiday-Abkommen mit Israel
@@ -178,12 +179,11 @@ Working-Holiday-Programm mit der Republik Östlich des Uruguay
 Besonderheiten für Anträge nach § 19b AufenthG
 B.AufenthV.39. - 41. Einholung eines Aufenthaltstitels im Bundesgebiet
 Änderungsdatum
-(16.05.2019; 15.08.2019)
+(16.05.2019; 15.08.2019; 23.09.2019)
 B.AufenthV.39. Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
 Besitz eines nationalen Visums oder einer Aufenthaltserlaubnis
 B.AufenthV.39.1.1. Besitzt der Ausländer ein D-Visum oder eine Aufenthaltserlaubnis, so kann er in jedem Fall einen Aufenthaltstitel im Bundesgebiet einholen oder verlängern lassen (§ 39 Nr. 1).
-Dies gilt auch in den Fällen, in denen die Frist eines Aufenthaltstitels gem. § 7 Abs. 2 S. 2 AufenthG verkürzt werden soll. Stellt etwa ein Ausländer, der zum Zwecke des Familiennachzugs eingereist ist und der gem. § 2 7 Abs. 5 AufenthG zur Ausübung einer Erwerbstätigkeit berechtigt ist, einen Antrag auf Erteilung eines Titels gem. §§ 18 - 21 AufenthG, und besteht der Aufenthalt zum Zeitpunkt der Antragstellung noch fort, so ist zu prüfen, ob ein solcher Titel mit oder ohne Beteiligung der Arbeitsagentur bzw. der für Wirtschaft zuständigen Senatsverwaltung werden kann (vgl. insofern die Ausführungen unter A.21 bzw. A.39). Zu beachten ist allerdings, dass in einem solchen Fall, in dem der Ausländer eine Erlaubnis nach § 18 AufenthG begehrt, er keinesfalls in den Genuss des vereinfachten Verfahrens auf der Grundlage des § 37 BeschV kommen kann, nachdem wir auf eine Zustimmungsanfrage verzichten können (vgl. A.39.1.). Auch wird die Arbeitsagentur in diesen Fällen ihr Ermessen nach § 35 BeschV zu Ungunsten des Betroffenen ausüben.
-Auch bei einer nur zum Sprachstudium eingereisten Person oder in einem sonstigen Fall des § 16 Abs. 5 AufenthG ist nach Abschluss des Aufenthaltszweckes (Sprachkurs, Schulbesuch) eine Aufenthaltserlaubnis nach § 16 Abs. 1 AufenthG (z.B. zur Aufnahme eines Studiums) oder nach einer anderen Rechtsgrundlage gemäß § 39 Nr. 1 zu erteilen, ohne dass zuvor die vorherige Ausreise erforderlich ist, sofern das Zweckwechselverbot gemäß § 16 Abs. 5 Satz 2 i.V.m Abs. 2 dem nicht entgegensteht.
+Dies gilt auch in den Fällen, in denen die Frist eines Aufenthaltstitels gem. § 7 Abs. 2 S. 2 AufenthG verkürzt werden soll. Stellt etwa ein Ausländer, der zum Zwecke des Familiennachzugs eingereist ist und der gem. § 2 7 Abs. 5 AufenthG zur Ausübung einer Erwerbstätigkeit berechtigt ist, einen Antrag auf Erteilung eines Titels gem. §§ 18 - 21 AufenthG, und besteht der Aufenthalt zum Zeitpunkt der Antragstellung noch fort, so ist zu prüfen, ob ein solcher Titel mit oder ohne Beteiligung der Arbeitsagentur bzw. der für Wirtschaft zuständigen Senatsverwaltung werden kann (vgl. insofern die Ausführungen unter A.21 bzw. A.39). Zu beachten ist allerdings, dass in einem solchen Fall, in dem der Ausländer eine Erlaubnis nach § 18 AufenthG begehrt, er keinesfalls in den Genuss des vereinfachten Verfahrens auf der Grundlage des § 37 BeschV kommen kann, nachdem wir auf eine Zustimmungsanfrage verzichten können (vgl. A.39.1.). Auch wird die Arbeitsagentur in diesen Fällen ihr Ermessen nach § 35 BeschV zu Ungunsten des Betroffenen ausüben. Auch bei einer nur zum Sprachstudium eingereisten Person oder in einem sonstigen Fall des § 16 Abs. 5 AufenthG ist nach Abschluss des Aufenthaltszweckes (Sprachkurs, Schulbesuch) eine Aufenthaltserlaubnis nach § 16 Abs. 1 AufenthG (z.B. zur Aufnahme eines Studiums) oder nach einer anderen Rechtsgrundlage gemäß § 39 Nr. 1 zu erteilen, ohne dass zuvor die vorherige Ausreise erforderlich ist, sofern das Zweckwechselverbot gemäß § 16 Abs. 5 Satz 2 i.V.m Abs. 2 dem nicht entgegensteht.
 Wurde der Antrag rechtzeitig vor Ablauf des Titels gestellt, kommt in diesen Fällen § 81 Abs. 4 AufenthG (vgl. A.81.4.) zur Anwendung.
 B.AufenthV.39.1.2. Ausländer, die gem. § 27 AufenthV vom Erfordernis der Aufenthaltserlaubnis befreit waren, können den erforderlichen Aufenthaltstitel im Inland beantragen, weil der Aufenthalt nicht auf längstens sechs Monate oder auf einem Teil der Bundesrepublik beschränkt war.
 Dies trifft auch zu, wenn auf den Ausländer gem. § 1 Abs. 2 Nr. 3 AufenthG das Aufenthaltsgesetz nicht anwendbar ist, weil das Wiener Übereinkommen über diplomatische Beziehungen (WÜD) oder das Wiener Übereinkommen über konsularische Beziehungen (WÜK) Anwendung findet. Angehörige des diplomatischen Korps und ihre Familienangehörigen können, wenn sie den Status nach dem WÜD oder dem WÜK verlieren, die Aufenthaltserlaubnis beantragen. Erfüllen sie die Voraussetzungen nach dem dritten oder vierten Abschnitt des AufenthG oder leiten das Aufenthaltsrecht als Familienangehörige von einer/einem Stammberechtigten ab, kann im Anschluss an die Befreiung eine Aufenthaltserlaubnis erteilt werden, ohne dass vorher eine Ausreise erfolgen muss.
@@ -271,6 +271,11 @@ Australien Working-Holiday nein ja 1x Inanspruchnahme, Antrag im Inland möglich
 30
 1x Inanspruchnahme, nicht länger als 6 Monate bei einem
 18 -
+Brasilien Working Holiday Ja Ja Arbeitgeber, Besuch von Aus- und Fortbildungskursen bis zu 6
+30
+Monate
+1x Inanspruchnahme, nicht länger als 6 Monate bei einem
+18 -
 Chile Working-Holiday ja ja Arbeitgeber, Besuch von Aus- und Fortbildungskursen bis zu 6
 30
 Monate
@@ -287,9 +292,10 @@ Fortbildungskursen bis zu 6 Monate
 18 -
 Japan Working-Holiday nein nein 1X Inanspruchnahme, Antrag im Inland möglich
 30
+Regelung kann zweimal in Anspruch genommen werden
 18 -
-Kanada Youth mobility nein ja Regelung kann zweimal in Anspruch genommen werden
-35
+Kanada Youth mobility ja
+nein 35
 18 -
 Rep. Korea Working-Holiday grds. ja ja 1x Inanspruchnahme, Antrag im Inland im Ausnahmefall möglich 30
 18 -
@@ -315,7 +321,8 @@ Working-Holiday- Programm mit der Republik Argentinien
 Die Regierung der Bundesrepublik Deutschland hat mit der Regierung der Republik Argentinien eine Absprache über ein Ferienarbeitsaufenthaltsprogramm getroffen. Diese Absprache wurde am 02.06.2016 unterzeichnet und am gleichen Tag wirksam.
 Ermöglicht werden Aufenthalte von bis zu zwölf Monaten. Die entsprechenden Visa werden ausschließlich bei einer Auslandsvertretung der Bundesrepublik Deutschland beantragt; die Vertretungen benötigen nicht unsere Zustimmung. Die Erteilung einer Aufenthaltserlaubnis im Inland ist ausgeschlossen, auch wenn argentinische Staatsangehörige sich bereits aus anderen Gründen im Bundesgebiet aufhalten.
 Eine Beschäftigung darf die Gesamtdauer von sechs Monaten nicht überschreiten. Gleiches gilt für den Besuch von Aus- und Fortbildungskursen. Die Teilnahme am Programm ist nur einmal möglich.
-Working-Holiday-Abkommen mit der Republik Chile
+Working-Holiday-Programm mit der Föderativen Republik Brasilien
+Die Regierung der Bundesrepublik Deutschland hat mit der Regierung der Föderativen Republik Brasilien am 13.02.2015 eine Absprache über ein Ferienarbeitsaufenthaltsprogramm getroffen. Diese Absprache ist am 19.09.2019 in Kraft getreten. Ermöglicht werden Aufenthalte von bis zu zwölf Monaten. Die entsprechenden Visa werden ausschließlich bei einer Auslandsvertretung der Bundesrepublik Deutschland beantragt; die Vertretungen benötigen nicht unsere Zustimmung oder die Zustimmung der Bundesagentur für Arbeit. Die Erteilung einer Aufenthaltserlaubnis im Inland ist ausgeschlossen, auch wenn brasilianische Staatsangehörige sich bereits aus anderen Gründen im Bundesgebiet aufhalten. Eine Beschäftigung darf längstens sechs Monate bei einem Arbeitgeber ausgeübt werden. Aus- und Fortbildungskurse dürfen bis zu insgesamt sechs Monate Dauer besucht werden. Die Teilnahme am Programm ist nur einmal möglich. Working-Holiday-Abkommen mit der Republik Chile
 Deutschland hat am 20.02.2014 mit der Republik Chile ein bilaterales Working-Holiday-Abkommen geschlossen, das am gleichen Tag in Kraft getreten ist. Es ermöglicht Aufenthalte bis zu 12 Monaten. Zur ergänzenden Finanzierung des Aufenthalts können Ferienjobs angenommen werden.
 Merke: Das erforderliche Visum ist bei einer deutschen Auslandsvertretung zu beantragen.
 Working-Holiday-Abkommen mit der SVR Hongkong

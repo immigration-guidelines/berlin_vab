@@ -2,7 +2,7 @@ VAB A 61
 VAB A 61
 Inhaltsverzeichnis
 A.61. Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen
-Änderungsdatum
+(2. ÄndGAusreisepflicht; 17.10.2019)
 61.0. Allgemeines
 61.1.1. Allgemeine Hinweise zur räumlichen Beschränkung
 61.1.1.1. Zweitduldung
@@ -12,8 +12,7 @@ A.61. Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen
 61.1c. Wiederanordnung der räumlichen Beschränkung
 61.1d. Wohnsitzauflage
 A.61. Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen
-Änderungsdatum
-(20.06.2019, 2. ÄndGAusreisepflicht)
+(2. ÄndGAusreisepflicht; 17.10.2019)
 61.0. Allgemeines
 Mit dem Gesetz zur Verbesserung der Rechtsstellung von asylsuchenden und geduldeten Ausländern
 (Rechtsstellungsverbesserungsgesetz) hat der Gesetzgeber u.a. Lockerungen bei der räumlichen Beschränkung für Geduldete (und Asylbewerber) sowie Änderungen im Rahmen der Wohnsitzauflage vorgenommen. Wie zuvor sieht § 61 Abs. 1 für vollziehbar Ausreisepflichtige das Entstehen der räumlichen Beschränkung kraft Gesetzes mit den bisherigen Ausnahmemöglichkeiten vor, die allerdings praktisch keine Relevanz mehr haben (siehe A.61.1.1.). Mit der Neuregelung wird die räumliche Beschränkung nämlich kraft Gesetzes auf faktisch 3 Monate nach Einreise in das Bundesgebiet befristet (§ 61 Abs. 1b; näheres unter A.61.1b.). In bestimmten Fällen wird der Ausländerbehörde allerdings die Möglichkeit eröffnet, eine erloschene räumliche Beschränkung der Duldung (wieder) anzuordnen (§ 61 Abs. 1c; siehe A.61.1c.).
@@ -62,6 +61,7 @@ Ausländern, bei denen lediglich aus den vorgenannten Gründen von der Strafverf
 Wurden die Straftaten allerdings ausschließlich in Berlin begangen, wird das behördliche Ermessen zugunsten des Betroffenen ausgeübt und keine räumliche Beschränkung verfügt.
 61.1c.1.3. Nach dieser Vorschrift kann die Ausländerbehörde eine räumliche Beschränkung der Duldung anordnen, wenn konkrete Maßnahmen zur Aufenthaltsbeendigung gegen den Ausländer bevorstehen, die Ausländerbehörde also konkrete Schritte zur Beendigung des Aufenthalts unternommen bzw. sie bereits eingeleitet hat.
 61.1c.2. Durch die mit dem Gesetz zur besseren Durchsetzung der Ausreisepflicht eingeführte Vorschrift sollen Ausländer, die über ihre Identität täuschen oder die bei der Beschaffung von Heimreisedokumenten nicht ausreichend mitwirken, enger an den Bezirk der Ausländerbehörde gebunden werden, um ggf. sicherzustellen, dass sie für etwaige erforderliche Mitwirkungshandlungen leichter erreichbar sind. Hierfür besteht allerdings in einem Stadtstaat wie Berlin mit einer zentralen Ausländerbehörde keine Veranlassung.
+61.1c.3. Bei der Anordnung der räumlichen Beschränkung handelt es sich um einen selbständig anfechtbaren Verwaltungsakt. Dies hat zur Folge, dass hiergegen gerichteten Rechtsbehelfen aufschiebende Wirkung zukommt. Ein Wegfall des Suspensiveffekts folgt weder aus § 4 Abs. 1 AGVwGO, noch aus § 84 Abs. 1. Um die Anordnung der räumlichen Beschränkung sofort umzusetzen, muss folglich die sofortige Vollziehung nach § 80 Abs. 2 Satz 1 Nr. 4 VwGO angeordnet werden. Dies setzt voraus, dass ein besonderes Vollzugsinteresse dargelegt werden kann. Der Bezug öffentlicher Mittel genügt hierfür in der Regel nicht.
 61.1d. Wohnsitzauflage
 61.1d.0. § 61 Abs. 1 d S. 1 ist missverständlich formuliert. Dieser Satz enthält keine Ermächtigungsgrundlage für die Verfügung einer wohnsitzbeschränkenden Auflage im Sinne einer selbständig anfechtbaren Nebenbestimmung als Teil eines Verwaltungsaktes (vgl. § 36 VwVfG), sondern eine gesetzliche Beschränkung. Daraus folgt, dass wie auch bei der räumlichen Beschränkung des § 61 Abs. 1 S. 1, dass der Eintrag im Duldungsetikett bzw. das Streichen eines solchen keinerlei Regelungsgehalt hat. Sichert der Geduldete seinen Lebensunterhalt vollständig, so entfällt damit auch vom Zeitpunkt dieser Sicherung – zu, Beispiel dem Zeitpunkt der Aufnahme einer auskömmlichen Beschäftigung – von Gesetzes wegen die Wohnsitzauflage, ohne dass es hierfür der Streichung der Auflage bedürfte. Umgekehrt gilt aber auch: Kann der Betroffene nach einer auskömmlichen Beschäftigung sodann seinen Lebensunterhalt ohne Inanspruchnahme von Leistungen nach dem AsylbLG nicht mehr sichern, so lebt diese gesetzliche Beschränkung für das Bundesland wieder auf, in dem der Betroffene seinen Wohnort zum Zeitpunkt der Entstehung der Vollziehbarkeit der Ausreisepflicht gewohnt hat (§ 61 Abs. 1 d S. 2).
 Diese gesetzliche Beschränkung dient allein der gerechten Verteilung der Sozialkosten zwischen den Bundesländern. Entsprechend ist der Eintrag auch nur vorzunehmen und aufrechtzuerhalten, wenn der Lebensunterhalt der Bedarfsgemeinschaft nicht gesichert ist (vgl. VAB A.2.3.).
