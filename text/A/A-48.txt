@@ -1,7 +1,7 @@
 VAB A 48
 VAB A 48
 A.48. Ausweisrechtliche Pflichten
-(ÄndG Ausreisepflicht; 23.08.2019, 2. ÄndGAusreisepflicht)
+(23.08.2019; 2. ÄndGAusreisepflicht, 19.12.2019)
 48.0. Der Ausländer ist durch ein Merkblatt möglichst in einer ihm verständlichen Sprache auf seine gesetzlichen Verpflichtungen gem. § 48 Abs. 1 und 3 hinzuweisen. Dies ergibt sich zwingend aus § 82 Abs. 3. Das Merkblatt enthält auch einen Hinweis auf die Ordnungswidrigkeit der Passverschleierung sowie auf die Strafbarkeit unrichtiger oder unvollständiger Angaben gem. § 95 Abs. 2 Nr. 2.
 Die Aushändigung des Merkblattes ist zumindest aktenkundig zu vermerken.
 48.1. 0.1. Flankierend zur Vorlagepflicht des § 48 Abs. 1 ist § 57 AufenthV zu beachten (siehe Ausführungen unter B.AufenthV.57.).
@@ -21,6 +21,7 @@ Die Regelung findet auch Anwendung auf Personen, die neben der deutschen Staatsa
 Vgl.zu den Anforderungen an die Zumutbarkeit der Passbeschaffung bzw. der Mitwirkung daran auch B.AufenthV.5.-11.
 Der Ausländer ist verpflichtet, sowohl etwaig vorhandene Identitätsdokumente wie z.B. ID-Karten, Urkunden und sonstige Unterlagen als auch Datenträger zur Identitätsfeststellung auf Verlangen der Behörde zur Verfügung zu stellen. Datenträger im Sinne dieser Vorschrift sind beispielsweise Mobiltelefone, Laptops oder Tabletcomputer. So können etwa die Adressdaten in dem Mobiltelefon eines ausreisepflichtigen Ausländers beziehungsweise gespeicherte Verbindungsdaten aufgrund der Auslandsvorwahl wesentliche Hinweise auf eine mögliche Staatsangehörigkeit geben. Erfasst sind zum Beispiel auch in elektronischer Form in (Klein-)Computern gespeicherte Reiseunterlagen.
 48.3.2. Verstöße gegen die Mitwirkungspflicht ermöglichen die Durchsuchung (§ 48 Abs. 3 S. 2) sowie die Einleitung eines Owi-Verfahrens (§ 98 Abs. 2 Nr. 3).
+Liegt ein gültiger Pass oder Passersatz vor, sind Maßnahmen nach § 48 Abs. 3 allerdings rechtlich nicht zulässig und müssen unterbleiben.
 48.3a. frei
 48.4.1. Personen, bei denen nach § 5 Abs. 3 (humanitäre Aufenthaltstitel) vom Regelerfordernis der Erfüllung der Passpflicht abgesehen wird, oder Neugeborenen, die unter § 33 S. 1 oder 2 fallen, ist ein Ausweisersatz auszustellen, sofern nicht vorrangige Bestimmungen zur Ausstellung eines Reiseausweises für Flüchtlinge führen. Die Verpflichtungen zur Mitwirkung bei der Passbeschaffung nach § 48 Abs. 3 bleiben unberührt, sofern die Beantragung eines Passes oder Passersatzes des Herkunftsstaates zumutbar ist (vgl. insoweit die Ausführungen unter B.AufenthV.5.-11.).
 A.48.S.1. Pass- und ausweisrechtliche Situation von Einbürgerungs-bewerbern
