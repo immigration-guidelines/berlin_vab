@@ -1,23 +1,21 @@
 VAB A 91d
 VAB A 91d
 A.91d. Auskünfte zu Durchführung der Richtlinie 2016/801/EU
-(RiLiUmsG2017, 27.02.2019)
-91d.0. Die Überschrift wurde mit Inkrafttreten des Richtlinienumsetzungsgesetzes 2017 den neuen Aufgaben der Nationalen Kontaktstelle (BAMF Referat 72C) nach der REST-Richtlinie angepasst. Die bisherigen Absätze 1 und 2 wurden in diesem Zusammenhang zu den Absätzen 3 und 4.
-91d.1. Die Regelung dient der Umsetzung von Artikel 28 Absatz 2 und Artikel 31 Absatz 2 der REST-Richtlinie. Das Bundesamt für Migration und Flüchtlinge als Nationale Kontaktstelle nimmt alle Anträge und Mitteilungen über die kurzfristige Mobilität von Forschern und Studenten aus europäischen Mitgliedstaaten vor ihrer Einreise nach Deutschland entgegen, prüft diese auf Vollständigkeit und übersetzt sie ggf. auf Deutsch. Soll das Studium oder die Forschung in Berlin fortgesetzt werden, leitet das Bundesamt Mitteilungen über die kurzfristige Mobilität an IV B 2 weiter.
-91d.2. Adressat der Regelung ist das BAMF.
-91d.3. Frei
-91d.4. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der REST-Richtlinie sind an die Nationale Kontaktstelle des BAMF (NKS REST, Referat 72C, E-Mail: rest@bamf.bund.de) zu richten.
-91d.5. Die Regelung dient der Umsetzung von Artikel 29 Absatz 5 und Artikel 32 Absatz 2 der REST-Richtlinie. Das Bundesamt für Migration und Flüchtlinge sorgt für den Informationsaustausch mit den Behörden in anderen Mitgliedstaaten sowie den zuständigen Organen der Europäischen Union. Beim Informationsaustausch mit den Behörden anderer Mitgliedstaaten geht es vor allem um den Austausch der Informationen, die für die Durchführung der Wechsel zwischen mehreren EU-Mitgliedstaaten erforderlich sind.
-§ 91d Absatz 5 sieht dazu vor, dass das BAMF die zuständige Behörde eines anderen Mitgliedstaats über Ablehnungen nach § 16a und § 20a sowie die Erteilung einer Aufenthaltserlaubnis nach § 20b informiert. Die dafür nötigen Angaben bezieht das Bundesamt für Migration und Flüchtlinge aus einer entsprechenden Mitteilung der Ausländerbehörde. Der Nationalen Kontaktstelle des BAMF ist mitzuteilen, dass entweder
-• nach Eingang der nach Absatz 1 weitergeleiteten Mitteilung das Recht auf Einreise und Aufenthalt im Rahmen der kurzfristigen Mobilität für Forscher oder Studenten fristgerecht abgelehnt wurde oder
-• über einen nach Absatz 2 weitergeleiteten Antrag zu § 20b positiv entschieden wurde.
+(RiLiUmsG2017, 27.02.2019; FEG)
+91d.0. Das BAMF ist seit Inkrafttreten des Fachkräfteeinwanderungsgesetzes für die Durchführung der Mitteilungsverfahren bei der (kurzfristigen) Mobilität zuständig.
+91d. 1. Adressat der Regelung ist das BAMF.
+91d. 2. Frei
+91d. 3. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der REST-Richtlinie sind an die Nationale Kontaktstelle des BAMF (NKS REST, Referat 72C, E-Mail: rest@bamf.bund.de) zu richten.
+91d. 4. Die Regelung dient der Umsetzung von Artikel 29 Absatz 5 und Artikel 32 Absatz 2 der REST-Richtlinie. Das Bundesamt für Migration und Flüchtlinge sorgt für den Informationsaustausch mit den Behörden in anderen Mitgliedstaaten sowie den zuständigen Organen der Europäischen Union. Beim Informationsaustausch mit den Behörden anderer Mitgliedstaaten geht es vor allem um den Austausch der Informationen, die für die Durchführung der Wechsel zwischen mehreren EU-Mitgliedstaaten erforderlich sind.
+§ 91d Absatz 4 sieht dazu vor, dass das BAMF die zuständige Behörde eines anderen Mitgliedstaats über Ablehnungen nach § 16c Absatz 1 und § 18e Absatz 1 sowie die Erteilung einer Aufenthaltserlaubnis nach § 18f informiert. Die dafür nötigen Angaben bezieht das Bundesamt für Migration und Flüchtlinge aus einer entsprechenden Mitteilung der Ausländerbehörde. Der Nationalen Kontaktstelle des BAMF ist mitzuteilen, dass
+• über einen nach Absatz 1 weitergeleiteten Antrag zu § 18f positiv entschieden wurde.
 Zum Inhalt der Mitteilung gehört auch in jedem Fall das Datum der Entscheidung. Die Übermittlung eines rechtsmittelfähigen Bescheides an das BAMF wird dagegen nicht gefordert.
 Ein automatisierter Datenaustausch über das AZR zum BAMF findet derzeit hierzu nicht statt.
-91d.6. Absatz 6 sieht vor, dass das BAMF die Behörden des anderen Mitgliedstaats über den Widerruf, die Rücknahme, die Nicht-Verlängerung oder die nachträgliche Verkürzung der Erteilungsdauer bei Aufenthaltstiteln nach § 16 Absatz 1, § 17b, § 18d oder § 20 informiert, wenn sich der Inhaber des deutschen Aufenthaltstitels bekanntermaßen in diesem Mitgliedstaat aufhält. Die dafür nötigen Angaben bezieht das Bundesamt für Migration und Flüchtlinge aus einer entsprechenden Mitteilung der Ausländerbehörde. Liegen keine Erkenntnisse über den Aufenthalt des Betroffenen in einem Mitgliedstaat vor, unterbleibt jede Mitteilung.
+91d. 5. Absatz 5 sieht vor, dass das BAMF die Behörden des anderen Mitgliedstaats über den Widerruf, die Rücknahme, die Nicht-Verlängerung oder die nachträgliche Verkürzung der Erteilungsdauer bei Aufenthaltstiteln nach § 16b Absatz 1, den §§ 16e, 18d oder 19e informiert, wenn sich der Inhaber des deutschen Aufenthaltstitels bekanntermaßen in diesem Mitgliedstaat aufhält. Die dafür nötigen Angaben bezieht das Bundesamt für Migration und Flüchtlinge aus einer entsprechenden Mitteilung der Ausländerbehörde. Liegen keine Erkenntnisse über den Aufenthalt des Betroffenen in einem Mitgliedstaat vor, unterbleibt jede Mitteilung.
 Der Nationalen Kontaktstelle des BAMF ist mitzuteilen, dass entweder eine der vorgenannten Aufenthaltserlaubnisse
 • nach § 52 widerrufen,
 • nach § 48 VwVfG zurückgenommen,
 • nach § 8 Abs. 1 nicht verlängert oder
 • nach § 7 Abs. 2 Satz 2 nachträglich verkürzt wurde.
 Zum Inhalt der Mitteilung gehört auch in jedem Fall das Datum der Entscheidung. Die Übermittlung eines rechtsmittelfähigen Bescheides an das BAMF wird dagegen nicht gefordert.
-Ein automatisierter Datenaustausch mittels des AZR zum BAMF findet hierzu nicht statt.
+Ein automatisierter Datenaustausch mittels des AZR zum BAMF findet hierzu nicht statt. Geht im Gegenzug nach Satz 4 eine Mitteilung der Nationalen Kontaktstelle über den Verlust des Aufenthaltsrechts im ersten Mitgliedstaat ein, hat dies keine unmittelbaren aufenthaltsrechtlichen Konsequenzen. Insbesondere führt die Mitteilung nicht zum Erlöschen des deutschen Aufenthaltstitels oder des Aufenthaltsrechts.

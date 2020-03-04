@@ -2,102 +2,151 @@ VAB A 39
 VAB A 39
 Inhaltsverzeichnis
 A.39. Zustimmung zur Ausländerbeschäftigung
+(04.02.2020; FEG)
 39.1. Zustimmungsverfahren mit den Agenturen für Arbeit
-39.1.1.1. Die Prüfung findet in folgender Reihenfolge statt:
+39.1.1.1. Die Prüfung findet in folgender Reihenfolge statt (vgl. auch VAB A 18.0.)
 39.1.1.3. Formular im Zustimmungsverfahren
 Zuständigkeiten der Agenturen für Arbeit
 39.1.1.5. Zeitlich beschränkte Zustimmung
-39.1.1.6. Versagung der Zustimmung
+39.1.1.6.Dauer und Verlängerung der Zustimmung
+39.1.1.7. Versagung der Zustimmung
+39.2.
+39.2.1-4.
+39.3.
 39.4. Dauer und Verlängerung der Zustimmung
+39.5.
+39.6.
 A.39. Zustimmung zur Ausländerbeschäftigung
-(13.02.2018; 06.04.2018)
+(04.02.2020; FEG)
 39. 0. Normadressat der Vorschriften der §§ 39 bis 42 sowie der Beschäftigungsverordnung – BeschV - sind neben den Ausländerbehörden die Arbeitgeber- Services der BA.
-Die BeschV regelt sowohl die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich zum Zwecke der Beschäftigung oder gewerblichen Ausbildung hier aufhalten wollen als auch die Zulassung zur Ausübung einer Beschäftigung und das Verfahren für Ausländer, die sich erlaubt zu einem anderen Zweck – etwa aus humanitären Gründe n - gestattet oder geduldet hier aufhalten. Sie gilt auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr einen Aufenthaltstitel nach § 17 oder § 18 oder § 19a begehren, wie etwa Arbeitsplatzsuchende (vgl. § 16 Abs. 4, Abs. 5b, § 17 Abs. 3 oder § 18c) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
+Die BeschV regelt sowohl die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich zum Zwecke der Beschäftigung oder Ausbildung hier aufhalten wollen als auch die Zulassung zur Ausübung einer
+Beschäftigung und das Verfahren für Ausländer, die sich erlaubt zu einem anderen Zweck – etwa aus humanitären Gründe n - gestattet oder geduldet hier aufhalten. Sie gilt auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr einen Aufenthaltstitel begehren, wie etwa Arbeitsplatzsuchende (vgl. § 17 oder § 20) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
 Merke: In allen Zweifelsfällen ist die Agentur für Arbeit ''' um Stellungnahme zu ersuchen (vgl. A.72.7.).
 39.1. Zustimmungsverfahren mit den Agenturen für Arbeit
-39.1.1. 1. Die Prüfung findet in folgender Reihenfolge statt:
-1. Erwerbstätigkeit kraft Gesetzes gestattet (vgl. A.4.)
-2. zustimmungsfreie Beschäftigung nach BeschV
+39.1.1. 1. Die Prüfung findet in folgender Reihenfolge statt (vgl. auch VAB A 18.0.)
+1. Erwerbstätigkeit kraft Gesetzes erlaubt (vgl. A.4 a.1.1.)
+2. zustimmungsfreie Beschäftigung
+durch Gesetz (z.B. § 18b Abs. 2 S.1 für die Blaue Karte EU; § 18c für NE bei Fachkräften, 18d Forscher) oder durch die Beschäftigungsverordnung (BeschV) (z.B. § 5 BeschV, § 9 BeschV, § 15, § 19, § 22 BeschV); oder zwischenstaatliche Vereinbarung, z.B. Working-Holiday (vgl. B.AufenthV.41.)
 3. Verzicht auf das Zustimmungsverfahren bei zustimmungspflichtigen Beschäftigungen (gültige Vorabzustimmung der BA; Globalzustimmungen der BA; vgl. B.BeschV. 37.)
-39.1.1. 2. Vor jeder Anfrage bei der Agentur für Arbeit ist aus Gründen der Verwaltungseffizienz zu prüfen, ob überhaupt die aufenthaltsrechtlichen Erteilungsvoraussetzungen für den Titel vorliegen. Kommt zum Beispiel die Erteilung einer AE nach § 18 Abs. 2 nicht in Betracht, weil für den Betroffenen Ausweisungsinteressen bestehen, die zu einer Versagung gem. § 5 Abs. 1 Nr. 2 führen, so ist der Antrag auf AE schon deshalb abzulehnen. Erhält der Betroffene sodann eine Duldung, gelten für den möglichen Zugang zur Beschäftigung andere Regelungen (vgl. hierzu Ausführungen zu § 4 Abs. 3 sowie B.BeschV. 32.).
+39.1.1. 2. Wenn keine Zustimmungsfreiheit der Beschäftigung besteht ist v or jeder Anfrage bei der Agentur für Arbeit aus Gründen der Verwaltungseffizienz zu prüfen, ob überhaupt die aufenthaltsrechtlichen
+Erteilungsvoraussetzungen für den Titel vorliegen. Kommt zum Beispiel die Erteilung einer AE nach § 18 a nicht in Betracht, weil für den Betroffenen Ausweisungsinteressen bestehen, die zu einer Versagung gem. § 5 Abs. 1 Nr. 2 führen, so ist der Antrag auf AE schon deshalb abzulehnen. Erhält der Betroffene sodann eine Duldung, gelten für den möglichen Zugang zur Beschäftigung andere Regelungen (vgl. hierzu Ausführungen zu § 4 a Abs. 4 sowie B.BeschV. 32.).
 39.1.1.3. Formular im Zustimmungsverfahren
-Die Anfragen an die Agentur für Arbeit um Zustimmung werden auf den mit der hiesigen Regionaldirektion abgestimmten Formularen unter Beachtung der beigefügten Ausfüllhinweise erstellt und enthalten einen Hinweis auf die Mitwirkungspflicht nach § 82. Weiter wird der Ausländer darauf hingewiesen, dass - sollten noch erforderliche Angaben oder Unterlagen fehlen - er diese innerhalb einer Frist von 2 Wochen der seit dem 01.05.2011 zentral für die Regionaldirektionen Berlin -Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Essen, Team 009, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
-Agentur für Arbeit Essen
-Team 009
-Dahlmannstraße 23
-47169 Duisburg
-Fax: 0203/ 9907 238
-Essen.009-OS@arbeitsagentur.de
-Zentrale Rufnummer: 0228 / 713 2000
-Auch sollte dem Antragsteller ein Formblatt „ Stellenbeschreibung“ ausgehändigt werden, welches der Arbeitgeber aus zu füllen und ebenfalls der zuständigen Agentur für Arbeit Essen (s.o.) zu übersenden hat. Hierauf folgt der Hinweis auf eine mögliche Versagung, wenn das Formblatt nicht ausgefüllt innerhalb einer Frist von 2 Wochen an die Agentur für Arbeit Essen übersandt wird.
-Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 2 S. 3). Wenn weitere Unterlagen bei der Ausländerbehörde vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden. Die Bitten um Zustimmung sind an die Agentur für Arbeit Essen stets per Fax zu übersenden. Das Fax kann zusätzlich als "Eilsache" kenntlich gemacht sein, z.B. durch Zusätze wie "Antwort bis……..erbeten" oder "Vorsprachetermin am…….". Zusätzlich empfiehlt sich in Fällen besonderer Eilbedürftigkeit eine telefonische Kontaktaufnahme zum zuständigen Team der Bundesagentur. Wird eine Zustimmungsanfrage (Teil 1 und 2 des Formularsatzes) per Fax übersandt, sollte in jedem Fall auf die nachträgliche Übersendung des Originals auf dem Postwege verzichtet werden.
+Die Anfragen an die Agentur für Arbeit um Zustimmung werden auf den mit der hiesigen Regionaldirektion abgestimmten Formularen unter Beachtung der beigefügten Ausfüllhinweise erstellt und enthalten einen Hinweis auf die Mitwirkungspflicht nach § 82. Weiter wird der Ausländer darauf hingewiesen, dass - sollten noch erforderliche Angaben oder Unterlagen fehlen - er diese innerhalb einer Frist von 2 Wochen der seit dem 01.02.2020 zentral für die Regionaldirektionen Berlin -Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Erfurt, Team 00 8, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
+Agentur für Arbeit Erfurt
+Team 00 8
+Max-Reger-Str. 1
+99096 Erfurt
+Fax: 0361 / 302 1905
+Erfurt.008-OS@arbeitsagentur.de
+Auch sollte dem Antragsteller ein Formblatt „ Stellenbeschreibung“ (ab dem 01.03.2020 das Formblatt „ Erklärung zum Beschäftigungsverhältnis“) ausgehändigt werden, welches der Arbeitgeber auszufüllen und ebenfalls der zuständigen Agentur für Arbeit Erfurt (s.o.) zu übersenden hat. Hierauf folgt der Hinweis auf eine mögliche Versagung, wenn das Formblatt nicht ausgefüllt innerhalb einer Frist von 2 Wochen an die Agentur für Arbeit Erfurt übersandt wird.
+Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 4). Wenn weitere Unterlagen beim Landesamt für Einwanderung vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden.
+Die Bitten um Zustimmung sind an die Agentur für Arbeit Erfurt stets per Fax zu übersenden. Das Fax kann zusätzlich als "Eilsache" kenntlich gemacht sein, z.B. durch Zusätze wie "Antwort bis……..erbeten" oder "Vorsprachetermin am…….". Zusätzlich empfiehlt sich in Fällen besonderer Eilbedürftigkeit eine telefonische Kontaktaufnahme zum zuständigen Team der Bundesagentur. Wird eine Zustimmungsanfrage (Teil 1 und 2 des Formularsatzes) per Fax übersandt, sollte in jedem Fall auf die nachträgliche Übersendung des Originals auf dem Postwege verzichtet werden.
 Zuständigkeiten der Agenturen für Arbeit
 Zuständig ist grundsätzlich d iejenige Agentur für Arbeit, in de ren Bezirk der Betrieb seinen Sitz oder seine Niederlassung hat, in der der Ausländer arbeiten soll. Im Zweifel ist der Betrieb die Betriebsstätte, dass heißt der Ort an dem der Ausländer tätig werden soll. Bei Beschäftigungen mit wechselnden Arbeitsstätten gilt der Sitz der für die Lohnabrechnung zuständigen Stelle als Beschäftigungsort.
 Für die Regionaldirektionen Berlin-Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen ist zentral die Agentur für Arbeit Essen, Team 009, zuständig. Befindet sich der Betrieb in einem anderen Bundesland als den vorgenannten, ist die Zuständigkeit dem Internetauftritt der BA zu entnehmen.
 Spezielle Zuständigkeiten gelten für
-Arbeitnehmergruppe Zuständige Agentur Fax-nr. und E-Mail-Adresse
-Gastarbeitnehmer, Pflegekräfte und Fax: 0228/713-270-1166
-Fachschulpraktikanten Koeln.Gastarbeitnehmer@arbeitsagentur.de
-Ferienbeschäftigungen ausländischer Fax: 0228 / 713 -1525
-Studierender Agentur für Arbeit Köln Koeln.Ferienbeschaeftigung@arbeitsagentur.de
-Team 008 Villemobler Fax: 0228 / 713- 1037
-studienfachbezogene Praktika
-Str. 76 53123 Bonn Koeln.Studenten@arbeitsagentur.de
-Landwirtschaftsweiterbildungspraktikanten, Zentrale Rufnummer Fax: 0228/713-10 91
-internationalen Personalaustausch 0228/713-2000 Koeln.Personalaustausch@arbeitsagentur.de
-ICT-Karte/Mobiler-ICT-Karte und Fax: 0228/713-1 123
-innerbetrieblicher Transfer bis 90 Tage Koeln.ICT-Karte@arbeitsagentur.de
-Fax: 0228/713-1600
-angestellte Künstler
+Arbeitnehmergruppe Zuständige Agentur Fax-Nr. /E-Mail-Adresse und Telefonnummer
+Agentur für Arbeit Köln
+Team 00 7
+Pflegekräfte auf der Grundlage von Fax: 0228/713-270- 1091
+Villemobler Str. 76
+Vermittlungsabsprachen koeln.007-OS@arbeitsagentur.de
+53123 Bonn Tel.: 0228/713-1326
+Fachschulpraktikanten in Verbindung mit
+deren Ausbildung im Heimatland
+Fax: 0228 / 713 -1525
+Ferienbeschäftigungen ausländischer
+Koeln.Ferienbeschaeftigung@arbeitsagentur.de
+Studierender (§ 14 Abs. 2 BeschV)
+Tel.: 0228/713-1330
+studienfachbezogene Praktika Fax: 0228 / 713- 1037
+Koeln.Studenten@arbeitsagentur.de
+(§ 15 Nr. 4 / 6 BeschV) Tel.: 0228/713-1560
+internationalen Personalaustausch Fax: 0228/713-10 91
+Koeln.Personalaustausch@arbeitsagentur.de
+(§ 10 BeschV) Tel.: 0228/713-1514
+ICT-Karte/Mobiler-ICT-Karte
+Agentur für Arbeit Köln
+(§ 10a BeschV) Team 008
+Fax: 0228/713-1 123
+Drittstaatsangehörige, die nicht in den Villemobler Str. 76
+53123 Bonn Koeln.ICT-Karte@arbeitsagentur.de
+Anwendungsbereich der ICT-RL fallen, Tel.: 0228/713-1122
+aber die Voraussetzungen nach Mode 4
+GATS erfüllen (§ 29 (5) BeschV)
+Künstler (§ 25 BeschV)
+' Einschaltung der Künstlervermittlung Fax: 0228/713-1600
 Koeln.AMZ-Kuenstler@arbeitsagentur.de
+(Verfahren nach § 21 Abs. 5 AufenthG) Tel.: 0228/713-1316
 Fax: 0228/713-2281
-Spezialitätenköche
-Koeln.Spezialitaetenkoeche@arbeitsagentur.de
+Spezialitätenköche (§ 11 Abs.2 BeschV) Koeln.Spezialitaetenkoeche@arbeitsagentur.de
+Tel.: 0228/713-1511
 Agentur für Arbeit
 Essen
-Team 009 (Standort
-Duisburg)
-Familienangehörige von Diplomaten und Fax: 0203/9907-238
-Dahlmannstr. 23
-Konsuln Essen.009-OS@arbeitsagentur.de
+Team 009 Fax: 0203/9907-238
+Familienangehörige von Diplomaten und
+''' Essen.009-OS@arbeitsagentur.de
+Konsuln (§ 1 AufenthG)
+Dahlmannstr. 23 Tel.: 0228/713 2000
 47169 Duisburg
-Zentrale
-Rufnummer
-0228/713 2000
-Werkvertragsarbeitnehmer auf der Fax: 0711/920-3234
-Grundlage zwischenstaatlischer Agentur für Arbeit Stuttgart.007-OS@arbeitsagentur.de
-Vereinbarungen Stuttgart Stuttgart.009-OS@arbeitsagentur.de
-Werkvertragsarbeitnehmer, Kurz- und Team 00 7 und
-längerfristig entsandte Arbeitnehmer im Team 009
-Rahmen von Liefer- und Montageverträgen 70145 Stuttgart WVV-Team 009
-von Maschinen, Anlagen und Zentrale Fax: 0711/920-3234
-EDV-Programmen und Arbeitnehmer, die Rufnummer 0711 Stuttgart.009-OS@arbeitsagentur.de
-im Rahmen von Verträgen bis zu 90 Tagen 920-4500
-in NATO-Stützpunke entsandt werden
-Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörde regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen so noch Unterlagen des Arbeitgebers fehlen. In diesen Fällen erfolgt zwingend ein Schreiben an die anfragende Ausländerbehörde, um die Zustimmungsfiktion des § 36 BeschV nicht eintreten zu lassen.
-Fehlen dagegen aus Sicht der Agentur für Arbeit bei der Zustimmungsanfrage arbeitnehmerbezogene Unterlagen bzw. ist auf Grund einer fehlenden oder unzutreffenden Rechtsgrundlage durch die Ausländerbehörde keine Prüfung möglich, so wird die Ausländerbehörde – im Regelfall innerhalb von 48 Stunden nach Eingang der Zustimmungsanfrage - gebeten, die erforderlichen Unterlagen/Informationen nachzureichen bzw. beim Betroffenen einzuholen oder zu erheben. Mit diesem Schreiben wird mitgeteilt, dass die Zustimmungsfiktion des § 36 Abs. 1 BeschV nicht eintritt. Soweit Unterlagen/Informationen durch den Betroffenen nachzureichen sind, ist dieser schriftlich und unter Hinweis auf die Mitwirkungspflicht gem. § 82 und dem Setzen einer Frist aufzufordern, diese unmittelbar zur Agentur für Arbeit zu übersenden (AusReg > KK Schreiben > Beschäftigung, Nachforderung Unterlagen).
-Merke: In jedem Fall erfolgt auf eine Bitte um Zustimmung auch eine förmliche Antwort. Dies auch deshalb, weil im Regelfall die Geltungsdauer der Zustimmung sowie die berufliche Tätigkeit festgelegt und die Beschäftigung auf bestimmte Betriebe beschränkt wird. Ein Wiedervorlagesystem zur Überwachung der Verschweigensfrist ist somit entbehrlich.
-39.1.1. 4. Den Antragstellern, die eine zustimmungspflichtige Beschäftigung beabsichtigen und einen Titel zum Zwecke der Beschäftigung begehren, sollte eine Fiktionsbescheinigung von zwei Monaten ausgestellt werden und ihnen bei der Erstvorsprache ein entsprechender Termin gegeben werden (zur Gebührenpflicht vgl. Ausführungen zu § 81). Sollte die Zustimmung vor dieser Frist vorliegen, kann der Betroffene vorzeitig vorgeladen werden.
+Fax: 0711/920-3234
+Stuttgart.007-OS@arbeitsagentur.de
+Werkvertragsarbeitnehmer auf der Stuttgart.009-OS@arbeitsagentur.de
+Grundlage zwischenstaatlicher '
+Vereinbarungen (§ 29 (1) BeschV) Tel.: 0711/920-3265; -3268 oder
+Tel.: 0711/920-3010; -3262
+'
+Werkvertragsarbeitnehmer (§ 26 Agentur für Arbeit
+(1)
+Stuttgart
+BeschV) Team 00 7 und Team
+Kurz- und längerfristig entsandte 009
+Fax: 0711/920-3234
+70145 Stuttgart
+Arbeitnehmer im Rahmen von Liefer- und Stuttgart.009-OS@arbeitsagentur.de
+Montageverträgen von Maschinen, Tel.: 0711/920-3201 oder -3020
+Anlagen und EDV-Programmen (§ 19
+BeschV)
+Arbeitnehmer, die im Rahmen von Fax: 0711/920-3234
+Verträgen bis zu 90 Tagen in Stuttgart.009-OS@arbeitsagentur.de
+NATO-Stützpunke entsandt werden Tel.: 0711/920-3018
+Agentur für Arbeit
+Erfurt Team 009
+Fax: 0361/302-2120
+Auskunftsersuchen nach § 39 AufenthG Melchior-Bauer-Straße Erfurt.009-OS@arbeitsagentur.de
+5 Tel.: 0361/302-2121
+99092 Erfurt
+Die Agentur für Arbeit wendet sich nach der Anfrage durch das Landesamt für Einwanderung regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen so noch Unterlagen des Arbeitgebers fehlen. In diesen Fällen erfolgt zwingend ein Schreiben an die anfragende Ausländerbehörde, um die Zustimmungsfiktion des § 36 BeschV nicht eintreten zu lassen.
+Fehlen dagegen aus Sicht der Agentur für Arbeit bei der Zustimmungsanfrage arbeitnehmerbezogene Unterlagen bzw. ist auf Grund einer fehlenden oder unzutreffenden Rechtsgrundlage durch das Landesamt für Einwanderung keine Prüfung möglich, so wird das Landesamt für Einwanderung – im Regelfall innerhalb von 48 Stunden nach Eingang der Zustimmungsanfrage - gebeten, die erforderlichen Unterlagen/Informationen nachzureichen bzw. beim Betroffenen einzuholen oder zu erheben. Mit diesem Schreiben wird mitgeteilt, dass die Zustimmungsfiktion des § 36 Abs. 1 BeschV nicht eintritt. Soweit Unterlagen/Informationen durch den Betroffenen nachzureichen sind, ist dieser schriftlich und unter Hinweis auf die Mitwirkungspflicht gem. § 82 und dem Setzen einer Frist aufzufordern, diese unmittelbar zur Agentur für Arbeit zu übersenden (AusReg > KK Schreiben > Beschäftigung, Nachforderung Unterlagen).
+Merke: In jedem Fall erfolgt auf eine Bitte um Zustimmung auch eine förmliche Antwort. Dies auch deshalb, weil im Regelfall die Geltungsdauer der Zustimmung sowie die berufliche Tätigkeit festgelegt und die Beschäftigung auf bestimmte Betriebe beschränkt wird. Ein Wiedervorlagesystem zur Überwachung der Verschweigensfrist ist somit entbehrlich. 39.1.1. 4. Den Antragstellern, die eine zustimmungspflichtige Beschäftigung beabsichtigen und einen Titel zum Zwecke der Beschäftigung begehren, sollte eine Fiktionsbescheinigung von zwei Monaten ausgestellt werden und ihnen bei der Erstvorsprache ein entsprechender Termin gegeben werden (zur Gebührenpflicht vgl. Ausführungen zu § 81). Sollte die Zustimmung vor dieser Frist vorliegen, kann der Betroffene vorzeitig vorgeladen werden.
 Liegt nach Ablauf der zwei Monate keine abschließende Entscheidung der Bundesagentur vor, so ist erneut per Fax anzufragen und wird die Fiktionsbescheinigung verlängert. Da sich die Bundesagentur in diesen Fällen regelmäßig außerstande sieht, eine Prognose über den weiteren Fristenlauf abzugeben, sollte der Betroffene erst dann – möglichst kurzfristig – zur Vorsprache eingeladen werden, wenn die Zustimmung vorliegt.
-Problematisch ist wie verfahren werden soll, wenn ein Antrag auf Erteilung einer Aufenthaltserlaubnis nach § 18 gestellt wurde, die Entscheidung aber dadurch verzögert wird, dass immer wieder neue Arbeitsplatzangebote zu zustimmungspflichtigen Tätigkeiten eingereicht werden. Dies wird nach Erfahrungen einzelner Sachgebiete insbesondere von Angehörigen von Staaten, die gem. § 41 AufenthV privilegiert sind, praktiziert. Anders gesprochen: Wie ist in Fällen zu verfahren, in denen § 41 AufenthV i.V.m. § 81 Abs. 3 dazu missbraucht wird, sich eine Fiktionsbescheinigung zum Zwecke der dauernden Arbeitsplatzsuche zu verschaffen?
-In Absprache mit der Senatsverwaltung für Inneres ist als „allgemeiner Migrationsgesichtspunkt“ im Rahmen des von § 18 Abs. 2 eröffneten Ermessens auch der Umstand zu berücksichtigen, dass ein Ausländer nach einmaliger Versagung der Zustimmung seitens der Bundesagentur für Arbeit durch neue Arbeitsplatzangebote für unterschiedliche Tätigkeiten neue Zustimmungsverfahren einleitet und so einen weiteren Aufenthalt allein durch die immer wieder zu verlängernden Fiktionsbescheinigungen erwirkt. In solchen Fällen ist die Aufenthaltserlaubnis bzw. deren Verlängerung auch ohne Einleitung eines weiteren Zustimmungsverfahrens mit der Begründung zu versagen, dass es migrationspolitischen Interessen der Bundesrepublik Deutschland widerspricht, Ausländern jenseits des § 16 Abs. 4 einen Aufenthalt zur Arbeitsplatzsuche zu gewähren. Der Betroffene ist dann auf das Einreiseverfahren zu verweisen.
+Problematisch ist wie verfahren werden soll, wenn ein Antrag auf Erteilung einer Aufenthaltserlaubnis zum Zweck der Erwerbstätigkeit gestellt wurde, die Entscheidung aber dadurch verzögert wird, dass immer wieder neue Arbeitsplatzangebote zu zustimmungspflichtigen Tätigkeiten eingereicht werden. Dies wird nach Erfahrungen einzelner Sachgebiete insbesondere von Angehörigen von Staaten, die gem. § 41 AufenthV privilegiert sind, praktiziert. Anders gesprochen: Wie ist in Fällen zu verfahren, in denen § 41 AufenthV i.V.m. § 81 Abs. 3 dazu missbraucht wird, sich eine Fiktionsbescheinigung zum Zwecke der dauernden Arbeitsplatzsuche zu verschaffen?
+In Absprache mit der Senatsverwaltung für Inneres ist als „allgemeiner Migrationsgesichtspunkt“ im Rahmen des von § 18 Abs. 1 eröffneten Ermessens auch der Umstand zu berücksichtigen, dass ein Ausländer nach einmaliger Versagung der Zustimmung seitens der Bundesagentur für Arbeit durch neue Arbeitsplatzangebote für unterschiedliche Tätigkeiten neue Zustimmungsverfahren einleitet und so einen weiteren Aufenthalt allein durch die immer wieder zu verlängernden Fiktionsbescheinigungen erwirkt. In solchen Fällen ist die Aufenthaltserlaubnis bzw. deren Verlängerung auch ohne Einleitung eines weiteren Zustimmungsverfahrens mit der Begründung zu versagen, dass es migrationspolitischen Interessen der Bundesrepublik Deutschland widerspricht, Ausländern jenseits der §§ 17 und 20 einen Aufenthalt zur Arbeitsplatzsuche zu gewähren. Der Betroffene ist dann auf das Einreiseverfahren zu verweisen.
 39.1.1.5. Zeitlich beschränkte Zustimmung
 Spricht der Betroffene im Fall einer zeitlich beschränkten Zustimmung vor Ablauf der Zustimmungsfrist vor und ist eine Bearbeitung bis zum Ablauf der Zustimmung nicht möglich, so wird die Beschäftigung beim selben Arbeitgeber in analoger Anwendung des § 81 Abs. 4 weiter zugelassen. Dies gilt auch in den Fällen, in denen die Gültigkeit der Aufenthaltserlaubnis mit Ablauf der Zustimmung endet oder in denen die zeitlich beschränkte Zustimmung vor kurzem abgelaufen ist und der Betroffene es lediglich fahrlässig versäumt hat, rechtzeitig vorzusprechen. Hier gelten dieselben Grundsätze wie bei der direkten Anwendung des § 81 Abs. 4 (vgl. die Ausführungen dort).
-Dies gilt allerdings nicht, wenn noch keine (beschränkte) Zustimmung vorgelegen hat. So ist insbesondere in Fällen, in denen Angehörige von in § 41 AufenthV genannten Staaten, die hier nach Einreise ohne Visum einen Antrag auf AE nach § 18 stellen, keine Fiktionsbescheinigung, auszustellen, die die Erlaubnis der beantragten Tätigkeit beinhaltet, weil das Arbeitsgenehmigungsverfahren erst in Gang gesetzt wurde.
-39.1.1.6. Versagung der Zustimmung
-Die negative Antwort der Bundesagentur wird die die Beschäftigung betreffenden Nebenbestimmungen, ggf. den Hinweis auf den Ablehnungsgrund oder den Hinweis auf die Zustimmungsfreiheit einer Beschäftigung, enthalten. Wird die Zustimmung versagt, so ergeht der Bescheid der Ausländerbehörde schriftlich.
+Dies gilt allerdings nicht, wenn noch keine (beschränkte) Zustimmung vorgelegen hat. So ist insbesondere in Fällen, in denen Angehörige von in § 41 AufenthV genannten Staaten, die hier nach Einreise ohne Visum einen Antrag auf AE nach zum Zweck der Erwerbstätigkeit stellen, keine Fiktionsbescheinigung, auszustellen, die die Erlaubnis der beantragten Tätigkeit beinhaltet, weil das Arbeitsgenehmigungsverfahren erst in Gang gesetzt wurde. 39.1.1.6.Dauer und Verlängerung der Zustimmung
+Die Zustimmung kann sowohl zeitlich als auch sachlich beschränkt (§ 34 Abs. 1 BeschV) und für längstens vier Jahre jeweils zu einem bestimmten Aufenthaltstitel erteilt werden (§ 34 Abs. 2 i.V.m. § 35 Abs. 1 BeschV). Wurde eine Zustimmung irrtümlich entgegen § 34 Abs. 2 BeschV für einen längeren Zeitraum als vier Jahre erteilt, so ist von einer Zustimmung für vier Jahre auszugehen und ist auch der Aufenthaltstitel ggf. für vier Jahre zu erteilen. Auf eine Nachfrage bei der Agentur für Arbeit sollte verzichtet werden.
+Endet die Zustimmung, ohne dass der Aufenthaltstitel ausläuft, ist die erneute Vorsprache des Betroffenen bei der Ausländerbehörde erforderlich, die dann erneut die Zustimmung der Agentur für Arbeit einholen muss.
+Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten, von der Gültigkeit des Aufenthaltstitels unabhängigen, Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein.
+39.1.1.7. Versagung der Zustimmung
+Die negative Antwort der Bundesagentur wird die die Beschäftigung betreffenden Nebenbestimmungen, ggf. den Hinweis auf den Ablehnungsgrund oder den Hinweis auf die Zustimmungsfreiheit einer Beschäftigung, enthalten.
+Wird die Zustimmung versagt, so ergeht der Bescheid der Ausländerbehörde schriftlich.
 Für die Fälle, in denen die Beschäftigung ganz oder teilweise untersagt, der Aufenthaltstitel allerdings erteilt wird, ist ein entsprechender Formbrief als Word-Vorlage zur Verfügung gestellt. Die vorherige Anhörung des Ausländers ist in diesen Fällen entbehrlich.
-Wenn die Bundesagentur für Arbeit die Zustimmung verweigert, ist richtiger Prozessgegner gegen die Versagung der Beschäftigung die Ausländerbehörde (Ablehnung der Zustimmung ist mangels Außenwirkung kein anfechtbarer Verwaltungsakt).
-Gegen die Entscheidung ist grundsätzlich der Widerspruch statthaft. § 4 Abs. 2 AGVwGO greift hier nicht (anders bei Verweigerung der Zustimmung im Rahmen eines Antrages auf AE-Erteilung nach § 18: Gegen den aufenthaltsbeendenden Bescheid ist die Klage zulässig). Etwas anderes gilt, wenn es sich um einen Asylbewerber handelt. Hier ist der Widerspruch gem. § 61 Abs. 2 AsylG i.V.m. § 11 AsylG nicht statthaft.
-Über den Widerspruch wird durch IV P 1 entschieden. Zuvor wird die an der Ausgangsentscheidung beteiligte Arbeitsagentur (in der Regel die Agentur für Arbeit Essen in Duisburg) erneut beteiligt, die zum Widerspruch noch einmal Stellung nimmt. Ist zur Entscheidung über den Widerspruch weitere rechtliche Darlegung oder Sachaufklärung erforderlich, muss diese unmittelbar von der Arbeitsagentur gefordert werden. Eine entsprechende Beteiligung wurde mit der Bundesagentur auch für Klageverfahren vereinbart. Ansprechpartner für Widerspruchsverfahren jenseits der Abhilfeprüfung ist die jeweilige Agentur für Arbeit. Dieses ist auch Ansprechpartner in Klageverfahren.
-Eine Rückmeldung seitens der Ausländerbehörde, ob aufgrund einer Zustimmung der Agentur für Arbeit ein Aufenthaltstitel erteilt worden ist, ist nicht vorgesehen. Den Agenturen für Arbeit wird ein AZR-Zugriff ermöglicht werden. 39.1.2. frei
-39.2.1.1.a. frei
-39.2.1.1.b. Ausweislich der Informationen der Bundesagentur soll die Vorrangprüfung nach § 39 Abs. 2 Satz 1 Nr. 1b in der überwiegenden Zahl der Fälle in vier Wochen abgeschlossen sein.
-39.2.1.2. bis 39.2.2. frei
-39.2.3. Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörde regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen (vgl. 39.1.1.3.). 39.3. frei
+Wenn die Bundesagentur für Arbeit die Zustimmung verweigert, ist richtiger Prozessgegner gegen die Versagung der Beschäftigung die Ausländerbehörde (Ablehnung der Zustimmung ist mangels Außenwirkung kein anfechtbarer Verwaltungsakt). Nur in den Fällen der Ablehnung nach Abs. 6 (Saisonarbeitnehmer) ist die Agentur für Arbeit selbst die Beklagte.
+Gegen die behördliche Entscheidung der Versagung der Erwerbstätigkeit bzw. der Beschäftigung ist der Widerspruch statthaft. § 4 Abs. 2 AGVwGO greift hier nicht (anders bei Verweigerung der Zustimmung im Rahmen eines Antrages auf AE-Erteilung, der von der Entscheidung der BA abhängig ist: Gegen den
+aufenthaltsbeendenden Bescheid ist die Klage zulässig). Etwas anderes gilt, wenn es sich um einen Asylbewerber handelt. Hier ist der Widerspruch gem. § 61 Abs. 2 AsylG i.V.m. § 11 AsylG nicht statthaft.
+Über den Widerspruch wird durch die Abteilung P entschieden. Zuvor kann wird die an der Ausgangsentscheidung beteiligte Arbeitsagentur (in der Regel die Agentur für Arbeit Essen in Duisburg) erneut beteiligt werden, die zum Widerspruch noch einmal Stellung nimmt. Ist zur Entscheidung über den Widerspruch weitere rechtliche Darlegung oder Sachaufklärung erforderlich, muss diese unmittelbar von der Arbeitsagentur gefordert werden. Eine entsprechende Beteiligung wurde mit der Bundesagentur auch für Klageverfahren vereinbart. Ansprechpartner für Widerspruchsverfahren jenseits der Abhilfeprüfung ist die jeweilige Agentur für Arbeit. Dieses ist auch Ansprechpartner in Klageverfahren.
+Eine Rückmeldung seitens der Ausländerbehörde, ob aufgrund einer Zustimmung der Agentur für Arbeit ein Aufenthaltstitel erteilt worden ist, ist nicht vorgesehen. Den Agenturen für Arbeit besitzen einen AZR-Zugriff
+39.1.2. frei
+39.2.
+Absatz 2 regelt mit Inkrafttreten des Fachkräfteeinwanderungsgesetzes zum 1.3.2020 die Zustimmung der BA zur Erteilung von Aufenthaltstiteln an Fachkräfte nach den §§ 18a und 18b. Die Zustimmung zu unqualifizierten Beschäftigungen und anderen Fällen wird in Absatz 3 geregelt.
+39.2.1-4.
+Normadressat der Vorschriften sind die Arbeitgeber-Services der BA.
+39.3.
+Absatz 3 regelt im Gegensatz zu Absatz 2 die Zustimmung der BA in allen anderen Fällen unabhängig von der Qualifikation als Fachkraft.
 39.4. Dauer und Verlängerung der Zustimmung
-Die Zustimmung kann sowohl zeitlich als auch sachlich beschränkt (§ 34 Abs. 1 BeschV) und für längstens drei Jahre jeweils zu einem bestimmten Aufenthaltstitel erteilt werden (§ 34 Abs. 2i.V.m. § 35 Abs. 1 BeschV). Wurde eine Zustimmung irrtümlich entgegen § 34 Abs. 2 BeschV für einen längeren Zeitraum als drei Jahre erteilt, so ist von einer Zustimmung für drei Jahre auszugehen und ist auch der Aufenthaltstitel ggf. für drei Jahre zu erteilen. Auf eine Nachfrage bei der Agentur für Arbeit sollte verzichtet werden.
-Endet die Zustimmung, ohne dass der Aufenthaltstitel ausläuft, ist die erneute Vorsprache des Betroffenen bei der Ausländerbehörde erforderlich, die dann erneut die Zustimmung der Agentur für Arbeit' einholen muss.
-Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten von der Gültigkeit des Aufenthaltstitels unabhängigen Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein.
-39.5. vgl. A.19.
-39.6. Für eine Beschäftigung als Saisonarbeitnehmer ist die Zustimmung der Bundesagentur für Arbeit erforderlich. Die Vorschrift ermächtigt die Bundesagentur für Arbeit, am Bedarf für Saisonarbeitnehmer orientierte Zahlen festzulegen. Hat die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl festgelegt, erteilt diese eine formelle Arbeitserlaubnis zum Zweck der Saisonbeschäftigung nach § 15a Absatz 6 BeschV ohne Vorrangprüfung.
+Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörde regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen.
+39.5.
+frei
+39.6.
+Für eine Beschäftigung als Saisonarbeitnehmer ist die Zustimmung der Bundesagentur für Arbeit erforderlich. Die Vorschrift ermächtigt die Bundesagentur für Arbeit, am Bedarf für Saisonarbeitnehmer orientierte Zahlen festzulegen. Hat die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl festgelegt, erteilt diese eine formelle Arbeitserlaubnis zum Zweck der Saisonbeschäftigung nach § 15a Absatz 6 BeschV ohne Vorrangprüfung.

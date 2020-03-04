@@ -1,24 +1,53 @@
 VAB A 19
 VAB A 19
 Inhaltsverzeichnis
-A.19. Niederlassungserlaubnis für Hochqualifizierte
-19.0. Grundsätzliches
-19.1. Erteilungsvoraussetzungen/Zustimmung der obersten Landesbehörde
-19.2. Regelbeispiele für Hochqualifizierte
-19.2.1. Wissenschaftler
-19.2.2. Lehrpersonal
-A.19. Niederlassungserlaubnis für Hochqualifizierte
-(AuslBeschR; 16.01.2017)
-19.0. Grundsätzliches
-Bei dieser NE kommt der allgemein für Niederlassungserlaubnisse geltende § 9 Abs. 1 zur Anwendung. Erforderlich ist in jedem Fall ein konkretes Arbeitsplatzangebot (vgl. § 18 Abs. 5).
-19.1. Erteilungsvoraussetzungen/Zustimmung der obersten Landesbehörde
-19.1.1. Liegt kein Fall des § 19 Abs. 2 vor, so ist immer zu prüfen, ob der Betroffene aus sonstigen Gründen als hoch qualifiziert zu betrachten ist – etwa weil er über eine Qualifikation verfügt, die der des Abs. 2 Nr. 1 oder 2 entspricht. Ist dies anzunehmen, kommt die Erteilung der NE dennoch nur ausnahmsweise nach pflichtgemäßem Ermessen in Betracht (vgl. Wortlaut des § 19 Abs. 1 S. 1). Mit Änderung der BeschV zum 01.07.2013 ist das Zustimmungserfordernis der Bundesagentur für Arbeit zur Erteilung der NE nach § 19 insgesamt entfallen, vgl. § 2 Abs. 1 Nr. 1 BeschV.
-19.1.2. Diese Regelung bietet der Landesregierung (d.h. für Berlin den Senat als Kollegialorgan) die Möglichkeit, die Erteilung einer Niederlassungserlaubnis für Hochqualifizierte von der Zustimmung der obersten Landesbehörde (d.h. für Berlin die Senatsverwaltung für Inneres und Sport) abhängig zu machen. Der Senat hat von dieser Möglichkeit bis dato keinen Gebrauch gemacht.
-19.2. Regelbeispiele für Hochqualifizierte
-19.2.0. Zur besseren Eingrenzung, welche Personen insbesondere als hoch qualifizierte Arbeitskräfte einzuordnen sind, enthält Abs. 2 Regelbeispiele. Wenn ein Antragsteller durch den Sachbearbeiter zweifelsfrei einer der in § 19 Abs. 2 Nr. 1 bis 2 aufgezählten Gruppen zugeordnet werden kann, ist auch davon auszugehen, dass der antragstellende Ausländer ebenso die Voraussetzungen des § 19 Abs. 1 erfüllt.
-Aus Gründen der Verwaltungseffizienz ist in den Fällen des § 19 Abs. 2 Nr. 1 und 2 die Wissenschaftsverwaltung gem. Nr.
-19.2.1. AufenthG-VwV nur um Stellungnahme zu bitten, wenn Zweifel an den Voraussetzungen des § 19 Abs. 2 Nr. 1 oder 2 bestehen. Im Übrigen sind die gesetzlichen Voraussetzungen in eigener Zuständigkeit zu prüfen.
-19.2.1. Wissenschaftler
-Von einer besonderen wissenschaftlichen Qualifikation im Sinne des § 19 Abs. 2 Nr. 1 sollte immer dann ausgegangen werden, wenn der Ausländer entweder über eine überdurchschnittlich hohe Qualifikation oder über Kenntnisse in einem sehr speziellen Fachgebiet von überdurchschnittlich hoher Bedeutung verfügt. Dies ist nach Nr. 19.2.1 AufenthG-VwV regelmäßig der Fall, wenn ein Forschungsgebiet identifiziert werden kann, in dem der Wissenschaftler sich eine besondere Expertise angeeignet hat. In jedem Fall ist zumindest Voraussetzung, dass er regelmäßig in international erscheinenden Fachzeitschriften publiziert.
-19.2.2. Lehrpersonal
-Die herausragende Funktion bei Lehrpersonen nach Nr. 2 ist bei Lehrstuhlinhabern und Institutsdirektoren gegeben. Die herausgehobene Funktion bei wissenschaftlichen Mitarbeitern ist nach Nr. 19.2.2 AufenthG-VwV gegeben, wenn sie eigenständig und verantwortlich wissenschaftliche Projekt- oder Arbeitsgruppen leiten.
+A.19. ICT-Karte für unternehmensintern transferierte Arbeitnehmer
+19.0. Intra-Corporate Transferees - ICT/ Unternehmensinterner Transfer
+19.1. Allgemeine Voraussetzungen für den unternehmensinternen Transfer
+19.2. ICT-Karte für Führungskräfte und Spezialisten
+19.3. ICT-Karte für Trainees
+19.4. Erteilungsdauer
+19.5. Allgemeine Versagungsgründe
+19.6. Besondere Versagungsgründe
+A.19. ICT-Karte für unternehmensintern transferierte Arbeitnehmer
+(FEG; 01.03.2020)
+19.0. Intra-Corporate Transferees - ICT/ Unternehmensinterner Transfer
+Mit dem Richtlinienumsetzungsgesetz 2017 wurde dieser Aufenthaltstitel für unternehmensintern transferierte Arbeitnehmer (intra-corporate transferees - ICT), die sich zu Beschäftigungszwecken im Bundesgebiet aufhalten möchten, eingeführt.
+§ 19 greift auch in Fällen, in denen sich der Ausländer im Rahmen des Transfers in mehreren europäischen Mitgliedstaaten aufhalten will, wenn Deutschland „erster Mitgliedstaat“ ist, d. h. der Ausländer sich im Vergleich zu seinem voraussichtlichen Aufenthalt in anderen europäischen Mitgliedstaaten am längsten im Bundesgebiet aufhalten will. Ist der längste Aufenthalt hingegen für einen anderen Mitgliedsstaat geplant, kommt für den Aufenthalt im Bundesgebiet nur eine Mobile-ICT-Karte gemäß § 19 b (bei einem geplanten Aufenthalt von mehr als 90 Tagen) oder die kurzfristige Mobilität nach § 19 a (bei bis zu 90 Tagen) in Betracht. Entscheidend ist allein die beabsichtigte Aufenthaltsdauer, nicht jedoch die Frage, in welchem Mitgliedsstaat sich der Ausländer zuerst aufhalten will. In Zweifelfällen ist nach den Angaben des Kunden zu entscheiden. Der Vorlage entsprechender Nachweise bedarf es hier nicht.
+Zu den Übermittlungspflichten im Zusammenhang mit dem Widerruf, der Rücknahme, der Versagung oder nachträglichen Verkürzung einer ICT- Karte vgl. A.91g.4.
+Aus Gründen der Verwaltungseffizienz wird folgende Prüfungsreihenfolge empfohlen:
+Abs. 5 – allgemeine Versagungsgründe
+Abs. 1 – allgemeine Erteilungsvoraussetzungen - unternehmensinterner Transfer
+Abs. 6 – besondere Versagungsgründe
+Abs. 2 – besondere Voraussetzungen für Führungskräfte und Spezialisten) bzw. Abs. 3 besondere Voraussetzungen für Trainees
+19.1. Allgemeine Voraussetzungen für den unternehmensinternen Transfer
+Ein unternehmensinterner Transfer ist die vorübergehende Abordnung eines zum Zeitpunkt der Antragstellung in einem Drittstaat aufhältigen Ausländers durch ein in einem Drittstaat ansässigen Unternehmens, mit dem der Arbeitnehmer vor dem Transfer und für dessen Dauer einen Arbeitsvertrag geschlossen hat, in eine Niederlassung des gleichen Unternehmens oder der Unternehmensgruppe mit Sitz im Bundesgebiet.
+Eine Unternehmensgruppe ist definiert als zwei oder mehr Unternehmen, die nach deutschem Recht insofern als miteinander verbunden gelten, als ein Unternehmen in Bezug auf ein anderes Unternehmen direkt oder indirekt die Mehrheit des gezeichneten Kapitals dieses Unternehmens besitzt oder über die Mehrheit der mit den Anteilen am anderen Unternehmen verbundenen Stimmrechte verfügt oder befugt ist, mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des anderen Unternehmens zu bestellen, oder die Unternehmen unter einheitlicher Leitung des Mutterunternehmens stehen.
+Eine Prüfung der Unternehmensstruktur erfolgt in Zweifelsfällen unter Hinzuziehung der IHK oder Berlin Partner.
+19.2. ICT-Karte für Führungskräfte und Spezialisten
+§ 19 Absatz 2 regelt die besonderen Erteilungsvoraussetzungen der ICT-Karte für Führungskräfte und Spezialisten.
+Der Ausländer wird als Führungskraft tätig, wenn ihm eine oder mehrere Leitungsfunktionen übertragen wurden und er über die in § 19 Absatz 2 Satz 2 und 3 aufgeführten Befugnisse verfügt. Als Spezialist gilt, wer über unerlässliche Spezialkenntnisse über Tätigkeitsbereiche, Verfahren oder Verwaltung der aufnehmenden Niederlassung, ein hohes Qualifikationsniveau und angemessene Berufserfahrung verfügt, § 19 Abs. 2 S. 3.
+Die Prüfung dieser Voraussetzungen erfolgt im Rahmen des Zustimmungsverfahrens durch die Bundesagentur für Arbeit (vgl. § 18 Abs. 2 S. 1 Nr. 2 i.V.m § 10a Satz 1 Nr. 1 BeschV).
+Bei Antragstellung muss der Ausländer dem Unternehmen oder der Unternehmensgruppe mindestens seit sechs Monaten angehören (§ 19 Absatz 2 S. 1 Nr. 2).
+Der Ausländer verfügt über einen Arbeitsvertrag, der für die Dauer des Transfers gültig ist und die wesentlichen Bedingungen des Transfers enthält. Es muss weiterhin eine Rückkehrgarantie für den Ausländer bestehen; hier reicht es aus, wenn der Ausländer in eine Niederlassung des gleichen Unternehmens oder der Unternehmensgruppe zurückkehren kann. Sollte der Arbeitsvertrag die in § 19 Absatz 2 S. 1 Nr. 4 geforderten Angaben nicht oder nicht vollständig enthalten, sind diese Angaben zusätzlich z.B. mittels eines Abordnungsschreibens zu belegen.
+Weitere Voraussetzung ist der Nachweis der beruflichen Qualifikation des Ausländers. Hierbei geht es nach Artikel 5 Absatz 1 lit. d der ICT-Richtlinie um die berufliche Qualifikation und Erfahrung, die in der aufnehmenden Niederlassung erforderlich ist.
+Merke: In Zweifelsfällen ist für die Prüfung der Voraussetzungen des § 19 Abs. 1 und Abs. 2 bei Spezialisten und Führungskräften die IHK oder Berlin Partner zu beteiligen. Ergänzend kann auch von der Möglichkeit der fakultativen Beteiligung der BA nach § 72 Abs. 7 AufenthG Gebrauch gemacht werden.
+19.3. ICT-Karte für Trainees
+Die ICT Karte wird für die Tätigkeit eines Trainees im Rahmen des unternehmensinternen Transfers erteilt, wenn Ausländer mit Hochschulabschluss in eine aufnehmende Niederlassung transferiert werden sollen, um ihre berufliche Entwicklung zu fördern oder sich branchenspezifisch, technisch oder methodisch fortzubilden. Erforderlich ist, dass die Person während des Transfers angemessen entlohnt wird.
+Voraussetzung für die Erteilung einer ICT-Karte an Trainees ist außerdem, dass der Ausländer an einem Programm teilnimmt, dass der beruflichen Entwicklung des Trainees dient. Mit dem Antrag sollten deshalb Angaben zum Traineeprogramm sowie zu dessen Dauer und den Bedingungen eingereicht werden. Damit wird sichergestellt, dass der Ausländer eine „echte Ausbildung erhält und nicht als normaler Mitarbeiter eingesetzt wird“ (Erwägungsgrund 20 der ICT-Richtlinie).
+19.4. Erteilungsdauer
+Die ICT-Karte wird für die Dauer des unternehmensinternen Transfers erteilt; für Führungskräfte und Spezialisten maximal für drei Jahre, für Trainees höchstens für ein Jahr. Eine Verlängerung über diesen Höchstzeitraum hinaus ist für diesen Aufenthaltszweck nicht möglich, da die Erteilung der ICT-Karte nur für vorübergehende Abordnungen vorgesehen ist. Im Übrigen ist ein Zweckwechsel möglich. Dies gilt auch für die Fortsetzung der Tätigkeit bei demselben Arbeitgeber über die maximale Höchstdauer des Transfers hinaus (z.B. § 18b Abs. 1, § 18b Abs. 2)). § 8 Abs. 2 ist in den Fällen des § 19 nicht anzuwenden.
+Bei einem Transfer, der maximal ein Jahr andauern soll, ist die Auslandsvertretung zu bitten, das Visum für die entsprechende Dauer auszustellen (vgl. B.AufenthV.31.1.2.)
+Aus Kapazitätsgründen sollte in den sonstigen Fällen die ICT-Karte auch bei einem für weniger als drei Jahre vorgesehenen Transfer für den Maximalzeitraum erteilt und mit der auflösenden Bedingung:
+„Erlischt mit Beendigung der Beschäftigung bei … .“
+versehen werden.
+In jedem Fall ist die Nebenbestimmung
+„Selbständige Tätigkeit erlaubt“
+zu verfügen.
+Nach § 9 Abs. 1 BeschV kommt die Verfügung der Auflage "Erwerbstätigkeit erlaubt" bei der Erteilung der ICT-Karte nicht in Betracht.
+Da nach der AZRG-DV (Anlage) nur der Meldesachverhalt „§ 19 Abs. 1“ für das AZR definiert ist, steht auch in AusReg nur diese Rechtsgrundlage für alle Fallkonstellationen des § 19 zur Verfügung.
+Zum Familiennachzug zu Besitzern einer ICT-Karte vgl. §§ 29 Abs. 1 Nr. 1, 30 Abs. 1 Satz 1 Nr. 3 g) sowie Satz 2 Nr. 5 und 32 Abs. 1 AufenthG.
+19.5. Allgemeine Versagungsgründe
+Eine ICT-Karte wird nicht erteilt, an Ausländer, die auf Grund von Übereinkommen mit Drittstaaten ein dem der Unionsbürger gleichwertiges Recht auf freien Personenverkehr genießen oder in einem Unternehmen mit Sitz in einem dieser Drittstaaten beschäftigt sind (§ 19 Abs. 5 Nr. 1 und 2). Dies betrifft ausschließlich Staatsangehörige der EWR-Staaten sowie der Schweiz sowie Ausländer, die in den genannten Staaten beschäftigt sind. Dabei kommt es nicht darauf an, ob sie einen Aufenthaltsstatus in diesem Staat zum Zweck der Beschäftigung oder zu einem anderen Zweck haben (Abs. 5 Nr. 1 und 2).
+19.6. Besondere Versagungsgründe
+Eine ICT- Karte wird darüber hinaus nicht erteilt, wenn sich der Ausländer im Rahmen des unternehmensinternen Transfers in einem EU-Mitgliedsland länger als im Bundesgebiet aufhalten wird (§ 19 Abs. 6 Nr. 1). In diesen Fällen ist der jeweilige Mitgliedstaat indem sich der Ausländer am längsten zu Zwecken des unternehmensinternen Transfers aufhalten wird, für die Ausstellung des Aufenthaltstitels zuständig. Sollte zwischen Antragstellung und dem letzten unternehmensinternen Transfer kein Zeitraum von mindestens 6 Monaten liegen, ist die ICT-Karte ebenfalls nicht zu erteilen (19 Abs. 6 Nr. 2). 19.7. frei

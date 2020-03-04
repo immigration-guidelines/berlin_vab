@@ -2,7 +2,7 @@ VAB A 60a
 VAB A 60a
 Inhaltsverzeichnis
 A.60a. Vorübergehende Aussetzung der Abschiebung (Duldung)
-(24.10.2019; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020)
+(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020; Anwendungshinweise BMI). 430
 60a.2. Abschiebungsverbote und Ausreisehindernisse
 60a.2.1. tatsächliche und rechtliche Abschiebungshindernisse
 60a.2.1.4. Duldung und Grenzübertrittsbescheinigung
@@ -28,8 +28,7 @@ A.60a.s.1. Tatsächliche Abschiebungshindernisse
 A.60a.s.2. Zur Duldung des Aufenthalts ausländischer Strafgefangener
 A.60a.s.3. Fortsetzung einer Schulausbildung oder eines Studiums
 A.60a. Vorübergehende Aussetzung der Abschiebung (Duldung)
-(24.10.2019; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020)
-Checkliste Ausbildungsduldung
+(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020; Anwendungshinweise BMI)
 60a.1.1. Die nach § 60a Abs. 1 S. 1 mögliche Aussetzung ist auf maximal 3 Monate begrenzt. Zuständig ist hier SenInnDS.
 60a.1.2. Nach 3 Monaten sind nur Entscheidungen gem. § 23 Abs. 1 möglich. Zwar ist in § 60a Abs. 1 S. 2 noch eine Frist von 6 Monaten enthalten. Hierbei handelt es sich jedoch um ein redaktionelles Versehen des Gesetzgebers. Denn im Interesse eines möglichst bundeseinheitlichen Verwaltungsvollzuges hält es der Gesetzgeber für angezeigt, den Zeitraum, in dem die obersten Landesbehörden ohne das Einvernehmen des Bundesministeriums des Innern einen Abschiebestopp verfügen zu können, auf maximal drei Monate zu verkürzen.
 60a.2. Abschiebungsverbote und Ausreisehindernisse
@@ -219,6 +218,7 @@ Merke: § 60b ist in seinem Anwendungsbereich lex specialis zu § 60a Abs. 6 S. 
 Zur Übermittlungspflicht an die Leistungsbehörden siehe A.90.3.2.3.
 Von einem Vertretenmüssen des Abschiebungshindernisses ist auch dann auszugehen, wenn eine Rückführung nicht betrieben werden kann, weil sich der Ausländer dem behördlichen Zugriff durch Untertauchen bzw. durch einen nicht angezeigten Wohnortwechsel entzogen hat.
 60a.6.1.3. Mit dieser Regelung wird festgelegt, dass geduldeten Personen auch dann eine Erwerbstätigkeit nicht gestattet wird, wenn sie aus einem sicheren Herkunftsstaat stammen, nach dem 31.08.2015 einen Asylerstantrag gemäß § 1 4 AsylG bzw. einen förmlichen Asylfolgeantrag gemäß § 71 AsylG gestellt haben und dieser Antrag abgelehnt wurde. Dabei kommt es nicht auf die Bestandskraft des ablehnenden Bescheides des BAMF an. Die Erwerbstätigkeit ist zu versagen, wenn die ABH von einem negativen Bescheid seitens des BAMF Kenntnis erlangt.
+Entsprechend den Anwendungshinweisen des BMI vom 20.12.2019 ist es dabei unerheblich, wann der Ausländer in das Bundesgebiet eingereist ist und wann ihm der Ankunftsnachweisnach § 63a Absatz 1 AsylG ausgestellt wurde. Dem ist zu folgen, denn nach dem Gesetzeswortlaut kommt es allein darauf an, wann der Asylantrag förmlich im Sinne des § 14 AsylG bei einer Außenstelle oder unmittelbar bei dem Bundesamt für Migration und Flüchtlinge gestellt wurde (so auch OVG Lüneburg, Beschluss v. 08.12.2016 - 8 ME 183/18 - juris Rn. 6).
 Die Erwerbstätigkeit ist auch dann nicht gestattet, wenn ein nach dem 31.08.2015 gestellter Asylantrag später zurückgenommen wurde. Der Ausschlussgrund nach § 60a Abs. 6 greift allerdings wiederum dann nicht, wenn die Rücknahme auf Grund einer Beratung nach § 24 AsylG beim BAMF erfolgte. Ergibt sich der Grund für die Rücknahme nicht aus dem Bescheid, muss der Nachweis durch den Ausländer erbracht werden.
 Die Erwerbstätigkeit ist nach § 60a Abs. 6 auch dann ausgeschlossen, wenn der Geduldete aus einem sicheren Herkunftsstaat nach § 29a AsylG stammt und keinen Asylantrag gestellt hat. Durch diese Regelung soll vermieden werden, dass das Verbot der Erwerbstätigkeit nach § 60a Abs. 6 umgangen wird.
 Für unbegleitete Minderjährige gilt ein großzügigerer Maßstab: Die Erwerbstätigkeit ist bei unbegleiteten minderjährigen Ausländern aus einem sicheren Herkunftsstaat nach § 29a AsylG möglich, wenn der Asylantrag zurück genommen wurde oder auf die Stellung eines Asylantrages verzichtet wurde, wenn die Rücknahme oder der Verzicht auf das Stellen eines Asylantrags im Interesse des Kindeswohls erfolgte. Hierbei ist davon auszugehen, dass der Vormund immer im Interesse des Kindeswohls handelt. Dies auch deshalb, weil der Vormund vor dem Hintergrund des neu gefassten § 13 AsylG seit 21.08.2019 ausdrücklich gehalten ist, einen Asylantrag unverzüglich zu stellen.

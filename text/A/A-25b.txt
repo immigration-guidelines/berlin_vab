@@ -2,12 +2,13 @@ VAB A 25b
 VAB A 25b
 Inhaltsverzeichnis
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung) 25.b.0.
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; FEG; 01.03.2020)
+25.b.0.
 25b.1.1. Erteilungsvoraussetzungen
 25b.1.2. Regelmäßig zu erfüllende Voraussetzungen
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 25b.1.2.2.1. Bekenntnis zur freiheitlich-demokratischen Grundordnung
-25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 252
+25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 276
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 25b.1.2.4. Sprachkenntnisse
 25b.1.2.5. Schulbesuch
@@ -20,7 +21,7 @@ A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.5. Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
 25b.6. Übergang aus der Beschäftigungsduldung, § 60d
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung) Checkliste § 25b Abs. 1
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; FEG; 01.03.2020) Checkliste § 25b Abs. 1
 Checkliste § 25b Abs. 4
 25.b.0.
 Durch die Regelung in § 25b wird eine alters- und stichtagsunabhängige Bleiberechtsregelung geschaffen, um nachhaltige Integrationsleistungen, die trotz des fehlenden rechtmäßigen Aufenthalts von einem Geduldeten erbracht wurden, durch Erteilung eines gesicherten Aufenthaltsstatus zu honorieren.
@@ -127,7 +128,7 @@ Absatz 4 regelt die Möglichkeit für Ehegatten, eingetragene Lebenspartner und 
 Bzgl. der entsprechenden Anwendung des Abs. 1 S. 2 Nr. 2 – 5 gelten keine Besonderheiten. Der Lebensunterhalt der in Absatz 4 bezeichneten Familienangehörigen ist auch gesichert bzw. überwiegend gesichert im Sinne von Absatz 1 Satz 2 Nummer 3, wenn nur ein Mitglied der Bedarfsgemeinschaft ein entsprechendes Einkommen aus Erwerbstätigkeit erzielt, welches den Lebensunterhalt der gesamten Bedarfsgemeinschaft überwiegend sichert.
 § 31 gilt für Ehegatten und Lebenspartner entsprechend. Erteilungsgrundlage bleibt aber § 25b Abs. 4. Der Familiennachzug ist gem. § 29 Abs. 3 S. 3 ausgeschlossen.
 25b.5. Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
-Die Aufenthaltserlaubnis wird regelmäßig für 2 Jahre ausgestellt und mit der Nebenbestimmung „Erwerbstätigkeit gestattet“ versehen.
+Die Aufenthaltserlaubnis wird regelmäßig für 2 Jahre ausgestellt und mit der Nebenbestimmung „Erwerbstätigkeit erlaubt “ versehen.
 Werden öffentliche Leistungen bezogen, ist die Aufenthaltserlaubnis mit einer Wohnsitzauflage zu versehen, vgl. A. 12.2.2. Ausländer, die bei der Ersterteilung noch keine ausreichenden schriftlichen und mündlichen Sprachkenntnisse der Stufe B1 aufweisen, sind gemäß § 44a Abs. 1 Nr. 3 zum Integrationskurs zu verpflichten.
 Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2 erteilt werden, so dass eine Aufenthaltserlaubnis nach § 25b auch in Betracht kommt, wenn zuvor ein Asylantrag nach § 30 Absatz 3 des Asylverfahrensgesetzes als offensichtlich unbegründet abgelehnt wurde.
 Hinsichtlich der Erteilung einer Niederlassungserlaubnis findet § 26 Abs. 4 Anwendung. Die Erteilung einer Erlaubnis zum Daueraufenthalt-EU ist nach § 9a Abs. 3 Nr. 1 ausgeschlossen.
@@ -141,4 +142,3 @@ Die geforderten mündlichen und schriftlichen Sprachkenntnisse sind in der Regel
 der Ausländer bereits längere Zeit im Berufsleben gestanden hat und sodann einfache Gespräche ohne Zuhilfenahme eines Sprachmittlers auf Deutsch geführt werden können und/oder einfache Sachverhalte verschriftlicht werden können, vier Jahre eine deutschsprachige Schule mit Erfolg (Versetzung in die nächsthöhere Klasse) besucht, oder ein Schulabschluss erworben wurde oder
 ein Studium an einer deutschsprachigen Hochschule oder Fachhochschule oder eine deutschsprachige Ausbildung, die zu einem anerkannten Berufsabschluss führt, erfolgreich abgeschlossen wurde.
 Liegen die Voraussetzungen vor, sind die üblichen Fristen von 8 bzw. 6 Jahren (vgl. § 25b Abs. 1 S. 2 Nr.1) unerheblich und die Aufenthaltserlaubnis soll früher erteilt wird. Die Erteilung ist der Regelfall („soll“).
-E-Mail an die VAB-Redaktion

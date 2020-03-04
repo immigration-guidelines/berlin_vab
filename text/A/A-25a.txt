@@ -2,7 +2,7 @@ VAB A 25a
 VAB A 25a
 Inhaltsverzeichnis
 A.25a. Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19)
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; FEG; 01.03.2020)
 25a.0. Zur Ermessensausübung
 25a.1.1.0. Erteilungsvoraussetzungen
 Begünstigter Personenkreis
@@ -25,7 +25,7 @@ Erwerbstätigkeit
 25a.3. Ausweisungsinteresse
 A.25a. Aufenthaltsgewährung bei gut integrierten Jugendlichen und
 Heranwachsenden
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19)
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; FEG; 01.03.2020)
 Checkliste § 25a Abs. 1
 Checkliste §§ 25a Abs. 2, 60a Abs. 2b
 25a.0. Zur Ermessensausübung
@@ -52,7 +52,7 @@ Die Aufenthaltserlaubnis wird in der Regel mit einer Geltungsdauer von drei Jahr
 § 25a fehlt eine Regelung zur Verlängerung der Aufenthaltserlaubnis. Nach den allgemeinen Grundsätzen (§ 8 Abs. 1) ist die Aufenthaltserlaubnis bei Vorliegen sämtlicher Erteilungsvoraussetzungen auch dann noch zu verlängern, wenn der Ausländer kein Jugendlicher oder Heranwachsender mehr ist. Ist die Schul- / Berufs- oder Hochschulausbildung abgeschlossen setzt dies auch die vollständige Lebensunterhaltssicherung nach den allgemeinen Maßstäben voraus.
 Vor dem Hintergrund des § 29 Abs. 3 S. 3 ist bei jeder Verlängerung einer Aufenthaltserlaubnis nach § 25a Abs. 2 allerdings auch zu prüfen, ob nicht auch die Erteilung einer Aufenthaltserlaubnis in Betracht kommt, die die Möglichkeit des Familiennachzugs eröffnet.
 Erwerbstätigkeit
-Die Aufenthaltserlaubnis berechtigt zur Erwerbstätigkeit, vgl. § 25a Abs. 4.
+Die Aufenthaltserlaubnis berechtigt zur Erwerbstätigkeit, vgl. § 4a Abs. 1 S. 1.
 25a.1.1.1. Ununterbrochener Aufenthalt seit 4 Jahren
 Der erlaubte, geduldete oder gestattete Aufenthalt muss ununterbrochen gewesen sein. Kurzfristige Unterbrechungen sind nur dann unbeachtlich, wenn dem Ausländer zwischenzeitlich eine Grenzübertrittsbescheinigung erteilt worden ist und er sich danach wieder geduldet, gestattet oder erlaubt im Bundesgebiet aufgehalten hat. Eine zwischenzeitliche Ausreise in einen anderen Mitgliedstaat der EU zu einem bloß vorübergehenden Zweck unterbricht den Aufenthaltszeitraum auch vor dem Hintergrund des Rechtsgedankens des § 50 Abs. 4 nicht.
 Auf Vorschlag der VAB-Kommission hat SenInnDS am 12.11.2019 entschieden, dass auch Zeiten angerechnet werden, in denen der Ausländer einen Aufenthaltstitel zu anderen als humanitären Zwecken besessen hat.
@@ -99,4 +99,3 @@ Ebenfalls mit Inkrafttreten des Gesetzes zur Neubestimmung des Bleiberecht und d
 25a.3. Ausweisungsinteresse
 Die Regelung des § 25a Abs. 3 enthält eine Privilegierung hinsichtlich eines vorliegenden Ausweisungsinteresses für die personensorgeberechtigten Eltern und minderjährigen Geschwistern von gemäß § 25a Abs. 1 begünstigten Jugendlichen und Heranwachsenden. Die Regelung ist missverständlich, da sie hinsichtlich der Straftaten sprachlich an den „Ausländer“ anstatt an die „Eltern oder die minderjährigen Geschwister des Ausländers “ anknüpft. Zu beachten ist, dass es an einer § 104a Abs. 3 AufenthG vergleichbaren Regelung fehlt, so dass es nicht zu einer Zurechnung von Straftaten im Familienverband kommt. Dies bedeutet zum Beispiel, dass Straftaten eines Elternteils, die die Grenze des § 25a Abs. 3 überschreiten, die Erteilung einer Aufenthaltserlaubnis gemäß § 25 Abs. 2 an den anderen Elternteil und eventuell vorhandene minderjährige Geschwister nicht hindern. Einem minderjährigen Geschwisterkind kann allerdings nur dann eine Aufenthaltserlaubnis nach § 25a Abs. 2 Satz 2 erteilt werden, wenn mindestens ein Elternteil über eine Aufenthaltserlaubnis nach § 25a Abs. 2 Satz 1 verfügt. Dies ergibt sich bereits aus dem Wortlaut der Norm.
 25a.4. Sämtliche Aufenthaltserlaubnisse nach § 25 a können abweichend von § 10 Abs. 3 Satz 2, d.h. auch nach offensichtlich unbegründeten Asylanträgen, erteilt werden und berechtigen vollumfänglich zur Erwerbstätigkeit. Besteht die Sperrwirkung gemäß 11 Abs.1, ist bei Vorliegen der Erteilungsvoraussetzungen des § 25a die Aufhebung der Sperrwirkung nach § 11 Abs. 4 Satz 2 zu prüfen.
-E -Mail an die VAB-Redaktion

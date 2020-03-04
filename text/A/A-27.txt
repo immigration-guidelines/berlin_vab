@@ -2,7 +2,7 @@ VAB A 27
 VAB A 27
 Inhaltsverzeichnis
 A.27. Grundsatz des Familiennachzugs
-(FzNeuG; 16.05.2019, 20.06.2019)
+(FzNeuG; 20.02.2020; FEG)
 27.0. Allgemeines
 27.1a.1.1. Zwei Fallgruppen
 27.1a.2. Bekämpfung von Zwangsverheiratungen
@@ -11,7 +11,7 @@ A.27. Grundsatz des Familiennachzugs
 27.3a. Versagungsgründe
 27.4.0. Geltungsdauer der Aufenthaltserlaubnis
 A.27. Grundsatz des Familiennachzugs
-(FzNeuG; 16.05.2019, 20.06.2019)
+(FzNeuG; 20.02.2020; FEG)
 27.0. Allgemeines
 In den Fällen, in denen einem Ausländer eine Aufenthaltserlaubnis aus familiären Gründen erteilt wird, ist die maßgebliche Rechtsgrundlage immer bei den §§ 28 ff. zu finden, ohne dass es auf den Titel des bereits hier aufhältlichen Nachzugsberechtigten ankommt.
 27.1. Zur Erteilung zur Herstellung der familiären Lebensgemeinschaft in Fällen, in denen noch keine gemeinsame Wohnung bzw. Meldeanschrift besteht, siehe A.29.1.2.
@@ -35,9 +35,8 @@ Die Regelung des § 27 Abs. 1a Nr. 1 betrifft insofern im Wesentlichen zwei Fall
 Zum einen den Fall, dass ein deutscher Mann oder ein Mann mit gesichertem Aufenthaltsstatus die Vaterschaft für das Kind einer unverheirateten ausländischen Mutter ohne gesicherten Aufenthalt anerkennt, so dass das Kind kraft Abstammung von einem deutschen Staatsangehörigen bzw. gemäß § 4 Abs. 3 StAG die deutsche Staatsangehörigkeit erwirbt bzw. erworben hat (Fallgruppe 1).
 Zum anderen den Fall, dass ein ausländischer Mann ohne gesicherten Aufenthalt die Vaterschaft für das Kind einer unverheirateten Deutschen oder einer unverheirateten Ausländerin mit gesichertem Aufenthalt anerkennt, welches kraft Abstammung von einer deutschen Staatsangehörigen bzw. gemäß § 4 Abs. 3 StAG die deutsche Staatsangehörigkeit erworben hat (Fallgruppe 2). Nur wenn in einem geregelten Verfahren gemäß § 1597a BGB i.V.m. § 85a festgestellt wurde, dass das Verwandtschaftsverhältnis zu einem minderjährigen ledigen Kind durch eine missbräuchliche Vaterschaftsanerkennung zustande gekommen ist, ist der Familiennachzug zu diesem Kind nicht zuzulassen. Zum Verfahren selbst beachte A.85a.
 Umstritten ist, ob von der Vorschrift auch der Fall einer rechtsmissbräuchlichen Vaterschaftsanerkennung eines deutschen Staatsangehörigen für das Kind einer Ausländerin umfasst wird. Dies hat der Verwaltungsgerichtshof München mit Urteil vom 11.03.2019 – 19 BV 16.937 verneint und eine vorherige anderslautende Entscheidung des VG Ansbach, Urteil vom 24.03.2016 – AN 5 K 14.428 aufgehoben. Gegen die Entscheidung ist die Revision beim Bundesverwaltungsgericht unter dem Aktenzeichen BVerwG 1 C 12.19 anhängig.
-Vor diesem Hintergrund ist wie folgt zu verfahren:
-bis zur endgültigen Entscheidung des Bundesverwaltungsgerichts erfolgen keine Titelversagungen mehr unter Hinweis auf § 27 Abs. 1 Nr. 1;
-in laufenden Verwaltungsstreitverfahren, in denen der Aufenthaltstitel bereits unter Hinweis auf § 27 Abs. 1 a Nr. 1 AufenthG ausgesetzt wurde, ist im Hinblick auf das Verfahren beim Bundesverwaltungsgericht auf eine Aussetzung des Verfahrens nach § 94 VwGO analog hinzuwirken.
+Entgegen der noch offenen Entscheidung ist der Aufenthaltstitel nicht zu versagen, sondern bei Vorliegen der Voraussetzungen zu erteilen.
+In laufenden Verwaltungsstreitverfahren sind die Kläger klaglos zu stellen.
 27.1a.2. Bekämpfung von Zwangsverheiratungen
 Der Bekämpfung von Zwangsverheiratungen dient die Regelung in § 27 Abs. 1a Nr. 2., wonach ein Ausschlussgrund vorliegt, wenn tatsächliche Anhaltspunkte die Annahme begründen, dass einer der Ehegatten zur Eingehung der Ehe genötigt wurde. Danach müssen im Einzelfall konkrete Anhaltspunkte vorhanden sein, es kommt nicht darauf an, ob nach den vorliegenden Erkenntnissen bei bestimmten Herkunftsländern solche Ehen nicht nur vereinzelt vorkommen. Abzugrenzen sind Zwangsverheiratungen von arrangierten Ehen, denen eine freie Entscheidung der Eheschließenden zugrunde liegt. Ob die Möglichkeit bestand bzw. gesehen wurde, eine eigenständige Entscheidung zu treffen, ist allerdings schwer feststellbar. Da es Aufgabe der Ausländerbehörde ist, die tatsächlichen Anhaltspunkte darzulegen und zu belegen, ist im Zweifel nicht von einer Zwangsverheiratung auszugehen.
 27.2. lebenspartnerschaftliche Gemeinschaft
@@ -66,10 +65,10 @@ Beachte: Der Familiennachzug ist auch dann zu versagen, wenn der Nachziehende di
 27.4.0. Geltungsdauer der Aufenthaltserlaubnis
 In § 27 werden die Anforderungen an die Geltungsdauer der den Familienangehörigen erteilten
 Aufenthaltserlaubnissen geregelt. Sie gelten auch für die Familienangehörigen von Inhabern einer Aufenthaltserlaubnis für mobile Forscher, einer Blauen Karte EU, einer ICT-Karte und einer Mobile ICT-Karte.
-Die Erwähnung der kurzfristigen Forscher-Mobilität gemäß § 20a ist ein redaktionelles Versehen des Gesetzgebers, da eine Erteilung einer Aufenthaltserlaubnis zum Familiennachzug ohnehin nicht in Betracht kommt, sogar wenn sich der Familienangehörige noch in einem Drittstaat befindet. Denn in Fällen des Ehegattennachzugs fehlt es an der mindestens zweijährigen Aufenthaltserlaubnis des Stammberechtigten; im Fall des Kindernachzugs fehlt es am Aufenthaltstitel des Stammberechtigten.
+Die Erwähnung der kurzfristigen Forscher-Mobilität gemäß § 18e ist ein redaktionelles Versehen des Gesetzgebers, da eine Erteilung einer Aufenthaltserlaubnis zum Familiennachzug ohnehin nicht in Betracht kommt, sogar wenn sich der Familienangehörige noch in einem Drittstaat befindet. Denn in Fällen des Ehegattennachzugs fehlt es an der mindestens zweijährigen Aufenthaltserlaubnis des Stammberechtigten; im Fall des Kindernachzugs fehlt es am Aufenthaltstitel des Stammberechtigten.
 Absatz 4 gilt nicht für den Familiennachzug zu deutschen Staatsangehörigen, da die Familiennachzugsrichtlinie allein die Bedingungen für Drittstaatsangehörige mit einem mindestens einjährigen Aufenthaltstitel regelt (Art. 1, 3 RL 2003/86/EG).
 27.4.1. Dass die Aufenthaltserlaubnis des Nachziehenden nicht länger gültig sein darf als die den Aufenthalt vermittelnden Aufenthaltserlaubnis, entspricht der bisherigen Verwaltungspraxis.
-27.4.2. Bei dem Familiennachzug zu Forschern im Sinne des §§ 20, 20a oder 20b, zu in anderen Mitgliedstaaten der Europäischen Union langfristig Aufenthaltsberechtigten nach § 38a, zu Inhabern der Blauen Karte EU nach § 19a, zu Inhabern einer ICT- Karte nach § 19b und zu Inhabern einer Mobiler-ICT-Karte nach § 19d ist die Aufenthaltserlaubnis zwingend für dieselbe Dauer zu erteilen wie dem Stammberechtigten.
-27.4.3. Die Beschränkung der Geltungsdauer der Aufenthaltserlaubnis auf die Gültigkeitsdauer des Passes des Familienangehörigen ist allein Art. 9 Abs. 1 der Forscherrichtlinie zu entnehmen. Von der danach vorgesehenen Verknüpfung wird in Berlin kein Gebrauch gemacht, insbesondere vor dem Hintergrund des Widerrufsgrundes des Nichtbesitzes eines gültigen Passes in § 52 Abs. 1 Satz 1 Nr. 1 AufenthG wird hierfür kein sachlicher Grund gesehen.
-27.4.4. Für die erstmalige Erteilung ist eine Mindestdauer von einem Jahr vorgesehen, allerdings nach Maßgabe des Satzes 1, dass der Aufenthaltstitel des Stammberechtigten ebenso lange gilt.
-27.5. Mit § 27 Abs. 5 wird allen Ausländern, die eine Aufenthaltserlaubnis nach dem sechsten Abschnitt besitzen unabhängig von der Zugangsmöglichkeit zur Erwerbstätigkeit des Stammberechtigen und auch wenn sie zwischenzeitlich ein eigenständiges Aufenthaltsrecht etwa gem. § 31 oder § 34 Abs. 2 besitzen, ein unbeschränkter Zugang zur Erwerbstätigkeit eingeräumt. Dies gilt selbstverständlich auch für Visa, die zum Zweck des Familiennachzugs erteilt werden.
+27.4.2. Bei dem Familiennachzug zu Forschern im Sinne des §§ 18d-f, zu in anderen Mitgliedstaaten der Europäischen Union langfristig Aufenthaltsberechtigten nach § 38a, zu Inhabern der Blauen Karte EU nach § 18 b Abs. 2, zu Inhabern einer ICT- Karte nach § 19 und zu Inhabern einer Mobiler-ICT-Karte nach § 19 b ist die Aufenthaltserlaubnis zwingend für dieselbe Dauer zu erteilen wie dem Stammberechtigten.
+27.4.3. Für die erstmalige Erteilung ist eine Mindestdauer von einem Jahr vorgesehen, allerdings nach Maßgabe des Satzes 1, dass der Aufenthaltstitel des Stammberechtigten ebenso lange gilt.
+27.5.
+s. VAB A.4a.1.

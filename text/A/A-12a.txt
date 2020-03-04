@@ -2,7 +2,7 @@ VAB A 12a
 VAB A 12a
 Inhaltsverzeichnis
 A.12a. Wohnsitzregelung
-(G zur Entfristung des Integrationsgesetzes; 19.12.2019)
+(G zur Entfristung des Integrationsgesetzes; 19.12.2019, 07.02.2020)
 12a.0. Allgemeines
 12a.1.
 12a.1.2.
@@ -15,7 +15,7 @@ A.12a. Wohnsitzregelung
 12a.7.
 12a.10. Verhältnis zur Wohnsitzauflage nach § 12 Abs. 2
 A.12a. Wohnsitzregelung
-(G zur Entfristung des Integrationsgesetzes; 19.12.2019)
+(G zur Entfristung des Integrationsgesetzes; 19.12.2019, 07.02.2020)
 12a.0. Allgemeines
 Mit dem Ziel der Sicherstellung der Integration von Personen, deren Aufenthaltsrecht auf der Gewährung humanitären oder internationalen Schutzes beruht und einer gleichmäßigeren Verteilung dieser Personengruppe wurde mit dem Integrationsgesetz in § 12a eine neue Regelung zur Wohnsitzzuweisung geschaffen.
 Erfasst von § 12a sind mit Ausnahme von unbegleiteten minderjährigen Ausländern (vgl. dazu A.12a.1a.) alle Personen, die als Asylberechtigte, Flüchtlinge im Sinne des § 3 Abs. 1 AsylG oder subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG anerkannt worden sind sowie Personen, die eine Aufenthaltserlaubnis nach §§ 22, 23 oder 25 Abs. 3 erhalten haben (vgl. hierzu § 12 a Abs. 7 sowie A.12a.7.).
@@ -29,8 +29,7 @@ Vor dem Hintergrund der erheblichen Zeitabläufe, die zwischen der Anerkennung a
 „Wohnsitznahme im Land Berlin bis zum ... erforderlich.“
 bei Ersterteilung des entsprechenden Aufenthaltstitels in den Titel aufzutragen. In den Fällen des § 25 Abs. 3 sowie §§ 22, 23 bedarf es dagegen keiner zeitlichen Einschränkung des Vermerks. Der Vermerk hat ohnehin rein deklaratorischen Charakter, so dass die Wohnsitzzuweisung des § 12a Abs. 1 auch dann gilt, wenn ein entsprechender Auftrag unterlassen wurde.
 12a.1.2.
-Vom Anwendungsbereich des § 12a Abs. 1 Satz 1 kraft Gesetz nicht erfasst sind diejenigen Personen, die selbst oder deren Ehegatte, eingetragener Lebenspartner oder minderjährige ledige Kinder,mit denen sie verwandt sind und in familiärer Lebensgemeinschaft leben, bereits einen wichtigen Beitrag zur Integration leisten. Es genügt dabei, wenn lediglich eines der genannten Familienmitglieder eine der dort benannten Integrationsleistungen erbringt oder erbringen wird. Dabei ist hinsichtlich der Erforderlichkeit des Bestehens einer familiären Lebensgemeinschaft zu differenzieren:
-Bei Ehegatten und eingetragenen Lebenspartnern hat der Gesetzgeber bewusst auf eine bestehende familiäre oder lebenspartnerschaftliche Lebensgemeinschaft wie etwa in § 27 Abs. 1 und 2 verzichtet, so dass hier allein auf die Ehe bzw. Lebenspartnerschaft abzustellen ist. Bei einem minderjährigen ledigen und mit dem Ausländer verwandten Kind kommt es hingegen auf eine familiäre Lebensgemeinschaft an, die allerdings bereits zum Zeitpunkt der Anerkennung bzw. AE-Erteilung im Sinne des Satzes 1 bestehen muss. Unerheblich ist dabei, ob der Ausländer für das mit ihm verwandte Kind auch sorgeberechtigt ist und in welchem Verwandtschaftsverhältnis er zu diesem steht.
+Vom Anwendungsbereich des § 12a Abs. 1 Satz 1 kraft Gesetz nicht erfasst sind diejenigen Personen, die selbst oder deren Ehegatte, eingetragener Lebenspartner oder minderjährige ledige Kinder,mit denen sie verwandt sind und in familiärer Lebensgemeinschaft leben, bereits einen wichtigen Beitrag zur Integration leisten. Es genügt dabei, wenn lediglich eines der genannten Familienmitglieder eine der dort benannten Integrationsleistungen erbringt oder erbringen wird. Dabei ist hinsichtlich der Erforderlichkeit des Bestehens einer familiären Lebensgemeinschaft zu differenzieren: Bei Ehegatten und eingetragenen Lebenspartnern hat der Gesetzgeber bewusst auf eine bestehende familiäre oder lebenspartnerschaftliche Lebensgemeinschaft wie etwa in § 27 Abs. 1 und 2 verzichtet, so dass hier allein auf die Ehe bzw. Lebenspartnerschaft abzustellen ist. Bei einem minderjährigen ledigen und mit dem Ausländer verwandten Kind kommt es hingegen auf eine familiäre Lebensgemeinschaft an, die allerdings bereits zum Zeitpunkt der Anerkennung bzw. AE-Erteilung im Sinne des Satzes 1 bestehen muss. Unerheblich ist dabei, ob der Ausländer für das mit ihm verwandte Kind auch sorgeberechtigt ist und in welchem Verwandtschaftsverhältnis er zu diesem steht.
 Ein Beispiel: Nimmt die älteste Tochter einer 5- köpfigen Familie 17- jährig eine Berufsausbildung auf und ist diese Tochter bereits verheiratet, so kann lediglich der Ehemann von § 12 a Abs. 1 S. 2 profitieren, nicht aber die Eltern oder die anderen minderjährigen Geschwister der Auszubildenden. Wäre dieselbe Tochter in diesem Fall hingegen noch ledig und würde mit der restlichen Familie in familiärer Lebensgemeinschaft leben, würden sowohl ihre Eltern als auch ihre Geschwister in den Genuss der Regelung kommen.
 Bei Satz 2 handelt es sich um eine gesetzliche Ausnahme von der gesetzlichen Verpflichtung des S. 1. Liegen die Voraussetzungen des S. 2 vor, ist eine Wohnsitzbeschränkung von Gesetzes wegen nicht aufzutragen. Eines gesonderten Antrags des Betroffenen bedarf es dabei nicht. Dies folgt klar aus dem Wortlaut der Vorschrift („Satz 1 findet keine Anwendung, wenn…“) und aus der Gesetzesbegründung, nach der der Gesetzgeber die Fälle des Satzes 2 zugleich von vorn herein aus dem Anwendungsbereich des § 12a ausgenommen wissen will (vgl. BT-Drucksache 18/8615, S. 45).
 In den folgenden Fällen (Aufzählung ist abschließend) liegen die Voraussetzungen des S. 2 vor:
@@ -62,7 +61,8 @@ Für den Eintrag oder die Streichung einer Wohnsitzzuweisung gem. § 12a wird ke
 12a.5.1.1a. Die Regelung des Abs. 5 S. 1 Nr. 1a findet sich ebenfalls bereits in Abs. 1 S. 2 wieder. Während allerdings in den Fällen des Abs. 1 S. 2 die Wohnsitzverpflichtung kraft Gesetzes gar nicht erst entstanden ist, bezieht sich Abs. 5 S. 1 Nr. 1a auf die Fälle, in denen die Gründe nachträglich eingetreten sind, also erst nach entstandener Wohnsitzverpflichtung ein Tatbestand des Abs. 5 S. 1 Nr. 1 vorliegt.
 12a.5.1.1.b. zum Wohnortwechsel zur Herstellung der familiären Lebensgemeinschaft gelten die maßgeblichen Ausführungen unter A.12.2.2. entsprechend.
 12a.5.1.2. Abs. 5 Nr. 2 schafft eine Möglichkeit zur Änderung der Wohnsitzauflage in Härtefällen. Unter einer unbilligen Härte sind Beeinträchtigungen persönlicher Belange zu verstehen, die im Vergleich zu den von den betroffenen öffentlichen Interessen und im Hinblick auf den vom Gesetz vorausgesetzten Zweck der Aufenthaltsbeschränkung als unangemessen schwer anzusehen sind. Ein Härtefall ist insbesondere bei besonders schutzbedürftigen Gruppen anzunehmen, wenn die bestehende Verpflichtung zur Wohnsitznahme dem Wohl der sozialen Entwicklung, Erwägungen der Sicherheit und Gefahrenabwehr oder den besonderen Bedürfnissen insbesondere von Kindern und Jugendlichen zuwiderläuft.
-Wie dem Wortlaut zu entnehmen ist („insbesondere“), ist die Aufzählung in den Buchstaben a) bis c) nicht abschließend. Bei dem Begriff der Härte handelt es sich um einen gerichtlich voll überprüfbaren unbestimmten Rechtsbegriff. 12a.5.1.2a. bis 12a.5.1.2b. frei
+Wie dem Wortlaut zu entnehmen ist („insbesondere“), ist die Aufzählung in den Buchstaben a) bis c) nicht abschließend. Bei dem Begriff der Härte handelt es sich um einen gerichtlich voll überprüfbaren unbestimmten Rechtsbegriff.
+12a.5.1.2a. bis 12a.5.1.2b. frei
 12a.5.1.2c. Ein Härtefall im Sinne des Buchstaben c) liegt insbesondere in folgenden Fällen vor (vgl. dazu auch BT-Drucksache 18/8615, S. 46 f.):
 Bei besonderem Betreuungsbedarf eines Familienangehörigen mit Behinderungen bzw. zur Sicherstellung der Pflege eines pflegebedürftigen Familienangehörigen;
 bei der Notwendigkeit des Wohnortwechsels zum Schutz vor einer Gefährdung, die von einem Familienangehörigen oder dem ehem. Partner im Gebiet des räumlichen Bereichs der wohnsitzbeschränkenden Auflage ausgeht oder wenn eine Schutzanordnung nach dem Gewaltschutzgesetz dies erfordert.
@@ -81,8 +81,9 @@ Eine praktische Anwendung des Abs. 7 für diesen Personenkreis ist problematisch
 12a.10. Verhältnis zur Wohnsitzauflage nach § 12 Abs. 2
 Absatz 10 stellt das Verhältnis von § 12a zu § 12 Absatz 2 Satz 2 klar.
 Für den in § 12a Absatz 1 Satz 1 genannten Personenkreis ist § 12a hinsichtlich der dort angeführten Gründe grundsätzlich eine abschließende Regelung für die Anordnung von Wohnsitzverpflichtungen.
-In Ausnahmefällen kann die zuständige Behörde jedoch auch nach Wegfall einer Wohnsitzverpflichtung nach § 12a eine wohnsitzbeschränkende Auflage nach § 12 Absatz 2 Satz 2 erteilen. Dies gilt insbesondere in den in § 12 Abs. 2 S. 3 n.F. genannten Fällen.
+In Ausnahmefällen kann die zuständige Behörde jedoch auch nach Wegfall einer Wohnsitzverpflichtung nach § 12a eine wohnsitzbeschränkende Auflage nach § 12 Absatz 2 Satz 2 erteilen. Kommt weder eine
+Wohnsitzverpflichtung noch eine wohnsitzbeschränkende Auflage in Betracht, ist bei Straftätern darüber hinaus die Anordnung einer räumlichen Beschränkung nach § 12 Abs. 2 S. 3 möglich (s. A.12.2.2.3.).
 Im Übrigen ist das von § 12 Abs. 2 S. 2 eröffnete Ermessen in den (positiven) Fallkonstellationen der Abs. 1 S. 2 und Abs. 5 großzügig zu Gunsten der Betroffenen auszulegen. Mit Ausnahme der Verlängerungen von Aufenthaltstiteln nach § 23 (vgl. hierzu jeweils differenzierte Regelungen in VAB.A.23) rechtfertigt es der Bezug von Leistungen nach SGB II oder XII keinesfalls, von dieser Ausnahmevorschrift Gebrauch zu machen.
-Zudem kann eine wohnsitzbeschränkende Auflage nach § 12 Absatz 2 Satz 2 aus in § 12a nicht angeführten Gründen erteilt werden. Die Entscheidung darüber steht im Ermessen der zuständigen Ausländerbehörde. Eine besondere Begründung ist erforderlich.
+Zudem kann eine wohnsitzbeschränkende Auflage nach § 12 Absatz 2 Satz 2 aus in § 12a nicht angeführten Gründen erteilt werden. Die Entscheidung darüber steht im Ermessen der zuständigen Ausländerbehörde.
+Nach dem klaren Wortlaut des Gesetzes ist bei jeder Entscheidung nach Absatz 10 eine besondere Begründung erforderlich.
 12a.s.1. Verfahren bei Anfragen von Jobcentern oder anderen Leistungsbehörden im Rahmen von § 12a Abs. 1 S. 2 oder Abs. 5
-E-Mail an die VAB-Redaktion

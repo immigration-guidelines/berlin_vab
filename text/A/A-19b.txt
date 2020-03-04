@@ -1,52 +1,49 @@
 VAB A 19b
 VAB A 19b
 Inhaltsverzeichnis
-A.19b. ICT-Karte für unternehmensintern transferierte Arbeitnehmer
-19b.0. Intra-Corporate Transferees - ICT / Unternehmensinterner Transfer
-19b.1. Allgemeine Voraussetzungen für den unternehmensinternen Transfer
-19b.2. ICT-Karte für Führungskräfte und Spezialisten
-19b.3. ICT-Karte für Trainees
-19b.4. Erteilungsdauer
-19b.5. Allgemeine Versagungsgründe
-19b.6. Besondere Versagungsgründe
-A.19b. ICT-Karte für unternehmensintern transferierte Arbeitnehmer
-(RiLiUmsG2017)
-19b.0. Intra-Corporate Transferees - ICT / Unternehmensinterner Transfer
-Mit dem Richtlinienumsetzungsgesetz 2017 wurde dieser Aufenthaltstitel für unternehmensintern transferierte Arbeitnehmer (intra-corporate transferees - ICT), die sich zu Beschäftigungszwecken im Bundesgebiet aufhalten möchten, eingeführt.
-§ 19b greift auch in Fällen, in denen sich der Ausländer im Rahmen des Transfers in mehreren europäischen Mitgliedstaaten aufhalten will, wenn Deutschland „erster Mitgliedstaat“ ist, d. h. der Ausländer sich im Vergleich zu seinem voraussichtlichen Aufenthalt in anderen europäischen Mitgliedstaaten am längsten im Bundesgebiet aufhalten will. Ist der längste Aufenthalt hingegen für einen anderen Mitgliedsstaat geplant, kommt für den Aufenthalt im Bundesgebiet nur eine Mobile-ICT-Karte gemäß § 19d (bei einem geplanten Aufenthalt von mehr als 90 Tagen) oder die kurzfristige Mobilität nach § 19c (bei bis zu 90 Tagen) in Betracht. Entscheidend ist allein die beabsichtigte Aufenthaltsdauer, nicht jedoch die Frage, in welchem Mitgliedsstaat sich der Ausländer zuerst aufhalten will. In Zweifelfällen ist nach den Angaben des Kunden zu entscheiden. Der Vorlage entsprechender Nachweise bedarf es hier nicht.
-Zu den Übermittlungspflichten im Zusammenhang mit dem Widerruf, der Rücknahme, der Versagung oder nachträglichen Verkürzung einer ICT- Karte vgl. A.91g.5.
+A.19b. Mobiler-ICT-Karte
+19b.0. Grundsatz
+19b.1. Aufenthaltstitel
+19b.2. Erteilungsvoraussetzungen
+19b.3. Antragswirkung
+19b.4. Abgrenzung zur kurzfristigen Mobilität
+19b.5. Dauer des geplanten Aufenthalts im Bundesgebiet und anderen Mitgliedstaaten
+19b.6. Ablehnungsgründe
+19b.7. Mitteilungspflichten
+A.19b. Mobiler-ICT-Karte
+(FEG; 01.03.2020)
+19b.0. Grundsatz
+§ 19 b regelt den Aufenthalt von Ausländern, die bereits über eine ICT-Karte eines anderen EU-Mitgliedstaates – sog. erster Mitgliedstaat – verfügen und für mehr als 90 Tage in einer Niederlassung desselben Unternehmens im Bundesgebiet beschäftigt werden sollen. Zu den Übermittlungspflichten im Zusammenhang mit der Erteilung einer Mobilen ICT- Karte vgl.
+A.91g.4.
 Aus Gründen der Verwaltungseffizienz wird folgende Prüfungsreihenfolge empfohlen:
-1. Abs. 5 – allgemeine Versagungsgründe
-2. Abs. 1 – allgemeine Erteilungsvoraussetzungen - unternehmensinterner Transfer
-3. Abs. 6 – besondere Versagungsgründe
-4. Abs. 2 – besondere Voraussetzungen für Führungskräfte und Spezialisten) bzw. Abs. 3 besondere Voraussetzungen für Trainees
-19b.1. Allgemeine Voraussetzungen für den unternehmensinternen Transfer
-Ein unternehmensinterner Transfer ist die vorübergehende Abordnung eines zum Zeitpunkt der Antragstellung in einem Drittstaat aufhältigen Ausländers durch ein in einem Drittstaat ansässigen Unternehmens, mit dem der Arbeitnehmer vor dem Transfer und für dessen Dauer einen Arbeitsvertrag geschlossen hat, in eine Niederlassung des gleichen Unternehmens oder der Unternehmensgruppe mit Sitz im Bundesgebiet.
-Eine Unternehmensgruppe ist definiert als zwei oder mehr Unternehmen, die nach deutschem Recht insofern als miteinander verbunden gelten, als ein Unternehmen in Bezug auf ein anderes Unternehmen direkt oder indirekt die Mehrheit des gezeichneten Kapitals dieses Unternehmens besitzt oder über die Mehrheit der mit den Anteilen am anderen Unternehmen verbundenen Stimmrechte verfügt oder befugt ist, mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des anderen Unternehmens zu bestellen, oder die Unternehmen unter einheitlicher Leitung des Mutterunternehmens stehen.
-Eine Prüfung der Unternehmensstruktur erfolgt in Zweifelsfällen unter Hinzuziehung der IHK oder Berlin Partner.
-19b.2. ICT-Karte für Führungskräfte und Spezialisten
-§ 19b Absatz 2 regelt die besonderen Erteilungsvoraussetzungen der ICT-Karte für Führungskräfte und Spezialisten. Der Ausländer wird als Führungskraft tätig, wenn ihm eine oder mehrere Leitungsfunktionen übertragen wurden und er über die in § 19b Absatz 2 Satz 2 und 3 aufgeführten Befugnisse verfügt. Als Spezialist gilt, wer über unerlässliche Spezialkenntnisse über Tätigkeitsbereiche, Verfahren oder Verwaltung der aufnehmenden Niederlassung, ein hohes Qualifikationsniveau und angemessene Berufserfahrung verfügt. Die Prüfung dieser Voraussetzungen erfolgt im Rahmen des Zustimmungsverfahrens durch die Bundesagentur für Arbeit (vgl. § 10 a Abs. 1 Nr. 1 BeschV). Bei Antragstellung muss der Ausländer dem Unternehmen oder der Unternehmensgruppe mindestens seit sechs Monaten angehören (§ 19b Absatz 2 Nummer 2).
-Der Ausländer verfügt über einen Arbeitsvertrag, der für die Dauer des Transfers gültig ist und die wesentlichen Bedingungen des Transfers enthält. Es muss weiterhin eine Rückkehrgarantie für den Ausländer bestehen; hier reicht es aus, wenn der Ausländer in eine Niederlassung des gleichen Unternehmens oder der Unternehmensgruppe zurückkehren kann. Sollte der Arbeitsvertrag die in § 19b Absatz 2 Nummer 5 geforderten Angaben nicht oder nicht vollständig enthalten, sind diese Angaben zusätzlich z.B. mittels eines Abordnungsschreibens zu belegen. Weitere Voraussetzung ist der Nachweis der beruflichen Qualifikation des Ausländers. Hierbei geht es nach Artikel 5 Absatz 1 lit. d der ICT-Richtlinie um die berufliche Qualifikation und Erfahrung, die in der aufnehmenden Niederlassung erforderlich ist.
-Merke: In Zweifelsfällen ist für die Prüfung der Voraussetzungen des § 19 b Abs. 1 und Abs. 2 bei Spezialisten und Führungskräften die IHK oder Berlin Partner zu beteiligen. Ergänzend kann auch von der Möglichkeit der fakultativen Beteiligung der BA nach § 72 Abs. 7 AufenthG Gebrauch gemacht werden.
-19b.3. ICT-Karte für Trainees
-Die ICT Karte wird für die Tätigkeit eines Trainees im Rahmen des unternehmensinternen Transfers erteilt, wenn Ausländer mit Hochschulabschluss in eine aufnehmende Niederlassung transferiert werden sollen, um ihre berufliche Entwicklung zu fördern oder sich branchenspezifisch, technisch oder methodisch fortzubilden. Erforderlich ist, dass die Person während des Transfers angemessen entlohnt wird.
-Voraussetzung für die Erteilung einer ICT-Karte an Trainees ist außerdem, dass der Ausländer an einem Programm teilnimmt, dass der beruflichen Entwicklung des Trainees dient. Mit dem Antrag sollten deshalb Angaben zum Traineeprogramm sowie zu dessen Dauer und den Bedingungen eingereicht werden. Damit wird sichergestellt, dass der Ausländer eine „echte Ausbildung erhält und nicht als normaler Mitarbeiter eingesetzt wird“ (Erwägungsgrund 20 der ICT-Richtlinie).
-19b.4. Erteilungsdauer
-Die ICT-Karte wird für die Dauer des unternehmensinternen Transfers erteilt; für Führungskräfte und Spezialisten maximal für drei Jahre, für Trainees höchstens für ein Jahr. Eine Verlängerung über diesen Höchstzeitraum hinaus ist für diesen Aufenthaltszweck nicht möglich, da die Erteilung der ICT-Karte nur für vorübergehende Abordnungen vorgesehen ist. Im Übrigen ist ein Zweckwechsel möglich. Dies gilt auch für die Fortsetzung der Tätigkeit bei demselben Arbeitgeber über die maximale Höchstdauer des Transfers hinaus (z.B. § 18 Abs. 4, § 19a). § 8 Abs. 2 ist in den Fällen des § 19 b nicht anzuwenden.
-Bei einem Transfer, der maximal ein Jahr andauern soll, ist die Auslandsvertretung zu bitten, das Visum für die entsprechende Dauer auszustellen (vgl. B.AufenthV.31.1.2.)
-Aus Kapazitätsgründen sollte in den sonstigen Fällen die ICT-Karte auch bei einem für weniger als drei Jahre vorgesehenen Transfer für den Maximalzeitraum erteilt und mit der auflösenden Bedingung:
-„Erlischt mit Beendigung der Beschäftigung bei … .“
-versehen werden.
-In jedem Fall ist die Nebenbestimmung
-„Selbständige Tätigkeit gestattet“
-zu verfügen.
-Nach § 9 Abs. 1 BeschV kommt die Verfügung der Auflage "Erwerbstätigkeit gestattet" bei der Erteilung der ICT-Karte nicht in Betracht.
-Da nach Nr. 10 Buchstabe b) Doppelbuchstabe qq) AZRG-DV (Anlage) nur der Meldesachverhalt „§ 19b Abs. 1“ für das AZR definiert ist, steht auch in AusReg nur diese Rechtsgrundlage für alle Fallkonstellationen des § 19b zur Verfügung. Die ICT-Karte ist grundsätzlich als elektronischer Aufenthaltstitel zu erteilen. Beträgt die Geltungsdauer des Titels ein Jahr oder weniger ist der Kunde dahingehend zu beraten, dass aus Gründen der Verwaltungseffizienz und Kundenorientierung eine Aufenthaltserlaubnis im Rahmen der Entsendung (§ 18 i.V.m. § 10 Abs. 1 Nr. 2 BeschV) empfohlen wird. Alternativ kommt auch eine Fiktionsbescheinigung in Betracht.
-Zum Familiennachzug zu Besitzern einer ICT-Karte vgl. §§ 29 Abs. 1 Nr. 1, 30 Abs. 1 Satz 1 Nr. 3 g) sowie Satz 2 Nr. 5 und 32 Abs. 1 AufenthG.
-19b.5. Allgemeine Versagungsgründe
-Eine ICT-Karte wird nicht erteilt,
-an Ausländer, die auf Grund von Übereinkommen mit Drittstaaten ein dem der Unionsbürger gleichwertiges Recht auf freien Personenverkehr genießen oder in einem Unternehmen mit Sitz in einem dieser Drittstaaten beschäftigt sind (§ 19b Abs. 5 Nr. 1 und 2).Dies betrifft ausschließlich Staatsangehörige der EWR-Staaten sowie der Schweiz sowie Ausländer, die in den genannten Staaten beschäftigt sind. Dabei kommt es nicht darauf an, ob sie einen Aufenthaltsstatus in diesem Staat zum Zweck der Beschäftigung oder zu einem anderen Zweck haben (Abs. 5 Nr. 1 und 2).
-an Ausländer, die ein Praktikum im Rahmen ihres Studiums absolvieren (Abs. 5 Nr. 3).
-19b.6. Besondere Versagungsgründe
-Ob die aufnehmende Niederlassung hauptsächlich – nicht ausschließlich - zu dem Zweck gegründet wurde, um die Einreise von unternehmensintern transferierten Arbeitnehmern zu erleichtern, ist ausschließlich danach zu prüfen, ob diese hier einer eigenen Geschäftstätigkeit nachgeht oder nicht (§19b Abs. 6 Nr. 1). So dürfte für eine Beschäftigung in einer sogenannten Repräsentanz keine ICT- Karte in Betracht kommen. Eine sogenannte Repräsentanz ist neben einer ausländischen Vertretung ähnlich einer Botschaft auch die rechtlich unselbständige Vertretung eines ausländischen Unternehmens im Inland. Die Repräsentanz gilt daher nicht als eigener Gewerbebetrieb. Über die Repräsentanz pflegt das ausländische Unternehmen Kontakte im Inland und fädelt neue Geschäfte ein. Der Repräsentanz steht ein Leiter vor, der je nach Ausgestaltung des Vertrages mit dem Mutterunternehmen als freiberuflich Selbstständiger oder Angestellter auf Basis eines ausländischen Arbeitsvertrages vor.
-E-Mail an die VAB-Redaktion
+Abs. 5 - Dauer des geplanten Aufenthalts im Bundesgebiet und anderen Mitgliedstaaten
+Abs. 4 – Abgrenzung zur kurzfristigen Mobilität
+Abs. 1 und 2 – Voraussetzungen der langfristigen Mobilität
+Abs. 6 Ablehnungsgründe.
+19b.1. Aufenthaltstitel
+Absatz 1 enthält lediglich die Begriffsdefinition der sogenannten Mobilen ICT-Karte. Während für Besitzer einer ICT-Karte eines anderen Mitgliedsstaates – also Führungskräfte, Spezialisten und Trainees – der Aufenthalt im Bundesgebiet für bis zu 90 Tage ohne Aufenthaltstitel möglich ist (vgl. VAB.A.19a.1 sowie den vorrangig anzuwendenden § 17 AufenthV ( B.AufenthV.17.), ist für den Aufenthalt und die Beschäftigung von mehr als 90 Tagen ein Aufenthaltstitel etwa gem. § 18b Abs. 1 i.V.m.§ 39 Abs. 2 der aber in Form der Mobilen ICT-Karte notwendig. Die Mobile ICT-Karte ist dabei ein eigenständiger Aufenthaltstitel im Sinne von § 4 Abs. 1 AufenthG. Wenn die Erteilungsvoraussetzungen und die allgemeinen Erteilungsvoraussetzungen insbesondere des § 5 Abs. 1 erfüllt sind, besteht ein Rechtsanspruch auf Erteilung des Aufenthaltstitels, allerdings ist vorrangig immer zu prüfen, ob überhaupt ein Sachbescheidungsinteresse besteht (Fälle des § 17 AufenthV) bzw. eine Aufenthaltserlaubnis gem. § 18b Abs. 1 i.V.m. § 39 Abs. 2 zu bevorzugen wäre. Der Ausländer ist hier entsprechend zu beraten.
+19b.2. Erteilungsvoraussetzungen
+Grundvoraussetzung für die Erteilung des Aufenthaltstitels ist nach Abs. 1, dass der Drittstaatsangehörige über eine ICT-Karte eines anderen EU-Mitgliedsstaates verfügt, die bis zum Zeitpunkt der Erteilung der Mobilen ICT-Karte noch gültig ist.
+Auch das vom ersten Mitgliedsstaat erteilte Visum nach der ICT-Richtlinie gilt dabei als Aufenthaltstitel. Der Arbeitnehmer muss nicht zuerst in den ersten Mitgliedsstaat einreisen, um dort die ICT-Karte zu erhalten (vgl. Hinweise BMI zur Anwendung des RiLiUmsg vom 16.11.2017).
+Weil der Ausländer bereits über einen Aufenthaltstitel eines anderen EU-Mitgliedsstaates verfügt, sind für die Erteilung der Mobilen ICT- Karte weniger Nachweise erforderlich als bei der Erteilung der ICT-Karte nach § 19, wenn auch erheblich mehr als in den Fällen des § 17 AufenthV bzw. § 18b i.V.m. § 39 Abs. 2.
+§ 19b Abs. 2 regelt die weiteren Erteilungsvoraussetzungen. Zur Anwendung vgl. jeweils die Ausführungen unter A.19.1 bis 19.3.
+Die Mobile ICT-Karte wird grundsätzlich für die Dauer des unternehmensinternen Transfers im Bundesgebiet erteilt. § 19b Abs. 6 Nr. 1 verweist hinsichtlich der Höchstdauer des unternehmensinternen Transfers auf § 19 Abs. 4. Demnach beträgt die maximale Gesamtaufenthaltsdauer in der EU für Führungskräfte und Spezialisten drei Jahre, für Trainees ein Jahr. Die in anderen EU-Mitgliedstaaten bereits absolvierten ICT-Aufenthaltszeiten müssen bei der Berechnung bzw. Festsetzung der Höchstgeltungsdauer der Mobilen ICT-Karte berücksichtigt werden. Zudem ist der Ablehnungsgrund nach § 19 Abs. 6 Nummer 2 zu beachten (siehe dazu VAB. A.19.4-6.).
+Zum Familiennachzug zu Inhabern einer Mobilen ICT-Karte vgl. §§ 29 Abs. 1 Nr. 1, 30 Abs. 1 Satz 1 Nr. 3 g) sowie Satz 2 Nr. 5 und 32 Abs. 1 AufenthG.
+Merke: Für Inhaber der Mobilen ICT-Karte ist der Wechsel in einen anderen Aufenthaltstitel auch zum Zwecke der Fortsetzung der Beschäftigung uneingeschränkt zulässig. § 8 Abs. 2 kommt nicht zur Anwendung.
+Der Aufenthaltstitel ist mit der Nebenbestimmung:
+„Selbständige Tätigkeit erlaubt“
+zu erteilen.
+Nach § 9 Abs. 1 BeschV kommt die Verfügung der Auflage "Erwerbstätigkeit erlaubt" für die Erteilung der Mobilen ICT-Karte nicht in Betracht.
+19b.3. Antragswirkung
+Wird der Antrag nach § 19b Abs. 1 spätestens 20 Tage vor der beabsichtigten Beschäftigung im Bundesgebiet beim BAMF gestellt, darf der Ausländer 20 Tage nach Eingang der vollständigen Antragsunterlagen zur Aufnahme der beantragten Tätigkeit in das Bundesgebiet einreisen, auch wenn über den Antrag noch nicht entschieden wurde. Der Aufenthalt und die beantragte Beschäftigung gelten für bis zu 90 Tage als erlaubt, sofern die ICT-Karte des anderen Mitgliedsstaats weiterhin gültig ist. Anders als in den Fällen des § 19a besteht in der Praxis damit hinreichend Zeit (110 Tage = 20 Tage vor Einreise sowie 90 Tage danach), um über die Erteilung der Mobilen ICT- Karte zu entscheiden.
+Für die Praxis ist Folgendes zu beachten: Sofern der Ausländer der aufnehmenden Niederlassung im Bundesgebiet eine Vollmacht erteilt hat, sind die schriftlichen Antragsunterlagen zeitnah – ggf. vor Einreise - zu prüfen. Dabei ist vorrangig auch § 17 AufenthV bzw. § 18b i.V.m. § 39 Abs. 2 in den Blick zu nehmen.
+Kommt die Erteilung der Mobilen ICT- Karte sinnvollerweise in Betracht, ist der Ausländer über die aufnehmende Niederlassung im Bundesgebiet zur Vorsprache zwecks Titelerteilung aufzufordern. Soll der Aufenthalt ausnahmsweise versagt werden, ist der Bescheid dem Ausländer, vertreten durch die aufnehmende Niederlassung, zuzustellen. Liegt keine Vollmacht vor, ist über die aufnehmende Niederlassung die Abgabe einer solchen anzuregen. da andernfalls der Bescheid ggf. im Ausland zuzustellen wäre, was äußerst aufwändig und zeitintensiv wäre und jedenfalls nicht innerhalb der 20tägigen Einreisefrist erfolgen kann. Die Zustellung im Ausland kommt nur dann in Betracht, wenn der Antrag sehr langfristig vor der geplanten Einreise gestellt wird.
+Im Falle einer negativen Entscheidung während des vorläufigen Aufenthaltes, tritt die Ausreisepflicht nach § 50 Abs. 1 ein, die weitere Beschäftigung regelt sich in diesem Fall nach § 84 Abs. 2 Satz 2.
+19b.4. Abgrenzung zur kurzfristigen Mobilität
+§ 19b Abs. 4 ist in der Praxis nur insoweit von Bedeutung, als es bei einem Greifen des § 19a Abs. 2 sowie Abs. 4 bzw. des § 17 AufenthV kein Sachbescheidungsinteresse für die Ausstellung einer Mobilen ICT- Karte besteht. Der Ausländer ist dann entsprechend zu beraten. Einer förmlichen Versagung bedarf es dann nicht.
+19b.5. Dauer des geplanten Aufenthalts im Bundesgebiet und anderen Mitgliedstaaten
+§ 19b Abs. 5 ist in der Praxis ohne Bedeutung. In Zweifelfällen ist für die Frage, ob der Ausländer in Deutschland eine ICT- Karte oder Mobile ICT- Karte erhalten kann, nach den Angaben des Kunden bezüglich der geplanten Dauer der Aufenthalte in den jeweiligen Staaten zu entscheiden. Der Vorlage entsprechender Nachweise bedarf es hier nicht. Ist der längste Aufenthalt in Deutschland geplant, erhält der Ausländer die ICT- Karte.
+19b.6. Ablehnungsgründe
+Auch § 19b Abs. 6 Nr. 1 wird in der Praxis nicht zu versagenden Entscheidungen führen. Zwar ist eine Verlängerung über den genannten Höchstzeitraum hinaus für diesen Aufenthaltszweck nicht möglich, da die Erteilung der ICT-Karte und der Mobilen ICT- Karte nur für vorübergehende Abordnungen vorgesehen ist. Aber ein Zweckwechsel ist ja auch für die Fortsetzung der Tätigkeit bei demselben Arbeitgeber über die maximale Höchstdauer des Transfers hinaus (z.B. über § 18b Abs. 1, § 18b Abs. 2) möglich. Im Ermessen des Abs. 6 Nr. 2 ist darüber hinaus immer im Interesse des Wirtschaftsstandorts Berlin von einer Versagung der Mobilen-ICT-Karte abzusehen.
+19b.7. Mitteilungspflichten
+Die aufnehmende inländische Niederlassung hat der Ausländerbehörde unverzüglich, in der Regel innerhalb von einer Woche, anzuzeigen, wenn der Antragsteller nicht mehr über eine gültige ICT-Karte eines anderen EU-Mitgliedsstaates verfügt. In diesen Fällen ist zu prüfen, ob der Wechsel in einen anderen Aufenthaltstitel möglich ist, so nicht ohnehin § 17 AufenthV greift.
