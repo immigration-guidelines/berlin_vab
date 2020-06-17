@@ -2,7 +2,7 @@ VAB A 60a
 VAB A 60a
 Inhaltsverzeichnis
 A.60a. Vorübergehende Aussetzung der Abschiebung (Duldung)
-(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020; Anwendungshinweise BMI). 430
+(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; 02.01.2020; Anwendungshinweise BMI). 427
 60a.2. Abschiebungsverbote und Ausreisehindernisse
 60a.2.1. tatsächliche und rechtliche Abschiebungshindernisse
 60a.2.1.4. Duldung und Grenzübertrittsbescheinigung
@@ -248,7 +248,7 @@ Nur unbegleitete Rückführungen sind möglich nach:
 Zentralafrikanische Republik – Jaunde
 Guinea-Bissau – Bissau
 Sonstige Hinweise:
-Gaza/Westbank Die Sicherheitslage in den Palästinensischen Gebieten ist nach wie vor angespann t. Palästinensische Volkszugehörige, die im Besitz eines Passes der Palästinensischen Autonomiebehörde sind, der zur Rückkehr in den Gaza-Streifen berechtigt (vgl. PassInfo Gaza), können derzeit gleichwohl nicht zurückgeführt werden. Bis auf weiteres werden nach Auskunft der Ägyptischen Botschaft vom 18.05.2015 keine Anträge auf Durchreisevisa von Palästinensern aus dem Gaza-Streifen entgegengenommen. Damit sind sowohl freiwillige Ausreisen als auch zwangsweise Rückführungen nicht möglich
+Gaza/Westbank Die Sicherheitslage in den Palästinensischen Gebieten ist nach wie vor angespann t. Palästinensische Volkszugehörige, die im Besitz eines Passes der Palästinensischen Autonomiebehörde sind, der zur Rückkehr in den Gaza-Streifen berechtigt, können derzeit gleichwohl nicht zurückgeführt werden. Bis auf weiteres werden nach Auskunft der Ägyptischen Botschaft vom 18.05.2015 keine Anträge auf Durchreisevisa von Palästinensern aus dem Gaza-Streifen entgegengenommen. Damit sind sowohl freiwillige Ausreisen als auch zwangsweise Rückführungen nicht möglich. vgl. PassInfo Gaza
 Somalia Grundsätzlich sind nach Erkenntnissen des Auswärtigen Amtes begleitete Rückführungen nach Somalia lediglich nach Hargeisa in Nordwestsomalia (Somaliland) möglich. In die restlichen Landesteile sind wegen unzureichender Fluganbindungen sowie der wegen der Verhältnisse in den einzelnen Clangebieten nicht auszuschließenden Gefährdung der Begleitbeamten begleitete Rückführungen nicht möglich.
 Der Aufenthalt ausreisepflichtiger ausländischer Staatsangehöriger, deren zwangsweise Rückführung nur ohne amtliche Begleitung erfolgen könnte, die sich aber ihrer Abschiebung widersetzen, ist nach § 60a Abs. 2 Satz 1 AufenthG zu dulden. Die Erteilung einer AE nach § 25 Abs. 5 AufenthG ist wegen des fehlenden Ausreisehindernisses aber ausgeschlossen.
 A.60a.s.2. Zur Duldung des Aufenthalts ausländischer Strafgefangener

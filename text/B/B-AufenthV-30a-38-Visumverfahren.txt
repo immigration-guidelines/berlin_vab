@@ -25,7 +25,7 @@ B.AufenthV.36. Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 B.AufenthV.30a. - 38. Visumverfahren
 Änderungsdatum
-(VAB-Kommission 2018/19; FEG)
+(VAB-Kommission 2018/19; FEG; ÄnderungsVO BeschV und AufenthV)
 B.AufenthV.30a. Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren
 frei
 B.AufenthV.31. Zustimmung der Ausländerbehörde zur Visumerteilung
@@ -84,7 +84,7 @@ Normadressat ist die Auslandsvertretung. Um die Fachkräfteeinwanderung zu unter
 B.AufenthV.32. Zustimmung der obersten Landesbehörde
 Familienangehörige von Ausländern, die zur Beschäftigung oder Arbeits- oder Ausbildungsplatzsuche einreisen SenInnDS hatte am 07.02.2014 eine Globalzustimmung zur Visumerteilung für mitreisende Ehegatten oder Lebenspartner sowie minderjährige ledige Kinder von Ausländern erteilt, die sich zum Zweck der Beschäftigung oder zur Arbeitsplatzsuche länger als drei Monate im Bundesgebiet aufhalten wollen, ohne unter die Tatbestände des § 31 Abs. 1 S. 1 Nr. 2 zu fallen. Kann das Visum für einen Ausländer zum Zweck der Beschäftigung oder Arbeitsplatzsuche also ohne Zustimmung der Ausländerbehörde erteilt werden, bedürfen die Visa für die begleitenden Familienangehörigen ebenfalls keiner Zustimmung, so dass die Einreise der gesamten Familie gemeinsam erfolgen kann. Das Auswärtige Amt wurde darüber in Kenntnis gesetzt.
 Die Globalzustimmung war zunächst auf ein Jahr, also bis 06.02.2015, befristet und wurde am 05.01.2015 unbefristet bis auf Widerruf über den 06.02.2015 hinaus verlängert.
-Am 05.12.2019 wurde die Globalzustimmung durch SenInnDS auf den Tatbestand der mitreisenden Familienangehörigen von ausländischen Ausbildungsplatzsuchenden erweitert und gilt bis auf Widerruf unbefristet fort. Mit der Erweiterung wurde dem, durch die Verordnung zur Änderung der Beschäftigungs- und Aufenthaltsverordnung vom [… …], geänderte Wortlaut des § 31 Abs. 1 S. 1 Nr. 1 AufenthV Rechnung getragen.
+Am 05.12.2019 wurde die Globalzustimmung durch SenInnDS auf den Tatbestand der mitreisenden Familienangehörigen von ausländischen Ausbildungsplatzsuchenden erweitert und gilt bis auf Widerruf unbefristet fort. Mit der Erweiterung wurde dem, durch die Verordnung zur Änderung der Beschäftigungs- und Aufenthaltsverordnung vom 01.04.2020, geänderte Wortlaut des § 31 Abs. 1 S. 1 Nr. 1 AufenthV Rechnung getragen.
 Aufgrund des in der AufenthV selbst verankerten auf das Zustimmungserfordernis der ABH in diesen Fällen (vgl. B.AufenthV.31.1.1.) hat diese erteilte Globalzustimmung weitgehend keinen eigenständigen Regelungsgehalt mehr. Einreise zum Zweck "sonstiger Beschäftigung" bei Voraufenthalten in der Bundesrepublik
 Am 05.01.2015 hat die Senatsverwaltung für Inneres und Sport eine weitere Globalzustimmung für Einreisen zum Zweck der Beschäftigung nach Voraufenthalten in der Bundesrepublik Deutschland (Fälle des § 31 Abs. 1 S. 1 Nr. 2c, 1. Alt. AufenthV) erteilt. Diese Globalzustimmung gilt ebenfalls bis auf Widerruf unbefristet und erstreckt sich auch auf den mitreisenden Ehegatten/Lebenspartner und die minderjährigen ledigen Kinder des Ausländers. Das Auswärtige Amt hat die Auslandsvertretungen am 13.01.2015 entsprechend unterrichtet. Dies gilt unabhängig von der konkreten Regelung in der BeschV etwa für besondere Personen- und Berufsgruppen und gilt in Sonderheit auch für § 26 Abs. 2 BeschV. Ausgenommen von dieser Regelung sind nach Abstimmung mit SenInnDS und dem Auswärtigen Amt bis auf weiteres die Fälle, in denen aufenthaltsbeendende Maßnahmen erfolgt sind (§ 31 Abs. 1 S 1 Nr. 2c, 2. Alt. AufenthV) und alle Fälle des § 14 Abs. 1a S. 2 BeschV und somit alle religiösen Beschäftigten die zum Zeitpunkt der Einreise keine einfachen deutschen Sprachkenntnisse nachweisen können (§ 31 Abs. 1 S. 1 Nr. 2d AufenthV).
 Familienangehörige anerkannter Flüchtlinge aus Syrien
@@ -114,7 +114,6 @@ Grundsätzlich muss die ABH der Visumserteilung nur zustimmen bei Aufenthalten, 
 Die Zustimmung ist schließlich weiterhin nicht vonnöten, soweit Tätigkeiten nach § 30 Nr. 1 bis 3 BeschV ausgeübt werden sollen.
 B.AufenthV.38. Ersatzzuständigkeit der Ausländerbehörde
 frei
-E-Mail an die VAB-Redaktion
 VAB B.AufenthV.38a. - 38f. Anerkennung von
 Forschungseinrichtungen und Abschluss von
 Aufnahmevereinbarungen
@@ -146,7 +145,6 @@ B.AufenthV.38e. Veröffentlichungen durch das Bundesamt für Migration und Flüc
 frei
 B.AufenthV.38f. Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages
 frei
-E-Mail an die VAB-Redaktion
 VAB B.AufenthV.39. - 41. Einholung des Aufenthaltstitels im
 Bundesgebiet
 Inhaltsverzeichnis
@@ -259,11 +257,11 @@ Alter Gebühren
 Staat Bezeichnung nur bei Besonderes
 *) **)
 Botschaft
-1x Inanspruchnahme, nicht länger als 6 Monate bei einem
+1x Inanspruchnahme, Beschäftigung darf die Gesamtdauer von
 18 -
-Argentinien Working-Holiday ja ja Arbeitgeber, Besuch von Aus- und Fortbildungskursen bis zu 6
+Argentinien Working-Holiday ja ja 6 Monaten nicht überschreiten, Besuch von Aus- und
 30
-Monate
+Fortbildungskursen bis zu 6 Monate
 18 -
 Australien Working-Holiday nein ja 1x Inanspruchnahme, Antrag im Inland möglich
 30
@@ -343,4 +341,3 @@ Ermöglicht werden Aufenthalte von bis zu zwölf Monaten. Die entsprechenden Vis
 Eine Beschäftigung darf längstens sechs Monate bei einem Arbeitgeber ausgeübt werden. Aus- und Fortbildungskurse dürfen bis zu insgesamt sechs Monate Dauer besucht werden. Die Teilnahme am Programm ist nur einmal möglich. Beachte: Bei allen Working-Holiday-Abkommen ist der Familiennachzug zum begünstigten Personenkreis ausgeschlossen! Weitere Details können den Abkommen in der Generalie, IV G 2, entnommen werden.
 Besonderheiten für Anträge nach § 19 AufenthG
 Ein zulässiger Antrag auf einen Aufenthaltstitel zum Zweck des unternehmensinternen Transfers (ICT) kann nur von einem Drittstaat aus gestellt werden. Die Ausnahmen von dem Grundsatz der Antragsstellung aus dem Ausland finden bei unternehmensintern Transferierten grundsätzlich keine Anwendung. Maßgeblich ist, dass der Wohnort bzw. Lebensmittelpunkt sich in dem Drittstaat befindet; eine bloße Anwesenheit im Drittstaat zur Antragstellung reicht nicht aus. Unberührt bleibt die Möglichkeit, die Vergünstigung des § 41 Absatz 1 bis 3 wahrzunehmen und anschließend einen Antrag auf einen anderen Aufenthaltstitel zum Zweck der Erwerbstätigkeit zu stellen.
-E-Mail an die VAB-Redaktion

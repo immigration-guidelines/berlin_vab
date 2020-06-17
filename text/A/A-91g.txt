@@ -5,11 +5,10 @@ A.91g Auskünfte zur Durchführung der Richtlinie 2014/66/EU
 91g.0. Der § 91g regelt die im Rahmen des unternehmensinternen Transfers zwischen den Mitgliedstaaten der Euro-päischen Union auszutauschenden Auskünfte und Mitteilungen.
 91g. 1. Das BAMF ist seit Inkrafttreten des Fachkräfteeinwanderungsgesetzes für die Durchführung der Mitteilungsverfahren bei der (kurzfristigen) Mobilität (vollständig) zuständig.
 91g. 2. Soweit die im Datenbestand des AZR gespeicherten Sachverhalte für die Entscheidung eines anderen Mitgliedsstaates über die Mobilität im Rahmen der ICT-Richtlinie nicht genügen, erteilt die Ausländerbehörde auf Ersuchen des BAMF diesem die gewünschten Auskünfte aus der Ausländerakte.
-91g. 3. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der ICT-Richtlinie sind an die nationale Kontaktstelle des BAMF (NKS ICT, Referat 72C, E-Mail: ict@bamf.bund.de) zu richten.
+91g. 3. Auskunftsersuchen der Ausländerbehörde an die zuständigen Behörden anderer Mitgliedsstaaten im Rahmen von Entscheidungen nach der ICT-Richtlinie sind an die nationale Kontaktstelle des BAMF (NKS ICT, Referat 72 A, E-Mail: ict@bamf.bund.de) zu richten.
 91g. 4. Die Ausländerbehörde ist verpflichtet, dem BAMF folgende Sachverhalte mitzuteilen.
 1. den Widerruf, die Rücknahme, die Versagung oder die nachträgliche Verkürzung einer ICT-Karte nach § 19
 2. Ablehnung einer kurzfristigen Mobilität nach § 19 a
 3. Erteilung einer Mobiler-ICT-Karte nach § 19 b
 Die Mitteilungspflicht umfasst Art und Datum der Entscheidung. Die Übermittlung eines rechtsmittelfähigen Bescheides an das BAMF ist nicht erforderlich. Ein automatisierter Datenaustausch über das AZR zum BAMF findet derzeit hierzu nicht statt. Geht im Gegenzug nach Satz 5 eine Mitteilung der nationalen Kontaktstelle über den Verlust des Aufenthaltsrechts im ersten Mitgliedstaat ein, hat dies keine unmittelbaren aufenthaltsrechtlichen Konsequenzen. Insbesondere führt die Mitteilung nicht zum Erlöschen des deutschen Aufenthaltstitels oder des Aufenthaltsrechts.
 91g. 5. frei
-E-Mail an die VAB-Redaktion

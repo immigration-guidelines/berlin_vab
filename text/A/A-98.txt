@@ -1,7 +1,7 @@
 VAB A 98
 VAB A 98
 A.98. Bußgeldvorschriften
-(2. ÄndGAusreisepflicht; Gesetz über Duldung bei Ausbildung und Beschäftigung, FEG)
+(2. ÄndGAusreisepflicht; Gesetz über Duldung bei Ausbildung und Beschäftigung, FEG; 22.04.2020; 30.04.2020)
 98.0. Soweit die Bußgeldvorschriften zwischen vorsätzlichen und fahrlässigen Handlungen unterscheiden, gilt folgendes: Vorsätzlich handelt, wer die Rechtswidrigkeit seines Handelns kannte und bewusst gegen die Vorschrift verstoßen hat.
 Fahrlässig handelt, wer bei der gebotenen Sorgfalt hätte erkennen müssen, dass er rechtswidrig handelt, diese Sorgfalt aber nicht walten ließ. Bei den im Aufenthaltsrecht als Ordnungswidrigkeit geahndeten Rechtverstößen ist häufig mindestens von einem fahrlässigen Handel auszugehen, da sich die Handlungsgebote und-verbote entweder unmittelbar aus dem Gesetz oder aus dem Aufenthaltstitel ergeben oder der Ausländer auf andere Weise - etwa durch Hinweisblätter - auf diese hingewiesen worden ist oder aufgrund seiner bisherigen Erfahrungen mit dem deutschen Aufenthaltsrecht von einem Rechtsverstoß hätte ausgehen müssen.
 Bestehen Zweifel ob Vorsatz oder Fahrlässigkeit vorliegt, ist zu Gunsten des Ausländers anzunehmen, dass er fahrlässig handelte.
@@ -17,12 +17,17 @@ Ein Arbeitgeber ist bei Beendigung des Beschäftigungsverhältnisses eines Ausl�
 Das pflichtwidrige Unterlassen wie auch die verspätete Meldung ist durch die ABH zu ahnden. Das Gesetz sieht hierfür eine Geldbuße bis zu 30.000 Euro vor.
 98.3.1. Ebenso bußgeldbewehrt ist die unerlaubte selbständige Tätigkeit. Die Ordnungswidrigkeit wird durch die Ausländerbehörde geahndet.
 98.3.2. Mit Inkrafttreten des IntG zum 06.08.2016 nimmt § 98 Abs. 3 Nr. 2 nur noch Verstöße gegen Beschränkungen in Aufenthaltstiteln in Bezug.
+In Gewaltschutzfällen ist grundsätzlich von der Erhebung eines Buß- oder Verwarnungsgeldes abzusehen, da laut des gemeinsamen Rundschreibens vom 14. Februar 2020 des BMI und des BMFSFJ zur Wohnsitzregelung in
+Gewaltschutzfällen aufgrund der Gefährdung von einer begründeten kurzfristigen Unterbrechung auszugehen ist (vgl.
+A.12.2.2).
 98.3.2a. Ebenfalls bußgeldbewehrt ist der Verstoß eines Ausländers gegen eine Wohnsitzzuweisung gem. § 12 a Abs. 1 S. 1. Es kann eine Geldbuße bis zu 1.000 Euro verhängt werden.
+In Gewaltschutzfällen beachte 98.3.2.
 98.3.2b. Verstöße eines Ausländers, der als Asylberechtigter, Flüchtling im Sinne des § 3 Abs. 1 AsylG oder subsidiär Schutzberechtigter anerkannt ist bzw. einen Aufenthaltstitel nach den §§ 22, 23 oder 25 Abs. 3 erhalten hat, gegen eine innerhalb von 6 Monaten nach Anerkennung oder Aufnahme aus integrationspolitischen Gründen verfügte wohnsitzbeschränkende Auflage gem. § 12 a Abs. 3 – 4 sind ebenso bußgeldbewehrt wie auch der Verstoß gegen eine nachträglich aus den Gründen des § 61 Abs. 1c angeordnete Beschränkung. Für Berlin dürfte dies aber keine praktische Relevanz haben (vgl. VAB.A.12.a.2-4).
+In Gewaltschutzfällen beachte 98.3.2.
 98.3.3. bis 98.3.5. frei
 98.3.5a. § 98 Abs. 3 Nr. 5a umfasst sowohl den Verstoß gegen die räumliche Beschränkung kraft Gesetzes in den ersten drei Monaten geduldeten Aufenthalts wie auch den Verstoß eines aus Gründen der inneren Sicherheit ausgewiesenen Ausländers gegen eine nach § 56 angeordnete räumliche Beschränkung. Das Gesetz sieht hierfür eine Geldbuße bis zu
 1.000 Euro vor.
-98.3.5b. Ordnungswidrig ist die Nichterfüllung der besonderen Passbeschaffungspflicht für Ausreisepflichtige nach § 60b Abs. 1 Satz 2 (vgl. A.60b.2), wobei nach der Gesetzessystematik erst dann ein Bußgeld verhängt werden kann, wenn der Ausländer gemäß § 60b Abs. 3 Satz 2 auf seine Pflichten hingewiesen wurde und ausreichend Gelegenheit hatte, diese zu erfüllen. Hat der Ausländer an Eides statt versichert, seine besondere Passbeschaffungspflicht erfüllt zu haben, und stellt sich dies im Nachhinein als unzutreffend heraus, kann unter Heranziehung des Opportunitätsprinzips nach § 47 OWiG auf die Verfolgung der Ordnungswidrigkeit verzichtet werden, wenn stattdessen eine Strafanzeige wegen falscher Versicherung an Eides Statt gemäß § 156 StGB gestellt wird (vgl. A.95.2.2.).
+98.3.5b. Ordnungswidrig ist die Nichterfüllung der besonderen Passbeschaffungspflicht für Ausreisepflichtige nach § 60b Abs. 2 Satz 1 (vgl. A.60b.2), wobei nach der Gesetzessystematik erst dann ein Bußgeld verhängt werden kann, wenn der Ausländer gemäß § 60b Abs. 3 Satz 2 auf seine Pflichten hingewiesen wurde und ausreichend Gelegenheit hatte, diese zu erfüllen (beim Verweis im Gesetz auf § 60b Abs. 1 S. 2. handelt es sich um einen offensichtlichen redaktionellen Fehler). Hat der Ausländer an Eides statt versichert, seine besondere Passbeschaffungspflicht erfüllt zu haben, und stellt sich dies im Nachhinein als unzutreffend heraus, kann unter Heranziehung des Opportunitätsprinzips nach § 47 OWiG auf die Verfolgung der Ordnungswidrigkeit verzichtet werden, wenn stattdessen eine Strafanzeige wegen falscher Versicherung an Eides Statt gemäß § 156 StGB gestellt wird (vgl. A.95.2.2.).
 98.3.6. frei
 98.3.7. Verstößt eine im Sinne des § 38 a AufenthV anerkannte Forschungseinrichtung vorsätzlich oder fahrlässig gegen die Mitteilungspflichten des § 38 c AufenthV, so handelt sie gem. § 77 Nr. 1 AufenthV ordnungswidrig. Die Ordnungswidrigkeit wird durch die Ausländerbehörde geahndet.
 98.4. bis 98.6. frei

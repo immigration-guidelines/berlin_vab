@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(RiLiUmsG 2017; ÄndAufenthV; 19.07.2019; FEG)
+(19.07.2019; FEG; 25.03.2020)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -21,7 +21,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(RiLiUmsG 2017; ÄndAufenthV; 19.07.2019; FEG)
+(19.07.2019; FEG; 25.03.2020)
 Merkblatt_Gebühren_Stand_01.09.2017
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -73,7 +73,7 @@ Im Falle eines Wechsels der örtlichen Zuständigkeit, z.B. bei Wohnortwechsel d
 B.AufenthV.50. Gebühren für Amtshandlungen zugunsten Minderjähriger
 § 50 Abs. 1 S. 1 regelt allgemein die Gebührenermäßigungen bei Amtshandlungen zugunsten Minderjähriger, soweit diese nicht besonders in § 50 Abs. 1 S. 2 bzw. Abs. 2 geregelt sind.
 Merke: Bei der Erteilung von Niederlassungserlaubnissen gem. § 26 Abs. 4 S. 4 i.V.m. § 35 Abs. 1 S. 1 AufenthG handelt es sich um einen Aufenthaltstitel nach dem 5. Abschnitt des AufenthG (Aufenthalt aus humanitären Gründen), bei dem § 35 lediglich entsprechend zur Anwendung kommt. Demnach ist 50 Abs. 1 S. 2 nicht einschlägig und beträgt die Gebühr gem. § 50 Abs. 1 S. 1 i.V.m. § 44 Nr. 3 deshalb 56,50 Euro. Aus diesem Grunde wird als Rechtsgrundlage auch § 26 Abs. 4 und nicht § 35 eingetragen.
-Bei der Erteilung einer Niederlassungserlaubnis nach § 35 Abs. 1 S. 1 AufenthG ist eine Gebühr in Höhe von 55 Euro zu erheben und zwar unabhängig davon, in welcher Form die Niederlassungserlaubnis ausgegeben wird. Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahres zahlen für die Aufenthalts- oder Daueraufenthaltskarte eine Gebühr von 22,80 Euro. Die bisherige doppelte Privilegierung Minderjähriger bis 18 Jahre bei der zu entrichtenden hälftigen Gebühr der ohnehin bereits über § 47 Abs. 3 S. 2 bereits reduzierten Gebühr wurde mit der 8.Verordnung zur Änderung der AufenthV mit Blick auf die Produktionskosten bei der Bundesdruckerei und auf gleichaltrige nationale Antragsteller, die für einen Personalausweis 22,80 Euro entrichten müssen, aufgehoben. B.AufenthV.51. Widerspruchsgebühr
+Bei der Erteilung einer Niederlassungserlaubnis nach § 35 Abs. 1 S. 1 AufenthG ist eine Gebühr in Höhe von 55 Euro zu erheben und zwar unabhängig davon, in welcher Form die Niederlassungserlaubnis ausgegeben wird. Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahres zahlen für die Aufenthalts- oder Daueraufenthaltskarte eine Gebühr von 22,80 Euro. Die bisherige doppelte Privilegierung Minderjähriger bis 18 Jahre bei der zu entrichtenden hälftigen Gebühr der ohnehin bereits über § 47 Abs. 3 S. 2 bereits reduzierten Gebühr wurde mit der 8.Verordnung zur Änderung der AufenthV mit Blick auf die Produktionskosten bei der Bundesdruckerei und auf gleichaltrige nationale Antragsteller, die für einen Personalausweis 22,80 Euro entrichten müssen, aufgehoben. Die Gebühr für die Bestätigung auf einer Schülersammelliste beträgt 12,00 € pro erwachsenem (Berufs-)Schüler (§ 48 Abs. 1 Nr. 7). Für minderjährige Schüler ermäßigt sich die Gebühr nach § 50 Abs. 1 S. 1 auf 6,00 € je Reisendem. B.AufenthV.51. Widerspruchsgebühr
 Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpflichtigen Amtshandlung vor dem 01.09.2011 Widerspruch erhoben, aber erst nach dem 01.09.2011 über den Widerspruch entschieden, so bemessen sich die nach § 51 Abs. 1 Nr. 1 zu erhebenden Gebühren nach der vor dem 01.09.2011 geltenden Rechtslage.
 B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
@@ -253,7 +253,6 @@ Die in § 53 Abs. 2 vorgesehene Ermessensentscheidung, mit Rücksicht auf die wi
 Entsprechendes gilt auch für die sonstigen Gebührentatbestände, die nicht in § 53 Abs. 1 S. 1 benannt werden.
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 frei
-E-Mail an die VAB-Redaktion
 VAB B.AufenthV.55. - 61. Ordnungsrechtliche- und
 Verfahrensvorschriften
 Inhaltsverzeichnis
@@ -268,7 +267,7 @@ B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
 B.AufenthV.60. Lichtbild
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(SchutzberArb; 20.03.2019; FEG)
+(SchutzberArb; 20.03.2019; FEG; ÄnderungsVO zur BeschV und AufenthV)
 B.AufenthV.55. Ausweisersatz
 55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 AufenthV ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann. Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht. Merke: Verfügt der Antragsteller über ein unbefristetes Aufenthaltsrecht, genügt es für die Ausstellung des Ausweisersatzes der Nachweis, dass ein Pass oder Passersatz nicht kurzfristig zu erlangen ist. In diesen Fällen werden in der Vergangenheit liegende Versäumnisse bei der Passbeschaffung dem Antragsteller nicht entgegengehalten. Erforderlich bleibt aber der Nachweis, dass die Passbeschaffung nunmehr betrieben wird.
 Legt ein Ausländer, der einen Titel oder eine Duldung besitzt, eine Bescheinigung der Auslandsvertretung seines Heimatstaates vor, wonach die Ausstellung eines neuen Passes sich um längere Zeit verzögert oder derzeit ausgeschlossen ist, so ist ihm auf Antrag ein Ausweisersatz gem. § 55 Abs. 1 Nr. 1 oder bei Titelinhabern ggf. – etwa bei dringenden Auslandsreisen – ein vorläufiger Reiseausweis für Ausländer nach Maßgabe der §§ 5 Abs. 3- 5, 6 auszustellen (vgl. hierzu auch B.AufenthV.1-14). Die Gültigkeit des Reiseausweises bzw. des Ausweisersatzes sollte mindestens 6 Monate betragen, so der Titel bzw. die Duldung entsprechend lang gültig sind.
@@ -307,7 +306,7 @@ Die Neuausstellung einer eAT-Karte wegen des Ablaufs des bisherigen Personaldoku
 Demzufolge handelt es sich bei der unrichtigen Neuausstellung bzw. Übertragung eines Aufenthaltstitels in ein neues Personaldokument nicht um einen rechtswidrigen Verwaltungsakt, der gem. § 48 VwVfG zurückzunehmen wäre, sondern lediglich um eine fehlerhafte Eintragung mit nicht konstitutivem Charakter. Diese Eintragung ist somit als offenbare Unrichtigkeit gem. § 42 VwVfG jederzeit korrigierbar. Im Fall eines Aufenthaltstitels in Form eines eAT ist eine neue eAT-Karte zu bestellen und die fehlerhafte zu entwerten.
 Zu berücksichtigen ist allerdings in solchen Fällen, wie der "Erklärungsempfänger" die Eintragung bei objektiver Auslegung verstehen durfte ("objektiver Empfängerhorizont"). Hat ein Bürgeramt eine solche Neuausstellung oder unrichtige Eintragung vorgenommen, musste der Betroffene die Unrichtigkeit erkennen können, weil sein Wissen darüber, dass das Bürgeramt zur Erteilung von Aufenthaltstiteln nicht befugt ist, zu unterstellen ist.
 Wird die Neuausstellung bzw. Übertragung eines noch längerfristig gültigen Aufenthaltstitels durch die ABH vorgenommen und das Gültigkeitsdatum des übertragenen Titels versehentlich überschritten, so kann ebenfalls davon ausgegangen werden, dass der Empfänger die Unrichtigkeit der Übertragung erkennen konnte.
-Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom [… …] wurden der neue Abs. 7 eingefügt. Die Neuregelung ist aufgrund uneinheitlicher Verwaltungspraxis erforderlich. Mit ihr soll erreicht werden, dass in den Fällen, in denen die Voraussetzungen des § 84 Absatz 2 Satz 2 AufenthG vorliegen, auf Antrag des Ausländers die Wirkung des § 84 Absatz 2 Satz 2 AufenthG grundsätzlich (deklaratorisch) bescheinigt wird, vgl. A.84.2.2. B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
+Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom 01.04.2020 wurde der neue Abs. 7 eingefügt. Die Neuregelung ist aufgrund uneinheitlicher Verwaltungspraxis erforderlich. Mit ihr soll erreicht werden, dass in den Fällen, in denen die Voraussetzungen des § 84 Absatz 2 Satz 2 AufenthG vorliegen, auf Antrag des Ausländers die Wirkung des § 84 Absatz 2 Satz 2 AufenthG grundsätzlich (deklaratorisch) bescheinigt wird, vgl. A.84.2.2. B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
 § 59 a dient der Umsetzung von Art. 1 Nr. 4 und 8 der RL 2011/51/EU bzw. Art. 8, 12 und 19a der geänderten Daueraufenthaltsrichtlinie (RL 2003/109/EG).
 Danach muss gem. § 59 a Abs. 1 bei Erteilung einer Erlaubnis zum Daueraufenthalt- EU nach § 9a an einen Ausländer, dem internationaler Schutz gewährt wurde, im Eintragungsfeld „Anmerkungen“ folgender Hinweis aufgenommen werden: „Durch DEU am [Datum Datum] internationaler Schutz gewährt.“
 Stellen wir einem Ausländer eine Erlaubnis zum Daueraufenthalt- EU nach § 9a aus, der bereits über eine von einem anderen Mitgliedstaat ausgestellte Erlaubnis zum Daueraufenthalt- EU verfügt (zur Begrifflichkeit in der jeweiligen Landessprache vgl. A.38a.0), welche einen dem o.g. Hinweis vergleichbaren Passus enthält, so sind wir verpflichtet, gem. § 39 a Abs. 2 denselben Hinweis einzutragen. Vor der Eintragung des Hinweises ist der Mitgliedstaat gem. § 91 c Abs. 1 a AufenthG zu konsultieren (vgl. dort). Wurde der internationale Schutz aberkannt, ist der Hinweis nicht einzutragen. Der Eintrag lautet in der jeweiligen Landessprache wie folgt:
@@ -338,11 +337,11 @@ Die iranischen Behörden verlangen von weiblichen iranischen Staatsangehörigen 
 Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). § 60 Abs. 2 AufenthV regelt, dass Ausländer, für die ein Dokument ausgestellt werden soll, ein aktuelles Lichtbild vorlegen müssen. Ein Lichtbild ist nach richtiger Auffassung auch dann aktuell, wenn der Ausländer nach wie vor so aussieht, wie auf dem mitgebrachten Lichtbild.
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 frei
-E-Mail an die VAB-Redaktion
 VAB B.AufenthV.61a. - 84. Datenverarbeitung,
 Ordnungswidrigkeiten, Schlussvorschriften
 Inhaltsverzeichnis
 B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten, Schlussvorschriften
+(04.07.2013; 25.03.2020)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
 B.AufenthV.63. Ausländerdatei A
@@ -365,11 +364,10 @@ B.AufenthV.83. Erfüllung ausweisrechtlicher Verpflichtungen
 B.AufenthV.84. Beginn der Anerkennung von Forschungseinrichtungen
 B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten,
 Schlussvorschriften
-(8. ÄndVO AufenthV; 04.07.2013)
+(04.07.2013; 25.03.2020)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
 In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg.
-Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht.
-Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
+Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht. Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
 frei
 B.AufenthV.63. Ausländerdatei A
@@ -396,7 +394,8 @@ B.AufenthV.79. Anwendung auf Freizügigkeitsberechtigte
 Das Visum eines freizügigkeitsberechtigten drittstaatsangehörigen Familienangehörigen eines Unions- oder EWR-Bürgers bedarf nicht unserer Zustimmung. § 31 ist auf Unionsbürger und EWR-Bürger, sowie ihre Familienangehörigen, nicht anwendbar. Abweichend dazu beachte B.AufenthV.28.2.4. für Schweizer und ihre Familienangehörigen. B.AufenthV.80. Übergangsvorschriften für die Verwendung von Vordrucken
 aufgehoben
 B.AufenthV.81. Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
-Vor dem Inkrafttreten des 2. ÄndG ausgestellte Reiseausweise mit einer Gültigkeitsdauer von mehr als einem Jahr behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung. Dies gilt auch für vor dem Inkrafttreten ausgestellte Schülersammellisten und Standardreisedokumente für die Rückführung sowie für nach § 14 Abs. 1 Nr. 1 DVAuslG ausgestellte Reisedokumente. B.AufenthV.82. - 82a. Übergangsregelung zur Führung von Ausländerdateien und aus Anlass des
+frei
+B.AufenthV.82. - 82a. Übergangsregelung zur Führung von Ausländerdateien und aus Anlass des
 Richtlinienumsetzungsgesetzes
 frei
 B.AufenthV.82b. Übergangsregelung zur Zustimmung der Ausländerbehörde zur Visumerteilung in den Fällen des § 31 Abs. 1 S.1 Nr. 1 und 2 AufenthV
@@ -405,4 +404,3 @@ B.AufenthV.83. Erfüllung ausweisrechtlicher Verpflichtungen
 frei
 B.AufenthV.84. Beginn der Anerkennung von Forschungseinrichtungen
 frei
-E-Mail an die VAB-Redaktion

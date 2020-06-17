@@ -9,7 +9,7 @@ A.19c. Sonstige Beschäftigungszwecke; Beamte
 19c.3.
 19c.4. Tätigkeit im Beamtenverhältnis zu einem deutschen Dienstherrn
 A.19c. Sonstige Beschäftigungszwecke; Beamte
-(FEG; 01.03.2020)
+(FEG; 11.06.2020)
 19c.0.
 § 19c fasst als Grundsatznorm verschiedenen besondere Zwecke der Beschäftigung zusammen. Dies betrifft zum einen Beschäftigungen, die nicht zwingend eine qualifizierte Berufsausbildung voraussetzen. Darüber hinaus können Ausländer mit berufspraktischen Kenntnissen, aber ohne qualifizierte Ausbildung über diese Norm einen Titel erhalten. Daneben finden sich Regelungen zu Beschäftigungen aus besonderen Gründen und zu Beamten.
 19c.1.
@@ -20,7 +20,13 @@ Zunächst ist zu prüfen, ob für den Ausländer die Erteilung einer Aufenthalts
 Die allgemeinen Erteilungsvoraussetzungen insbesondere der §§ 5, 10, 11 Abs. 1 müssen vorliegen.
 Es ist dann in der Beschäftigungsverordnung zu prüfen, ob der Ausländer zu der Ausübung dieser Beschäftigung zugelassen werden kann. Dies betrifft z.B. § 11 BeschV, § 12 BeschV, § 13 BeschV, § 15a BeschV, § 15b BeschV, § 15c BeschV, § 22 BeschV § 25 BeschV, § 26 BeschV, § 29 BeschV. Ergibt sich die Zulassung nicht aus der Beschäftigungsverordnung, ist der Antrag abzulehnen. Bestehen Zweifel darüber, ob die Beschäftigung zugelassen werden kann, ist die BA gemäß § 72 Abs. 7 zu beteiligen. Ist die Ausübung der Beschäftigung in der Beschäftigungsverordnung zugelassen, ist die BA ebenfalls zu beteiligen. Die BA prüft in diesem Zusammenhang in eigener Zuständigkeit, ob der Ausländer hinreichend qualifiziert ist, die Beschäftigung auszuüben. Stimmt die BA nicht zu, ist der Antrag abzulehnen. Stimmt die BA zu, kann die Ausländerbehörde den Titel nach § 19c Abs. 1 erteilen.
 Der Behörde steht insoweit Ermessen zu. Das Ermessen kann bei Zustimmung der BA grundsätzlich zu Gunsten des Ausländers ausgeübt werden. Etwas anderes gilt mit Ausnahme von Au- Pair- Tätigkeiten (§ 12 BeschV) grundsätzlich, wenn durch die Vollerwerbstätigkeit kein für die Lebensunterhaltssicherung ausreichendes Einkommen erzielt wird, sondern der Lebensunterhalt etwa durch Abgabe einer Verpflichtungserklärung oder sonst. Vermögen ergänzend gesichert wird. Hier ist das Ermessen zur Verhinderung von sog. Dumpinglöhnen regelmäßig zu Lasten des Antragstellers auszuüben. In den Fällen in denen der Ausländer lediglich teilerwerbstätig ist, ist einzelfallbezogen zu prüfen ob der Lebensunterhalt perspektivisch gänzlich durch Beschäftigung gesichert werden kann oder an der Teilerwerbstätigkeit ein besonderes öffentliches Interesse besteht.
-19c.2.
+Der Aufenthaltstitel kann in den Fällen des § 19 c Abs. 1 mit folgenden Nebenbestimmungen versehen werden:
+Beschäftigung nicht erlaubt mit Ausnahme der Tätigkeit als….. bei…..
+Selbständige Tätigkeit erlaubt.
+Erlischt bei Leistungen nach dem SGB II oder SGB XII bzw. AsylblG
+Erlischt mit Beendigung oder Abbruch der Tätigkeit als… bei…..
+Nach 2jähriger versicherungspflichtigen Beschäftigung ist Beschäftigung jeder Art erlaubt.
+Sollte ein Arbeitsverhältnis während der Gültigkeit des Titels gekündigt werden, hat der Arbeitnehmer im Rahmen seiner gesetzlichen Kündigungsfrist Zeit, einen Antrag zu stellen. Dieser entfaltet Fiktionswirkung nach § 81 (4). 19c.2.
 Absatz 2 schafft mit Inkrafttreten des Fachkräfteeinwanderungsgesetzes zum 1.3.2020 erstmals die Möglichkeit, Ausländern mit ausgeprägten berufspraktischen Kenntnissen ohne formale Qualifikation als Fachkraft eine Aufenthaltserlaubnis zu erteilen. Auch wenn der Wortlaut etwas missverständlich formuliert ist, kommt § 19c Abs. 2 nur nachrangig zu §§ 18a und b zur Anwendung. Hierfür bedarf es allerdings immer der Zustimmung der BA oder einer zwischenstaatlichen Vereinbarung. Mangels anderer Regelungen ist § 19c Abs. 2 derzeit ausschließlich für Tätigkeiten im Bereich der Informations- und Kommunikationstechnologie eröffnet und dann auch nur, wenn es sich um eine qualifizierte Beschäftigung handelt. Die näheren Voraussetzungen für die Zustimmung der Bundesagentur für Arbeit ergeben sich aus § 6 BeschV (vgl. B.BeschV.6. ).
 Das BMAS kann nach § 42 Abs. 1 Nr. 2 weitere Berufsgruppen in den Katalog der Beschäftigungen, zu denen eine Zustimmung der BA für eine qualifizierte Beschäftigung unabhängig von der Qualifikation als Fachkraft erteilt werden kann, aufnehmen. Dafür ist jeweils eine Änderung der BeschV erforderlich.
 19c.2.1.
