@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(04.02.2020; 20.02.2020; FEG)
+(20.02.2020; FEG; 20.08.2020)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -58,7 +58,7 @@ A.2. Begriffsbestimmungen
 2.13. International Schutzberechtigter
 2.14. Fluchtgefahr bei Anwendung der Dublin-III-Verordnung
 A.2. Begriffsbestimmungen
-(04.02.2020; 20.02.2020; FEG)
+(20.02.2020; FEG; 20.08.2020)
 Pfändungsfreigrenzen
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -247,21 +247,26 @@ Soweit bei Erteilung oder Verlängerung der Aufenthaltserlaubnis im Ermessen nac
 Merke: Diese großzügige Ermessensleitlinie gilt ausschließlich für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis. Voraussetzung für die Erteilung einer Niederlassungserlaubnis ist regelmäßig, dass der Lebensunterhalt nach dem aktuellen Maßstab vollständig gesichert ist (vgl. auch BVerwG, Urteil vom 16.11.2010 - 1C 21.09 -). So ist für die endgültige Aufenthaltsverfestigung regelmäßig eine vollständige wirtschaftliche Integration zu verlangen und insoweit auch das Ermessen gemäß § 5 Abs. 3 Satz 2 zu Lasten des Antragstellers auszuüben, wenn der Lebensunterhalt nicht nach den allgemeinen Maßstäben gesichert ist.
 Zum Absehen vom Erwerbstätigenfreibetrag in bestimmten Fällen des Familiennachzugs vgl. A.2.3.4.1., zum Absehen von der Werbungskostenpauschale bei Selbstständigen und sonst nicht gesetzlich Versicherten vgl. A.2.3.1.12..
 2.3.2. Unschädliche öffentliche Mittel
-Die Inanspruchnahme der in § 2 Abs. 3 S. 2 Nr. 1- 7 genannten Leistungen wertet das Gesetz nicht als Inanspruchnahme öffentlicher Mittel im Sinne des § 2 Abs. 3 S. 1. Hierzu im Einzelnen:
+Die Inanspruchnahme der in § 2 Abs. 3 S. 2 Nr. 1-7 genannten Leistungen wertet das Gesetz nicht als Inanspruchnahme öffentlicher Mittel im Sinne des § 2 Abs. 3 S. 1. Hierzu im Einzelnen:
 2.3.2.1. Kindergeld
 Der Bezug von Kindergeld ist nach § 2 Abs. 3 S. 2 Nr. 1 unschädlich. Ein ausländischer Staatsangehöriger erhält Kindergeld nur, wenn er im Besitz
-einer Niederlassungserlaubnis,
-einer Aufenthaltserlaubnis ist, die zur Ausübung einer Erwerbstätigkeit berechtigt oder berechtigt hat, es sei denn, die Aufenthaltserlaubnis wurde
-a) nach § 16 oder 17 erteilt,
-b) nach § 18 Abs. 2 erteilt und die Zustimmung der Bundesagentur für Arbeit darf nach der BeschV nur für einen bestimmten Höchstzeitraum erteilt werden (§§ 18 – 22, 26, 31, 36, 39 und 40 BeschV),
-c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a, 24, 25 Abs. 3 bis 5 erteilt, oder einer nach Buchstabe c) erteilten Aufenthaltserlaubnis ist und
-a) sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhält und
-b) im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen nach dem Dritten Sozialgesetzbuch bezieht oder Elternzeit in Anspruch nimmt.
-Auch Inhaber einer Aufenthaltserlaubnis, die nach § 104a Abs. 1 S. 1 erteilt bzw. nach § 23 Abs. 1 S. 2 ggf. i.V.m. § 104a Abs. 5, Abs. 6 verlängert wurde, erhalten Kindergeld.
+1. einer Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt-EU,
+2. einer Aufenthaltserlaubnis, einer Blauen Karte EU, einer ICT-Karte oder einer Mobiler ICT-Karte ist, die für einen Zeitraum von mindestens sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigt oder berechtigt hat oder diese erlaubt, es sei denn, die Aufenthaltserlaubnis wurde
+a) nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des
+Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20 Absatz 1 und 2 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+b) nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des
+Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
+c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a, 24, 25 Abs. 3 bis 5 erteilt,
+3. einer in Nr. 2 Buchstabe c) genannten Aufenthaltserlaubnis ist und
+im Bundesgebiet berechtigt erwerbstätig ist oder
+Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder
+laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch nimmt, oder
+sich seit mindestens 15 Monaten erlaubt, gestattet oder geduldet im Bundesgebiet aufhält
+oder
+4. einer Beschäftigungsduldung gemäß § 60d in Verbindung mit § 60a Absatz 2 Satz 3 des Aufenthaltsgesetzes ist. Auch Inhaber einer Aufenthaltserlaubnis, die nach § 104a Abs. 1 S. 1 erteilt bzw. nach § 23 Abs. 1 S. 2 ggf. i.V.m. § 104a Abs. 5, Abs. 6 verlängert wurde, erhalten Kindergeld.
 Staatsangehörige der EU und des EWR sowie Staatsangehörige der Schweiz können Kindergeld unabhängig davon erhalten, ob sie eine NE oder AE besitzen.
 Das Gleiche gilt für Staatsangehörige Serbiens und Montenegros, Bosnien-Herzegowinas, Mazedoniens, Marokkos, Tunesiens und der Türkei auf der Grundlage der jeweiligen zwischenstaatlichen Abkommen, wenn sie in Deutschland als Arbeitnehmer arbeitslosenversicherungspflichtig beschäftigt sind oder beispielsweise Arbeitslosengeld bzw. Krankengeld beziehen. In diesen Fällen ist eine Bescheinigung der Familienkassen der Arbeitsagenturen über den Kindergeldanspruch zu fordern, wenn es auf den Kindergeldanspruch ankommt.
-Mit dem 3. Artikel des Steueränderungsgesetzes 2007 vom 19.07.2006 wurde das Bundeskindergeldgesetz mit Wirkung vom 01.01.2007 im Hinblick auf die Bezugsdauer geändert. Die Höchstdauer für den Bezug von Kindergeld für Kinder ab dem Geburtsjahrgang 1983 wurde vom 27. auf das 25.Lebensjahr herabgesetzt. Kinder, die im Kalenderjahr 2006 das 24. Lebensjahr vollendet haben (Geburtsjahrgang 1982) können bis zur Vollendung des 26. Lebensjahres berücksichtigt werden, Kinder, die 2006 das 25. oder 26. Lebensjahr vollendet haben (Jahrgänge 1981 und 1980), bis zur Vollendung des
-27. Lebensjahres.
+Nach dem Bundeskindergeldgesetz kann Kindergeld maximal bis zur Vollendung des 25. Lebensjahres bezogen werden.
 Die Höhe des Kindergeldanspruchs kann ggf. bei der Familienkasse der Arbeitsagenturen erfragt werden.
 2.3.2.2. Kinderzuschlag
 Kindergeld ist nicht zu verwechseln mit einem Kinderzuschlag gemäß § 6a des Bundeskindergeldgeseztes (BKKG). Bei dem Kinderzuschlag handelt es sich zwar um Leistungen aus öffentlichen Mitteln, die nicht auf Beitragsleistungen beruhen und nicht mit dem Kindergeld nach § 6 des BKKG gleichzusetzen sind. Dennoch ist der Bezug des Kinderzuschlags gemäß § 2 Abs. 3 Nr. 2 als unschädlich anzusehen und als sonstiges Einkommen in der Bedarfsberechnung miteinzubeziehen. Hierbei ist allerdings der Bezug in konkreter Höhe des Kinderzuschlags nachzuweisen.

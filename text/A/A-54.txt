@@ -20,7 +20,7 @@ Nummer 7:
 Nummer 8:
 Nummer 9:
 A.54. Ausweisungsinteresse
-(G zur Bekämpfung von Kinderehen; 2. ÄndGAusreisepflicht)
+(G zur Bekämpfung von Kinderehen; 2. ÄndGAusreisepflicht, 28.08.2020)
 § 54 konkretisiert und gewichtet die Ausweisungsinteressen, die in die Abwägung nach § 53 Abs. 1 einzubeziehen sind. Das Vorliegen eines der in § 54 normierten Interessen führt noch nicht zur Ausweisung des Betroffenen. Erst die Abwägung nach § 53 Abs. 1 unter umfassender Würdigung aller Umstände des Einzelfalles ergibt, ob das öffentliche Interesse an der Ausweisung überwiegt.
 54.1. Besonders schweres Ausweisungsinteresse
 In § 54 Abs. 1 werden Umstände aufgezählt, die dazu führen, dass das öffentliche Interesse an der Ausweisung besonders schwer wiegt, d.h. es sind Umstände aufgeführt, die grundsätzlich ein erhebliches Fehlverhalten des Ausländers belegen. Sind mehrere besonders schwere Ausweisungsinteressen erfüllt, verstärkt dies bei der Abwägung nach § 53 Abs. 1 das öffentliche Interesse an der Ausweisung (vgl. 53.1.1.).
@@ -31,7 +31,7 @@ Mit § 54 Abs. 1 Nr. 1 a begründet ein besonders schweres Ausweisungsinteresse 
 , in denen gewichtige Straftaten gegen höchstpersönliche Rechtsgüter, gegen Vollstreckungsbeamte oder serielle Straftaten gegen das Eigentum vorliegen (Nr. 1 a) oder Betrugsstraftaten zu Lasten eines Leistungs- oder Sozialversicherungsträgers nach dem Sozialgesetzbuch oder Straftaten nach dem Gesetz über den Verkehr mit Betäubungsmitteln begangen worden sind (Nr. 1 b). Nach Nr. 1a wiegt das Ausweisungsinteresse besonders schwer, wenn ein Ausländer wegen einer oder mehrerer vorsätzlicher Straftaten gegen
 a.) das Leben,
 b.) die körperliche Unversehrtheit,
-c.) die sexuelle Selbstbestimmung nach den §§ 174,176 bis 178, 181 a, 184 b, 184 d und jeweils in Verbindung mit § 184 b StGB,
+c.) die sexuelle Selbstbestimmung nach den §§ 174,176 bis 178, 181 a, 184 b, 184 d und 184 e jeweils in Verbindung mit § 184 h StGB. (Hier handelt es sich offensichtlich um ein redaktionelles Versehen im AufenthG. Es muss richtigerweise auf § 184 h StGB Bezug genommen werden.)
 d.) das Eigentum, sofern das Gesetz für die Straftat eine im Mindestmaß erhöhte Freiheitsstrafe vorsieht oder die Straftaten serienmäßig begangen wurden, oder
 e.) wegen Widerstandes gegen Vollstreckungsbeamte oder tätlichen Angriffs gegen Vollstreckungsbeamte rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist. Unerheblich ist, ob die Vollstreckung der Freiheits- oder Jugendstrafe zur Bewährung ausgesetzt worden ist.
 Folgende Straftatbestände sehen bei Eigentumsdelikten eine im Mindestmaß erhöhte Freiheitsstrafe vor: §§ 243 Abs. 1, 244, 244 a, 249 bis 252 StGB. Im Übrigen genügen bereits einfache Eigentumsdelikte (§§ 242 Abs. 1, 246 Abs. 1 StGB), für das Ausweisungsinteresse, sofern sie seriell begangen worden sind. Dies ist der Fall, wenn es zu mindestens drei rechtskräftigen Verurteilungen wegen solcher Taten gekommen ist. Die jeweils zur Anwendung kommenden Straftatbestände können der Paragrafenleiste im Strafurteil entnommen werden.

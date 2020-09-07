@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(19.07.2019; FEG; 25.03.2020)
+(FEG; 25.03.2020; 16.07.2020)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -14,6 +14,8 @@ B.AufenthV.46. Gebühren für das Visum
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
 B.AufenthV.48. Gebühren für pass- und ausweisrechtliche Maßnahmen
 B.AufenthV.49. Bearbeitungsgebühren
+B.AufenthV.49.1.
+B.AufenthV.49.2.
 B.AufenthV.50. Gebühren für Amtshandlungen zugunsten Minderjähriger
 B.AufenthV.51. Widerspruchsgebühr
 B.AufenthV.52. Befreiungen und Ermäßigungen
@@ -21,8 +23,8 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(19.07.2019; FEG; 25.03.2020)
-Merkblatt_Gebühren_Stand_01.09.2017
+(FEG; 25.03.2020; 16.07.2020)
+Merkblatt Gebühren_Stand 10.07.2020
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 Es ist zu beachten, dass die Gebührenregelungen die Erteilung eines eAT als Normalfall ansehen, d.h. dass sich alle Gebührentatbestände soweit in der Verordnung nicht ausdrücklich anders geregelt, immer auf die eAT-Ausstellung beziehen. Die demgegenüber speziellen Regelungen in Bezug auf den Ausnahmefall der Papiererteilung befinden sich in § 45b, § 47 Abs. 1 Nr. 11 (Übertrag als Papiertitel), § 47 Abs. 4 (Aufenthaltskarten EU in Papierform) und § 48 Abs. 1 Nr. 10-12 (Ausweisersatz in Papierform). Ein Auszug aus der Aufenthaltsverordnung n.F. zu den seit 01.09.2017 geltenden Gebühren ist in einem Merkblatt (s.o.) zusammengestellt.
@@ -55,8 +57,7 @@ einer Änderung von übrigen Angaben nach § 78 Abs. 1 s. 3 Nr. 1 bis 18 Aufenth
 des Verlustes der eAT-Karte,
 des Verlustes der technischen Funktionsfähigkeit der Karte und der Defakt auf einem unsachgemäßen Gebrauch bzw. auf einer unsachgemäßen Verwendung des Ausländers beruht oder
 der Beantragung nach § 105b S. 2 AufenthG.
-Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
-B.AufenthV.46. Gebühren für das Visum
+Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. B.AufenthV.46. Gebühren für das Visum
 frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
 B.AufenthV.47.1. Für die von Amts wegen ergangene Befristung eines Einreise- und Aufenthaltsverbots nach § 11 AufenthG wird keine Gebühr erhoben, während für deren nachträgliche Aufhebung, Verkürzung oder Verlängerung 169 Euro zu erheben sind. Dies gilt allerdings nicht für die Fälle, in denen das Einreise- und Aufenthaltsverbot nach § 11 Abs. 4 Satz 2 AufenthG aufgehoben werden soll (z.B. Aufhebung eines nach § 11 Abs. 7 AufenthG durch das BAMF verfügten Einreise- und Aufenthaltsverbotes bei Erteilung einer AE nach § 23a AufenthG). Denn § 47 Abs. 1 Nr. 1a erlaubt die Erhebung einer Gebühr ausschließlich für die Fälle der Aufhebung oder Verkürzung nach § 11 Abs. 4 Satz 1 AufenthG. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 18 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
@@ -67,13 +68,24 @@ Zu beachten sind die unterschiedlichen Gebührensätze für biometrische und vor
 Die Gebührenregelungen in § 48 Abs. 1 Nr. 10, 11 und 12 hinsichtlich der Erteilung bzw. Verlängerung eines Ausweisersatzes betreffen nur die Fälle, in denen nach § 48 Abs. 2 i.V.m. § 78a Abs. 4 AufenthG ein Ausweisersatz in Papierform erteilt bzw. verlängert wird.
 Mit § 48 Abs. 1 Nr. 15 ist eine Gebührenregelung für die Fälle eingeführt, in denen ein (bereits vorhandener) eAT nachträglich als Ausweisersatz ausgestellt werden soll (§ 78 Abs. 1 S. 4 i.V.m. § 78 Abs. 2 AufenthG). In diesen Fällen ist eine neue eAT-Karte zu bestellen. Für diese Neuausstellung beträgt die Gebühr 72 Euro (Hiervon sind die Fälle zu unterscheiden, in denen ein eAT von Beginn an direkt als Ausweisersatz ausgestellt wird. In diesen Fällen ist die Gebühr für die Ausstellung des Ausweisersatzes bereits mit der Gebühr für die Erteilung des Titels abgegolten). Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. Zur „doppelten“ Gebührenerhebung bei Zuzug siehe A.69.1.1.
 B.AufenthV.49. Bearbeitungsgebühren
+Die Gebührenregelungen sehen die Erteilung eines eAT als Normalfall an, d.h. dass sich alle Gebührentatbestände soweit in der Aufenthaltsverordnung nicht ausdrücklich anders geregelt, immer auf die eAT-Ausstellung beziehen.
+Die demgegenüber speziellen Regelungen in Bezug auf den Ausnahmefall der Papiererteilung befinden sich in § 45b (Gebühren für Aufenthaltstitel in Ausnahmefällen), § 47 Abs. 1 Nr. 11 (Übertrag als Papiertitel), § 47 Abs. 4 (Aufenthaltskarten EU in Papierform) und § 48 Abs. 1 Nr. 10-12 (Ausweisersatz in Papierform).
+Die Pflicht zur Zahlung dieser Bearbeitungsgebühren entsteht grundsätzlich bereits bei Vorliegen eines Antrages mit dessen Eingang, jedoch spätestens mit der Vollendung der Amtshandlung.
+Der Sache nach stellt die Bearbeitungsgebühr eine Art Vorschuss dar, der mit der eigentlichen Gebührenschuld nach Vornahme der Amtshandlung verrechnet wird.
+Tatbestände zur Befreiung und Ermäßigungen von den Bearbeitungsgebühren gem. §§ 50, 52, 52a und 53 AufenthV sind zu beachten.
+Die Bearbeitungsgebühren werden bei Rücknahme des Antrags nicht erstattet.
+B.AufenthV.49.1.
 Wird eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-EU beantragt und ist zum Zeitpunkt der Gebührenerhebung davon auszugehen, dass der Titel gem. § 78a Abs. 1 S. 1 Nr. 2 AufenthG in Form eines Etiketts ausgestellt wird, bemisst sich die Bearbeitungsgebühr wie folgt:
 Von der Gebührenerhebung gem. § 44 resp. § 44a ist entsprechend § 45b Abs. 2 ein Abzug in Höhe von 44,00 Euro vorzunehmen. Dieser Betrag ist dann gemäß § 49 Abs.1 zu halbieren.
 Im Falle eines Wechsels der örtlichen Zuständigkeit, z.B. bei Wohnortwechsel des Ausländers, nach Erhebung der Bearbeitungsgebühr gibt es keinen Erstattungsanspruch gegenüber der vorher zuständigen ABH (vgl. § 49 Abs. 4). Mit der Neuregelung wird zur Vermeidung von zusätzlichem Verwaltungsaufwand klargestellt, dass keine weitere Gebührenzahlung zu erheben ist. Ferner wird festgelegt, dass aus Gründen der Verwaltungsvereinfachung eine behördeninterne Erstattung an die nunmehr örtlich zuständige Behörde nicht stattfindet.
+B.AufenthV.49.2.
+In allen übrigen Fällen, in denen gebührenpflichtige Amtshandlungen beantragt werden, sind Bearbeitungsgebühren in voller Höhe der in den §§ 45 bis 48 Abs. 1 und § 52 a AufenthV aufgeführten Beträge, zu erheben.
 B.AufenthV.50. Gebühren für Amtshandlungen zugunsten Minderjähriger
 § 50 Abs. 1 S. 1 regelt allgemein die Gebührenermäßigungen bei Amtshandlungen zugunsten Minderjähriger, soweit diese nicht besonders in § 50 Abs. 1 S. 2 bzw. Abs. 2 geregelt sind.
 Merke: Bei der Erteilung von Niederlassungserlaubnissen gem. § 26 Abs. 4 S. 4 i.V.m. § 35 Abs. 1 S. 1 AufenthG handelt es sich um einen Aufenthaltstitel nach dem 5. Abschnitt des AufenthG (Aufenthalt aus humanitären Gründen), bei dem § 35 lediglich entsprechend zur Anwendung kommt. Demnach ist 50 Abs. 1 S. 2 nicht einschlägig und beträgt die Gebühr gem. § 50 Abs. 1 S. 1 i.V.m. § 44 Nr. 3 deshalb 56,50 Euro. Aus diesem Grunde wird als Rechtsgrundlage auch § 26 Abs. 4 und nicht § 35 eingetragen.
-Bei der Erteilung einer Niederlassungserlaubnis nach § 35 Abs. 1 S. 1 AufenthG ist eine Gebühr in Höhe von 55 Euro zu erheben und zwar unabhängig davon, in welcher Form die Niederlassungserlaubnis ausgegeben wird. Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahres zahlen für die Aufenthalts- oder Daueraufenthaltskarte eine Gebühr von 22,80 Euro. Die bisherige doppelte Privilegierung Minderjähriger bis 18 Jahre bei der zu entrichtenden hälftigen Gebühr der ohnehin bereits über § 47 Abs. 3 S. 2 bereits reduzierten Gebühr wurde mit der 8.Verordnung zur Änderung der AufenthV mit Blick auf die Produktionskosten bei der Bundesdruckerei und auf gleichaltrige nationale Antragsteller, die für einen Personalausweis 22,80 Euro entrichten müssen, aufgehoben. Die Gebühr für die Bestätigung auf einer Schülersammelliste beträgt 12,00 € pro erwachsenem (Berufs-)Schüler (§ 48 Abs. 1 Nr. 7). Für minderjährige Schüler ermäßigt sich die Gebühr nach § 50 Abs. 1 S. 1 auf 6,00 € je Reisendem. B.AufenthV.51. Widerspruchsgebühr
+Bei der Erteilung einer Niederlassungserlaubnis nach § 35 Abs. 1 S. 1 AufenthG ist eine Gebühr in Höhe von 55 Euro zu erheben und zwar unabhängig davon, in welcher Form die Niederlassungserlaubnis ausgegeben wird.
+Minderjährige wie auch junge Volljährige bis zum Erreichen des 24. Lebensjahres zahlen für die Aufenthalts- oder Daueraufenthaltskarte eine Gebühr von 22,80 Euro. Die bisherige doppelte Privilegierung Minderjähriger bis 18 Jahre bei der zu entrichtenden hälftigen Gebühr der ohnehin bereits über § 47 Abs. 3 S. 2 bereits reduzierten Gebühr wurde mit der 8.Verordnung zur Änderung der AufenthV mit Blick auf die Produktionskosten bei der Bundesdruckerei und auf gleichaltrige nationale Antragsteller, die für einen Personalausweis 22,80 Euro entrichten müssen, aufgehoben. Die Gebühr für die Bestätigung auf einer Schülersammelliste beträgt 12,00 € pro erwachsenem (Berufs-)Schüler (§ 48 Abs. 1 Nr. 7). Für minderjährige Schüler ermäßigt sich die Gebühr nach § 50 Abs. 1 S. 1 auf 6,00 € je Reisendem.
+B.AufenthV.51. Widerspruchsgebühr
 Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpflichtigen Amtshandlung vor dem 01.09.2011 Widerspruch erhoben, aber erst nach dem 01.09.2011 über den Widerspruch entschieden, so bemessen sich die nach § 51 Abs. 1 Nr. 1 zu erhebenden Gebühren nach der vor dem 01.09.2011 geltenden Rechtslage.
 B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
@@ -136,7 +148,8 @@ PERU
 Universidad Católica del Perú
 Der Nachweis ist von den Begünstigten durch Vorlage der Einladung, des Bescheides über die Stipendiumgewährung oder einer Bescheinigung der betreuenden Stelle zu führen.
 B.AufenthV.52.5.1.1. bis B.AufenthV.52.5.2. frei
-B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden. B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
+B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden.
+B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
 Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
 Medizinal- und Medizinalhilfspersonen, die im Rahmen der Entwicklungshilfe oder des Kulturprogramms des Landes Berlin von dem für das Gesundheitswesen zuständigen Mitglied des Senats zur Aus- oder Fortbildung beschäftigt werden,
 Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
@@ -166,8 +179,7 @@ Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
 Personengruppen, die in den Art. 5 und 14 des Deutsch-Russischen Regierungsabkommens über Reiserleichterungen genannt sind.
 Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
-Mitarbeiter der Türkisch-Zypriotischen Repräsentanz in der Bundesrepublik Deutschland sowie
-deren Ehegatten und minderjährigen ledigen Kinder
+Mitarbeiter der Türkisch-Zypriotischen Repräsentanz in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 Inhaber von Diplomatenpässen für die Verlängerung eines Visums gem. § 6 Abs.3 AufenthG
 B.AufenthV.52. 8.
 Gem. dem Abs. 8 sind Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstatten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28.09.2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), u.a. von den Gebühren für die Verlängerung eines Schengen-Visums im Bundesgebiet befreit (§ 46 Nr. 2).

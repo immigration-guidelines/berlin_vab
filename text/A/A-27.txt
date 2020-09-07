@@ -2,7 +2,7 @@ VAB A 27
 VAB A 27
 Inhaltsverzeichnis
 A.27. Grundsatz des Familiennachzugs
-(FzNeuG; 20.02.2020; FEG)
+(20.02.2020; FEG; 16.07.2020)
 27.0. Allgemeines
 27.1a.1.1. Zwei Fallgruppen
 27.1a.2. Bekämpfung von Zwangsverheiratungen
@@ -11,7 +11,7 @@ A.27. Grundsatz des Familiennachzugs
 27.3a. Versagungsgründe
 27.4.0. Geltungsdauer der Aufenthaltserlaubnis
 A.27. Grundsatz des Familiennachzugs
-(FzNeuG; 20.02.2020; FEG)
+(20.02.2020; FEG; 16.07.2020)
 27.0. Allgemeines
 In den Fällen, in denen einem Ausländer eine Aufenthaltserlaubnis aus familiären Gründen erteilt wird, ist die maßgebliche Rechtsgrundlage immer bei den §§ 28 ff. zu finden, ohne dass es auf den Titel des bereits hier aufhältlichen Nachzugsberechtigten ankommt.
 27.1. Zur Erteilung zur Herstellung der familiären Lebensgemeinschaft in Fällen, in denen noch keine gemeinsame Wohnung bzw. Meldeanschrift besteht, siehe A.29.1.2.
@@ -34,9 +34,8 @@ Da die Absicht der Herstellung und Wahrung der familiären Lebensgemeinschaft im
 Die Regelung des § 27 Abs. 1a Nr. 1 betrifft insofern im Wesentlichen zwei Fallgruppen:
 Zum einen den Fall, dass ein deutscher Mann oder ein Mann mit gesichertem Aufenthaltsstatus die Vaterschaft für das Kind einer unverheirateten ausländischen Mutter ohne gesicherten Aufenthalt anerkennt, so dass das Kind kraft Abstammung von einem deutschen Staatsangehörigen bzw. gemäß § 4 Abs. 3 StAG die deutsche Staatsangehörigkeit erwirbt bzw. erworben hat (Fallgruppe 1).
 Zum anderen den Fall, dass ein ausländischer Mann ohne gesicherten Aufenthalt die Vaterschaft für das Kind einer unverheirateten Deutschen oder einer unverheirateten Ausländerin mit gesichertem Aufenthalt anerkennt, welches kraft Abstammung von einer deutschen Staatsangehörigen bzw. gemäß § 4 Abs. 3 StAG die deutsche Staatsangehörigkeit erworben hat (Fallgruppe 2). Nur wenn in einem geregelten Verfahren gemäß § 1597a BGB i.V.m. § 85a festgestellt wurde, dass das Verwandtschaftsverhältnis zu einem minderjährigen ledigen Kind durch eine missbräuchliche Vaterschaftsanerkennung zustande gekommen ist, ist der Familiennachzug zu diesem Kind nicht zuzulassen. Zum Verfahren selbst beachte A.85a.
-Umstritten ist, ob von der Vorschrift auch der Fall einer rechtsmissbräuchlichen Vaterschaftsanerkennung eines deutschen Staatsangehörigen für das Kind einer Ausländerin umfasst wird. Dies hat der Verwaltungsgerichtshof München mit Urteil vom 11.03.2019 – 19 BV 16.937 verneint und eine vorherige anderslautende Entscheidung des VG Ansbach, Urteil vom 24.03.2016 – AN 5 K 14.428 aufgehoben. Gegen die Entscheidung ist die Revision beim Bundesverwaltungsgericht unter dem Aktenzeichen BVerwG 1 C 12.19 anhängig.
-Entgegen der noch offenen Entscheidung ist der Aufenthaltstitel nicht zu versagen, sondern bei Vorliegen der Voraussetzungen zu erteilen.
-In laufenden Verwaltungsstreitverfahren sind die Kläger klaglos zu stellen.
+Nicht von der Vorschrift erfasst, wird der Fall einer rechtsmissbräuchlichen
+Vaterschaftsanerkennung eines deutschen Staatsangehörigen für das Kind einer Ausländerin. Dies hat das BVerwG mit dem Urteil vom 26.05.2020 - 1 C 12.19 - nun klargestellt. Denn die Anerkennung der Vaterschaft eines Kindes durch einen Deutschen mit dem Ziel, der ausländischen Mutter des Kindes den Familiennachzug zu ermöglichen, begründet weder zwischen dem Anerkennenden und der ausländischen Mutter noch zwischen dieser und ihrem Kind das nach § 27 Abs. 1a Nr. 1, 2. Alt. AufenthG erforderliche Verwandtschaftsverhältnis.
 27.1a.2. Bekämpfung von Zwangsverheiratungen
 Der Bekämpfung von Zwangsverheiratungen dient die Regelung in § 27 Abs. 1a Nr. 2., wonach ein Ausschlussgrund vorliegt, wenn tatsächliche Anhaltspunkte die Annahme begründen, dass einer der Ehegatten zur Eingehung der Ehe genötigt wurde. Danach müssen im Einzelfall konkrete Anhaltspunkte vorhanden sein, es kommt nicht darauf an, ob nach den vorliegenden Erkenntnissen bei bestimmten Herkunftsländern solche Ehen nicht nur vereinzelt vorkommen. Abzugrenzen sind Zwangsverheiratungen von arrangierten Ehen, denen eine freie Entscheidung der Eheschließenden zugrunde liegt. Ob die Möglichkeit bestand bzw. gesehen wurde, eine eigenständige Entscheidung zu treffen, ist allerdings schwer feststellbar. Da es Aufgabe der Ausländerbehörde ist, die tatsächlichen Anhaltspunkte darzulegen und zu belegen, ist im Zweifel nicht von einer Zwangsverheiratung auszugehen.
 27.2. lebenspartnerschaftliche Gemeinschaft

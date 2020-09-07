@@ -2,13 +2,13 @@ VAB A 25b
 VAB A 25b
 Inhaltsverzeichnis
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; FEG; 05.03.2020)
+(FEG; 05.03.2020; 16.07.2020)
 25.b.0.
 25b.1.1. Erteilungsvoraussetzungen
 25b.1.2. Regelmäßig zu erfüllende Voraussetzungen
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 25b.1.2.2.1. Bekenntnis zur freiheitlich-demokratischen Grundordnung
-25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 274
+25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 275
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 25b.1.2.4. Sprachkenntnisse
 25b.1.2.5. Schulbesuch
@@ -21,7 +21,7 @@ A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.5. Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
 25b.6. Übergang aus der Beschäftigungsduldung, § 60d
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(VAB-Kommission 2018/19; G über Duldung bei Ausbildung und Beschäftigung; FEG; 05.03.2020)
+(FEG; 05.03.2020; 16.07.2020)
 Checkliste § 25b Abs. 1
 Checkliste § 25b Abs. 4
 25.b.0.
@@ -29,10 +29,10 @@ Durch die Regelung in § 25b wird eine alters- und stichtagsunabhängige Bleiber
 Wenn die Voraussetzungen des § 25b vorliegen, soll die Aufenthaltserlaubnis erteilt werden, d.h. nur in Ausnahmefällen kann von der Titelerteilung abgesehen werden.
 Merke: Ein Ausnahmefall, der die Versagung der Aufenthaltserlaubnis im Ermessen rechtfertigt, liegt jedenfalls dann vor, wenn der ursprünglich erlaubte Aufenthalt mangels Erfüllung der Erteilungsvoraussetzungen – insbesondere der Regelerteilungsvoraussetzung des § 5 Abs. 1 Nr. 1 - beendet wurde. Die Erteilung der Aufenthaltserlaubnis in diesem Fall würde sonst eine Umgehung der sonstigen aufenthaltsrechtlichen Bestimmungen begünstigen.
 25b.1.1. Erteilungsvoraussetzungen
-Nach § 25b Absatz 1 Satz 1 muss der Aufenthalt des Ausländers nach § 60a geduldet sein
+Nach § 25b Absatz 1 Satz 1 muss der Aufenthalt des Ausländers nach § 60a geduldet sein.
 Geduldet ist ein Ausländer im Sinne der Vorschrift dann, wenn ihm eine rechtswirksame Duldung erteilt worden ist oder wenn er einen Rechtsanspruch auf eine Duldung hat. Ein Rechtsanspruch auf eine Duldung ist jedenfalls dann ohne weiteres ausreichend, wenn die Abschiebung im Sinne von § 60a Abs. 2 S. 1 aus tatsächlichen oder rechtlichen Gründen unmöglich ist. Da die Behörde bei Vorliegen dieser Voraussetzungen verpflichtet ist, dem Ausländer eine Duldung von Amts wegen zu erteilen, kann es diesem nicht zum Nachteil gereichen, wenn sie dieser Pflicht im Einzelfall trotz Vorliegens der Voraussetzungen nicht nachkommt und den Aufenthalt lediglich faktisch duldet (vgl. BVerwG, Urt. v. 18.12.2019 – 1 C 34.18-).
 Maßgeblicher Zeitpunkt für das Vorliegen der Duldung (oder des Anspruchs auf Duldung) ist nicht der Zeitpunkt der Antragstellung, sondern der Zeitpunkt der Erteilung bzw. Entscheidung über die Erteilung der Aufenthaltserlaubnis. Denn der Wortlaut der Norm enthält keinen Anhaltspunkt dafür, dass der Gesetzgeber vom allgemein maßgeblichen Zeitpunkt für ein einzelnes Tatbestandsmerkmal hätte abweichen wollen. Auch den Gesetzesmaterialien ist nichts zu entnehmen, was auf eine Vorverlagerung des Duldungserfordernisses auf den Antragszeitpunkt hindeutet. Normzweck und-struktur erfordern jedenfalls nicht zwingend, dass die Duldung bzw. der Duldungsgrund schon bei Antragstellung vorliegen muss (vgl. BVerwG, Urt. v. 18.12.2019 – 1 C 34.18-).
-..weggefallen... Mit der Schaffung des § 25b war beabsichtigt, die durch einen aktuell Geduldeten in der Vergangenheit erbrachten Integrationsleistungen anzuerkennen. Zeitliche Gewichtungen bzw. Abstufungen zwischen Duldung, Gestattung und Besitz einer Aufenthaltserlaubnis als anrechenbare Voraufenthaltszeit wurden gesetzlich nicht normiert, so dass nach dem klaren Wortlaut des Gesetzes alle so zurückgelegten Aufenthaltszeiten gleichberechtigt auf die sechs- bzw. achtjährige Mindestaufenthaltszeit anzurechnen sind (vgl. auch OVG Berlin-Brandenburg, Beschluss vom 23.05.2019, OVG 3 N. 142.19). Damit sind auch solche Ausländer vom Anwendungsbereich der Norm umfasst, die in der Vergangenheit für einen nicht unerheblichen Zeitraum im Besitz eines Aufenthaltstitels auch aus anderen als humanitären Gründen waren (vgl. BVerwG, Urt. V. 18.12.2019 – 1 C 34.18-).
+Mit der Schaffung des § 25b war beabsichtigt, die durch einen aktuell Geduldeten in der Vergangenheit erbrachten Integrationsleistungen anzuerkennen. Zeitliche Gewichtungen bzw. Abstufungen zwischen Duldung, Gestattung und Besitz einer Aufenthaltserlaubnis als anrechenbare Voraufenthaltszeit wurden gesetzlich nicht normiert, so dass nach dem klaren Wortlaut des Gesetzes alle so zurückgelegten Aufenthaltszeiten gleichberechtigt auf die sechs- bzw. achtjährige Mindestaufenthaltszeit anzurechnen sind (vgl. auch OVG Berlin-Brandenburg, Beschluss vom 23.05.2019, OVG 3 N. 142.19). Damit sind auch solche Ausländer vom Anwendungsbereich der Norm umfasst, die in der Vergangenheit für einen nicht unerheblichen Zeitraum im Besitz eines Aufenthaltstitels auch aus anderen als humanitären Gründen waren (vgl. BVerwG, Urt. V. 18.12.2019 – 1 C 34.18-).
 Auch der Besitz einer reinen Verfahrensduldung, genügt für den Titelerwerb nach § 25 b Abs. 1. Denn die bislang verbreitete Gegenauffassung findet keine hinreichende Anknüpfung im Gesetz. § 25b Abs. 1 S. 1 verlangt lediglich das Vorliegen einer Duldung, ohne dabei nach verschiedenen Duldungsgründen zu differenzieren. Auch der Verfahrensduldung kommt die einem Verwaltungsakt eigene Bindungs- und Tatbestandswirkung zu. Konsequenterweise ist die Zeit einer nur zur Durchführung eines Verfahrens erteilten Duldung dann auch bei dem nach Abs. 1 S. 2 Nr. 1 erforderlichen ununterbrochenen (u.a.) geduldeten Voraufenthalt zu berücksichtigen, zumal es insoweit an einer Sonderreglung fehlt, wie sie nunmehr etwa in § 60b Abs. 5 S. 1 für die Duldung mit dem Zusatz "für Personen mit ungeklärter Identität" getroffen worden ist (vgl. BVerwG, Urt. v. 18.12.2019 – 1 C 34.18-).
 Verfahrensduldungen sind vorwiegend:
 • die Duldung zur Durchführung des Härtefallverfahrens;
@@ -48,8 +48,9 @@ Die Erteilung einer Aufenthaltserlaubnis bei nachhaltiger Integration setzt gem�
 seit mindestens acht Jahren
 oder
 seit mindestens sechs Jahren, falls er aktuell zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt,
-ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Die häusliche Gemeinschaft mit minderjährigen Kindern setzt das tatsächliche Zusammenleben unter einer Wohnanschrift zum Zeitpunkt der Entscheidung über den AE-Antrag voraus, eine gelebte familiäre Lebens-gemeinschaft mit getrennten Wohnsitzen reicht nach dem Wortlaut der Vorschrift nicht aus. Ferner muss es sich bei den Kindern um die eigenen leiblichen bzw. Adoptivkinder handeln.
-Der zu berücksichtigende Voraufenthalt muss ununterbrochen gewesen sein; kurzfristige Unterbrechungen der Mindestaufenthaltsdauer von bis zu drei Monaten sollen nach der Gesetzesbegründung unschädlich sein. Bei längeren Unterbrechungen des Aufenthalts werden die Voraufenthaltszeiten vor dem Auslandsauf-enthalt nicht mehr berücksichtigt. Anrechenbar sind alle ununterbrochenen Voraufenthaltszeiten, in denen sich der Ausländer in asyl- oder aufenthaltsrechtlichen Verfahren, d. h. geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat.
+ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Als „geduldet“ sind auf Weisung von SenInnDS vom 19.05.2020 des weiteren Zeiträume anzurechnen, in denen der Betroffene einen Anspruch auf Duldung hatte, aber unverschuldet gehindert war, einen Duldungsantrag zu stellen. Dies gilt jedoch nicht für Zeiträume seit dem 06.08.2019, in denen lediglich ein Anspruch auf eine Duldung mit dem Zusatz "für Personen mit ungeklärter Identität" nach § 60b bestanden hätte (vgl. § 60b Absatz 5 Satz 1). Den für ihn günstigen Umstand, dass er unverschuldet an der Antragstellung gehindert war, hat der Ausländer nachzuweisen, § 82 Abs. 1 S. 1.
+Die häusliche Gemeinschaft mit minderjährigen Kindern setzt das tatsächliche Zusammenleben unter einer Wohnanschrift zum Zeitpunkt der Entscheidung über den AE-Antrag voraus, eine gelebte familiäre Lebens-gemeinschaft mit getrennten Wohnsitzen reicht nach dem Wortlaut der Vorschrift nicht aus. Ferner muss es sich bei den Kindern um die eigenen leiblichen bzw. Adoptivkinder handeln.
+Der zu berücksichtigende Voraufenthalt muss ununterbrochen gewesen sein; kurzfristige Unterbrechungen der Mindestaufenthaltsdauer von bis zu drei Monaten sollen nach der Gesetzesbegründung unschädlich sein. Bei längeren Unterbrechungen des Aufenthalts werden die Voraufenthaltszeiten vor dem Auslandsauf-enthalt nicht mehr berücksichtigt. Anrechenbar sind alle ununterbrochenen Voraufenthaltszeiten, in denen sich der Ausländer in asyl- oder aufenthaltsrechtlichen Verfahren, d. h. geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Zur Anrechnung von Zeiten vor dem 05.02.2016 beachte D.87c.2.
 Merke: Eine beachtliche Unterbrechungszeit liegt immer vor, wenn der Betreffende untergetaucht ist und sich dadurch seiner Abschiebung entzogen hat.
 Zum Absehen von der Aufenthaltsdauer bei Ehegatten, Lebenspartnern und minderjährigen Kindern vgl. A.25b.4.
 25b.1.2.2.1. Bekenntnis zur freiheitlich-demokratischen Grundordnung
