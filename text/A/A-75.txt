@@ -1,13 +1,14 @@
 VAB A 75
 VAB A 75
 A.75. Aufgaben des BAMF
-(23.11.2018; 2. ÄndG Ausreisepflicht)
+(23.11.2018; 2. ÄndG Ausreisepflicht; 22.10.2020)
 75.0. Normadressat ist das BAMF, dem auch die Aufgaben einer nationalen Kontaktstelle im Zusammenhang mit der Hochqualifizierten-, Daueraufenthalt-, Studenten- und Forscherrichtlinie sowie der Verordnung (EG) Nr. 810/ 2009 – Visakodex - (hier Art. 34) obliegen.
 75.1. bis 75.7. frei
 75.8. Das Bundesamtes für Migration und Flüchtlinge ist für das Aufnahmeverfahren zur Neuansiedlung von Schutzsuchenden (Resettlement-Flüchtlinge) zuständig, vgl. VAB A 23.4.
 75.9 bis 75.11. frei
-75.12. Das Bundesamt für Migration und Flüchtlinge ist zuständig für die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Abs. 1 von im Rahmen eines Asylverfahrens abgelehnten Asylbewerbern. Diese
-sind vom BAMF zeitgleich von Amts wegen zu befristen, § 11 Abs. 5 c. Das BAMF muss auch die entsprechenden Verwaltungsstreitverfahren durchführen.
+75.12. Das Bundesamt für Migration und Flüchtlinge ist zuständig für die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Abs. 1 im Fall einer Abschiebungsandrohung nach den §§ 34, 35 AsylG oder einer Abschiebungsanordnung nach § 34a AsylG. Dieses ist vom BAMF zeitgleich von Amts wegen zu befristen, § 11 Abs. 5 c. Das BAMF muss auch die entsprechenden Verwaltungsstreitverfahren durchführen.
+Im Falle eines 1. Asylfolgeantrags hat das BAMF nicht gem. § 11 Abs. 7 Nr. 2 die Möglichkeit, ein Einreise- und Aufenthaltsverbot anzuordnen. Im Falle eines weiteren Asylfolgeantrags (d.h. ab dem 2. Asylfolgeantrag) kann das BAMF ein Einreise- und Aufenthalts-verbot anordnen.
+Macht das BAMF von seinem Wahlrecht Gebrauch, im Fall des Folgeantrags gem. § 71 Abs. 5 AsylG auf eine erneute Abschiebungsandrohung zu verzichten und hat sich das mit Ablehnung des Erstantrags angeordnete Einreise- und Aufenthaltsverbot nach erfolgter Abschiebung bereits zeitlich erledigt, ist für die Anordnung des Einreise- und Aufenthaltsverbots für die potentielle Abschiebung indes die Ausländerbehörde zuständig.
 Für vor Inkrafttreten des Gesetzes zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung am 01.08.2015 ergangene Befristungsentscheidungen der Ausländerbehörde verbleibt die Zuständigkeit für das gesamte Verwaltungsstreitverfahren bei der Ausländerbehörde, vgl. § 3 Abs. 3 VwVfG analog (vgl. Kopp/Ramsauer, VwVfG, § 3, Rn. 8, 9. Aufl.). Dies dient der einfachen und zweckmäßigen Durchführung des Verfahrens.
 Des Weiteren ist das BAMF für die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 7 zuständig. Dieses ist mit seiner Anordnung von Amts wegen zu befristen.
 Für die spätere Aufhebung, Verkürzung oder Verlängerung der Fristen des BAMF aus Abschiebungsandrohungen bzw. -ordnungen im Asylverfahren ist wiederum die Ausländerbehörde zuständig, vgl. § 11 Abs. 7 S. 5.

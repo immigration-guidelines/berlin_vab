@@ -21,7 +21,7 @@ A.16a. Berufsausbildung; berufliche Weiterbildung
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 A.16a. Berufsausbildung; berufliche Weiterbildung
 Änderungsdatum
-(FEG)
+(FEG; 03.11.2020)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
 16a.0. § 16a enthält zusammengefasst die Regelungen zur Berufsausbildung (bis zum 29.2.2020 § 16b a.F. und § 17 a.F.). Die Voranstellung der Regelungen zur Berufsausbildung entspricht der Neusortierung des Abschnitts 4 und verdeutlicht die Schwerpunktverlagerung der Fachkräfteeinwanderung auf die berufliche Qualifikation.
 Zur anschließenden Erteilung einer AE zur Arbeitsplatzsuche für Fachkräfte nach erfolgreichem Abschluss der Ausbildung oder Aus- und Weiterbildung vgl. A.20.
@@ -81,7 +81,8 @@ Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5. Hinsichtlich der L
 Entstehen dem Auszubildenden für die Schulausbildung Gebühren, so sind diese dem Lebensunterhalt hinzuzurechnen. Die Entscheidung liegt im Ermessen der Behörde. Liegen die Erteilungsvoraussetzungen vor, ist das Ermessen grundsätzlich zu Gunsten des Ausländers auszuüben.
 Zur auflösenden Bedingung „Erlischt mit dem Bezug von Leistungen nach dem SGB II, XII oder AsylbLG, vgl. die Ausführungen zu § 2 Abs. 3.
 Zweckwechsel
-Gemäß 16a Abs. 2 S. 3 gilt 16a Abs. 1 S. 2 und 3 entsprechend. Vgl. daher die Ausführungen unter A.16a.1.2.-A.16a.1.3. 16a.2.2-3. frei
+...weggefalllen... Es gelten die Ausführungen unter A.16a.1.2.-A.16a.1.3.
+16a.2.2-3. frei
 16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der qualifizierten Berufsausbildung In den Fällen des § 16a ist die Aufenthaltserlaubnis mit der Auflage
 „Von der Ausbildung unabhängige Beschäftigung von 10 Stunden je Woche erlaubt. Selbstständige Tätigkeit nicht erlaubt. Erlischt mit Nichtantritt oder Abbruch der Ausbildung als ...“
 zu versehen.
