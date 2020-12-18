@@ -2,7 +2,7 @@ VAB A 23
 VAB A 23
 Inhaltsverzeichnis
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 24.09.2020; 22.10.2020)
+(FEG; 22.10.2020; 10.12.2020)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 23.1.1.1. Spätaussiedler
 23.1.1.2. Traumatisierte, Lebensältere und Zeugen bosnischer Staatsangehörigkeit
@@ -67,7 +67,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 7. Familiennachzug
 8. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 24.09.2020; 22.10.2020)
+(FEG; 22.10.2020; 10.12.2020)
 Formular Interessenbekundung § 23 Abs. 1
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
@@ -200,7 +200,7 @@ Bis zu 500 besonders Schutzbedürftige unterschiedlicher Staatsangehörigkeit od
 2020
 Bis zu 2.300 Personen unterschiedlicher Staatsangehörigkeit oder Staatenlosen, die sich in Ägypten, Jordanien, Kenia oder im Libanon bzw. ggf. in Libyen (Evakuierungsmechanismus) aufhalten und vom UNHCR als Flüchtlinge anerkannt sind - Anordnung des BMI nach § 23 Abs. 4 vom 21.02.2020.
 2020
-Ergänzend zur Anordnung vom 21.02.2020 bis zu 400 besonders Schutzbedürftige unterschiedlicher Staatsangehörigkeit oder staatenlose Schutzbedürftige aus Ägypten, Jordanien, Kenia und aus dem Libanon aus dem Pilotprojekt Neustart im Team (NesT) – Anordnung des BMI nach § 23 Abs. 4 vom 24.02.2020
+Ergänzend zur Anordnung vom 21.02.2020 bis zu 400 besonders Schutzbedürftige unterschiedlicher Staatsangehörigkeit oder staatenlose Schutzbedürftige aus Ägypten, Griechenland (beachte A23.s.8.), Jordanien, Kenia und aus dem Libanon aus dem Pilotprojekt Neustart im Team (NesT) – Anordnung des BMI nach § 23 Abs. 4 vom 24.02.2020 sowie Anordnung des BMI nach § 23 Abs. 2 vom 03.12.2020
 Die Anordnung en werden wie folgt umgesetzt:
 1. Grundsätzliches
 1.1. Das Bundesamt für Migration und Flüchtlinge erteilt (e)
@@ -214,8 +214,8 @@ in 2018 300 besonders Schutzbedürftigen mit syrischer, irakischer, eritreischer
 in 2018/2019 bis zu 2.900 Personen unterschiedlicher Staatsangehörigkeit oder Staatenlosen, die sich in Ägypten, Äthiopien, Jordanien oder im Libanon bzw. ggf. in Libyen aufhalten,
 in 2019 bis zu 500 ' Schutzbedürftige unterschiedlicher Staatsangehörigkeit' oder Staatenlosen aus Ägypten, Äthiopien, Jordanien oder dem Libanon im Rahmen des Pilotprojektes NesT.
 in 2020 bis zu 2.300 Personen unterschiedlicher Staatsangehörigkeit oder Staatenlosen, die sich in Ägypten, Jordanien, Kenia oder im Libanon bzw. ggf. in Libyen aufhalten,
-in 2020 bis zu 400 Schutzbedürftige unterschiedlicher Staatsangehörigkeit oder Staatenlosen aus Ägypten, Jordanien, Kenia oder dem Libanon im Rahmen des Pilotprojektes NesT.
-eine Aufnahmezusage. In die Aufnahmezusage werden nur Personen einbezogen, die vom UNHCR als Flüchtlinge anerkannt sind und von diesem für eine Aufnahme vorgeschlagen werden bzw. (bezogen auf die Aufnahme aus Ägypten) vom UNHCR für eine Aufnahme empfohlen wurden, obwohl UNHCR mangels Anerkennung durch die ägyptischen Behörden kein Mandat für die Betroffenen hat, weil es sich um palästinensische Volkszugehörige bzw. deren Familienangehörige handelt.
+in 2020 bis zu 400 Schutzbedürftige unterschiedlicher Staatsangehörigkeit oder Staatenlosen aus Ägypten, Griechenland, Jordanien, Kenia oder dem Libanon im Rahmen des Pilotprojektes NesT.
+eine Aufnahmezusage. In die Aufnahmezusage werden nur Personen einbezogen, die vom UNHCR bzw. den griechischen Behörden als Flüchtlinge anerkannt sind und von diesem für eine Aufnahme vorgeschlagen werden bzw. (bezogen auf die Aufnahme aus Ägypten) vom UNHCR für eine Aufnahme empfohlen wurden, obwohl UNHCR mangels Anerkennung durch die ägyptischen Behörden kein Mandat für die Betroffenen hat, weil es sich um palästinensische Volkszugehörige bzw. deren Familienangehörige handelt.
 Anmerkung zum aus Ägypten aufzunehmenden Personenkreis:
 Bei den aufzunehmenden Personen handelt es sich z.B. um Staatsangehörige aus den Staaten am Horn von Afrika und um syrische sowie irakische Staatsangehörige, aber ggf. auch um Menschen aus weiteren Herkunftsstaaten oder um Staatenlose. Bei den Personen, die nicht das Auswahlverfahren des UNHCR durchlaufen haben, handelt es sich um Personen syrischer Staatsangehörigkeit und um palästinensische Volkszugehörige sowie eine Person aus Somalia, die als Bootsflüchtlinge in Ägypten aufgegriffen wurden und von den ägyptischen Behörden seit November 2014 in Polizeihaft gehalten werden, darunter viele Kinder.
 Anmerkungen zum aus dem Sudan und Libanon aufzunehmenden Personenkreis:
@@ -409,8 +409,7 @@ Grad der Schutzbedürftigkeit,
 ggf. weitere Kriterien, die im Rahmen von gemeinsamen Verfahrensleitlinien auf EU-Ebene mit der Türkei vereinbart werden.
 Auch schwerstkranke Personen können aufgenommen werden, wobei deren Anteil an der Gesamtzahl der aufgenommenen Personen 3% nicht überschreiten soll.
 3. Ausschlussgründe
-Im Rahmen des Aufnahmeverfahrens findet eine Überprüfung der Personen durch die Sicherheitsbehörden statt.
-Ausgeschlossen von der Aufnahme sind grundsätzlich Personen,
+Im Rahmen des Aufnahmeverfahrens findet eine Überprüfung der Personen durch die Sicherheitsbehörden statt. Ausgeschlossen von der Aufnahme sind grundsätzlich Personen,
 die wegen Delikten, die in Deutschland als vorsätzliche Straftat anzusehen sind, verurteilt worden sind oder bei denen tatsächliche Anhaltspunkte die Schlussfolgerung rechtfertigen, dass Verbindungen zu kriminellen Organisationen oder terroristischen Vereinigungen bestehen oder bestanden haben oder dass sie in sonstiger Weise Bestrebungen verfolgen oder unterstützen oder unterstützt haben, die gegen den Gedanken der Völkerverständigung verstoßen oder gegen das friedliche Zusammenleben der Völker gerichtet sind oder
 bei denen sonstige tatsächliche Anhaltspunkte die Schlussfolgerung rechtfertigen, dass diese im Falle einer Aufnahme eine besondere Gefahr für die öffentliche Sicherheit und Ordnung der Bundesrepublik Deutschland, der freiheitlich demokratischen Grundordnung oder sonstiger erheblicher Interessen der Bundesrepublik Deutschland darstellen könnten.
 4. Erteilung und Verlängerung des Aufenthaltstitels im Inland
@@ -444,7 +443,9 @@ Eine Gebührenbefreiung für die Erteilung und Übertragung einer Aufenthaltserl
 8.2. Ein Absehen von der Gebühr für die Ausstellung eines Reiseausweises gem. § 48 Nr. 1 a-b AufenthV etwa gem. § 53 Abs. 1 2. HS oder Abs. 2 AufenthV kommt hingegen vor dem Hintergrund der angespannten Haushaltslage und der Möglichkeit einen Ausweisersatz erhalten zu können, nicht in Betracht. Bei Ausstellung eines Ausweisersatzes ist dagegen der Gebührenbefreiungstatbestand des § 53 Abs. 1 Nr. 8 AufenthV zu beachten.
 23.s.8. Aufnahme von international Schutzberechtigten aus Griechenland nach §
 23 Abs. 2 AufenthG
-Die Bundesregierung hat zur Linderung der humanitären Notlage auf den griechischen Inseln am 15. September 2020 nach dem Brand des Flüchtlingslagers Moria auf der Insel Lesbos beschlossen, insgesamt bis zu 1.553 Personen aufzunehmen, welche bereits im griechischen Asylverfahren internationalen Schutz erhalten haben. Vor diesem Hintergrund hat das Bundesministerium des Innern am 09.10.2020 eine Anordnung nach § 23 Abs. 2, Abs. 3 i.V.m. § 24 AufenthG erlassen, die wie folgt umgesetzt wird:
+Die Bundesregierung hat zur Linderung der humanitären Notlage auf den griechischen Inseln am 15. September 2020 nach dem Brand des Flüchtlingslagers Moria auf der Insel Lesbos beschlossen, insgesamt bis zu 1.553 Personen aufzunehmen, welche bereits im griechischen Asylverfahren internationalen Schutz erhalten haben.
+Das BAMF kann bis zu 50 der 1.553 Personen, sofern ihnen die zuständigen griechischen Behörden die Flüchtlingseigenschaft zuerkannt haben, im Rahmen des Pilotprogramms NesT eine Aufnahmezusage erteilen. Eine Aufnahme aus Griechenland erfolgt nur, wenn es eine Mentorengruppe gibt. Abweichend von dem in A.23.s.4. beschriebenen Verfahren erhalten die so aufgenommenen Personen (nur) eine Aufenthaltserlaubnis nach § 23 Abs. 2 S. 3 AufenthG, profitieren jedoch von den günstigeren Regelungen zur Passpflicht (5.) und zum Familiennachzug (7.).
+Vor diesem Hintergrund hat das Bundesministerium des Innern am 09.10.2020 sowie ergänzend am 03.12.2020 Anordnungen nach § 23 Abs. 2, Abs. 3 i.V.m. § 24 AufenthG erlassen, die wie folgt umgesetzt werden:
 1. Grundsätzliches
 1.1. Das Bundesamt für Migration und Flüchtlinge erteilt insgesamt bis zu 1.553 Personen, denen vor dem 09. September 2020 durch die zuständigen griechischen Behörden internationaler Schutz zuerkannt wurde und die ihren gewöhnlichen Aufenthalt bereits vor dem vorgenannten Datum auf einer der griechischen Inseln Lesbos, Chios, Samos, Kos oder Leros hatten, eine Aufnahmezusage.
 1.2. Die Aufnahmezusage wird unter dem Vorbehalt erteilt, dass die aufzunehmenden Personen die Voraussetzungen nach Artikel 21 Abs. 1 SDÜ i.V.m Art. 6 Abs. 1 SGK (gültiger griechischer Aufenthaltstitel und gültiges Reisedokument) erfüllen, wobei nach Art. 6 Abs. 5 c) SGK aus humanitären Gründen vom Erfordernis des Vorliegens ausreichender Mittel zum Bestreiten des Lebensunterhalts abgesehen wird.
