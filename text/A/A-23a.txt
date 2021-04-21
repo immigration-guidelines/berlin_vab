@@ -2,13 +2,13 @@ VAB A 23a
 VAB A 23a
 Inhaltsverzeichnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(07.10.2020; 10.12.2020)
+(07.10.2020; 10.12.2020; 18.03.2021)
 23a.1.0. Härtefallkommission
 23a.1.1. Erteilung einer Aufenthaltserlaubnis gem. Anordnung von SenInnDS
 23a.2.1. Verfahrensregelung
 23a.2.1.8. Verlängerung der Aufenthaltserlaubnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(07.10.2020; 10.12.2020)
+(07.10.2020; 10.12.2020; 18.03.2021)
 23a.1.0. Härtefallkommission
 Soweit in Einzelfällen um Auskunft zum Verfahren der Härtefallkommission (HFK) nach § 23a gebeten wird, so sind die Betroffenen entsprechend zu beraten. Der Flyer der Härtefallkommission, der die aktuelle Adressliste enthält, kann ausgehändigt werden.
 23a. 1.0.1. Gibt die Härtefallkommission gegenüber der Senatsverwaltung für Inneres und Sport ein Ersuchen um Erteilung eines Aufenthaltstitels ab, kann dort über die Erteilung einer Aufenthaltserlaubnis unabhängig von den gesetzlichen Voraussetzungen entschieden werden.
@@ -42,7 +42,7 @@ Ob in sonstigen Fällen mit einer besonderen Atypik - etwa bei Abbruch der Rück
 23a.2.1. 2. Vor Abgabe der Akten an die Geschäftsstelle der Härtefallkommission bei SenInnDS ist nach Aktenlage zu prüfen, ob gem. § 4 Abs. 3 HFKV ausnahmsweise aufenthaltsbeendende Maßnahmen in Betracht gezogen werden sollten oder ein Rückführungstermin konkret feststeht.
 Kommen wir zu dem Ergebnis, dass der Antrag unzulässig ist oder die Erteilung einer Aufenthaltserlaubnis ohnehin nicht in Betracht kommt, ist dies mit Ausnahme der angemeldeten Fälle zu herkunftsstaatsbezogenen Gründen bei negativ abgeschlossenem Asylverfahren (§ 3 Abs. 2 Nr. 7 HFKV) SenInnDS grundsätzlich ohne Übersendung der Akte mitzuteilen. Unzulässig ist der Antrag im Falle des möglichen Antrages auf Erteilung einer Aufenthaltserlaubnis gemäß § 25 Abs. 4 oder 5 (§ 3 Abs. 2 Nr. 3 HFKV) in den Fällen, in denen nach unserer Prüfung die Voraussetzungen einer dieser Rechtsgrundlagen erfüllt sind oder bei Nachweis der vorgetragenen Behauptungen erfüllt wären. SenInnDS legt Wert auf die Feststellung, dass dies dann in unserem Schreiben auch klar benannt wird. In dieser Konstellation wird um Vorsprache zur Erteilung einer Aufenthaltserlaubnis gebeten.
 Wird der Antrag als zulässig erachtet, sind in dem Anschreiben an SenInnDS immer anknüpfend an die vorgetragenen dringenden humanitären oder persönlichen Gründe Ausführungen zu § 25 Abs. 4 und 5, bei potentiell Begünstigten auch zu § 25a und b, zu machen. Enthält die Akte einen Aktenauszug, ist hierauf möglichst in dem Anschreiben hinzuweisen, damit sich SenInnDS einen schnellen Überblick über die aufenthaltsrechtliche Vita verschaffen kann.
-Akten von ausreisepflichtigen Ausländern, für die ein Zustimmungsvorbehalt zur Abschiebung besteht, müssen SenInnDS nicht vorgelegt werden, wenn ein Ersuchen nach § 23a mit der erforderlichen Mehrheit gestellt, eine Entscheidung nach § 23a aber nicht getroffen wurde. Hier lag der Vorgang dem Senator für Inneres und Sport vor, so dass eine erneute Vorlage entbehrlich ist. Die Zustimmung zur Abschiebung gilt dann grundsätzlich für die folgenden 12 Monate als erteilt (beachte die abweichenden Regelungen in E.Irak.2 und E.Afghanistan.1.).
+Akten von ausreisepflichtigen Ausländern, für die ein Zustimmungsvorbehalt zur Abschiebung besteht, müssen SenInnDS nicht vorgelegt werden, wenn ein Ersuchen nach § 23a mit der erforderlichen Mehrheit gestellt, eine Entscheidung nach § 23a aber nicht getroffen wurde. Hier lag der Vorgang dem Senator für Inneres und Sport vor, so dass eine erneute Vorlage entbehrlich ist. Die Zustimmung zur Abschiebung gilt dann grundsätzlich für die folgenden 12 Monate als erteilt.
 23a.2.1. 3. Aus § 4 Abs. 3 HFKV, wonach die Geschäftsstelle der Kommission sicherstellt, dass für die Dauer der Befassung durch die Kommission grundsätzlich von aufenthaltsbeendenden Maßnahmen abgesehen wird, folgt kein rechtliches Abschiebungsverbot.
 Wird der Betroffene nicht ohnehin geduldet, ist ihm auf Weisung der Senatsverwaltung für Inneres und Sport vom 7.11.2013 für die Dauer des Verfahrens auf der Grundlage des § 60a Abs. 2 S. 3 eine Duldung zu erteilen (Ermessensduldung), es sei denn, die Annahme eines Härtefalls ist gemäß § 23a Abs. 1 S. 3 ausgeschlossen oder es handelt sich bei der Eingabe um einen Fall, der im Rahmen eines DÜ-Verfahrens in einem Mitgliedstaat überstellt werden soll. Bei DÜ-Fällen wird ausschließlich eine GÜB II ausgestellt.
 '

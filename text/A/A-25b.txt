@@ -2,13 +2,13 @@ VAB A 25b
 VAB A 25b
 Inhaltsverzeichnis
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(FEG; 05.03.2020; 16.07.2020)
+(FEG; 16.07.2020; 18.03.2021)
 25.b.0.
 25b.1.1. Erteilungsvoraussetzungen
 25b.1.2. Regelmäßig zu erfüllende Voraussetzungen
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 25b.1.2.2.1. Bekenntnis zur freiheitlich-demokratischen Grundordnung
-25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 281
+25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 282
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 25b.1.2.4. Sprachkenntnisse
 25b.1.2.5. Schulbesuch
@@ -21,7 +21,7 @@ A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.5. Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
 25b.6. Übergang aus der Beschäftigungsduldung, § 60d
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(FEG; 05.03.2020; 16.07.2020)
+(FEG; 16.07.2020; 18.03.2021)
 Checkliste § 25b Abs. 1
 Checkliste § 25b Abs. 4
 25.b.0.
@@ -48,7 +48,7 @@ Die Erteilung einer Aufenthaltserlaubnis bei nachhaltiger Integration setzt gem�
 seit mindestens acht Jahren
 oder
 seit mindestens sechs Jahren, falls er aktuell zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt,
-ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Als „geduldet“ sind auf Weisung von SenInnDS vom 19.05.2020 des weiteren Zeiträume anzurechnen, in denen der Betroffene einen Anspruch auf Duldung hatte, aber unverschuldet gehindert war, einen Duldungsantrag zu stellen. Dies gilt jedoch nicht für Zeiträume seit dem 06.08.2019, in denen lediglich ein Anspruch auf eine Duldung mit dem Zusatz "für Personen mit ungeklärter Identität" nach § 60b bestanden hätte (vgl. § 60b Absatz 5 Satz 1). Den für ihn günstigen Umstand, dass er unverschuldet an der Antragstellung gehindert war, hat der Ausländer nachzuweisen, § 82 Abs. 1 S. 1.
+ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Als „geduldet“ sind auf Weisung von SenInnDS vom 19.05.2020 des weiteren Zeiträume anzurechnen, in denen der Betroffene einen Anspruch auf Duldung hatte, aber unverschuldet gehindert war, einen Duldungsantrag zu stellen. Dies gilt jedoch nicht für Zeiträume seit dem 06.08.2019, in denen lediglich ein Anspruch auf eine Duldung mit dem Zusatz "für Personen mit ungeklärter Identität" nach § 60b bestanden hätte (vgl. § 60b Absatz 5 Satz 1). Den für ihn günstigen Umstand, dass er unverschuldet an der Antragstellung gehindert war, hat der Ausländer nachzuweisen, § 82 Abs. 1 S. 1. Kurzfristige Unterbrechungen, die darauf beruhen, dass der Ausländer während der pandemischen Ausbreitung der Erkrankung COVID-19 nach Registrierung auf der Internetseite, bei Anträgen auf Verlängerung der Bescheinigung per Post oder Mail oder bei einer Vorsprache nicht sofort bedient werden konnte, begründen keine schädliche Unterbrechung, wenn sich der Ausländer danach wieder geduldet, gestattet oder erlaubt im Bundesgebiet aufgehalten hat.
 Die häusliche Gemeinschaft mit minderjährigen Kindern setzt das tatsächliche Zusammenleben unter einer Wohnanschrift zum Zeitpunkt der Entscheidung über den AE-Antrag voraus, eine gelebte familiäre Lebens-gemeinschaft mit getrennten Wohnsitzen reicht nach dem Wortlaut der Vorschrift nicht aus. Ferner muss es sich bei den Kindern um die eigenen leiblichen bzw. Adoptivkinder handeln.
 Der zu berücksichtigende Voraufenthalt muss ununterbrochen gewesen sein; kurzfristige Unterbrechungen der Mindestaufenthaltsdauer von bis zu drei Monaten sollen nach der Gesetzesbegründung unschädlich sein. Bei längeren Unterbrechungen des Aufenthalts werden die Voraufenthaltszeiten vor dem Auslandsauf-enthalt nicht mehr berücksichtigt. Anrechenbar sind alle ununterbrochenen Voraufenthaltszeiten, in denen sich der Ausländer in asyl- oder aufenthaltsrechtlichen Verfahren, d. h. geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat. Zur Anrechnung von Zeiten vor dem 05.02.2016 beachte D.87c.2.
 Merke: Eine beachtliche Unterbrechungszeit liegt immer vor, wenn der Betreffende untergetaucht ist und sich dadurch seiner Abschiebung entzogen hat.
@@ -121,8 +121,7 @@ Behinderung oder
 aus Altersgründen
 das Erfordernis der Lebensunterhaltssicherung sowie das Sprachnachweiserfordernis nicht erfüllen können.
 Das Erfordernis, sich im Übrigen in die hiesigen Verhältnisse nachhaltig integriert zu haben, gilt aber auch für diesen Personenkreis. Die Gründe Krankheit bzw. Behinderung müssen regelmäßig durch ärztliche Atteste belegt werden, die den Schluss nahelegen, dass von den Betroffenen das Sprachnachweiserfordernis bzw. das Erfordernis der Lebensunterhaltssicherung nicht zu verlangen ist. Auf einen Nachweis kann nur dann verzichtet werden, wenn die Ausschlussgründe offenkundig sind. Nicht jede Krankheit oder Behinderung führt zum Ausschluss dieser Voraussetzungen, sondern nur diejenigen, die den Ausländer an der Erlangung der Kenntnisse hindern. Beispielhaft sei die Unfähigkeit des Ausländers genannt, sich mündlich oder schriftlich zu artikulieren oder angeborene Formen geistiger Behinderung oder altersbedingte Beeinträchtigungen. Für das Absehen bei Behinderung, Krankheit gelten die allgemeinen zu § 9 Abs. 2 Satz 3 entwickelten Kriterien.
-Ein Absehen aus Altersgründen von den vorgenannten Voraussetzungen ist jedenfalls ab dem 65. Lebensjahr sowie bei allen noch nicht schulpflichtigen Kindern, d.h. Kindern vor Vollendung des 6. Lebensjahres (§ 8 SchulGBln) anzunehmen. Soll davon abweichend aus Altersgründen von den Voraussetzungen abgesehen werden, ist konkret zu belegen, dass aus Altergründen der Spracherwerb und die überwiegende Lebensunterhaltssicherung nicht erfüllt werden können.
-Die übrigen Voraussetzungen bleiben von dieser Ausnahmeregelung unberührt.
+Ein Absehen aus Altersgründen von den vorgenannten Voraussetzungen ist jedenfalls ab dem 65. Lebensjahr sowie bei allen noch nicht schulpflichtigen Kindern, d.h. Kindern vor Vollendung des 6. Lebensjahres (§ 8 SchulGBln) anzunehmen. Soll davon abweichend aus Altersgründen von den Voraussetzungen abgesehen werden, ist konkret zu belegen, dass aus Altergründen der Spracherwerb und die überwiegende Lebensunterhaltssicherung nicht erfüllt werden können. Die übrigen Voraussetzungen bleiben von dieser Ausnahmeregelung unberührt.
 25b.4. Erleichterte Voraussetzungen für Ehegatten, Lebenspartner und minderjährige Kinder
 Absatz 4 regelt die Möglichkeit für Ehegatten, eingetragene Lebenspartner und minderjährige ledige Kinder, die mit einem Begünstigten nach Absatz 1 in familiärer Lebensgemeinschaft leben, abweichend von der erforderlichen Aufenthaltsdauer in § 25b Abs. 1 Satz 2 Nr. 1 eine Aufenthaltserlaubnis zu erhalten.
 Bzgl. der entsprechenden Anwendung des Abs. 1 S. 2 Nr. 2 – 5 gelten keine Besonderheiten. Der Lebensunterhalt der in Absatz 4 bezeichneten Familienangehörigen ist auch gesichert bzw. überwiegend gesichert im Sinne von Absatz 1 Satz 2 Nummer 3, wenn nur ein Mitglied der Bedarfsgemeinschaft ein entsprechendes Einkommen aus Erwerbstätigkeit erzielt, welches den Lebensunterhalt der gesamten Bedarfsgemeinschaft überwiegend sichert.
