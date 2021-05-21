@@ -1,7 +1,7 @@
 VAB A 91f
 VAB A 91f
 A.91f. Auskünfte zur Durchführung der Hochqualifiziertenrichtlinie
-(HQRLUmsG, 04.05.2015; FEG)
+(FEG; 01.05.2021; 14.05.2021)
 91f.0. Der § 91f regelt die nach der Hochqualifizierten-Richtlinie zwischen den Mitgliedstaaten der Euro-päischen Union auszutauschenden Auskünfte und Mitteilungen.
 Das Bundesamt für Migration und Flüchtlinge ist hier nationale Kontaktstelle und leitet die Informationen der Ausländerbehörden weiter bzw. nimmt Informationen für die Ausländerbehörden in Empfang.
 Wenn dem Ausländer bereits in einem anderen Anwenderstaat die Blaue Karte EU erteilt wurde, muss die Ausländerbehörde Berlin dem BAMF Folgendes mitteilen:
@@ -9,7 +9,8 @@ Wenn dem Ausländer bereits in einem anderen Anwenderstaat die Blaue Karte EU er
 2. Die Versagung eines Antrags auf Verlängerung einer Blauen Karte EU nach § 18b Abs. 2
 3. Die Aufhebung einer Blauen Karte EU nach § 18b Abs. 2
 4. Die Absicht oder Durchführung aufenthaltsbeendender Maßnahmen
+Nach Mitteilung des BAMF vom 03.05.2021 gilt dies aber nur in den Fällen, in denen eine Einreise gemäß § 39 Nr. 7 AufenthV erfolgt ist, d.h. der Ausländer seit mindestens 18 Monaten eine Blaue Karte EU besitzt, die von einem anderen Mitgliedstaat ausgestellt wurde.
 Wird erstmals eine Blaue Karte EU erteilt, ist dies kein übermittlungspflichtiger Tatbestand.
-Für die Übermittlungspflicht steht in Ausreg der Formbrief "BAMF Mitteilung nach § 91f (Blaue Karte)" zur Verfügung, der in den maßgeblichen Meldesachverhalten an das BAMF zu faxen ist (Fax: +499119434007). Im Falle der Verlängerung der Blauen Karte erfolgt die Übermittlung mit Aushändigung der Blauen Karte.
+Der Datenaustausch mit dem BAMF erfolgt ab 01.05.2021 über den XAusländer-Standard.
 Ist ein Ausländer im Besitz einer von uns ausgestellten Blauen Karte EU, werden wir ent-sprechend durch das Bundesamt unterrichtet.
 91f.1.1. bis 91f.2. frei

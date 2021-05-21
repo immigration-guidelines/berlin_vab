@@ -1,12 +1,12 @@
 VAB C 9
 VAB C 9
 C.9. Strafvorschriften
-(ÄndFreizügG/EU)
+(ÄndFreizügG/EU; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
 C.9. 0. Mit § 9 enthält das FreizügG/EU erstmals eine eigene Strafvorschrift für Unionsbürger und ihre Familienangehörigen. Eine Strafanzeige wird in der Regel durch die festnehmenden Beamten erfolgen.
-C.9.1. Mit Abs. 1 wurde eine Regelung in das FreizügG/EU aufgenommen, nach der die Beschaffung einer Aufenthaltskarte (§ 5 Absatz 1), einer Daueraufenthaltsbescheinigung oder einer Daueraufenthaltskarte (§ 5 Absatz 5) durch unrichtige oder unvollständige Angaben unter Strafe gestellt wird. Ebenfalls unter Strafe gestellt ist auch der wissentliche Gebrauch einer so beschafften Aufenthaltsbescheinigung nach dem FreizügG/EU zur Täuschung im Rechtsverkehr.
-Unrichtige Angaben werden bspw. gemacht, wenn die Herstellung oder Wahrung einer ehelichen Lebensgemeinschaft vorgetäuscht wird (Scheinehe). Unrichtige Angaben können sich auch aus der Vorlage bzw. dem Benutzen ge- oder verfälschter oder unzutreffender Dokumente oder der Vorspiegelung falscher Tatsachen ergeben (vgl. § 2 Absatz 7). Unvollständige Angaben kann derjenige machen, der wesentliche Tatsachen gegenüber der zuständigen Behörde gezielt verschweigt.
-Die Angaben müssen grundsätzlich geeignet sein, eine Aufenthaltskarte oder eine andere Aufenthaltsbescheinigungen nach dem FreizügG/EU zu Unrecht verschaffen zu können. Es ist nicht erforderlich, dass die begehrte
-Aufenthaltsbescheinigung nach dem FreizügG/EU tatsächlich ausgestellt wurde.
+C.9.1. Mit Abs. 1 wurde eine Regelung in das FreizügG/EU aufgenommen, nach der die Beschaffung einer Aufenthaltskarte (§ 5 Abs. 1), einer Daueraufenthaltsbescheinigung oder einer Daueraufenthaltskarte (§ 5 Abs. 5), eines Aufenthaltsdokument-GB oder Aufenthaltsdokument für Grenzgänger-GB (§ 16 FreizügG/EU) durch unrichtige oder unvollständige Angaben unter Strafe gestellt wird. Ebenfalls unter Strafe gestellt ist auch der wissentliche Gebrauch einer so beschafften Aufenthaltsbescheinigung nach dem FreizügG/EU zur Täuschung im Rechtsverkehr.
+Unrichtige Angaben werden bspw. gemacht, wenn die Herstellung oder Wahrung einer ehelichen Lebensgemeinschaft vorgetäuscht wird (Scheinehe). Unrichtige Angaben können sich auch aus der Vorlage bzw. dem Benutzen ge- oder verfälschter oder unzutreffender Dokumente oder der Vorspiegelung falscher Tatsachen ergeben (vgl. § 2 Absatz 7).
+Unvollständige Angaben kann derjenige machen, der wesentliche Tatsachen gegenüber der zuständigen Behörde gezielt verschweigt.
+Die Angaben müssen grundsätzlich geeignet sein, eine Aufenthaltskarte, ein Aufenthaltsdokument-GB oder eine andere Aufenthaltsbescheinigung nach dem FreizügG/EU zu Unrecht verschaffen zu können. Es ist nicht erforderlich, dass das begehrte Dokument nach dem FreizügG/EU tatsächlich ausgestellt wurde.
 Die Angaben können sowohl eigen- als auch fremdnützig gemacht werden.
-C. 9.2. frei
+C.9.2. frei
 C.9.3. Aufenthaltsbescheinigungen nach dem FreizügG/EU, die durch unrichtige oder unvollständige Angaben erlangt worden sind, sowie Dokumente oder sonstige Unterlagen, die zur Begehung oder Vorbereitung einer Straftat nach § 9 Absatz 1 bestimmt oder gebraucht worden sind, können eingezogen werden

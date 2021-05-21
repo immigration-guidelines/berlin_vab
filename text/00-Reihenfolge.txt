@@ -185,6 +185,7 @@ B.BeschV.38.-39. Anwerbung und Arbeitsvermittlung aus dem Ausland
 C 1
 C 2
 C 3
+C 3a
 C 4
 C 4a
 C 5
@@ -196,9 +197,11 @@ C 9
 C 10
 C 11
 C 12
+C 12a
 C 13
 C 14
 C 15
+C 16
 D 1
 D 3 - 3e
 D 4

@@ -2,48 +2,119 @@ VAB C 11
 VAB C 11
 Inhaltsverzeichnis
 C.11. Anwendung des Aufenthaltsgesetzes
-C.11.1. Anwendung des Aufenthaltsgesetzes
-Integrationskurse und berufsbezogene Sprachförderung für Freizügigkeitsberechtigte
-Sicherheitsabfragen bei Freizügigkeitsberechtigten
+11.1. Anwendung des Aufenthaltsgesetzes
+Integrationskurse und berufsbezogene Sprachförderung
 Erhebung biometrischer Daten von Freizügigkeitsberechtigten
-Mitteilungspflichten an die Ausländerbehörden
-Meistbegünstigungsklausel
-C.11.2. Anwendung des Aufenthaltsgesetzes nach Feststellung des Verlusts des Freizügigkeitsrechts
-C.11.3. Anrechnung von Zeiten rechtmäßigen Aufenthalts auf zeitliche Voraussetzungen des Aufenthaltsgesetzes
+11.2. Sicherheitsabfragen bei Freizügigkeitsberechtigten
+11.3. Ausstellung als elektronischer Aufenthaltstitel
+11.4. Austellung von Fiktionsbescheinigungen
+11.5. Regelungen für nahestehende Personen
+11.6. Anwendbarkeit des § 82 Abs. 4 AufenthG
+11.7. Mitteilungspflichten an die Ausländerbehörden
+11.8.-12. Aufenthaltsbeendigung und Familiennachzug nach dem AufenthG
+11.13. Datenübermittlung zu Integrationskursen
+11.14. Meistbegünstigungsklausel
+Anwendung des Aufenthaltsgesetzes nach Feststellung des Verlusts des Freizügigkeitsrechts
+11.15. Anrechnung von Zeiten rechtmäßigen Aufenthalts auf zeitliche Voraussetzungen des Aufenthaltsgesetzes
 C.11. Anwendung des Aufenthaltsgesetzes
-(11.08.2016; 04.04.2018)
-C.11. 0. § 11 Abs. 1 Sätze 1, 2, 8 und 9 stehen für den Grundsatz, dass freizügigkeitsberechtigte Unionsbürger und ihre freizügigkeitsberechtigten Familienangehörigen weitestgehend aus dem Anwendungsbereich der aufenthaltsrechtlichen Regelungen für Drittstaatsangehörige herausgenommen werden. Anders als etwa § 7 oder § 8 knüpfen § 11 Abs. 1 Sätze 1 , 2, 8 und 9 damit nicht allein an die Staatsangehörigkeit bzw. den Familienangehörigenstatus an, sondern verlangen ausdrücklich auch ein bestehendes Freizügigkeitsrecht. Das AufenthG darf demzufolge für diese Personengruppe nur angewandt werden, wenn
-§ 11 Abs. 1 Sätze 1, 2, 8 und 9 die Vorschrift des AufenthG ausdrücklich benennen oder
-die Ausreisepflicht festgestellt wurde und die Durchsetzung dieser Pflicht im Raum steht (§ 11 Abs. 2) oder die Vorschrift des AufenthG eine günstigere Rechtsstellung vermittelt als das FreizügG/EU oder die UnionsRL (§ 11 Abs. 1 S. 11).
-Merke: Im Umkehrschluss kann Unionsbürgern und deren Familienangehörigen grundsätzlich nur dann ein Aufenthaltstitel erteilt werden, wenn kein Freizügigkeitsrecht vorliegt, aber ein Aufenthaltsrecht für das Bundesgebiet nach dem AufenthG besteht.
-Die Erteilung eines – im Übrigen gebührenpflichtigen und mit biometrischen Merkmalen zu versehenden – Aufenthaltstitels vermittelt keine über die Freizügigkeit hinaus gehenden Rechte, z.B. hinsichtlich der Reiserechte in der EU bzw. dem Schengenraum, der Aufnahme einer Erwerbstätigkeit oder der Inanspruchnahme von sozialen Leistungen wie bspw. Kinder- oder Elterngeld. Bei Anträgen von Freizügigkeitsberechtigten auf Erteilung eines Aufenthaltstitels fehlt es damit an einem Sachbescheidungsinteresse.
-Auch die mit der Erteilung eines Aufenthaltstitels regelmäßig verbundene Teilnahmeberechtigung für einen Integrationskurs kann zu keiner anderen Bewertung führen. Die Maßgabe des § 44 AufenthG und § 4 IntV, Freizügigkeitsberechtigte nur im Rahmen verfügbarer Plätze zu einem Integrationskurs zuzulassen, kann nicht durch eine Erteilung eines Aufenthaltstitels allein zu diesem Zweck konterkariert werden.
-Die Erteilung oder Verlängerung eines Aufenthaltstitels für freizügigkeitsberechtigte Unionsbürger und freizügigkeitsberechtigte Drittstaatsangehörige kommt damit allein nur in drei Konstellationen in Betracht:
-- bei Ehegatten, Lebenspartnern oder Elternteilen von Deutschen, da diese bei Erfüllung der Voraussetzungen des § 28 Abs. 2 AufenthG bereits nach drei (anstelle der durch § 4a regelmäßig vorgesehenen fünf) Jahren ein unbefristetes Aufenthaltsrecht für das Bundesgebiet erhalten können,
--
-- bei Absolventen deutscher Hochschulen, sofern die Voraussetzungen des § 18 b AufenrhG vorliegen, da sie bereits nach zweijährigem Besitz eines Titels nach §§ 18, 18a, 19a, 21 AufenthG in eine Niederlassungserlaubnis wachsen können oder
-- bei Antragstellern, die die Voraussetzungen des § 19a AufenthG erfüllen, da diesen bereits gem. § 19a Abs.6 AufenthG nach 33 bzw. 21 Monaten Beschäftigung eine Niederlassungserlaubnis zu erteilen ist.
-C.11.1. Anwendung des Aufenthaltsgesetzes
-Integrationskurse und berufsbezogene Sprachförderung für Freizügigkeitsberechtigte
-C.11.1.1. Gemäß § 11 Abs. 1 S. 1 i.V.m. § 44 Abs. 4 AufenthG haben auch Unionsbürger und ihre freizügigkeitsberechtigten Familienangehörigen die Möglichkeit an einem Integrationskurs teilzunehmen. Daraus folgt, dass diese keinen Anspruch auf Teilnahme an einem Integrationskurs geltend machen können und ihnen keine entsprechende Bescheinigung ausgestellt werden kann. Spricht ein Unionsbürger aus diesem Grund vor, ist ihm immer die Liste der Kursträger auszuhändigen. Weiter ist er zu beraten, dass er sich mit der Zustimmung eines Kursträgers direkt beim BAMF auf einen freien Platz im Integrationskurs bewerben kann. Die Kosten hat in jedem Fall der Unionsbürger selbst zu tragen (so auch § 5 Abs. 1 IntV). Hinsichtlich der berufsbezogenen Sprachförderung wird auf die Ausführungen zu A.45a. verwiesen. Merke: Auch die zum AufenthG erlassenen Rechtsverordnungen finden etwa gem. § 11 Abs. 1 Satz 1 i.V.m. § 69 AufenthG dann Anwendung, wenn die jeweilige Regelung der Verordnung Freizügigkeitsberechtigte in Bezug nimmt oder aber eine Regelung enthält, die eine günstigere Rechtsstellung vermittelt So können auch für Freizügigkeitsberechtigte eine Gebührenpflicht entstehen, so sie eine gebührenpflichtige Amtshandlung in Anspruch nehmen.
-Sicherheitsabfragen bei Freizügigkeitsberechtigten
-C.11.1.2. Satz 2 ergänzt die Aufzählung des § 73 AufenthG in Satz 1. Sicherheitsabfragen können sowohl von Auslandsvertretungen im Rahmen der Visumentscheidung gegenüber drittstaatsangehörigen Familienangehörigen als auch von der Ausländerbehörde bei Entscheidungen gem. § 5 Abs. 1 und 5 gegenüber Unionsbürgern und ihren Familienangehörigen durchgeführt werden. Werden (dann) durch die Sicherheitsbehörden Erkenntnisse übermittelt, die eine Feststellung gem. § 6 Abs. 1 rechtfertigen, ist der Verlust des gemeinschaftsrechtlichen Aufenthaltsrechts festzustellen. Gem. § 6 Abs. 5 letzter Halbsatz gilt dies grundsätzlich auch für Daueraufenthaltsberechtigte und Betroffene, die nur noch aus zwingenden Gründen der öffentlichen Sicherheit und Ordnung ihr Freizügigkeitsrecht verlieren können.
-C.11.1.3 bis C.11.1.7 Durch Satz 3 und 4 wird § 78 AufenthG für die Aufenthalts- und Daueraufenthaltskarte anwendbar. Satz 5 definiert die Abkürzung in der Lesezone. Die Ausstellung der Aufenthalts- und Daueraufenthaltskarte auf Vordruck wird durch Satz 6 ermöglicht, der auf § 78a AufenthG verweist. Bisher ausgestellte Karten behalten nach Satz 7 in Anwendung des § 105b AufenthG ihre Gültigkeit bis zum 31.08.2021.
+(04.04.2018; Gesetz zur aktuellen Anpassung des Freizügigkeitsrechts)
+C.11. 0
+§ 11 FreizügG/EU regelt alle Ausnahmen von dem Grundsatz, dass das Aufenthaltsgesetz keine Anwendung auf Ausländer findet, deren Rechtsstellung durch das FreizügG/EU geregelt ist. Der Kreis dieser Personen ist in § 1 Abs. 1 FreizügG/EU abschließend geregelt.
+11.1. Anwendung des Aufenthaltsgesetzes
+Nach § 11 Abs. 1 finden die nachfolgend aufgeführten Regelungen des AufenthG auf Personen, deren Einreise und Aufenthalt nach dem FreizügG/EU geregelt wird, entsprechende Anwendung:
+§ 3 Abs. 2 AufenthG (Ausnahme von der Passpflicht),
+§ 11 Abs. 8 AufenthG (ausnahmsweises Betreten des Bundegebietes vor Ablauf eines Einreise- und Aufenthaltsverbots), § 13 AufenthG (Grenzübertritt),
+§ 14 Abs. 2 AufenthG (Ausnahme-Visa und Passersatzpapiere),
+§ 44 Abs. 4 AufenthG (Zulassung zur Teilnahme an Integrationskursen im Rahmen freier Kursplätze, § 45 a AufenthG (berufsbezogene Deutschsprachförderung),
+§ 46 Abs. 2 AufenthG (Untersagung der Ausreise),
+§ 50 Abs. 3 bis 6 AufenthG (Ausreisepflicht),
+§ 59 Abs. 1 Satz 6 und 7 AufenthG (Unterbrechung der Ausreisepflicht mangels Vollziehbarkeit),
+§ 69 AufenthG (Gebühren),
+§ 73 AufenthG (sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln),
+§ 74 Abs. 2 AufenthG (Weisungsbefugnis der Bundesregierung),
+§ 77 Abs. 1 AufenthG (Schriftform),
+§ 80 AufenthG (Handlungsfähigkeit),
+§ 82 Abs. 5 AufenthG (Mitwirkung des Ausländers: Lichtbild und Fingerabdrücke),
+§ 85 AufenthG (Berechnung von Aufenthaltszeiten),
+§ 86 AufenthG (Erhebung personenbezogener Daten),
+§ 86a AufenthG (Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration), § 87 AufenthG (Übermittlung an Ausländerbehörden),
+§ 88 AufenthG (Übermittlung bei besonderen gesetzlichen Verarbeitungsregelungen),
+§ 90 AufenthG (Übermittlung durch Ausländerbehörden),
+§ 91 AufenthG (Speicherung und Löschung personenbezogener Daten),
+§ 95 Abs. 1 Nr. 4 und 8, Abs. 2 Nr. 2, Abs. 4 AufenthG (bestimmte Strafvorschriften),
+§ 96 AufenthG (Strafvorschrift betreffend das Einschleusen von Ausländern),
+§ 97 AufenthG (Strafvorschrift betreffend. das Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen),
+§ 98 Abs. 2 Nr. 2, Abs. 2a, Abs. 3 Nr. 3, Abs. 4 und 5 AufenthG (bestimmte Bußgeldvorschriften) sowie § 99 AufenthG (Verordnungsermächtigung).
+Des Weiteren findet im Anwendungsbereich des FreizügG/EU bestimmtes Verordnungsrecht Anwendung, soweit dies in den entsprechenden Verordnungen oder für die Verordnungen bestimmt ist. Dies sind
+nach § 79 AufenthV aus der Aufenthaltsverordnung die
+Kapitel 2 Abschnitt 1 (Passpflicht für Ausländer),
+Kapitel 3 (Gebühren)
+§ 56 (Ausweisrechtliche Pflichten),
+Kapitel 5 (Verfahrensvorschriften) sowie die
+§§ 81 und 82 (bestimmte Übergangsvorschriften)
+nach § 11 Abs. 1 in Verbindung mit § 44 Abs. 4 AufenthG die Integrationsverordnung (IntV), insbesondere deren § 5; siehe § 5 Abs. 4 Nr. 4 IntV und
+nach ihrem § 2 Abs. 1 die Deutschsprachförderverordnung.
+Integrationskurse und berufsbezogene Sprachförderung
+C.11.1.1. Gemäß § 11 Abs. 1 i.V.m. § 44 Abs. 4 AufenthG haben alle Personen, deren Einreise und Aufenthalt nach dem FreizügG/EU geregelt wird, die Möglichkeit an einem Integrationskurs teilzunehmen. Daraus folgt, dass diese keinen Anspruch auf Teilnahme an einem Integrationskurs geltend machen können und ihnen keine entsprechende Bescheinigung ausgestellt werden kann. Spricht eine Person, deren Einreise und Aufenthalt nach dem FreizügG/EU geregelt wird, aus diesem Grund vor, ist ihr immer die Liste der Kursträger auszuhändigen. Weiter ist sie zu beraten, dass sie sich mit der Zustimmung eines Kursträgers direkt beim BAMF auf einen freien Platz im Integrationskurs bewerben kann. Das Bundesamt für Migration kann die betreffenden Personen zum Integrationskurs zulassen, wenn diese noch nicht ausreichend Deutsch sprechen, besonders integrationsbedürftig sind und es freie Kursplätze gibt. Die Kosten hat in jedem Fall die Person selbst zu tragen (so auch § 5 Abs. 1 IntV).
+Hinsichtlich der berufsbezogenen Sprachförderung wird auf die Ausführungen zu A.45a. verwiesen. Merke: Auch die zum AufenthG erlassenen Rechtsverordnungen finden etwa gem. § 11 Abs. 1 i.V.m. § 69 AufenthG dann Anwendung, wenn die jeweilige Regelung der Verordnung Freizügigkeitsberechtigte in Bezug nimmt oder aber eine Regelung enthält, die eine günstigere Rechtsstellung vermittelt So kann auch für Freizügigkeitsberechtigte eine Gebührenpflicht entstehen, so sie eine gebührenpflichtige Amtshandlung in Anspruch nehmen.
 Erhebung biometrischer Daten von Freizügigkeitsberechtigten
-C.11.1. 8. Mit Satz 8 wird der Verweis auf § 82 Abs. 5 in Satz 1 dem besonderen Rechtsstatus von Unionsbürgern angepasst.
+C.11.1. 2.
 § 65 Nr. 7 AufenthV ist die die hintergründige Rechtsgrundlage für die Verpflichtung von Unionsbürgern, ein biometrietaugliches Lichtbild vorzulegen oder bei seiner Herstellung mitzuwirken. Die Senatsverwaltung für Inneres und Sport hat am 02.07.2007 zugestimmt, dass bis zur Ausstellung einer Bescheinigung über das Daueraufenthaltsrecht auf ein Lichtbild des Unionsbürgers verzichtet wird. Eventuelle Anfragen der Sicherheitsbehörden sind entsprechend dem jeweiligen Stand des AusReg2-Datensatzes zu beantworten. Grundsätzlich bieten sie keinen Anlass, vom Unionsbürger ein Lichtbild nachzufordern.
 Auf drittstaatsangehörige Familienangehörige findet dagegen § 82 Abs. 5 AufenthG volle Anwendung, d.h. sie haben auf Verlangen der Ausländerbehörde auch an der Abnahme ihrer Fingerabdrücke mitzuwirken.
-Mitteilungspflichten an die Ausländerbehörden
-C.11.1. 9. § 11 Abs. 1 S. 9beschränkt die Anwendbarkeit des § 87 Abs. 2 Nr. 1 bis 3 AufenthG auf diejenigen Übermittlungen, die für die Feststellung des Verlust auf Einreise und Aufenthalt gem. § 2 Abs. 7, § 5 Abs. 5 und § 6 relevant sind.
-C.11.1.10. Da § 44 Abs. 4 AufenthG entsprechende Anwendung findet, wird auch die Datenübermittlung analog zu § 88a Abs. 1, 3 und 4 AufenthG erlaubt.
-Meistbegünstigungsklausel
-C.11.1.11. § 11 Abs. 1 S. 11 beinhaltet eine Meistbegünstigungsklausel und deckt sich insofern mit Art. 37 der UnionsRL. Danach findet das Aufenthaltsgesetz auch dann Anwendung, wenn es dem Unionsbürger oder seinen Familienangehörigen eine günstigere Rechtsstellung vermittelt.
-Die Erteilung eines Aufenthaltstitels an Freizügigkeitsberechtigte kommt regelmäßig nicht in Betracht (siehe oben unter 11.0.)
-Sind die Voraussetzungen für einen Aufenthaltstitel nach dem AufenthG erfüllt und liegt parallel kein Freizügigkeitsrecht vor (vgl. C.11.1.1.!), ist immer auch zu prüfen, ob der Unionsbürger auch die Voraussetzungen für einen Anspruch auf Teilnahme an einem Integrationskurs gem. § 44 Abs. 1-3 AufenthG erfüllt. Ggf. ist er entsprechend zu informieren und ist ihm eine Bestätigung zur Vorlage bei einem Kursträger auszustellen. Eine Teilnahmeverpflichtung gem. § 44 a AufenthG kommt in diesen Fällen allerdings nie in Betracht, da zumindest nach § 11 Abs. 1 S. 11 nur Vorschriften des AufenthG Anwendung finden, die dem Unionsbürger eine günstigere Rechtsstellung vermitteln.
-C.11.2. Anwendung des Aufenthaltsgesetzes nach Feststellung des Verlusts des Freizügigkeitsrechts
-C.11.2. § 11 Abs. 2 regelt, dass Unionsbürger und ihre Familienangehörigen, bei denen das Nichtbestehen oder der Verlust des Rechts aus § 2 Abs. 1 festgestellt wurde, dem AufenthG unterworfen sind. Ausnahme ist eine etwaige besondere, im FreizügG/EU getroffene Regelung. Dies ist bei § 7 Abs. 1 der Fall, der demzufolge vorrangig Anwendung findet.
-C.11.3. Anrechnung von Zeiten rechtmäßigen Aufenthalts auf zeitliche Voraussetzungen des
+11.2. Sicherheitsabfragen bei Freizügigkeitsberechtigten
+C.11. 2. Abs. 2 ergänzt die Aufzählung des § 73 AufenthG in Satz 1. Sicherheitsabfragen können sowohl von Auslandsvertretungen im Rahmen der Visumentscheidung gegenüber drittstaatsangehörigen Familienangehörigen oder drittstaatsangehörigen nahestehenden Personen als auch von der Ausländerbehörde bei Entscheidungen gem. § 5 Abs. 1 und 5 gegenüber Unionsbürgern, EWR-Staatsangehörigen und britischen Staatsangehörigen mit Aufenthaltsrecht nach dem Austrittsabkommen sowie ihren jeweiligen Familienangehörigen oder nahestehenden Personen durchgeführt werden, wenn die Abfragen auf Tatsachen, die für eine Feststellung nach § 6 Abs. 1 relevant sind, begrenzt werden. Werden (dann) durch die Sicherheitsbehörden Erkenntnisse übermittelt, die eine Feststellung gem. § 6 Abs. 1 rechtfertigen, ist der Verlust des gemeinschaftsrechtlichen Aufenthaltsrechts festzustellen. Gem. § 6 Abs. 5 letzter Halbsatz gilt dies grundsätzlich auch für Daueraufenthaltsberechtigte und Betroffene, die nur noch aus zwingenden Gründen der öffentlichen Sicherheit und Ordnung ihr Freizügigkeitsrecht verlieren können.
+11.3. Ausstellung als elektronischer Aufenthaltstitel
+C.11. 3. Aus Gründen der Dokumentensicherheit müssen seit dem 24.11.2020 an Drittstaatsangehörige Aufenthaltsdokumente nach dem FreizügG/EU immer als eAT ausgestellt werden. Die bisher im Gesetz enthaltene Möglichkeit der Verwendung eines „einheitlichen Vordruckmusters“ (Papiervordruck, früherer § 11 Abs. 1 S. 6 FreizügG/EU) ist entfallen.
+Vor dem 31.08.2011 auf Papiervordruck ausgestellte Karten behalten nach Satz 7 in Anwendung des § 105b AufenthG ihre Gültigkeit nur bis zum 31.08.2021. Aufenthaltskarten sowie Daueraufenthaltskarten von drittstaatsangehörigen Familienangehörigen britischer Staatsangehöriger verlieren nach § 16 Abs. 6 Satz 2 FreizügG/EU ab dem 01.01.2022 ihre Gültigkeit, wenn der Inhaber infolge des Austritts des Vereinigten Königreichs Großbritannien und Nordirland kein Recht mehr nach § 2 Abs. 1 FreizügG/EU besitzt. Stattdessen ist der Wechsel zum Aufenthaltsdokument-GB erforderlich.
+11.4. Austellung von Fiktionsbescheinigungen
+C.11.4. Trägt ein Antragsteller vor, im Zeitraum zwischen Bestellung und Aushändigung des eAT Reisen zu müssen oder einen Nachweis über sein Aufenthaltsrecht zur Vorlage bei Arbeitgeber oder Sozialbehörden zu benötigen, kann eine Fiktionsbescheinigung ausgestellt werden.
+Ist eine Aufenthaltskarte, Daueraufenthaltskarte oder ein Aufenthaltsdokument-GB von Amts wegen auszustellen, so ist das Feld „Der Inhaber/die Inhaberin hat die Dokumentation eines Aufenthaltsrechts nach dem FreizügG/EU oder dem Abkommen EU-Schweiz beantragt, das hiermit vorläufig bescheinigt wird.“ anzukreuzen.
+Während der Prüfung zur Verleihung eines Freizügigkeitsrechts auf Antrag, also im Fall von nahestehenden Personen gem. § 3a FreizügG/EU, ist § 81 AufenthG entsprechend anzuwenden. D.h. bei Einreise mit einem D-Visum ist eine Fiktionsbescheinigung nach § 81 Abs. 4 AufenthG auszustellen, bei einer visafreien Einreise eine Fiktionsbescheinigung nach § 81 Abs. 3 AufenthG. Für die Ausstellung wird gem. § 47 Abs. 1 Nr. 8 AufenthV eine Gebühr von 13 Euro erhoben.
+Gemäß § 81 Abs. 3 AufenthG ausgestellte Fiktionsbescheinigungen berechtigen nicht zu Kurzaufenthalten in anderen Schengenstaaten.
+11.5. Regelungen für nahestehende Personen
+C.11.5. Für die Fälle des § 3a (nahestehende Personen) gelten durch die entsprechende Anwendung der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1, 2 und 4 AufenthG, der Visumsbestimmungen nach § 6 Abs. 3 S. 2 AufenthG, der Verkürzungsmöglichkeit der Aufenthaltskarte nach § 7 Abs. 2 S. 2 AufenthG und der Mitwirkungspflichten des § 82 Abs. 1, 2 und 3 AufenthG deutlich strengere Regeln, als für den übrigen Personenkreis des FreizügG/EU.
+Da § 6 Abs. 3 S. 3 AufenthG entsprechend anzuwenden ist, wird die Dauer des rechtmäßigen Aufenthalts mit einem nationalen Visum auf die Zeiten des Besitzes der Aufenthaltskarte nach dem FreizügG/EU angerechnet.
+11.6. Anwendbarkeit des § 82 Abs. 4 AufenthG
+C.11.6. Die Regelung des § 82 Abs. 4 AufenthG (Ermittlung der Staatsangehörigkeit, Untersuchung der Reisefähigkeit, Botschaftsvorführung) ist nur in Fällen anwendbar, in denen sich die Durchführung der Aufenthaltsbeendigung nach dem AufenthG richtet (siehe Auflistung in C.11.8.).
+11.7. Mitteilungspflichten an die Ausländerbehörden
+C.11. 7. § 11 Abs. 7 beschränkt die Anwendbarkeit des § 87 Abs. 2 Nr. 1 bis 3 AufenthG auf diejenigen Übermittlungen, die für die Feststellung des Verlust auf Einreise und Aufenthalt gem. § 2 Abs. 7, § 5 Abs. 4 und § 6 Abs. 1 relevant sind.
+Diese Einschränkung gilt nicht für Fälle, in denen sich die Durchführung der Aufenthaltsbeendigung nach dem AufenthG richtet (siehe Auflistung in C.11.8.). Für diesen Personenkreis sind sämtliche Erkenntnisse, die nach dem AufenthG für eine Aufenthaltsbeendigung von Bedeutung sein können, mitzuteilen.
+11.8.-12. Aufenthaltsbeendigung und Familiennachzug nach dem AufenthG
+C.11.8.-C.11.12. Die bisher im FreizügG/EU (z.B. in § 3 Abs. 2 und 5 der früheren Fassung) verstreuten Regelungen, wonach nicht das Recht der Aufenthaltsbeendigung nach §§ 6 und 7 des FreizügG/EU, sondern diejenigen des AufenthG Anwendung finden, werden nun in § 11 Abs. 8 und Abs. 12 S. 2 gebündelt. Eine materiell-rechtliche Änderung ist damit nicht verbunden. Bei
+Familienangehörigen, die gem. § 3 Abs. 2 FreizügG/EU nach dem Tod eines Unionsbürgers ein Aufenthaltsrecht erhalten haben,
+Ehegatten und Lebenspartnern, die selbst nicht Unionsbürger sind und nach der Scheidung oder Aufhebung der Ehe oder der Lebenspartnerschaft gem. § 3 Abs. 4 FreizügG/EU ein Aufenhaltsrecht behalten haben,
+nahestehenden Personen mit einem Aufenthaltsrecht nach § 3a Abs. 1 FreizügG/EU,
+Britischen Staatsangehörigen und ihre Familienangehörigen bzw. nahestehenden Personen mit einem Aufenthaltsrecht nach § 16 FreizügG/EU /§ 18 Abs. 4 des Austrittsabkommens, wenn das für die Aufenthaltsbeendigung maßgebebliche Verhalten nach dem 31.12.2020 stattgefunden hat,
+richtet sich das Recht der Aufenthaltsbeendigung nach dem AufenthG und nicht nach dem FreizügG/EU. Bei Nichtbestehen oder einem Wegfall der Voraussetzungen für ein Aufenthaltsrecht wird entweder die Verkürzung der Geltungsdauer oder – wenn die Verleihung des Rechts von vornherein rechtswidrig war- die Rücknahme der Aufenthaltskarte geprüft. Bei der Erfüllung von Ausweisungsinteressen ist die Anwendung der §§ 53 ff. AufenthG zu prüfen.
+Für den folgenden Personenkreis ist § 3 Abs. 1 FreizügG/EU nicht anwendbar, sondern der Familiennachzug richtet sich stattdessen nach den Regelungen des AufenthG
+zum Familiennachzug zu Inhabern von Aufenthaltserlaubnissen aus familiären Gründen (§ 11 Abs. 8 FreizügG/EU): Familienangehörige, die gem. § 3 Abs. 2 FreizügG/EU nach dem Tod eines Unionsbürgers ein Aufenthaltsrecht erhalten haben,
+Ehegatten und Lebenspartner, die selbst nicht Unionsbürger sind und nach der Scheidung oder Aufhebung der Ehe oder der Lebenspartnerschaft gem. § 3 Abs. 4 FreizügG/EU ein Aufenhaltsrecht behalten haben,
+nahestehende Personen mit einem Aufenthaltsrecht nach § 3a Abs. 1 FreizügG/EU oder nach dem
+Austrittsabkommen
+Inhaber eines Aufenthaltsrechts nach dem Austrittsabkommen, die weder britische Staatsangehörige noch Unionsbürger sind, wenn die Familienangehörigen nicht unter das Austrittsabkommen fallen
+zum Familiennachzug zu Inhabern einer Erlaubnis zum Daueraufenthalt-EU (§ 11 Abs. 9 und 10 FreizügG/EU): Familienangehörige und nahestehende Personen, die selbst keine Unionsbürger sind und ein Daueraufenthaltsrecht gem. § 4a Abs. 1 Satz 2 FreizügG/EU haben.
+Inhaber mit Daueraufenthaltsrecht nach dem Austrittsabkommen, wenn die Familienangehörigen nicht unter das Austrittsabkommen fallen
+Zum Familiennachzug zu Inhabern einer Blauen Karte EU
+Britische Staatsangehörige, die Inhaber eines Aufenthaltsrechts nach dem Austrittsabkommen sind, wenn die Familienangehörigen nicht unter das Austrittsabkommen fallen
+Zu § 11 Abs. 11 -Entsprechenden Anwendung des § 3a FreizügG/EU für nahestehende Angehörige von britischen Staatsangehörigen- siehe die Ausführungen unter C.3a.0.
+11.13. Datenübermittlung zu Integrationskursen
+C.11.13. § 88 Abs. 1 Satz 1, 3 und 4 AufenthG findet Anwendung, soweit die Datenübermittlung im Zusammenhang mit der Durchführung von Integrationskursen, zur Überwachung einer Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch oder zur Durchführung eines Einbürgerungsverfahrens notwendig ist.
+11.14. Meistbegünstigungsklausel
+C.11. 14. § 11 Abs. 14 beinhaltet eine Meistbegünstigungsklausel und deckt sich insofern mit Art. 37 der UnionsRL. Danach findet das Aufenthaltsgesetz auch dann Anwendung, wenn es dem betroffenen Ausländer eine günstigere Rechtsstellung vermittelt, als das FreizügG/EU oder das Austrittsabkommen.
+Die Erteilung eines Aufenthaltstitels an Freizügigkeitsberechtigte kommt regelmäßig nicht in Betracht, da die Erteilung eines – im Übrigen gebührenpflichtigen und mit biometrischen Merkmalen zu versehenden – Aufenthaltstitels keine über die Freizügigkeit hinausgehenden Rechte, z.B. hinsichtlich der Reiserechte in der EU bzw. dem Schengen-Raum, der Aufnahme einer Erwerbstätigkeit oder der Inanspruchnahme von sozialen Leistungen wie bspw. Kinder- oder Elterngeld vermittelt. Bei Anträgen von Freizügigkeitsberechtigten auf Erteilung eines Aufenthaltstitels fehlt es damit an einem Sachbescheidungsinteresse.
+Auch die mit der Erteilung eines Aufenthaltstitels regelmäßig verbundene Teilnahmeberechtigung für einen Integrationskurs kann zu keiner anderen Bewertung führen. Die Maßgabe des § 44 AufenthG und § 4 IntV, Freizügigkeitsberechtigte nur im Rahmen verfügbarer Plätze zu einem Integrationskurs zuzulassen, kann nicht durch eine Erteilung eines Aufenthaltstitels allein zu diesem Zweck konterkariert werden.
+Die Erteilung oder Verlängerung eines Aufenthaltstitels für freizügigkeitsberechtigte Unionsbürger und freizügigkeitsberechtigte Drittstaatsangehörige Personen, kommt damit allein nur in drei Konstellationen in Betracht: bei Ehegatten, Lebenspartnern oder Elternteilen von Deutschen, da diese bei Erfüllung der Voraussetzungen des § 28 Abs. 2 AufenthG bereits nach drei (anstelle der durch § 4a FreizügG/EU regelmäßig vorgesehenen fünf) Jahren ein unbefristetes Aufenthaltsrecht für das Bundesgebiet erhalten können,
+bei Fachkräften mit deutscher Berufsausbildung oder deutschem Hochschulabschluss, sofern die Voraussetzungen des § 18c AufenthG vorliegen, da sie bereits nach zweijährigem Besitz eines Titels nach §§ 18a, 18b oder 18d AufenthG in eine Niederlassungserlaubnis wachsen können oder
+bei Antragstellern, die die Voraussetzungen des § 19a AufenthG erfüllen, da diesen bereits gem. § 19a Abs. 6 AufenthG nach 33 bzw. 21 Monaten Beschäftigung eine Niederlassungserlaubnis zu erteilen ist,
+bei selbständig Tätigen, da diesen unter den Voraussetzungen des § 21 Abs. 4 AufenthG bereits nach dreijährigem Besitz einer Aufenthaltserlaubnis nach § 21 AufenthG eine Niederlassungerlaubnis erteilt werden kann. Im Fall von britischen Staatsangehörigen mit einem Aufenthaltsrecht nach dem Austrittsabkommen kann die Erteilung einer Blauen Karte EU oder eine Erlaubnis zum Daueraufenthalt-EU eine günstigere Rechtsstellung bewirken, weil sie mit Mobilitätsrechten innerhalb der EU bzw. des EWR verbunden ist, die nach dem Austrittsabkommen nicht gewährt werden. /div>
+Eine Berufung auf das Günstigkeitsprinzip beinhaltet keinen Verzicht auf das Freizügigkeitsrecht, ein Recht nach § 3a FreizügG/EU oder auf ein Recht nach dem Austrittsabkommen. Rechte nach dem FreizügG/EU bzw. nach dem Austrittsabkommen und nach dem AufenthG können nebeneinander bestehen. Zur mehrfachen Titelerteilung siehe
+A.4.1.1.2.
+Sind die Voraussetzungen für einen Aufenthaltstitel nach dem AufenthG erfüllt und liegt parallel kein Freizügigkeitsrecht vor , ist immer auch zu prüfen, ob der Unionsbürger auch die Voraussetzungen für einen Anspruch auf Teilnahme an einem Integrationskurs gem. § 44 Abs. 1-3 AufenthG erfüllt. Ggf. ist er entsprechend zu informieren und ist ihm eine Bestätigung zur Vorlage bei einem Kursträger auszustellen. Eine Teilnahmeverpflichtung gem. § 44 a AufenthG kommt in diesen Fällen allerdings nie in Betracht, da zumindest nach § 11 Abs. 14 nur Vorschriften des AufenthG Anwendung finden, die dem Ausländer eine günstigere Rechtsstellung vermitteln.
+Anwendung des Aufenthaltsgesetzes nach Feststellung des Verlusts des Freizügigkeitsrechts
+C.11. 14.2. § 11 Abs. 14 S. 2 regelt, dass Unionsbürger und ihre Familienangehörigen, bei denen das Nichtbestehen oder der Verlust des Rechts aus § 2 Abs. 1 festgestellt wurde, dem AufenthG unterworfen sind. Ausnahme ist eine etwaige besondere, im FreizügG/EU getroffene Regelung. Dies ist bei § 7 Abs. 1 der Fall, der demzufolge vorrangig Anwendung findet.
+11.15. Anrechnung von Zeiten rechtmäßigen Aufenthalts auf zeitliche Voraussetzungen des
 Aufenthaltsgesetzes
-C.11.3. § 11 Abs. 3 verknüpft die rechtmäßigen Aufenthalte von freizügigkeitsberechtigten Unionsbürgern und ihren freizügigkeitsberechtigten Familienangehörigen mit den entsprechenden Aufenthaltstiteln des AufenthG und ist insofern für die – spätere – Anwendung des AufenthG für diese Personengruppe von Relevanz. Dies kann insbesondere für Familienangehörige, die nicht Unionsbürger sind, relevant sein, wenn sie etwa durch eine Scheidung ihren Status als freizügigkeitsberechtigte Person verlieren, ohne dass das Aufenthaltsrecht nach § 3 Abs. 5 fort gilt (vgl. insofern die Ausführungen unter C.3).
+C.11. 15. § 11 Abs. 15 verknüpft die rechtmäßigen Aufenthalte nach dem FreizügG/EU mit den
+entsprechenden Aufenthaltstiteln des AufenthG und ist insofern für die – spätere – Anwendung des AufenthG für diese Personengruppe von Relevanz. Dies kann insbesondere für Familienangehörige, die nicht Unionsbürger sind, relevant sein, wenn sie etwa durch eine Scheidung ihren Status als freizügigkeitsberechtigte Person verlieren, ohne dass das Aufenthaltsrecht nach § 3 Abs. 4 fort gilt (vgl. insofern die Ausführungen unter C.3). Diese Anrechnungsvorschriften finden auch dann Anwendung, wenn Aufenthaltszeiten nach anderen Vorschriften, etwa nach dem Staatsangehörigkeitsrecht, erheblich sind.
 Unionsbürgern und ihren freizügigkeitsberechtigten Drittstaatsangehörigen mit einem unbefristeten Aufenthaltstitel wird in Berlin ein Wahlrecht eingeräumt. Eine Übertragung als Niederlassungserlaubnis in einen neu ausgestellten Pass gegen Gebühr ist ebenso wie die Ausstellung einer Bescheinigung des Daueraufenthalts oder einer Daueraufenthaltskarte möglich.
 Ausgeschlossen ist allerdings zur Vermeidung von Missbrauch die Übertragung des Titels verbunden mit der gleichzeitigen Ausstellung eines der Dokumente nach § 5.
