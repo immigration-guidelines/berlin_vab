@@ -33,7 +33,7 @@ Alter und altersbedingte Leistungseinschränkungen
 9.4.3. Anrechnung von Aufenthaltszeiten zum Studium und Berufsausbildung
 A.9. Niederlassungserlaubnis
 Änderungsdatum
-(FEG; 10.12.2020; 15.04.2021)
+(FEG; 15.04.2021; 18.08.2021)
 9. 0. Niederlassungserlaubnis für Familienangehörige von Inhabern eines humanitären Aufenthaltstitels Die Verfestigung des Aufenthalts von Familienangehörigen eines Inhabers eines humanitären Aufenthaltstitels nach §§ 22, 23 Abs. 1 oder Abs. 2, 25 Abs. 3 oder Abs. 4a Satz 1 sowie nach § 25a Abs. 1 und § 25b Abs. 1 richtet sich nicht nach § 9, sondern nach § 26 Abs. 4, § 29 Abs. 3 Satz 2 bzw. § 35 (vgl. 29.3.2 VwV-AufenthG).
 9.1.1. einstweilen frei
 9.1.2. Nebenbestimmung
@@ -86,7 +86,7 @@ Beachte: Die Anforderungen des § 9 Abs. 2 Satz 1 Nr. 3 lassen sich nicht dadurc
 Merke: Bei über 67jährigen Personen wird hingegen eine Prüfung der angemessenen Altersversorgung nicht vorgenommen. Diese Personen befinden sich bereits im Rentenalter, so dass eine Vorsorge damit entbehrlich ist.
 9.2.1.3a. Sozialversicherungsabkommen
 Die Bundesrepublik Deutschland hat mit folgenden Ländern bzw. Regionen Abkommen auf dem Gebiet der Rentenversicherung abgeschlossen (in Kraft):
-Australien, Bosnien-Herzegowina, Brasilien, Chile, Indien, Israel, Japan, Kanada und Quebec, Kosovo, Marokko, Mazedonien, Montenegro, Republik Korea, Serbien, Tunesien, Türkei und USA. Das Abkommen mit Uruguay ist noch nicht in Kraft.
+Australien, Bosnien-Herzegowina, Brasilien, Chile, Indien, Israel, Japan, Kanada und Quebec, Kosovo, Marokko, M Nordm azedonien, Montenegro, Republik Korea, Serbien, Tunesien, Türkei und USA. Das Abkommen mit Uruguay ist noch nicht in Kraft.
 Trägt ein Ausländer, der § 9 Abs. 2 Nr. 3 AufenthG nicht erfüllt vor, in einem oder mehreren der genannten Staaten gearbeitet und Sozialabgaben abgeführt zu haben, so kann diese Versicherungszeit unter Umständen auf die geforderten 60 Beitragsmonate angerechnet werden.
 In diesem Fall ist der Ausländer aufzufordern, sich die Anrechnungszeit von der Deutsche Rentenversicherung bestätigen zu lassen, da die Prüfung hier nicht erfolgen kann.
 9.2.1.4. Versagungsgründe
@@ -105,7 +105,7 @@ Für die Erteilung einer Niederlassungserlaubnis müssen Grundkenntnisse der Rec
 Aus Gründen der Verwaltungseffizienz ist von diesen Grundkenntnissen auszugehen, wenn der Betroffene im Bundesgebiet einen schulischen oder beruflichen Bildungsabschluss erworben oder sich zumindest für einen längeren Zeitraum – zumindest ein Jahr - in einer entsprechenden Ausbildung befunden hat oder der Ausländer gem. § 44 Abs. 3 S. 1 bei Ersterteilung keinen Anspruch auf Teilnahme an einem Integrationskurs hatte. In den sonstigen Fällen sind die Grundkenntnisse in einem Alltagsgespräch bei Vorsprache zu prüfen.
 Beachte auch die Ausführungen zu den Ausnahmeregelungen in § 9 Abs. 2 S. 2-5 unter 9.2.3. und 9.2.4. 9.2.2. einstweilen frei
 9.2.3. Berücksichtigung von Erkrankungen / Behinderungen
-Von den Voraussetzungen der Nr. 7 und 8 wird nach § 9 Abs. 2 S. 3 abgesehen, wenn eine körperliche, geistige oder seelische Erkrankung oder Behinderung die Erfüllung der Voraussetzungen unmöglich macht. Das Alter eines Ausländers rechtfertigt nach dem eindeutigen Wortlaut des Gesetzes grundsätzlich kein Absehen von diesen Voraussetzungen. Ausnahmen von diesem Grundsatz bei altersbedingten Erkrankungen sind möglich (siehe 9.2.4. Berücksichtigung zu vermeidender Härte).
+Von den Voraussetzungen der Nr. 7 und 8 wird nach § 9 Abs. 2 S. 3 abgesehen, wenn eine körperliche, geistige oder seelische Erkrankung oder Behinderung die Erfüllung der Voraussetzungen unmöglich macht. Das Alter eines Ausländers rechtfertigt nach dem eindeutigen Wortlaut des Gesetzes grundsätzlich kein Absehen von diesen Voraussetzungen. A usnahmen von diesem Grundsatz bei altersbedingten Erkrankungen sind möglich (siehe 9.2.4. Berücksichtigung zu vermeidender Härte).
 9.2.4. Berücksichtigung zu vermeidender Härte
 Das Absehen von den Voraussetzungen der Nr. 7 und 8 wegen einer zu vermeidenden Härte liegt nach § 9 Abs. 2 S. 4 im Ermessen der Behörde. Nach Nr. 9.2.2.2.2 AufenthG-VwV ist bspw. dann von den Voraussetzungen der Nr. 7 und 8 abzusehen, wenn eine körperliche, geistige oder seelische Erkrankung oder Behinderung die Erfüllung der Voraussetzungen zwar nicht unmöglich macht, aber dauerhaft erschwert, wenn der Ausländer bei der Einreise bereits über 50 Jahre alt war oder wenn wegen der Pflegebedürftigkeit eines Angehörigen der Besuch eines Integrationskurses auf Dauer unmöglich oder unzumutbar war.
 Bei Personen, die bereits das Renteneintrittsalter erreicht haben, sollen altersbedingte Erkrankungen berücksichtigt werden. Diese sind mit einem ärztlichen Attest nachzuweisen. Sofern dieses Attest beispielsweise bescheinigt, dass auf Grund gesundheitlicher Probleme das Absolvieren eines Integrationskurses unzumutbar ist, wird von den Voraussetzungen der Nr. 8 abgesehen.

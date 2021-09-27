@@ -2,14 +2,32 @@ VAB C 16
 VAB C 16
 Inhaltsverzeichnis
 C.16. Austrittsabkommen
+C.16.0. Austrittsabkommen
+C.16.0.1. Nachgeborene oder nachadoptierte Kinder
+C. 16.0.2. Erteilung von Aufenthaltstiteln an Familienangehörige nach dem AufenthG
+C. 16.0.3 Diplomaten
 C.16.1. Aufenthaltsrecht kraft Gesetzes
 C.16.2. Erteilung des Aufenthaltsdokument-GB von Amts wegen
 C.16.3. Grenzgänger
 C.16.6. Einziehung von Aufenthalts- und Daueraufenthaltskarten
 C.16. Austrittsabkommen
-(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
+(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 16.09.2021)
+C.16.0. Austrittsabkommen
 C.16.0. Das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (Austrittsabkommen) ist am 01.02.2020 in Kraft getreten. Das Austrittsabkommen ist unmittelbar geltendes Recht. Durch das Austrittsabkommen wurde ein Übergangszeitraum bis zum 31.12.2020 festgelegt, in welchem britische Staatsangehörige aufenthaltsrechtlich weiterhin wie Unionsbürger behandelt wurden. Britische Staatsangehörige, die vor Ablauf des 31.12.2020 von ihrem unionsrechtlichen Freizügigkeitsrecht im Bundesgebiet Gebrauch gemacht haben, haben ein Aufenthaltsrecht nach dem Austrittsabkommen erworben (siehe Brexit-Konzept). Durch § 16 FreizügG/EU wird die Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen ergänzend zum Austrittsabkommen geregelt.
 Britische Staatsangehörige, die vor Ablauf des Übergangszeitraums am 31.12.2020 von ihrem Freizügigkeitsrecht im Bundesgebiet keinen Gebrauch gemacht haben, sind ab dem 01.01.2021 wie Drittstaatsangehörige zu behandeln und fallen unter das AufenthG.
+C.16.0.1. Nachgeborene oder nachadoptierte Kinder
+Kinder von Rechteinhabern, die ab dem 01.01.2021 geboren oder adoptiert werden, haben unabhängig vom Geburtsort in den meisten Fällen ein Aufenthaltsrecht nach dem Austrittsabkommen, wenn sie zum Zeitpunkt des Nachzugs das 21. Lebensjahr noch nicht vollendet haben. Kinder die das 21. Lebensjahr vollendet haben, können nur dann ein Aufenthaltsrecht ableiten, wenn ihnen durch den Rechtsinhaber oder seinen Ehegatten bzw. Lebenspartner Unterhalt gewährt wird.
+Sind beide Eltern nach dem Austrittsabkommen begünstigt, hat das Kind ebenfalls Rechte aus dem Austrittsabkommen. Es ist nicht erforderlich, dass die Eltern das gemeinsame Sorgerecht haben oder ein Elternteil das alleinige Sorgerecht für das Kind hat.
+Ist ein Elternteil nach dem Austrittsabkommen begünstigt und besitzt der andere Elternteil die deutsche Staatsangehörigkeit, das Kind besitzt aber ausnahmsweise nicht die deutsche Staatsangehörigkeit, kommt es für die Berechtigung nach dem Austrittsabkommen ebenfalls nicht auf die Sorgeberechtigung an. Es ist nicht erforderlich, dass die Eltern das gemeinsame Sorgerecht haben oder einer das alleinige Sorgerecht hat. Das Austrittsabkommen verlangt auch nicht, dass der deutsche Elternteil in Deutschland wohnt.
+Ist nur ein Elternteil nach dem Austrittsabkommen begünstigt und besitzt der andere Elternteil nicht die deutsche Staatsangehörigkeit, muss der nach dem Austrittsabkommen begünstigte Elternteil das alleinige oder das gemeinsame Sorgerecht haben, damit das Kind Rechte aus dem Austrittsabkommen hat.
+C. 16.0.2. Erteilung von Aufenthaltstiteln an Familienangehörige nach dem AufenthG
+Für Fälle des Familiennachzugs, bei denen der Familienangehörige keine Rechte nach dem Austrittsabkommen geltend machen kann (z.B. Heirat nach dem Ende des Übergangszeitraums 31.12.2020), ist die entsprechende Anwendung des AufenthG in § 11 Abs. 8-10 FreizügG/EU geregelt. Danach werden gleichgestellt:
+Britische Staatsangehörige mit Daueraufenthaltsrecht nach dem Austrittsabkommen mit Inhabern einer Erlaubnis zum Daueraufenthalt-EU,
+Britische Staatsangehörige, mit Aufenthaltsrecht nach dem Austrittsabkommen mit Inhabern einer Blauen Karte EU und Inhaber eines Aufenthaltsrechts nach dem Austrittsabkommen, die weder britische Staatsangehörige noch Unionsbürger sind mit Inhabern von Aufenthaltserlaubnissen aus familiären Gründen.
+C. 16.0.3 Diplomaten
+Die Tätigkeit als diplomatisches oder konsularisches Personal, dass einen Rechtsstatus nach den Wiener Verträgen inne hat oder von Personal, das wegen der in Deutschland ausgeübten Tätigkeit für internationale Organisationen von aufenthaltsrechtlichen Bestimmungen befreit ist, schließt ein Aufenthaltsrecht nach dem Austrittsabkommen nicht aus. Die im Bundesgebiet ausgeübte berufliche Tätigkeit eines Briten, der unter § 1 Abs. 2 Nr. 2 und 3 AufenthG oder § 27 AufenthV fällt, ist im Zusammenhang mit dem Austrittsabkommen wie eine gewöhnliche, erlaubte Beschäftigung zu behandeln. Daraus folgt, dass diesem Personenkreis sowie ihren Familienangehörigen oder nahestehenden Personen bei Anzeige ihres Aufenthalts bzw. Antragstellung auch Aufenthaltsdokumente-GB ausgestellt werden.
+Die Tätigkeit ist durch die Vorlage des Sonderausweises des Auswärtigen Amtes, eine aktuelle Bescheinigung des Arbeitgebers über Art und Dauer der Tätigkeit sowie einen aktuellen Beleg über die Höhe der Entlohnung zu belegen.
+Diplomaten unterliegen nicht dem Melderecht. Sie sind nicht zur Anmeldung aufzufordern und von Ihnen darf auch keine Meldebestätigung gefordert werden. Die Adresse für den eAT ist stattdessen dem Mietvertrag oder der Bescheinigung des Arbeitgebers zu entnehmen.
 C.16.1. Aufenthaltsrecht kraft Gesetzes
 C.16.1. Durch § 16 Abs. 1 FreizügG/EUwird geregelt, dass in Deutschland zum Erhalt eines Aufenthaltsrechts nach dem Austrittsabkommen kein Antragsverfahren erforderlich ist, sondern das Aufenthaltsrecht nach Art. 18 Abs. 4 des Austrittsabkommens kraft Gesetzes besteht.
 C.16.2. Erteilung des Aufenthaltsdokument-GB von Amts wegen

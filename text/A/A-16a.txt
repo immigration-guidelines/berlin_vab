@@ -21,14 +21,14 @@ A.16a. Berufsausbildung; berufliche Weiterbildung
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 A.16a. Berufsausbildung; berufliche Weiterbildung
 Änderungsdatum
-(FEG; 03.11.2020)
+(FEG; 03.11.2020; 16.07.2021)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
 16a.0. § 16a enthält zusammengefasst die Regelungen zur Berufsausbildung (bis zum 29.2.2020 § 16b a.F. und § 17 a.F.). Die Voranstellung der Regelungen zur Berufsausbildung entspricht der Neusortierung des Abschnitts 4 und verdeutlicht die Schwerpunktverlagerung der Fachkräfteeinwanderung auf die berufliche Qualifikation.
 Zur anschließenden Erteilung einer AE zur Arbeitsplatzsuche für Fachkräfte nach erfolgreichem Abschluss der Ausbildung oder Aus- und Weiterbildung vgl. A.20.
 16a.1 Betriebliche Aus- und Weiterbildung
 16a.1.1. betriebliche Aus- und Weiterbildung
 Mit Absatz 1 wird der Regelungsgehalt von § 17 Absatz 1 a.F. in Bezug auf die betriebliche Ausbildung übernommen. Danach können Ausländer zur betrieblichen Ausbildung (Berufsausbildung) und zur Beschäftigung im Rahmen einer Weiterbildung (betriebliche Weiterbildung) zugelassen werden, wenn die BA zugestimmt hat (§ 16a Abs. 1 S. 2 i.V.m. § 39 Abs. 1 S. 1 und 2 i.V.m. § 8 Abs. 1 BeschV).
-Die betriebliche Ausbildung im Sinne des § 16a Abs. 1 S. 1 setzt eine qualifizierte Berufsausbildung gemäß § 2 Abs. 12a voraus. Dies ergibt sich aus § 16a Abs. 1 S. 1 i.V.m. S. 3.
+Die betriebliche Ausbildung im Sinne des § 16a Abs. 1 S. 1 setzt eine qualifizierte Berufsausbildung gemäß § 2 Abs. 12a (s. A.2.12a.) voraus. Dies ergibt sich aus § 16a Abs. 1 S. 1 i.V.m. S. 3.
 Eine betriebliche Weiterbildung liegt dann vor, wenn der Ausländer über eine abgeschlossene Berufsausbildung verfügt. Als abgeschlossene Berufsausbildung gilt die mindestens zweijährige betriebliche oder schulische Berufsausbildung, die gehobene schulische Berufsausbildung (z.B. nach dem Abitur) und die Fachhochschul- oder Hochschulausbildung, Vgl. hierzu unter VAB A 16a.1.1.1. bis 1.1.3.
 Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5 AufenthG. Hinsichtlich der Sicherung des Lebensunterhalts einschließlich einer ausreichenden Krankenversicherung gilt allerdings die Sonderregelung des § 2 Abs. 3 S. 5. Danach gilt der Lebensunterhalt für die Erteilung einer Aufenthaltserlaubnis nach § 16a Abs. 1 als gesichert, wenn der Ausländer über monatliche Mittel in Höhe des monatlichen Bedarfs, der nach den §§ 13 und 13a Abs. 1 des
 Bundesausbildungsförderungsgesetzes bestimmt wird, verfügt vgl. VAB A.2.3.5.
@@ -48,7 +48,8 @@ Die Zustimmung der BA ist erforderlich, § 16a Abs. 1 i.V.m. § 39 Abs. 1 i.V.m.
 Der erfolgreiche Abschluss des Referendariats (2. Staatsexamen) ermöglicht die anschließende Erteilung einer AE zur Arbeitsplatzsuche gem. § 20 Abs. 3 Nr. 3 AufenthG.
 16a.1.1.3. Beschäftigungsbedingungen bei Volontären
 Die BA muss der Aus- bzw. Weiterbildung als Volontär zustimmen, § 16a Abs. 1 i.V.m. § 39 Abs. 1 i.V.m. § 8 Abs. 1 BeschV. Sofern die BA zustimmt, ist die Aufenthaltserlaubnis bei Vorliegen der sonstigen Voraussetzungen gemäß § 16a Abs. 1 zu erteilen.
-Nach Abschluss des Volontariats kommt die Erteilung einer Aufenthaltserlaubnis zum Zweck der Arbeitsplatzsuche nach § 20 Abs. 1 und Abs. 3 Nr. 3 nicht in Betracht, da es sich bei dem Volontariat nicht um eine qualifizierte Berufsausbildung im Bundesgebiet handelt.
+Nach Abschluss des Volontariats kommt die Erteilung einer Aufenthaltserlaubnis zum Zweck der Arbeitsplatzsuche nach § 20 Abs. 1 und Abs. 3 Nr. 3 nicht in Betracht, da es sich bei dem Volontariat nicht um eine qualifizierte Berufsausbildung (s.
+A.2.12a.) im Bundesgebiet handelt.
 16a.1.2. Zweckwechsel während der Ausbildung
 Mit § 16a Abs. 1 S. 2 hat der Gesetzgeber eine abschließende Regelung getroffen, die den Zweckwechsel nicht nur während der der Aus- oder Weiterbildung einschränkt, sondern auch nach Abbruch oder erfolgloser Beendigung der Aus- oder Weiterbildung. Zwar könnte man auch die Auffassung vertreten, dass der Wortlaut „während“ die Fälle der erfolglosen Beendigung nicht umfasst. Das dem nicht so ist ergibt sich sowohl aus der Gesetzesbegründung (BT-Drs 19/8285; S. 85 f.), wonach die Fälle des Abbruchs und der erfolglosen Beendigung ausdrücklich mit umfasst sind, als auch nach Sinn und Zweck der Regelung. Das Zweckwechselverbot könnte ja ansonsten bei vorsätzlichem Abbruch der Ausbildung jederzeit durch den Ausländer umgangen werden. Der Gesetzgeber hat dabei eine abschließende Regelung getroffen und lässt den Zweckwechsel nur in den folgenden Fällen zu:
 bei einer (weiteren) qualifizierten Berufsausbildung,
@@ -81,10 +82,10 @@ Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5. Hinsichtlich der L
 Entstehen dem Auszubildenden für die Schulausbildung Gebühren, so sind diese dem Lebensunterhalt hinzuzurechnen. Die Entscheidung liegt im Ermessen der Behörde. Liegen die Erteilungsvoraussetzungen vor, ist das Ermessen grundsätzlich zu Gunsten des Ausländers auszuüben.
 Zur auflösenden Bedingung „Erlischt mit dem Bezug von Leistungen nach dem SGB II, XII oder AsylbLG, vgl. die Ausführungen zu § 2 Abs. 3.
 Zweckwechsel
-...weggefalllen... Es gelten die Ausführungen unter A.16a.1.2.-A.16a.1.3.
+Es gelten die Ausführungen unter A.16a.1.2.-A.16a.1.3.
 16a.2.2-3. frei
 16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der qualifizierten Berufsausbildung In den Fällen des § 16a ist die Aufenthaltserlaubnis mit der Auflage
-„Von der Ausbildung unabhängige Beschäftigung von 10 Stunden je Woche erlaubt. Selbstständige Tätigkeit nicht erlaubt. Erlischt mit Nichtantritt oder Abbruch der Ausbildung als ...“
+„Von der Ausbildung unabhängige Beschäftigung von 10 Stunden je Woche erlaubt. Selbstständige Tätigkeit nicht erlaubt. Erlischt mit Abbruch der Ausbildung als ...“
 zu versehen.
 16a.3.2 Erforderliche Sprachkenntnisse
 Bei einer qualifizierten Berufsausbildung wird ein Nachweis über ausreichende deutsche Sprachkenntnisse (Niveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen) verlangt, wenn die für die konkrete qualifizierte Berufsausbildung erforderlichen Sprachkenntnisse weder durch die Bildungseinrichtung geprüft worden sind, noch durch einen vorbereitenden Deutschsprachkurs erworben werden sollen.
@@ -94,7 +95,7 @@ ein Studium an einer deutschsprachigen Hochschule oder Fachhochschule oder eine 
 wenn ein geeignetes und zuverlässiges Sprachstandszeugnis der Stufe B 1 des GER vorgelegt wird (z. B. „Deutsch-Test für Zuwanderer“ – Kompetenzstufe B 1); oder
 einen Integrationskurs erfolgreich abgeschlossen hat.
 Im Zweifelsfall kann der Sprachtest B 1 verwendet werden.
-Deutsche Sprachkenntnisse unterhalb des Niveaus B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen können in Ausnahmefällen nur genügen, wenn der Ausbildungsbetrieb bestätigt, dass die Sprachkenntnisse des Antragstellers für die Absolvierung der qualifizierten Berufsausbildung ausreichend sind.
+Deutsche Sprachkenntnisse unterhalb des Niveaus B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen können in Ausnahmefällen nur genügen, wenn die Bildungseinrichtung (s. A.2.12c.) bestätigt, dass die Sprachkenntnisse des Antragstellers für die Absolvierung der qualifizierten Berufsausbildung ausreichend sind.
 Praktisch ist diese Regelung kaum von Relevanz, da davon auszugehen ist, dass ein Arbeitgeber bzw. die Bildungseinrichtung Sprachkenntnisse vor Ausbildungsantritt überprüft und diese auch als Aufnahmekriterium verlangt.
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 Nach dem klaren Wortlaut der Norm, haben Inhaber einer Aufenthaltserlaubnis nach § 16a Abs. 1 und 2 bei einer qualifizierten betrieblichen oder schulischen Berufsausbildung einen Anspruch darauf, sich vor der Rücknahme (§ 48 VwVfG), dem Widerruf (§ 52 Abs. 3) oder der Verkürzung (§ 7 Abs. 2 S. 2) ihres Aufenthaltstitels für einen anderen Ausbildungsplatz erneut zu bewerben, sofern nicht sie selbst die Gründe für die Maßnahme zu verantworten haben. Praktisch dürfte die Vorschrift allerdings keine Rolle spielen.

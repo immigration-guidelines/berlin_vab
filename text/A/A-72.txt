@@ -2,7 +2,7 @@ VAB A 72
 VAB A 72
 Inhaltsverzeichnis
 A.72. Beteiligungserfordernisse
-(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 30.04.2020; 15.06.2020)
+(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 15.06.2020; 02.09.2021)
 72.2.1. Beteiligung des BAMF
 72.3.1.1. Einvernehmen anderer Behörden
 72.3.1.2. Örtliche Zuständigkeit für Befristungsentscheidungen
@@ -10,7 +10,7 @@ A.72. Beteiligungserfordernisse
 72.4.1. Zustimmung der Staatsanwaltschaft
 72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
 A.72. Beteiligungserfordernisse
-(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 30.04.2020; 15.06.2020)
+(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 15.06.2020; 02.09.2021)
 Generelles Einvernehmen GStA nach § 72 Abs. 4 AufenthG - Stand: 15.02.2013
 72.1.1. bis 72.1.2. frei
 72.2.1. Beteiligung des BAMF
@@ -57,8 +57,8 @@ Sofern gegen einen Ausländer wegen einer Straftat nach § 95 AufenthG oder nach
 Dies gilt auch, wenn sich aus der Aktenlage ergibt, dass die in § 72 Abs. 4 Satz 5 AufenthG genannten Straftatbestände einmalig verletzt worden sind und kein Strafantrag gestellt wurde. Sollten Zweifel bestehen, ist grundsätzlich die Zustimmung der Staatsanwaltschaft bzw. der Amtsanwaltschaft einzuholen.
 Die Zuständigkeiten von Staatsanwaltschaft und Amtsanwaltschaft ergeben sich aus der Anordnung über Organisation und Dienstbetrieb der Staatsanwaltschaften und Amtsanwaltschaft (OrgStA) vom 23.07.2018.
 72.4.2. § 72 Abs. 4 S. 2 begründet das Verbot, zu schützende Personen ohne Zustimmung der Zeugenschutzdienststelle auszuweisen oder abzuschieben. Dies ist auf Grund der Datenübermittlungspflicht der Zeugenschutzdienststelle gem. § 87 Abs. 4 S. 4 praktisch unproblematisch.
-72.5. frei'''
-72.6. § 72 Abs. 6 regelt die in Fällen des § 25 Abs. 4a und 4b bzw. § 59 Abs. 7 von der Ausländerbehörde bei Erteilung eines Titels oder Gewährung einer Ausreisefrist zu beachtenden Beteiligungserfordernisse, denen durch die Regelungen unter A.25.4a. und b hinreichend Rechnung getragen wird.
+72.5. frei
+72.6. § 72 Abs. 6 regelt die in Fällen des § 25 Abs. 4a und 4b bzw. § 59 Abs. 7 von der Ausländerbehörde bei Erteilung eines Titels oder Gewährung einer Ausreisefrist zu beachtenden Beteiligungserfordernisse, denen durch die Regelungen unter A.25.4a. und A.59.7. hinreichend Rechnung getragen wird.
 72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
 Die Vorschrift des § 72 Abs. 7 ist insofern unglücklich formuliert, als sie eine Beteiligung in denen Fällen, in denen ein Titel gem. § 20 in Raum steht, gerade nicht ausdrücklich erwähnt. Insgesamt sollte in den nach der BeschV zustimmungsfreien Fällen schon aus Gründen der Verwaltungseffizienz nur spar-sam Gebrauch gemacht werden (Zu den
 Besonderheiten der Beteiligung bei Praktikanten vgl. B.BeschV.15. Bei der Prüfung der Erteilung einer Aufenthaltserlaubnis einer ICT-Karte oder einer Mobilen-ICT-Karte sollte die BA mit Blick auf deren Sachkompetenz grundsätzlich beteiligt werden, so nicht eine vorherige Einbindung der IHK oder Berlin Partner angezeigt ist.

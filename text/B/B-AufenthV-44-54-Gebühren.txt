@@ -2,12 +2,12 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(16.07.2020; 07.01.2021; FreizügG/EU-AnpG)
+(07.01.2021; FreizügG/EU-AnpG; 05.08.2021)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
-B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte und Mobiler ICT-Karte B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
-B.AufenthV.45.a. Gebühren für den elektronischen Identitätsnachweis
+B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
+B.AufenthV.45.a. ...aufgehoben...
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
 B.AufenthV.46. Gebühren für das Visum
@@ -23,7 +23,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(16.07.2020; 07.01.2021; FreizügG/EU-AnpG)
+(07.01.2021; FreizügG/EU-AnpG; 05.08.2021)
 Merkblatt Gebühren (Stand: 05.01.2021)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -31,7 +31,8 @@ Es ist zu beachten, dass die Gebührenregelungen die Erteilung eines eAT als Nor
 Zur "doppelten" Gebührenerhebung bei Zuzug siehe A.69.1.1.
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
 frei
-B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte und Mobiler ICT-Karte B.AufenthV.45.1. frei
+B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte
+B.AufenthV.45.1. frei
 B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
 In diesen Fällen ist grundsätzlich eine Bearbeitungsgebühr gem. § 49 Abs. 2 i.V.m. § 45 Nr. 1 a zu erheben. Hiervon kann allerdings abgesehen werden, wenn die Betroffenen bereits bei der Erteilung der Aufenthaltserlaubnis gem. § 53 von der Gebühr befreit worden sind. Hier ist kein erneuter Nachweis des Leistungsbezugs zu fordern. Vor Bescheiderlass sollte bei "Widersprüchen" ein Hinweis auf die Umdeutung des Widerspruchs zu einem Antrag und die Anregung der Antragsrücknahme gegeben werden (vgl. insofern Ausführungen unter A.12).
 B.AufenthV.45.1b - 2. frei
@@ -40,12 +41,9 @@ Für die Verlängerung der Aufenthaltserlaubnis zu dem neuen Zweck beträgt die 
 Gebührenermäßigungen oder-befreiungen kommen auch in Fällen des § 45 Nr. 3 zur Anwendung.
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
 B.AufenthV.45.4. frei
-B.AufenthV.45.a. Gebühren für den elektronischen Identitätsnachweis
-B.AufenthV.45a.1.-3. Für die nachträgliche Aktivierung der Online-Ausweisfunktion, die Neusetzung der PIN-Nr. in unserer Behörde und das Entsperren einer eAT-Karte sind Gebühren in Höhe von jeweils 6 Euro zu erheben. Für das Setzen einer neuen PIN-Nr. ist nur dann keine gesonderte Gebühr zu erheben, wenn der eAT-Inhaber unmittelbar bei Abholung seines eAT eine neue PIN-Nr. setzt oder das Neusetzen einer PIN-Nr. mit der nachträglichen Aktivierung der Online-Ausweisfunktion zusammenfällt.
-B.AufenthV.45a.4. Keine Gebühren sind zu erheben für
-die erstmalige Aktivierung der Online-Ausweisfunktion eines eAT-Inhabers nach Vollendung seines 16. Lebensjahrs, die Deaktivierung der Online-Ausweisfunktion,
-die Sperrung der Online-Ausweisfunktion und
-die Anschriftenänderung.
+B.AufenthV.45.a. ...aufgehoben...
+B.AufenthV.45a.1.-3. ...aufgehoben...
+B.AufenthV.45a.4. ...aufgehoben...
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
 B.AufenthV.45.b.1. Für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG ist eine Gebühr in Höhe von 50 Euro zu erheben.
 B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 44 Euro.
@@ -91,8 +89,8 @@ Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpfl
 B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
 B.AufenthV.52.1. Aufgrund der erhöhten Produktionskosten und des gestiegenen Bearbeitungs- und Informationsaufwands hinsichtlich der Ausstellung von eATs sind die vor dem 01.09.2011 bestehenden Gebührenbefreiungen nicht mehr im bisherigen Umfang aufrechterhalten worden. So ist die Gebührenbefreiung für Familienangehörige deutscher Staatsangehöriger weitgehend entfallen. Lediglich die Gebührenbefreiung für die Erteilung nationaler Visa bleibt bestehen. Diese Gebührenbefreiung gilt unabhängig davon, ob die Antragsteller ihr Aufenthaltsrecht von dem deutschen Staatsangehörigen ableiten. Sie ergibt sich allein aus dem beschriebenen verwandschaftlichen Verhältnis bzw. dem Status als Ehegatte oder Lebenspartner eines Deutschen.
-B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowei die nach § 45c notwendig werdenden Neuausstellunge ist jeweils eine Gebühr in Höhe von 28,80 Euro zu erheben bzw. - wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe von 22,80 Euro. Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben.
-B.AufenthV.52.3.bis B.AufenthV.52.4.
+B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowie die nach § 45c notwendig werdenden Neuausstellungen ist jeweils eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr (derzeit 37,00 Euro) zu erheben bzw.
+- wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 22,80 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben. B.AufenthV.52.3.bis B.AufenthV.52.4.
 Wird die Neuausstellung einer Niederlassungserlaubnis oder einer Aufenthaltserlaubnis in den Fällen des Ablaufs des Passes oder des eAT (§ 45 c Abs. 1 Nr. 1 und 2 AufenthV) erforderlich, sind Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Abs. 4 AufenthG, anerkannte Flüchtlinge nach § 3 AsylG, subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG sowie Personen mit einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG gemäß § 52 Abs. 3 Nr. 1, 2 und Abs. 4 AufenthV von der Zahlung der Gebühr befreit.
 Die Formulierung „in Ausnahmefällen“ am Ende von § 52 Abs. 3 Nr. 1, 2 sowie Abs. 4 bezieht sich nur auf die Befreiungstatbestände gemäß § 45b und § 47 Abs. 1 Nr. 11.
 B.AufenthV.52.5. Die Freie Universität Berlin führt Direktaustauschprogramme mit Partneruniversitäten in verschiedenen Staaten durch. Diese Direktaustauschprogramme werden zu 100 % aus Mitteln des Landes Berlin finanziert. Teilnehmern an diesen Programmen ist Gebührenbefreiung zu gewähren. Diese Partneruniversitäten sind:
@@ -149,8 +147,7 @@ PERU
 Universidad Católica del Perú
 Der Nachweis ist von den Begünstigten durch Vorlage der Einladung, des Bescheides über die Stipendiumgewährung oder einer Bescheinigung der betreuenden Stelle zu führen.
 B.AufenthV.52.5.1.1. bis B.AufenthV.52.5.2. frei
-B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden.
-B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
+B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden. B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
 Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
 Medizinal- und Medizinalhilfspersonen, die im Rahmen der Entwicklungshilfe oder des Kulturprogramms des Landes Berlin von dem für das Gesundheitswesen zuständigen Mitglied des Senats zur Aus- oder Fortbildung beschäftigt werden,
 Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
@@ -186,7 +183,7 @@ B.AufenthV.52. 8.
 Gem. dem Abs. 8 sind Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstatten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28.09.2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), u.a. von den Gebühren für die Verlängerung eines Schengen-Visums im Bundesgebiet befreit (§ 46 Nr. 2).
 B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.52a.0. Allgemeines
-Das BVerwG hat in seinem Urteil vom 19.03.2013 (BVerwG 1 C 12.12) entschieden, dass die Gebührensätze für die Änderung einer AE wegen Zweckänderung (§ 45 Nr. 3 AufenthV), für die Verlängerung einer AE für mehr als einen Monat (§ 45 Nr. 2 b AufenthV) und für die Erteilung einer Erlaubnis zum Daueraufenthalt-EU (§ 44a AufenthV) im Vergleich zu den von Unionsbürgern für entsprechende Dokumente zu zahlenden Gebühren unverhältnismäßig hoch sind und daher gegen das Diskriminierungsverbot des Art. 10 Abs. 1 ARB 1/80 verstoßen. Hinsichtlich § 44a AufenthV hat das Gericht auch einen Verstoß gegen die Stillstandsklausel (Art. 13 ARB 1/80) angenommen. Als Vergleichsmaßstab wurde in der Entscheidung für die AE auf die – inzwischen abgeschaffte – Freizügigkeitsbescheinigung EU (§ 5 Abs. 1 FreizügG/EU a.F.) abgestellt, die gebührenfrei ausgestellt worden war. Für die Erlaubnis zum Daueraufenthalt-EU hat das Gericht die Bescheinigung des Daueraufenthaltsrechts gem. § 5 Abs. 5 Satz 1 FreizügG/EU herangezogen, für die zum Zeitpunkt des Urteils 8 Euro erhoben wurden (10 Euro seit 01.09.2017, vgl. § 47 Abs. 3 Satz 4 AufenthV). Die höheren Produktionskosten für die Herstellung eines eAT wurden als gerechtfertigt angesehen, aber nur bis zur Höhe von 28,80 Euro. Diese Gebühr müssen drittstaatsangehörige Familienangehörige von Unionsbürgern zahlen, denen eine Aufenthaltskarte (§ 5 Abs. 1 Satz 1 FreizügG/EU) bzw. eine Daueraufenthaltskarte (§ 5 Abs. 5 Satz 2 FreizügG/EU) als eAT (§ 11 Abs. 1 Satz 3 FreizügG/EU) ausgestellt wird (§ 47 Abs. 3 Satz 1 AufenthV).
+Das BVerwG hat in seinem Urteil vom 19.03.2013 (BVerwG 1 C 12.12) entschieden, dass die Gebührensätze für die Änderung einer AE wegen Zweckänderung (§ 45 Nr. 3 AufenthV), für die Verlängerung einer AE für mehr als einen Monat (§ 45 Nr. 2 b AufenthV) und für die Erteilung einer Erlaubnis zum Daueraufenthalt-EU (§ 44a AufenthV) im Vergleich zu den von Unionsbürgern für entsprechende Dokumente zu zahlenden Gebühren unverhältnismäßig hoch sind und daher gegen das Diskriminierungsverbot des Art. 10 Abs. 1 ARB 1/80 verstoßen. Hinsichtlich § 44a AufenthV hat das Gericht auch einen Verstoß gegen die Stillstandsklausel (Art. 13 ARB 1/80) angenommen. Als Vergleichsmaßstab wurde in der Entscheidung für die AE auf die – inzwischen abgeschaffte – Freizügigkeitsbescheinigung EU (§ 5 Abs. 1 FreizügG/EU a.F.) abgestellt, die gebührenfrei ausgestellt worden war. Für die Erlaubnis zum Daueraufenthalt-EU hat das Gericht die Bescheinigung des Daueraufenthaltsrechts gem. § 5 Abs. 5 Satz 1 FreizügG/EU herangezogen, für die zum Zeitpunkt des Urteils 8 Euro erhoben wurden (10 Euro seit 01.09.2017, vgl. § 47 Abs. 3 Satz 4 AufenthV). Die höheren Produktionskosten für die Herstellung eines eAT wurden als gerechtfertigt angesehen, aber nur bis zur Höhe der Gebühr, die drittstaatsangehörige Familienangehörige von Unionsbürgern zahlen müssen, denen eine Aufenthaltskarte (§ 5 Abs. 1 Satz 1 FreizügG/EU) bzw. eine Daueraufenthaltskarte (§ 5 Abs. 5 Satz 2 FreizügG/EU) als eAT (§ 11 Abs. 1 Satz 3 FreizügG/EU) ausgestellt wird (§ 47 Abs. 3 Satz 1 AufenthV).
 Mit § 52a wurde die AufenthV um eine Vorschrift ergänzt, die in Umsetzung der o.g. Entscheidung des BVerwG die Gebühren bestimmt, die von assoziationsberechtigten türkischen Staatsangehörigen und ihren Familienangehörigen zu erheben sind.
 Mit Ausnahme der der im folgenden Genannten sind weitere Dienstleistungen nach §§ 47-48 AufenthV von einer Gebührenermäßigung bzw. –befreiung nicht betroffen, weil diese nicht mit der Erteilung eines Aufenthaltstitels verbunden sind und es daher von vornherein an der Vergleichbarkeit mit Dienstleistungen für Unionsbürger und freizügigkeitsberechtigten Drittstaatsangehörigen fehlt.
 B.AufenthV.52a.1. Berechtigter Personenkreis'
@@ -196,15 +193,15 @@ B.AufenthV.52a.2. Gebührenermäßigungen
 Für die Erteilung, die Verlängerung und den Übertrag von Titeln für alle türkischen Staatsangehörigen gelten nach Abs. 2 der Vorschrift folgende ermäßigte Gebührensätze:
 Aufenthaltstitel Gebühr Rechtsgrundlage
 Unter 24 Jahre 24 Jahre und älter
-Erteilung von unbefristeten 22,80 € 28,80 € § 52a Abs. 2 Nr. 1
+Erteilung von unbefristeten 22,80 € 37,00 € § 52a Abs. 2 S. 1 u. 2
 Aufenthaltstiteln i.V.m.
 (NE, Daueraufenthalt- EU) §§ 44-45
 jeweils als eAT
-Erteilung/ Verlängerung von 22,80 € 28,80 €
+Erteilung/ Verlängerung von 22,80 € 37,00 €
 ' befristeten Aufenthaltstiteln ' und
 Blauen Karten EU
 jeweils als eAT
-Überträge, 22,80 € 28,80 € § 52a Abs. 2 Nr. 1
+Überträge, 22,80 € 37,00 € § 52a Abs. 2 S. 1 u. 2
 Notwendigkeit der Neuausstellung i.V.m.
 des eAT aufgrund § 45c Abs. 1
 Ablauf der Gültigkeit der
@@ -222,19 +219,20 @@ Gebrauch bzw. auf einer
 unsachgemäßen
 Verwendung des
 Ausländers beruht
-Neuausstellung eines 22,80 € 28,80 € § 52a Abs.2 Nr. 1
+Neuausstellung eines 22,80 € 37,00 € § 52a Abs.2 S. 1 u. 2
 Aufenthaltstitels als eAT mit dem i.V.m.
 Zusatz Ausweisersatz
 § 48 Abs. 1 S. 1 Nr. 15
-Erteilung von unbefristeten 8,00 € § 52a Abs. 2 Nr. 2
+Erteilung von unbefristeten 8,00 € § 52a Abs. 2 S. 3
 Aufenthaltstiteln i.V.m.
 (NE, Daueraufenthalt- EU) §§ 45b Abs. 2, 44, 44a
 jeweils als Etikett
-' Überträge' von unbefristeten 8,00 € § 52a Abs. 2 Nr. 2
+' Überträge' von unbefristeten 8,00 € § 52a Abs. 2 S. 3
 Aufenthaltstiteln (NE, i.V.m.
 Daueraufenthalt-EU) jeweils als
-§§ 47 Abs. 1 Nr. 1, 44, 44a
+§§ 47 Abs. 1 Nr. 1 1, 44,
 Etikett
+44a
 B.AufenthV.52a.3. Gebührenbefreiungen
 Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben: Aufenthaltstitel Rechtsgrundlage
 Erteilung/ Verlängerung von § 52a Abs. 3 Nr. 1

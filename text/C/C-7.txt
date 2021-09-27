@@ -2,7 +2,7 @@ VAB C 7
 VAB C 7
 Inhaltsverzeichnis
 C.7. Ausreisepflicht
-(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
+(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021)
 C.7.1. Ausreisepflicht nach Feststellung des Verlusts des (Dauer-)Aufenthaltsrechts
 C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 C.7.1.2. Androhung der Abschiebung und Setzen einer Ausreisefrist
@@ -15,7 +15,7 @@ C.7.2.6. Dauer des Wiedereinreiseverbots
 C.7.2.7. Beginn des Befristungszeitraumes
 C.7.2.Anspruch auf Befristung des Wiedereinreiseverbots
 C.7. Ausreisepflicht
-(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
+(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021)
 C.7.1. Ausreisepflicht nach Feststellung des Verlusts des (Dauer-)Aufenthaltsrechts
 C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 Unionsbürger oder ihre Familienangehörigen, selbst wenn sie nicht Unionsbürger sind, sind ausreisepflichtig, wenn diese Ausreisepflicht mittels eines entsprechenden Feststellungsbescheides nach § 2 Abs. 7, § 5 Abs. 4 oder § 6 Abs. 1 festgestellt worden ist oder eine unanfechtbare Ausweisung oder Abschiebung nach dem AuslG, AufenthG oder AufenthG/EWG erfolgte. Hinsichtlich der sich bei der Durchsetzung der Ausreisepflicht aus (Alt-)Ausweisungen ergebenden Besonderheiten siehe C.6.1.1..
@@ -47,7 +47,8 @@ C.7.2.5. Befristung des Wiedereinreiseverbots
 Die Pflicht zur Befristung des Wiedereinreiseverbots bereits im Rahmen des Feststellungsverfahrens, die in der Praxis analog zur Rechtsprechung des Bundesverwaltungsgerichts zur Befristung von Ausweisungen (BVerwG, Urteil vom 10.07.2012, Az. 1 C 19.11.) bereits erfolgte, ist nunmehr in § 7 Abs. 2 Satz 5 auch gesetzlich verankert. Als erforderlicher Befristungsantrag ist jede Form der Willensbekundung gegen den Feststellungsbescheid nach § 6 oder § 2 Abs. 7 zu werten. Aktenkundige offene Abschiebungskosten sind für die Entscheidung unerheblich (vgl. BVerwG, Urteil vom 23.10.2007, Az. 1 C 10.07). Diese werden gesondert durch einen Leistungsbescheid gefordert. Es gilt das übliche Verfahren (vgl. A.66. und hinsichtlich der Verjährungsfristen A.70.).
 Merke: Wurde ein gesetzlich entstehendes Einreise- und Aufenthaltsverbot gemäß § 7 Abs. 2 S. 1 i.V.m. § 6 Abs. 1 auf Grund der früher bestehenden Gesetzeslage nicht befristet, ist die Befristungsentscheidung gemäß § 7 Abs. 2 S. 5 unverzüglich nachzuholen.
 C.7.2.6. Dauer des Wiedereinreiseverbots
-Der konkrete Befristungszeitraum ist unter Berücksichtigung sämtlicher Umstände des Einzelfalls festzulegen und darf eine Dauer von fünf Jahren nicht überschreiten. Im Übrigen gelten die für Familienangehörige von Deutschen festgelegten Fristen (vgl. A.11.).
+Die Verlustfeststellung wird unter Berücksichtigung der aktuellen Situation (gegenwärtige Gefahr) getroffen. Die Entscheidung über die Dauer eines Widereinreiseverbots erfordert dagegen eine begründete Gefahrenprognose, in der geprüft wird, wie lange von dem Unionsbürger voraussichtlich eine Bedrohung für die öffentliche Ordnung oder die öffentliche Sicherheit im Sinne des Unionsrechts ausgehen wird. Ist vor oder nach der Verlustfeststellung die Gefahr entfallen, so ist entweder von einer Verlustfeststellung von vornherein abzusehen oder das Wiedereinreiseverbot je nach Sachlage und unter Beachtung des Verhältnismäßigkeitsprinzips kürzer zu befristen oder aufzuheben. Der konkrete Befristungszeitraum ist unter Berücksichtigung sämtlicher Umstände des Einzelfalls festzulegen und darf eine Dauer von fünf Jahren nicht überschreiten. Im Übrigen gelten die für Familienangehörige von Deutschen festgelegten Fristen (vgl.
+A.11.).
 Die Höchstfrist von fünf Jahren ist grundsätzlich auch für die Fälle des § 6 Abs. 1 beachtlich; sie kann jedoch in Ausnahmefällen (strafrechtliche Verurteilungen, Vorliegen einer schwerwiegenden Gefahr für die öffentliche Sicherheit und Ordnung) unter Berücksichtigung der Umstände des Einzelfalls überschritten werden (Kriterien vgl. A.11.1.4.3.).
 C.7.2.7. Beginn des Befristungszeitraumes
 § 7 Abs. 2 Satz 7 trifft die grundsätzliche Aussage, dass die gesetzte Frist des Wiedereinreiseverbots mit der Ausreise beginnt. Dazu sind die §§ 50 Abs. 3-6 und 59 Abs. 1 AufenthG zu beachten (vgl. § 11 Abs. 1).

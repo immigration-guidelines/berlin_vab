@@ -102,6 +102,7 @@ A 61
 A 62
 A 62a
 A 62b
+A 62c
 A 63
 A 64
 A 65
@@ -164,6 +165,7 @@ A 104a
 A 104b
 A 105
 A 105a
+A 105b
 A 106
 A 107
 B.AufenthV.1. - 14. Passpflicht für Ausländer
