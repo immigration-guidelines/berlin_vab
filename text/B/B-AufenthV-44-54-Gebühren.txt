@@ -2,12 +2,12 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(07.01.2021; FreizügG/EU-AnpG; 05.08.2021)
+(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
 B.AufenthV.45. Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte B.AufenthV.45.1a. Zur Frage der Gebührenerhebung bei Anträgen auf Streichung der Eintragung "Erlischt mit Ausreise in den Libanon" oder anderen auflösenden Bedingungen
-B.AufenthV.45.a. ...aufgehoben...
+B.AufenthV.45.a....aufgehoben...
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
 B.AufenthV.46. Gebühren für das Visum
@@ -23,7 +23,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(07.01.2021; FreizügG/EU-AnpG; 05.08.2021)
+(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021)
 Merkblatt Gebühren (Stand: 05.01.2021)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -41,12 +41,11 @@ Für die Verlängerung der Aufenthaltserlaubnis zu dem neuen Zweck beträgt die 
 Gebührenermäßigungen oder-befreiungen kommen auch in Fällen des § 45 Nr. 3 zur Anwendung.
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
 B.AufenthV.45.4. frei
-B.AufenthV.45.a. ...aufgehoben...
+B.AufenthV.45.a....aufgehoben...
 B.AufenthV.45a.1.-3. ...aufgehoben...
 B.AufenthV.45a.4. ...aufgehoben...
 B.AufenthV.45b. Gebühren für Aufenthaltstitel in Ausnahmefällen in Form eines Klebeetiketts
-B.AufenthV.45.b.1. Für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG ist eine Gebühr in Höhe von 50 Euro zu erheben.
-B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 44 Euro.
+B.AufenthV.45.b.1. Für die Ausstellung eines Aufenthaltstitels in Form eines Klebeetiketts zum Zweck der Verlängerung der Aufenthaltsdauer um einen Monat nach § 78a Abs. 1 S. 1 Nr. 1 AufenthG ist eine Gebühr in Höhe von 50 Euro zu erheben. B.AufenthV.45b.2. Wird der Aufenthaltstitel in Form eines Klebeetiketts nach § 78 a Abs. 1 S. 1 Nr. 2 AufenthG zur Vermeidung einer außergewöhnlichen Härte ausgestellt, vermindert sich die nach §§ 44, 44a oder 45 jeweils zu erhebende Gebühr um 44 Euro.
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a.
 B.AufenthV.45c. Gebühren bei Neuausstellung eines eAT
 Es ist zwischen der Gültigkeit der eAT-Karte und der Gültigkeit des Aufenthaltstitels zu unterscheiden. Da auf der eAT-Karte ein Bezug zum Personaldokument aufgedruckt ist und die Karten generell technisch nur zehn Jahre haltbar sind, kann die eAT-Karte kürzer gültig sein, als der Aufenthaltstitel, den sie dokumentiert. Dies gilt immer dann, wenn das Personaldokument früher abläuft als der Aufenthaltstitel oder - v.a. bei unbefristeten Titeln - wenn das Haltbarkeitsdatum der Karte nach zehn Jahren erreicht wird. Die Rechtmäßigkeit des Aufenthalts wird durch den Ablauf der eAT-Karte nicht beeinträchtigt. Der Ausländer ist allerdings verpflichtet, eine neue eAT-Karte zu beantragen. Für die Neuausstellung der eAT-Karte aufgrund des Ablaufs der Gültigkeitsdauer des Personaldokuments bzw. der technischen
@@ -61,7 +60,7 @@ frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
 B.AufenthV.47.1. Für die von Amts wegen ergangene Befristung eines Einreise- und Aufenthaltsverbots nach § 11 AufenthG wird keine Gebühr erhoben, während für deren nachträgliche Aufhebung, Verkürzung oder Verlängerung 169 Euro zu erheben sind. Dies gilt allerdings nicht für die Fälle, in denen das Einreise- und Aufenthaltsverbot nach § 11 Abs. 4 Satz 2 AufenthG aufgehoben werden soll (z.B. Aufhebung eines nach § 11 Abs. 7 AufenthG durch das BAMF verfügten Einreise- und Aufenthaltsverbotes bei Erteilung einer AE nach § 23a AufenthG). Denn § 47 Abs. 1 Nr. 1a erlaubt die Erhebung einer Gebühr ausschließlich für die Fälle der Aufhebung oder Verkürzung nach § 11 Abs. 4 Satz 1 AufenthG. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 18 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
 Der Gebührentatbestand des § 47 Abs. 1 Nr. 11 gilt nur für die in § 78a abs. 1 S. 1 AufenthG geregelten Ausnahmefälle. Wird also ein Aufenthaltstitel in den Fällen des § 78a Abs. 1 S. 1 AufenthG weiterhin in Form eines Klebeetiketts ausgestellt und ist das Klebeetikett in ein neues Personaldokument zu übertragen, so ist wie in den Fällen des bisherigen Übertrages eine Gebühr in Höhe von 12 Euro zu erheben.
-Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluss, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 5 0 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3). B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte (§ 5 Abs. 1 S. 1 und Abs. 7 FreizügigG/EU), einer Daueraufenthaltskarte (§ 5 Abs. 5 S. 2 FreizügigG/EU), eines Aufenthaltsdokuments-GB (§ 16 Absatz 2 Satz 1 des FreizügigG/EU) und eines Aufenthaltsdokuments für Grenzgänger-GB (§ 16 Absatz 3 des FreizügigG/EU) beträgt die Gebühr 37,00 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Hiervon abweichend wird ein Aufenthaltsdokument-GB an bisherige Inhaber einer Daueraufenthaltskarte gebührenfrei ausgestellt. Die Gebühren gelten auch für die Neuausstellung einer eAT-Karte im Rahmen von § 45c. Für die Bescheinigung des Daueraufenthalts nach § 5 Abs. 6 S. 1 FreizügigG/EU beträgt die Gebühr 10 Euro.
+Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluss, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 5 0 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3). B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte (§ 5 Abs. 1 S. 1 und Abs. 7 FreizügG/EU), einer Daueraufenthaltskarte (§ 5 Abs. 5 S. 2 FreizügG/EU), eines Aufenthaltsdokuments-GB (§ 16 Absatz 2 Satz 1 des FreizügG/EU) und eines Aufenthaltsdokuments für Grenzgänger-GB (§ 16 Absatz 3 des FreizügG/EU) beträgt die Gebühr 37,00 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Hiervon abweichend wird ein Aufenthaltsdokument-GB an bisherige Inhaber einer Daueraufenthaltskarte gebührenfrei ausgestellt. Für die Neuausstellung einer eAT-Karte im Rahmen von § 45c, enthält die Norm durch den mit dem FreizügG/EU-AnpG erfolgten Einschub des neuen Satzes 2 und einem nicht der neuen Satznummerierung angepassten Verweis in Satz 4 einen offenkundigen redaktionellen Fehler. Daher ist für die in § 45c geregelten Fälle der Neuausstellung der eAT-Karte die Auslegung nach Sinn und Zweck des Gesetzes und Art. 25 Abs. 2 der RL 2004/38/EG erforderlich. Für die Neuausstellung der eAT-Karte betragen die Gebühren danach 37,00 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Die Gebührenbefreiung für ehemalige Inhaber einer Daueraufenthaltskarte gilt hingegen nicht für die Neuausstellung der eAT-Karte nach § 45c. Für die Bescheinigung des Daueraufenthalts nach § 5 Abs. 5 S. 1 FreizügigG/EU beträgt die Gebühr 10 Euro.
 B.AufenthV.47.4.
 B.AufenthV.48. Gebühren für pass- und ausweisrechtliche Maßnahmen
 Zu beachten sind die unterschiedlichen Gebührensätze für biometrische und vorläufige deutsche Reiseausweise sowie der Gebührensatz für an Kinder ausgestellte Dokumente.
@@ -230,9 +229,8 @@ jeweils als Etikett
 ' Überträge' von unbefristeten 8,00 € § 52a Abs. 2 S. 3
 Aufenthaltstiteln (NE, i.V.m.
 Daueraufenthalt-EU) jeweils als
-§§ 47 Abs. 1 Nr. 1 1, 44,
+§§ 47 Abs. 1 Nr. 11, 44, 44a
 Etikett
-44a
 B.AufenthV.52a.3. Gebührenbefreiungen
 Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben: Aufenthaltstitel Rechtsgrundlage
 Erteilung/ Verlängerung von § 52a Abs. 3 Nr. 1

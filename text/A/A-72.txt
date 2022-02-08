@@ -2,7 +2,7 @@ VAB A 72
 VAB A 72
 Inhaltsverzeichnis
 A.72. Beteiligungserfordernisse
-(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 15.06.2020; 02.09.2021)
+(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 02.09.2021; 25.11.2021)
 72.2.1. Beteiligung des BAMF
 72.3.1.1. Einvernehmen anderer Behörden
 72.3.1.2. Örtliche Zuständigkeit für Befristungsentscheidungen
@@ -10,7 +10,7 @@ A.72. Beteiligungserfordernisse
 72.4.1. Zustimmung der Staatsanwaltschaft
 72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
 A.72. Beteiligungserfordernisse
-(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 15.06.2020; 02.09.2021)
+(G zur Entfristung des Integrationsgesetzes; 2. ÄndGAusreisepflicht; FEG; 02.09.2021; 25.11.2021)
 Generelles Einvernehmen GStA nach § 72 Abs. 4 AufenthG - Stand: 15.02.2013
 72.1.1. bis 72.1.2. frei
 72.2.1. Beteiligung des BAMF
@@ -60,7 +60,7 @@ Die Zuständigkeiten von Staatsanwaltschaft und Amtsanwaltschaft ergeben sich au
 72.5. frei
 72.6. § 72 Abs. 6 regelt die in Fällen des § 25 Abs. 4a und 4b bzw. § 59 Abs. 7 von der Ausländerbehörde bei Erteilung eines Titels oder Gewährung einer Ausreisefrist zu beachtenden Beteiligungserfordernisse, denen durch die Regelungen unter A.25.4a. und A.59.7. hinreichend Rechnung getragen wird.
 72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
-Die Vorschrift des § 72 Abs. 7 ist insofern unglücklich formuliert, als sie eine Beteiligung in denen Fällen, in denen ein Titel gem. § 20 in Raum steht, gerade nicht ausdrücklich erwähnt. Insgesamt sollte in den nach der BeschV zustimmungsfreien Fällen schon aus Gründen der Verwaltungseffizienz nur spar-sam Gebrauch gemacht werden (Zu den
-Besonderheiten der Beteiligung bei Praktikanten vgl. B.BeschV.15. Bei der Prüfung der Erteilung einer Aufenthaltserlaubnis einer ICT-Karte oder einer Mobilen-ICT-Karte sollte die BA mit Blick auf deren Sachkompetenz grundsätzlich beteiligt werden, so nicht eine vorherige Einbindung der IHK oder Berlin Partner angezeigt ist.
+Die Vorschrift des § 72 Abs. 7 ist insofern unglücklich formuliert, als sie eine Beteiligung in denen Fällen, in denen ein Titel gem. § 20 in Raum steht, gerade nicht ausdrücklich erwähnt. Insgesamt sollte in den nach der BeschV zustimmungsfreien Fällen schon aus Gründen der Verwaltungseffizienz nur spar-sam Gebrauch gemacht werden (Zu den Besonderheiten der Beteiligung bei Praktikanten vgl. B.BeschV.15. Bei der Prüfung der Erteilung einer Aufenthaltserlaubnis einer ICT-Karte oder einer Mobilen-ICT-Karte sollte die BA mit Blick auf deren Sachkompetenz grundsätzlich beteiligt werden, so nicht eine vorherige Einbindung der IHK oder Berlin Partner angezeigt ist.
 Bei Anfragen ist der vorgegebene Vordruck der BA zu verwenden. Zum Verfahren vgl. im Übrigen die Ausführungen unter
 A.39.Zur Beteiligung der Bundesagentur für Arbeit in den Fällen, in denen die Erteilung einer Aufenthaltserlaubnis zur Beschäftigung bei einem auch im Bundesgebiet ansässigen Unternehmen auf Grundlage eines abgeschlossenen ausländischen Arbeitsvertrages beantragt wird. Neben den Ausländerbehörden, können mit Inkrafttreten des Fachkräfteeinwanderungsgesetzes zum 1.3.2020 auch die Auslandsvertretungen und das BAMF zur Erfüllung ihrer Aufgaben von der fakultativen Beteiligung der BA Gebrauch machen.
+Bei der Fakultativbeteiligung handelt es sich um keine Zustimmungsanfrage im Sinne des § 39. Deshalb greift bei einer Fakultativbeteiligung nach § 72 Abs. 7 nicht die für Zustimmungen geltende Fristenregelung des § 36 Abs. 2 BeschV. Bei fakultativen Beteiligungen handelt es sich um fachkundige Stellungnahmen und nicht um Zustimmungsentscheidungen. Erteilte Auskünfte sind dennoch in der Regel in den Aufenthaltstitel zu übernehmen.
