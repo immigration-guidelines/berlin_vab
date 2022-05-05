@@ -2,7 +2,7 @@ VAB A 19f
 VAB A 19f
 Inhaltsverzeichnis
 A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f, 17, 18b Absatz 2, den §§ 18d, 18e, 18f und 19e
-(FEG; 30.04.2020, 25.11.2021)
+(FEG; 25.11.2021; 14.03.2022)
 19f.0.Allgemeines
 19f.1. Ausschlussgründe
 19f.2. Ausschluss der Erteilung der Blauen Karte EU
@@ -15,7 +15,7 @@ A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f,
 19f.5. Versagungsgründe bei kurzfristiger Mobilität von Studenten und Forschern
 A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f, 17,
 18b Absatz 2, den §§ 18d, 18e, 18f und 19e
-(FEG; 30.04.2020, 25.11.2021)
+(FEG; 25.11.2021; 14.03.2022)
 19f.0.Allgemeines
 § 19f ist besonders sorgfältig zu prüfen, da
 alle Absätze jeweils für unterschiedliche Titelgruppen Regelungen enthalten und
@@ -25,7 +25,7 @@ auch die dann in den Absätzen jeweils genannten Ablehnungsgründe jeweils nicht
 Für in Deutschland oder sonst in der EU Geduldete oder Asylsuchende sind diese Titel ausgeschlossen. Ebenso sind Titelinhaber nach § 25 Abs. 1 bis 2 sowie § 24 ausgeschlossen (Fallgruppen des § 19f Abs. 1 Nr. 1 bis 3). Titelinhaber nach § 25 Abs. 3 können einen entsprechenden Titel dagegen sehr wohl erhalten.
 § 19f Abs. 1 Nr. 4 und 5 schließt Inhaber einer Daueraufenthaltserlaubnis EU (jeweils die deutschen wie auch die in den Mitgliedstaaten entsprechend ausgestellten Titel), Staatsangehörige der EWR- und EFTA-Staaten sowie Inhaber einer Aufenthaltserlaubnis nach § 4 Abs. 2 vom Anwendungsbereich aus. Soweit jedoch eine Blaue Karte EU oder eine Daueraufenthaltserlaubnis EU noch nicht erstmals erteilt wurde, greift der Ausschlussgrund nicht, da er den Besitz dieser Aufenthaltstitel voraussetzt.
 Merke: 19f Abs. 1 ist keine in sich schlüssige Vorschrift. Bei der Anwendung des § 19f Abs. 1 gilt es daher genau zu differenzieren. Zum Beispiel ist die Titelerteilung zur Ausbildungsplatzsuche (§ 17 Abs. 1) für einen in einem anderen EU- Staat anerkannten Flüchtling oder in Deutschland Geduldeten ebenso möglich wie die Titelerteilung nach § 18b Abs. 1 (Fachkraft mit akademischer Ausbildung). Derselbe Personenkreis kann aber keine Blaue Karte (§ 18b Abs. 2) oder einen Titel zur Studienbewerbung (§ 17 Abs. 2) erhalten.
-19f.1.1. § 19f Abs. 1 Nr. 1 schließt (so wie auch § 19f Abs. 2 Nr. 1) unter anderem die Erteilung einer Blauen Karte EU für Ausländer, die internationalen Schutz genießen, aus. Da dieser Ausschluss aber nicht für den Titel der akademischen Fachkraft nach § 18b Abs. 1 gilt, wird in diesen Fällen die Titelerteilung nach § 18b Abs. 2 über das Konstrukt der logischen Sekunde ermöglicht. Titelinhabern nach § 25 Abs. 2 kann demnach für eine logische Sekunde ein Titel nach § 18b Abs. 1 erteilt werden, um sodann die Blaue Karte EU nach § 18b Abs. 2 zu erteilen, da nunmehr der Ausschlussgrund des § 19f Abs. 1 Nr. 1 nicht mehr greift.
+19f.1.1. - 19f.1.2. § 19f Abs. 1 Nr. 1 und Nr. 2 schließen (so wie auch § 19f Abs. 2 Nr. 1) unter anderem die Erteilung einer Blauen Karte EU für Ausländer, die internationalen Schutz (Abs. 1 Nr. 1) genießen oder sich im Rahmen einer Regelung zum vorübergehenden Schutz in einem Mitgliedstaat der Europäischen Union aufhalten oder die in einem Mitgliedstaat einen Antrag auf Zuerkennung vorübergehenden Schutzes gestellt haben (Abs. 1 Nr. 2), aus. Da dieser Ausschluss aber nicht für den Titel der akademischen Fachkraft nach § 18b Abs. 1 gilt, wird in diesen Fällen die Titelerteilung nach § 18b Abs. 2 über das Konstrukt der logischen Sekunde ermöglicht. Titelinhabern nach § 24 Abs. 1 und § 25 Abs. 2 kann demnach für eine logische Sekunde ein Titel nach § 18b Abs. 1 erteilt werden, um sodann die Blaue Karte EU nach § 18b Abs. 2 zu erteilen, da nunmehr der Ausschlussgrund des § 19f Abs. 1 Nr. 1 bzw. Nr. 2 nicht mehr greift.
 19f.2. Ausschluss der Erteilung der Blauen Karte EU
 Abs. 2 enthält neben Abs. 1 zusätzliche Ablehnungsgründe, die allerdings nicht für die gesamte Titelgruppe des § 19f Abs. 1 gelten, sondern nur bei Anträgen auf Erteilung einer Blauen Karte. Daraus folgt dann aber im Umkehrschluss, dass etwa eine Aufenthaltserlaubnis für eine akademische Fachkraft sehr wohl gem. § 18b Abs. 1 erteilt werden könnte, wenn der Antragsteller etwa über eine Aufenthaltserlaubnis gem. § 25 Abs. 5 (Ausschlussgrund nach § 19f Abs. 2 Nr. 1) verfügt. In einem solchen Fall bestehen dann auch keine Bedenken nach der Titelerteilung gem. § 18b Abs. 1 in einer logischen Sekunde die Blaue Karte nach § 18b Abs. 2 zu erteilen, ohne dass § 19f Abs. 2 Nr. 1 dem noch entgegenstünde (so wie auch bei § 19f Abs. 1 Nr. 1, vgl. VAB A 19f.1.1).
 In Absatz 2 Nr. 1 – 4 werden die Personengruppen benannt, die nach Artikel 3 Absatz 2 nicht in den Anwendungsbereich der Hochqualifizierten-Richtlinie fallen.

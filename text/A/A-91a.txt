@@ -1,6 +1,9 @@
 VAB A 91a
 VAB A 91a
 A.91a. Register zum vorübergehenden Schutz
-(2. ÄndG)
+(2. ÄndG: 14.03.2022; 29.04.2022)
 91a. 0. Die Ausländerbehörde wird lediglich als übermittelnde Stelle gem. § 91 a Abs. 3 Nr. 1 in die Pflicht genommen. Im übrigen ist das Bundesamt der Normadressat.
-91a.1. bis 91a.8.2. frei
+91a.1.
+Die Übermittlung der Daten erfolgt automatisiert über die Asyl-Online-Schnittstelle anlässlich der biometriebasierten Registrierung an das BAMF. Zusätzliche Meldungen an das BAMF sind vorerst
+entbehrlich.
+91a.2. bis 91a.8.2. frei

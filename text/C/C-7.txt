@@ -2,7 +2,7 @@ VAB C 7
 VAB C 7
 Inhaltsverzeichnis
 C.7. Ausreisepflicht
-(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021)
+(Gesetz zur aktuellen Anpassung des FreizügG/EU; 05.08.2021; 14.04.2022)
 C.7.1. Ausreisepflicht nach Feststellung des Verlusts des (Dauer-)Aufenthaltsrechts
 C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 C.7.1.2. Androhung der Abschiebung und Setzen einer Ausreisefrist
@@ -15,7 +15,7 @@ C.7.2.6. Dauer des Wiedereinreiseverbots
 C.7.2.7. Beginn des Befristungszeitraumes
 C.7.2.Anspruch auf Befristung des Wiedereinreiseverbots
 C.7. Ausreisepflicht
-(12.12.2019; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021)
+(Gesetz zur aktuellen Anpassung des FreizügG/EU; 05.08.2021; 14.04.2022)
 C.7.1. Ausreisepflicht nach Feststellung des Verlusts des (Dauer-)Aufenthaltsrechts
 C.7.1.1. Ausreisepflicht von Unionsbürgern und ihren Familienangehörigen
 Unionsbürger oder ihre Familienangehörigen, selbst wenn sie nicht Unionsbürger sind, sind ausreisepflichtig, wenn diese Ausreisepflicht mittels eines entsprechenden Feststellungsbescheides nach § 2 Abs. 7, § 5 Abs. 4 oder § 6 Abs. 1 festgestellt worden ist oder eine unanfechtbare Ausweisung oder Abschiebung nach dem AuslG, AufenthG oder AufenthG/EWG erfolgte. Hinsichtlich der sich bei der Durchsetzung der Ausreisepflicht aus (Alt-)Ausweisungen ergebenden Besonderheiten siehe C.6.1.1..
@@ -23,7 +23,7 @@ Der Einzug der deklaratorischen (Dauer-)Aufenthaltskarte oder der Bescheinigung 
 C.7. 1.2. Androhung der Abschiebung und Setzen einer Ausreisefrist
 § 7 Abs. 1 Satz 2 sieht u.a. eine Ausreisefrist im Feststellungsbescheid vor. Da Satz 3 außer in begründeten dringenden Fällen von einer Monatsfrist ausgeht, sollte von der Regelung des § 7 Abs. 1 Satz 3 grundsätzlich Gebrauch gemacht werden und eine Ausreisefrist von mindestens einem Monat gewährt werden.
 Die Ausreisepflicht kann nach Ablauf der Frist sofort durchgesetzt werden, es sei denn, es wurde Klage vor dem Verwaltungsgericht erhoben. Eine Klage gegen den Feststellungsbescheid, nicht jedoch gegen den eigenständigen VA der Abschiebungsandrohung, entfaltet aufschiebende Wirkung. Eine eventuelle Abschiebung und damit einhergehend auch die Anordnung und der Vollzug von Abschiebungshaft gem. § 11 Abs. 14 i.V.m. den entsprechenden Vorschriften des Aufenthaltsgesetzes darf dann erst erfolgen, wenn das Hauptsacheverfahren negativ abgeschlossen ist (vgl. § 58 Abs. 2 Satz 2 AufenthG).
-Den Betroffenen ist in den Fällen, in denen sie keine Bescheinigung des Daueraufenthalts oder (Dauer-)Aufenthaltskarte besitzen, parallel zum Bescheiderlass eine Grenzübertrittsbescheinigung I für einen Monat auszustellen. Wird innerhalb der Rechtsbehelfsfrist Klage erhoben, erhält der Betroffene eine Bescheinigung L 4048, (sofern er nicht eine bereits ausgestellte Bescheinigung des Daueraufenthalts oder (Dauer-)Aufenthaltskarte besitzt). Eventuelle Nebenbestimmungen, die zuvor galten, sind in die jeweilige Bescheinigung zu übernehmen. Liegen die Voraussetzungen des § 84 Abs. 2 Satz 2 AufenthG vor, ist dem Betroffenen auf Antrag die fortbestehende Erlaubnis der Erwerbstätigkeit (ggf. mit den Beschränkungen nach § 34 BeschV) formlos auf der Grenzübertrittsbescheinigung (ggf. Rückseite) oder der Bescheinigung L 4048 gesiegelt zu bestätigen. Ist der Bescheid bestands- oder rechtskräftig geworden, sind die vorgenannten Dokumente umgehend, ggf. über ein „Pass“einzugsersuchen, einzuziehen bzw. zu widerrufen.
+Den Betroffenen ist in den Fällen, in denen sie keine Bescheinigung des Daueraufenthalts oder (Dauer-)Aufenthaltskarte besitzen, parallel zum Bescheiderlass eine Grenzübertrittsbescheinigung I für einen Monat auszustellen. Wird innerhalb der Rechtsbehelfsfrist Klage erhoben, erhält der Betroffene ein Zusatzblatt nach § 59 Abs. 7 AufenthV (sofern er nicht eine bereits ausgestellte Bescheinigung des Daueraufenthalts oder (Dauer-)Aufenthaltskarte besitzt). Eventuelle Nebenbestimmungen, die zuvor galten, sowie ggf. die Nebenbestimmung "Der Inhaber ist zur Ausreise verpflichtet; die Vollziehbarkeit der Ausreisepflicht ist derzeit entfallen" sind in das Zusatzblatt aufzunehmen. Ist der Bescheid bestands- oder rechtskräftig geworden, sind die vorgenannten Dokumente umgehend, ggf. über ein „Pass“einzugsersuchen, einzuziehen bzw. zu widerrufen.
 Vor jeder Abschiebung ist das Einvernehmen mit zuständigen Staatsanwaltschaft herzustellen, wenn ein strafrechtliches Ermittlungsverfahren gegen den betroffenen Unionsbürger oder Familienangehörigen eingeleitet oder Klage erhoben wurde (§ 11 Abs. 14 i.V.m. § 72 Abs. 4 AufenthG). Das Einvernehmen ist mittels des Formbriefes, „Staatsanwaltschaft, Anfrage bei“ herzustellen, wenn der Ausländerbehörde über ASTA oder MiStrA Informationen vorliegen, dass ein Verfahren oder eine Klage anhängig ist. Bei Intensivtätern oder geschützten Zeugen beachte das besondere Verfahren unter A.72.4 ! Merke: Vor Erlass des Feststellungsbescheides besteht keine Rechtsgrundlage für eine Anfrage. § 72 Abs. 4 AufenthG ist in § 11 Abs. 1 nicht explizit aufgeführt. Das Aufenthaltsgesetz kommt somit erst nach Feststellung des Verlusts
 - in diesen Fällen vor der Abschiebung - zur Anwendung.
 C.7.1. 3. Ausreisefrist von mindestens einem Monat
@@ -57,4 +57,4 @@ Bei der Wiedereinreise vor Ablauf oder Aufhebung der Sperrfrist ist das Einreise
 Mit Ablauf der Sperrfrist endet jede Fortwirkung eines Einreise- und Aufenthaltsverbots. Eine Abschiebung nach Ablauf der Sperrfrist im Inland ist ausgeschlossen.
 C.7.2.Anspruch auf Befristung des Wiedereinreiseverbots
 Der Betroffene ist in jedem Fall darauf hinzuweisen, dass eine Befristung / Verkürzung der Sperrwirkung wegen veränderter Umstände jederzeit vom Ausland aus beantragt werden kann.
-Kommt eine Befristung nicht oder zum gewünschten Zeitpunkt nicht in Betracht, so ist ggf. zu prüfen, ob eine Betretenserlaubnis zu erteilen ist (vgl. § 11 Abs. 14 i.V.m. § 11 Abs. 2 AufenthG). Bei der Anwendung dieser Vorschrift gelten keine Besonderheiten für ehemals Freizügigkeitsberechtigte.
+Kommt eine Befristung nicht oder zum gewünschten Zeitpunkt nicht in Betracht, so ist ggf. zu prüfen, ob eine Betretenserlaubnis zu erteilen ist (vgl. § 11 Abs. 1 S. 1 i.V.m. § 11 Abs. 8 AufenthG). Bei der Anwendung dieser Vorschrift gelten keine Besonderheiten für ehemals Freizügigkeitsberechtigte.

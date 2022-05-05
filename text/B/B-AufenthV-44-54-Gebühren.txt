@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021)
+(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021, 03.03.2022)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -23,7 +23,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021)
+(FreizügG/EU-AnpG; 05.08.2021; 14.10.2021, 03.03.2022)
 Merkblatt Gebühren (Stand: 05.01.2021)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -155,6 +155,7 @@ Austauschschüler,
 ehrenamtliche Jugend-Mitarbeiter des CVJM-Missio-Center Berlin,
 Teilnehmer am Jugendfreiwilligendienst (Freiwilliges soziales Jahr gemäß § 3 Jugendfreiwilligendienstgesetz (JFDG) oder Freiwilliges ökologisches Jahr (§ 4 JFDG)
 Teilnehmer am Bundesfreiwilligendienst
+Teilnehmer des Europäischen Freiwilligendienstes
 Lehrer aus Übersee, die auf Einladung deutscher öffentlicher Stellen einen Studienaufenthalt in der Bundesrepublik Deutschland nehmen, um sich mit deutschen pädagogischen Grundsätzen vertraut zu machen,
 Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
 Stipendiaten des "Berlin Programms" der FU Berlin,
@@ -276,7 +277,7 @@ B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
 B.AufenthV.60. Lichtbild
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(SchutzberArb; 20.03.2019; FEG; ÄnderungsVO zur BeschV und AufenthV)
+(ÄnderungsVO zur BeschV und AufenthV; ÄnderungsVO zur AufenthV; 14.04.2022)
 B.AufenthV.55. Ausweisersatz
 55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 AufenthV ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann. Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht. Merke: Verfügt der Antragsteller über ein unbefristetes Aufenthaltsrecht, genügt es für die Ausstellung des Ausweisersatzes der Nachweis, dass ein Pass oder Passersatz nicht kurzfristig zu erlangen ist. In diesen Fällen werden in der Vergangenheit liegende Versäumnisse bei der Passbeschaffung dem Antragsteller nicht entgegengehalten. Erforderlich bleibt aber der Nachweis, dass die Passbeschaffung nunmehr betrieben wird.
 Legt ein Ausländer, der einen Titel oder eine Duldung besitzt, eine Bescheinigung der Auslandsvertretung seines Heimatstaates vor, wonach die Ausstellung eines neuen Passes sich um längere Zeit verzögert oder derzeit ausgeschlossen ist, so ist ihm auf Antrag ein Ausweisersatz gem. § 55 Abs. 1 Nr. 1 oder bei Titelinhabern ggf. – etwa bei dringenden Auslandsreisen – ein vorläufiger Reiseausweis für Ausländer nach Maßgabe der §§ 5 Abs. 3- 5, 6 auszustellen (vgl. hierzu auch B.AufenthV.1-14). Die Gültigkeit des Reiseausweises bzw. des Ausweisersatzes sollte mindestens 6 Monate betragen, so der Titel bzw. die Duldung entsprechend lang gültig sind.
@@ -315,7 +316,15 @@ Die Neuausstellung einer eAT-Karte wegen des Ablaufs des bisherigen Personaldoku
 Demzufolge handelt es sich bei der unrichtigen Neuausstellung bzw. Übertragung eines Aufenthaltstitels in ein neues Personaldokument nicht um einen rechtswidrigen Verwaltungsakt, der gem. § 48 VwVfG zurückzunehmen wäre, sondern lediglich um eine fehlerhafte Eintragung mit nicht konstitutivem Charakter. Diese Eintragung ist somit als offenbare Unrichtigkeit gem. § 42 VwVfG jederzeit korrigierbar. Im Fall eines Aufenthaltstitels in Form eines eAT ist eine neue eAT-Karte zu bestellen und die fehlerhafte zu entwerten.
 Zu berücksichtigen ist allerdings in solchen Fällen, wie der "Erklärungsempfänger" die Eintragung bei objektiver Auslegung verstehen durfte ("objektiver Empfängerhorizont"). Hat ein Bürgeramt eine solche Neuausstellung oder unrichtige Eintragung vorgenommen, musste der Betroffene die Unrichtigkeit erkennen können, weil sein Wissen darüber, dass das Bürgeramt zur Erteilung von Aufenthaltstiteln nicht befugt ist, zu unterstellen ist.
 Wird die Neuausstellung bzw. Übertragung eines noch längerfristig gültigen Aufenthaltstitels durch die ABH vorgenommen und das Gültigkeitsdatum des übertragenen Titels versehentlich überschritten, so kann ebenfalls davon ausgegangen werden, dass der Empfänger die Unrichtigkeit der Übertragung erkennen konnte.
-Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom 01.04.2020 wurde der neue Abs. 7 eingefügt. Die Neuregelung ist aufgrund uneinheitlicher Verwaltungspraxis erforderlich. Mit ihr soll erreicht werden, dass in den Fällen, in denen die Voraussetzungen des § 84 Absatz 2 Satz 2 AufenthG vorliegen, auf Antrag des Ausländers die Wirkung des § 84 Absatz 2 Satz 2 AufenthG grundsätzlich (deklaratorisch) bescheinigt wird, vgl. A.84.2.2. B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
+Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom 01.04.2020 wurde der neue Abs. 7 eingefügt. Die Neuregelung ist aufgrund uneinheitlicher Verwaltungspraxis erforderlich. Mit ihr soll erreicht werden, dass in den Fällen, in denen die Voraussetzungen des § 84 Abs. 2 S. 2 AufenthG vorliegen, auf Antrag des Ausländers die Wirkung des § 84 Abs. 2 S. 2 AufenthG grundsätzlich bescheinigt wird, vgl. A.84.2.2. Dies erfolgt grundsätzlich auf einem gesonderten Zusatzblatt. Die Gültigkeit des Zusatzblattes orientiert sich am Einzelfall. Die Gültigkeit des Zusatzblattes orientiert sich am Einzelfall. Neben den entsprechenden Nebenbestimmungen zur Erwerbstätigkeit, ist ggf. auch die Nebenbestimmung
+"Der Inhaber ist zur Ausreise verpflichtet; die Vollziehbarkeit der Ausreisepflicht ist derzeit entfallen"
+mit aufzunehmen.
+Mit Änderungsverordnung vom 20.08.2021 wurde der Abs. 9 eingeführt. Von diesem umfasst sind Betroffene, die eigentlich vom Erfordernis eines Aufenthaltstitels nach §§ 1 Abs. 2 Nr. 2 oder 3 oder 27 AufenthG befreit sind, zugleich aber eine Rechtsstellung nach dem Austrittsabkommen innehaben. Ihnen wird dieses Recht in einem gesonderten Zusatzblatt (nur eAT-Zusatzblatt) gebührenfrei bescheinigt, beachte hierzu AusReg2Info: Titel/Historie. Das Zusatzblatt muss folgende Nebenbestimmungen, die in AusReg auch zur Verfügung stehen, enthalten
+immer: "Erwerbstätigkeit erlaubt"
+in Fällen des § 16 Abs. 2 S.1 FreizügG/EU: „Art. 50 EUV – der Inh. hat ein Recht nach Art. 18 Abs. 4 Austrittsabkommen“ in den Fällen des § 16 Abs. 3 FreizügG/EU: „Art. 50 EUV Grenzgänger – der Inh. hat ein Recht nach Art. 26 Austrittsabkommen“ und
+in den Fällen des § 11 Abs. 11 i.V.m. § 3a FreizügG/EU: „Der Inh. besitzt ein Recht nach Art. 3 Abs. 2 der RL 2004/38/EG i.V.m. Art. 10 Abs. 2-4 Austrittsabkommen u. § 3a i.V.m. § 11 Abs. 11 FreizügG/EU“
+Die Gültigkeit des Zusatzblattes orientiert sich in diesen Fällen an dem Zeitraum für den die Befreiung vom Erfordernis eines Aufenthaltstitels gilt, im Regelfall das Gültigkeitsdatum des Protokollausweises.
+B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes
 § 59 a dient der Umsetzung von Art. 1 Nr. 4 und 8 der RL 2011/51/EU bzw. Art. 8, 12 und 19a der geänderten Daueraufenthaltsrichtlinie (RL 2003/109/EG).
 Danach muss gem. § 59 a Abs. 1 bei Erteilung einer Erlaubnis zum Daueraufenthalt- EU nach § 9a an einen Ausländer, dem internationaler Schutz gewährt wurde, im Eintragungsfeld „Anmerkungen“ folgender Hinweis aufgenommen werden: „Durch DEU am [Datum Datum] internationaler Schutz gewährt.“
 Stellen wir einem Ausländer eine Erlaubnis zum Daueraufenthalt- EU nach § 9a aus, der bereits über eine von einem anderen Mitgliedstaat ausgestellte Erlaubnis zum Daueraufenthalt- EU verfügt (zur Begrifflichkeit in der jeweiligen Landessprache vgl. A.38a.0), welche einen dem o.g. Hinweis vergleichbaren Passus enthält, so sind wir verpflichtet, gem. § 39 a Abs. 2 denselben Hinweis einzutragen. Vor der Eintragung des Hinweises ist der Mitgliedstaat gem. § 91 c Abs. 1 a AufenthG zu konsultieren (vgl. dort). Wurde der internationale Schutz aberkannt, ist der Hinweis nicht einzutragen. Der Eintrag lautet in der jeweiligen Landessprache wie folgt:
@@ -337,13 +346,13 @@ Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnut
 Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
 Schwedisch: „Internationellt skydd beviljat av SWE (=Name des Mitgliedstaats) den (Datum)“.
 Spanisch: “protección internacional concedida por ESP (=Name des Mitgliedstaats) con fecha de (Datum)”.
-Tschechisch: „Poznámky“ tuto poznámku: ‚Mezinárodní ochrana poskytnuta CZE (=Name des Mitgliedstaats) dne (Datum).“
-Ungarisch: „HUN (=Name des Mitgliedstaats)-ban/-ben, (Datum)-án/-én nemzetközi védelemben részesült“.
+Tschechisch: „Poznámky“ tuto poznámku: ‚Mezinárodní ochrana poskytnuta CZE (=Name des Mitgliedstaats) dne (Datum).“ Ungarisch: „HUN (=Name des Mitgliedstaats)-ban/-ben, (Datum)-án/-én nemzetközi védelemben részesült“.
 B.AufenthV.60. Lichtbild
 Bei Angehörigen von geistlichen Orden und Religionsgesellschaften, die vortragen, dass es ihnen aus religiösen Gründen verboten ist, sich in der Öffentlichkeit ohne Kopfbedeckung zu zeigen, dürfen Lichtbilder verwendet werden, die den Antragsteller mit der vorgeschriebenen Kopfbedeckung zeigen. Gleiches gilt für Angehörige von karitativen Verbänden (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). Ansonsten kommt die Integration eines Lichtbildes mit Kopfbedeckung ausnahmsweise nur in Betracht, wenn der Antragsteller auch in seinem aktuellen Pass mit Kopfbedeckung abgebildet ist. Umgekehrt darf von Betroffenen für die Ausstellung eines Aufenthaltstitels, Passersatzpapiers, Ausweisersatz o.ä. nicht verlangt werden, ein Lichtbild mit Kopfbedeckung vorzulegen, nur weil im ausländischen Pass(ersatzpapier) ein solches integriert ist. Aus § 60 Abs. 1 S. 2 folgt das Recht, sich ohne Gesichts- und Kopfbedeckung abbilden zu lassen.
 Wird ein Lichtbild mit Kopfbedeckung akzeptiert, muss das für die Übertragung verwendete Lichtbild das Gesicht des Inhabers von der unteren Kinnkante bis zur Stirn zeigen. Es dürfen keine Schatten auf dem Gesicht entstehen.
 Die iranischen Behörden verlangen von weiblichen iranischen Staatsangehörigen für die Ausstellung von Pässen die Vorlage von Lichtbildern mit Kopfbedeckung. Es ist iranischen Frauen durchaus zuzumuten, für die Passausstellung ein Lichtbild mit "islamischen Schleier" vorzulegen. Weigert sich die Passbewerberin, ihrer Auslandsvertretung ein entsprechendes Lichtbild vorzulegen und lehnt diese daraufhin die Ausstellung eines neuen iranischen Passes ab, rechtfertigt dies für sich allein nicht die Ausstellung eines Ausweisersatzes oder Reiseausweises für Ausländer (vgl. §§ 48 Abs. 2, 99 Abs. 1 AufenthG, §§ 5, 55 AufenthV).
-Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung). § 60 Abs. 2 AufenthV regelt, dass Ausländer, für die ein Dokument ausgestellt werden soll, ein aktuelles Lichtbild vorlegen müssen. Ein Lichtbild ist nach richtiger Auffassung auch dann aktuell, wenn der Ausländer nach wie vor so aussieht, wie auf dem mitgebrachten Lichtbild.
+Ein Lichtibld mit Augenbedeckung ist nur nach Vorlage eines ärztlichen Attestes zu akzeptieren, welches bestätigt, dass die Augenbedeckung über einen längeren Zeitraum erforderlich ist (vgl. § 60 AufenthV i.V.m. § 3 Passmusterverordnung).
+§ 60 Abs. 2 AufenthV regelt, dass Ausländer, für die ein Dokument ausgestellt werden soll, ein aktuelles Lichtbild vorlegen müssen. Ein Lichtbild ist nach richtiger Auffassung auch dann aktuell, wenn der Ausländer nach wie vor so aussieht, wie auf dem mitgebrachten Lichtbild.
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 frei
 VAB B.AufenthV.61a. - 84. Datenverarbeitung,

@@ -2,13 +2,15 @@ VAB A 25b
 VAB A 25b
 Inhaltsverzeichnis
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(FEG; 18.03.2021, 24.06.2021)
+(FEG; 24.06.2021; 14.04.2022)
 25.b.0.
 25b.1.1. Erteilungsvoraussetzungen
 25b.1.2. Regelmäßig zu erfüllende Voraussetzungen
+25b.1.2.1. Herausgehobenes soziales Engagement
+25b.1.2.2. Junge Erwachsene in Bildung, Ausbildung und Studium
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 25b.1.2.2.1. Bekenntnis zur freiheitlich-demokratischen Grundordnung
-25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 288
+25b.1.2.2.2. Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet ... 298
 25b.1.2.3. Überwiegende Lebensunterhaltssicherung
 25b.1.2.4. Sprachkenntnisse
 25b.1.2.5. Schulbesuch
@@ -21,7 +23,7 @@ A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
 25b.5. Aufenthaltsdauer/Nebenbestimmung/Sperrwirkung
 25b.6. Übergang aus der Beschäftigungsduldung, § 60d
 A.25.b. Aufenthaltsgewährung bei nachhaltiger Integration
-(FEG; 18.03.2021, 24.06.2021)
+(FEG; 24.06.2021; 14.04.2022)
 Checkliste § 25b Abs. 1
 Checkliste § 25b Abs. 4
 25.b.0.
@@ -41,8 +43,21 @@ Verfahrensduldungen sind vorwiegend:
 • die Schwangerenregelung unter A 60a.2.3. (drei + drei) (Beachte: in Abgrenzung zur dortigen Regelung begründet die fehlende Mitnahme von Schwangeren durch Fluggesellschaften unter Bezugnahme auf die IATA- Regelungen (vgl. A 60a.2.3.1.) ein tatsächliches (materielles) Abschiebungshindernis.
 Merke: Anders als bei der Verfahrensduldung sind die Zeiten einer Duldung mit dem Zusatz "für Personen mit ungeklärter Identität" nach § 60b, da sie rechtlich gesehen nicht zu einem Titel nach § 25 b führen können, im Rahmen von § 25 b Abs. 1 S. 2 Nr. 1 unbeachtlich, werden also bei der Berechnung des 8-Jahreszeitraumes nicht mitgezählt. Sie führen daher zu einer Hemmung des 8-Jahreszeitraumes.
 25b.1.2. Regelmäßig zu erfüllende Voraussetzungen
-Liegen die in Satz 2 genannten Voraussetzungen vor, ist von einer nachhaltigen Integration in die Lebensverhältnisse der Bundesrepublik Deutschland auszugehen. Die Formulierung „setzt regelmäßig voraus“ lässt es aber zu, dass besondere Integrationsleistungen von vergleichbarem Gewicht ebenfalls zur Erteilung einer Aufenthaltserlaubnis nach § 25b führen können. Beispielhaft ist hier ein herausgehobenes soziales Engagement zu nennen, wie es u.a. in Vereinen, sozialen Einrichtungen, Kirchen o.ä. üblicherweise praktiziert wird. Das herausgehobene Engagement muss über die bloße Vereinsmitgliedschaft hinausgehen und mindestens seit einem Jahr fortbestehen. In diesen Fällen kann die Erteilung eines Aufenthaltstitels auch dann erfolgen, wenn z.B. die erforderliche Aufenthaltsdauer um höchstens zwei Jahre unterschritten wird oder die geforderten Deutschkenntnisse noch nicht vollständig vorliegen.
-Praktisch dürfte dies kaum von Relevanz sein.
+Liegen die in Satz 2 genannten Voraussetzungen vor, ist von einer nachhaltigen Integration in die Lebensverhältnisse der Bundesrepublik Deutschland auszugehen. Die Formulierung „setzt regelmäßig voraus“ lässt es aber zu, dass besondere Integrationsleistungen von vergleichbarem Gewicht ebenfalls zur Erteilung einer Aufenthaltserlaubnis nach § 25b führen können.
+25b.1.2. 1. Herausgehobenes soziales Engagement
+Beispielhaft ist hier ein herausgehobenes soziales Engagement zu nennen, wie es u.a. in Vereinen, sozialen Einrichtungen, Kirchen o.ä. üblicherweise praktiziert wird. Das herausgehobene Engagement muss über die bloße Vereinsmitgliedschaft hinausgehen und mindestens seit einem Jahr fortbestehen. In diesen Fällen kann die Erteilung eines Aufenthaltstitels auch dann erfolgen, wenn z.B. die erforderliche Aufenthaltsdauer um höchstens drei Jahre oder, falls sie zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft leben, um höchstens zwei Jahre unterschritten wird oder die geforderten Deutschkenntnisse noch nicht vollständig vorliegen. Eine Verkürzung nach A.25b.1.2.2. geht vor und schließt eine weitere Verkürzung der erforderlichen Aufenthaltsdauer wegen herausgehobenen sozialen Engagement aus.
+25b.1.2. 2. Junge Erwachsene in Bildung, Ausbildung und Studium
+Nach Weisung von SenInnDS vom 07.04.2022 soll geduldeten jungen Erwachsenen, die sich nachhaltig in die Lebensverhältnisse der Bundesrepublik Deutschland integriert haben, bis zur Vollendung des 27. Lebensjahrs abweichend von der zeitlichen Voraussetzung des § 25b Abs. 1 Satz 2 Nr. 1 eine Aufenthaltserlaubnis nach § 25b bereits nach einem Aufenthalt von mindestens vier Jahren oder, falls sie zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft leben, bereits nach einem Aufenthalt von mindestens drei Jahren erteilt werden, wenn sie folgende zusätzliche Integrationsmerkmale erfüllen:
+1.
+a. mindestens ausreichende Deutschkenntnisse (Niveau B1) oder
+b. hinreichende Deutschkenntnisse (Niveau A2) und die Deutschnote „ausreichend (4)“ auf einem Schulzeugnis einer deutschen Schule
+und
+2.
+a. vierjähriger erfolgreicher Schulbesuch im Bundesgebiet oder Erwerb eines anerkannten Schul- oder Berufsabschlusses,
+b. Absolvierung einer Berufsausbildung im Sinne des § 60c Abs. 1 Satz 1 Nr. 1 a) oder b)
+oder
+c. erfolgreiche Teilnahme an einer staatlich geförderten Berufsvorbereitungsmaßnahme (vgl. A.25b.1.3.1.1.), Absolvierung eines freiwilligen Sozialen Jahres, eines Freiwilligen Ökologischen Jahres oder eines Bundesfreiwilligendienstes.
+Bei körperlicher, geistiger oder seelischer Krankheit oder Behinderung wird den Ziffern 1 und 2a genügt, wenn ein mindestens vierjähriger Schulbesuch im Bundesgebiet nachgewiesen wird. § 25b Abs. 3 bleibt im Übrigen unberührt. Die Aufenthaltserlaubnis soll bei Vorliegen der Voraussetzungen von 2a. oder 2b. für die Dauer von zwei Jahren erteilt werden; bei Vorliegen der Voraussetzungen von 2c. zunächst für die Dauer der Maßnahme, jedoch mindestens für ein Jahr. Für die Suche eines Ausbildungs- oder Studienplatzes kann eine Duldung gem. § 60a Abs. 2 S. 3 AufenthG erteilt werden, auch wenn nicht an einer der in Ziffer 2c. genannten Maßnahmen teilgenommen wird (vgl. A.60a.2.3.5.). Die Ausschlussgründe in A.25.b.2. sind zu beachten. Möglichkeiten der Erteilung einer Aufenthaltserlaubnis aus anderen Gründen bleiben unberührt.
 25b.1.2.1. Erforderliche Aufenthaltsdauer
 Die Erteilung einer Aufenthaltserlaubnis bei nachhaltiger Integration setzt gemäß Nummer 1 zunächst voraus, dass der Ausländer sich
 seit mindestens acht Jahren
@@ -82,7 +97,7 @@ ein Studium an einer deutschsprachigen Hochschule oder Fachhochschule oder eine 
 Bei Kindern und Jugendlichen bis zum vollendeten 16. Lebensjahr genügt die Vorlage des letzten Zeugnisses, welches in Deutsch wenigstens die Note 4 ausweist. Bei noch nicht schulpflichtigen Kindern erfolgt keine Prüfung der Sprachkenntnisse, da diese gem. § 25 b Abs. 3 diese aus Altersgründen nicht erfüllen müssen.
 Für erwerbsunfähige und lebensältere Personen ist die persönliche Lebenssituation gemäß Absatz 3 zu berücksichtigen, vgl.
 A.25b.3.
-Merke: Ausländer, die bei der Ersterteilung noch keine ausreichenden schriftlichen und mündlichen Sprachkenntnisse der Stufe B1 aufweisen, sind gemäß § 44 Abs. 1 S. 1 Nr. 1c) zur Teilnahme am Integrationskurs berechtigt. Eine Verpflichtung wegen einer besonderen Integrationsbedürftigkeit ist bei Personensorgeberechtigten minderjähriger lediger Kinder stets zu prüfen (vgl. A.44a.1.1.3.).
+Merke: Ausländer, die bei der Ersterteilung noch keine ausreichenden schriftlichen und mündlichen Sprachkenntnisse der Stufe B1 aufweisen, sind gemäß § 44 Abs. 1 S. 1 Nr.1c) zur Teilnahme am Integrationskurs berechtigt. Eine Verpflichtung wegen einer besonderen Integrationsbedürftigkeit ist bei Personensorgeberechtigten minderjähriger lediger Kinder stets zu prüfen (vgl. A.44a.1.1.3.).
 25b.1.2.5. Schulbesuch
 Der tatsächliche Schulbesuch aller schulpflichtigen Kinder ist zum Zeitpunkt der Entscheidung der Behörde über die Erteilung oder Verlängerung durch Vorlage von Zeugnissen mindestens des letzten Jahres und einer aktuellen Schulbescheinigung nachzuweisen. Nach Wortlaut, Systematik und Zielrichtung der Regelung sind jedenfalls diejenigen Kinder, die der Schulpflicht nicht ordnungsgemäß nachgekommen sind, von der gesetzlichen Bleiberechtsregelung ausgeschlossen.
 Die Schulpflicht besteht grundsätzlich ab Vollendung des 6. und bis zur Vollendung des 16. Lebensjahres und erstreckt sich neben der Teilnahme am Unterricht auch auf die Teilnahme an den übrigen verbindlichen Veranstaltungen der Schule. In Ganztagsschulen gehören auch die außerunterrichtlichen Betreuungszeiten zu den verbindlichen Veranstaltungen (vgl. §§ 8, 15 Abs. 2; 12 SchulG Bln).

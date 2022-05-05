@@ -2,7 +2,6 @@ VAB A 39
 VAB A 39
 Inhaltsverzeichnis
 A.39. Zustimmung zur Ausländerbeschäftigung
-(04.02.2020; FEG; 25.11.2021)
 39.1. Zustimmungsverfahren mit den Agenturen für Arbeit
 39.1.1.1. Die Prüfung findet in folgender Reihenfolge statt (vgl. auch VAB A 18.0.)
 39.1.1.3. Formular im Zustimmungsverfahren
@@ -17,7 +16,7 @@ Zuständigkeiten der Agenturen für Arbeit
 39.5.
 39.6.
 A.39. Zustimmung zur Ausländerbeschäftigung
-(04.02.2020; FEG; 25.11.2021)
+(FEG; 25.11.2021; 01.04.2022)
 39. 0. Normadressat der Vorschriften der §§ 39 bis 42 sowie der Beschäftigungsverordnung – BeschV - sind neben den Ausländerbehörden die Arbeitgeber- Services der BA.
 Die BeschV regelt sowohl die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich zum Zwecke der Beschäftigung oder Ausbildung hier aufhalten wollen als auch die Zulassung zur Ausübung einer Beschäftigung und das Verfahren für Ausländer, die sich erlaubt zu einem anderen Zweck – etwa aus humanitären Gründen - gestattet oder geduldet hier aufhalten. Sie gilt auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr einen Aufenthaltstitel begehren, wie etwa Arbeitsplatzsuchende (vgl. § 17 oder § 20) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
 Merke: In allen Zweifelsfällen ist die Agentur für Arbeit ''' um Stellungnahme zu ersuchen (vgl. A.72.7.).
@@ -29,90 +28,87 @@ durch Gesetz (z.B. § 18b Abs. 2 S.1 für die Blaue Karte EU; § 18c für NE bei
 3. Verzicht auf das Zustimmungsverfahren bei zustimmungspflichtigen Beschäftigungen (gültige Vorabzustimmung der BA; Globalzustimmungen der BA; vgl. B.BeschV. 37.)
 4. Verzicht auf das Zustimmungsverfahren bei bloßer Erweiterung des Beschäftigungsumfangs (z. B. Erhöhung der Stunden von 20 auf 39 Stunden, wenn der Stundenlohn unverändert bleibt. Eine in diesem Zusammenhang erfolgende Anpassung der sonstigen Beschäftigungsbedingungen, etwa eines höheren Monatslohns oder Urlaubsanspruchs, ist unproblematisch. 39.1.1. 2. Wenn keine Zustimmungsfreiheit der Beschäftigung besteht ist v or jeder Anfrage bei der Agentur für Arbeit aus Gründen der Verwaltungseffizienz zu prüfen, ob überhaupt die aufenthaltsrechtlichen Erteilungsvoraussetzungen für den Titel vorliegen. Kommt zum Beispiel die Erteilung einer AE nach § 18 a nicht in Betracht, weil für den Betroffenen Ausweisungsinteressen bestehen, die zu einer Versagung gem. § 5 Abs. 1 Nr. 2 führen, so ist der Antrag auf AE schon deshalb abzulehnen. Erhält der Betroffene sodann eine Duldung, gelten für den möglichen Zugang zur Beschäftigung andere Regelungen (vgl. hierzu Ausführungen zu § 4 a Abs. 4 sowie B.BeschV. 32.).
 39.1.1.3. Formular im Zustimmungsverfahren
-Die Anfragen an die Agentur für Arbeit um Zustimmung werden auf den mit der hiesigen Regionaldirektion abgestimmten Formularen unter Beachtung der beigefügten Ausfüllhinweise erstellt und enthalten einen Hinweis auf die Mitwirkungspflicht nach § 82. Weiter wird der Ausländer darauf hingewiesen, dass - sollten noch erforderliche Angaben oder Unterlagen fehlen - er diese innerhalb einer Frist von 2 Wochen der seit dem 01.02.2020 zentral für die Regionaldirektionen Berlin -Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Erfurt, Team 008, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
+Die Anfragen an die Agentur für Arbeit um Zustimmung werden auf den mit der hiesigen Regionaldirektion abgestimmten Formularen unter Beachtung der beigefügten Ausfüllhinweise erstellt und enthalten einen Hinweis auf die Mitwirkungspflicht nach § 82. Weiter wird der Ausländer darauf hingewiesen, dass - sollten noch erforderliche Angaben oder Unterlagen fehlen - er diese innerhalb einer Frist von 2 Wochen der zentral für die
+Regionaldirektionen Berlin -Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Erfurt, Team 251, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
 Agentur für Arbeit Erfurt
-Team 00 8
+Team 251
 Max-Reger-Str. 1
 99096 Erfurt
-Fax: 0361 / 302 1905
-Erfurt.008-OS2@arbeitsagentur.de
-Auch sollte dem Antragsteller ein Formblatt „ Stellenbeschreibung“ (ab dem 01.03.2020 das Formblatt „ Erklärung zum Beschäftigungsverhältnis“) ausgehändigt werden, welches der Arbeitgeber auszufüllen und ebenfalls der zuständigen Agentur für Arbeit Erfurt (s.o.) zu übersenden hat. Hierauf folgt der Hinweis auf eine mögliche Versagung, wenn das Formblatt nicht ausgefüllt innerhalb einer Frist von 2 Wochen an die Agentur für Arbeit Erfurt übersandt wird.
-Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 4). Wenn weitere Unterlagen beim Landesamt für Einwanderung vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden.
-Die Bitten um Zustimmung sind an die Agentur für Arbeit Erfurt stets per Fax zu übersenden. Das Fax kann zusätzlich als "Eilsache" kenntlich gemacht sein, z.B. durch Zusätze wie "Antwort bis……..erbeten" oder "Vorsprachetermin am…….". Zusätzlich empfiehlt sich in Fällen besonderer Eilbedürftigkeit eine telefonische Kontaktaufnahme zum zuständigen Team der Bundesagentur. Wird eine Zustimmungsanfrage (Teil 1 und 2 des Formularsatzes) per Fax übersandt, sollte in jedem Fall auf die nachträgliche Übersendung des Originals auf dem Postwege verzichtet werden.
+zav.amz-erfurt-251@arbeitsagentur.de
+Auch sollte dem Antragsteller das Formblatt „ Erklärung zum Beschäftigungsverhältnis“ ausgehändigt werden, welches der Arbeitgeber auszufüllen und ebenfalls der zuständigen Agentur für Arbeit Erfurt (s.o.) zu übersenden hat. Hierauf folgt der Hinweis auf eine mögliche Versagung, wenn das Formblatt nicht ausgefüllt innerhalb einer Frist von 2 Wochen an die Agentur für Arbeit Erfurt übersandt wird.
+Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 4). Wenn weitere Unterlagen beim Landesamt für Einwanderung vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden. Das Beteiligungsverfahren nach § 39 AufenthG mit der Bundesagentur für Arbeit (BA) wird ausschließlich digital über AusReg abgewickelt. Sowohl die Zustimmungsanfragen an die für die beabsichtigte Beschäftigung zuständigen Teams der Arbeitsagenturen wie auch die von dort eingehenden Antworten werden über das in AusReg implementierte Modul „BA-Schnittstelle“ eingesteuert und bearbeitet.
 Zuständigkeiten der Agenturen für Arbeit
 Zuständig ist grundsätzlich d iejenige Agentur für Arbeit, in de ren Bezirk der Betrieb seinen Sitz oder seine Niederlassung hat, in der der Ausländer arbeiten soll. Im Zweifel ist der Betrieb die Betriebsstätte, dass heißt der Ort an dem der Ausländer tätig werden soll. Bei Beschäftigungen mit wechselnden Arbeitsstätten gilt der Sitz der für die Lohnabrechnung zuständigen Stelle als Beschäftigungsort.
 Für die Regionaldirektionen Berlin-Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen ist zentral die Agentur für Arbeit Erfurt, Team 00 8, zuständig. Befindet sich der Betrieb in einem anderen Bundesland als den vorgenannten, ist die Zuständigkeit dem Internetauftritt der BA zu entnehmen.
 Spezielle Zuständigkeiten gelten für
 Arbeitnehmergruppe Zuständige Agentur Fax-Nr. /E-Mail-Adresse und Telefonnummer
-Pflegekräfte auf der Grundlage von Agentur für Arbeit Köln
-Vermittlungsabsprachen Team 007 Fax: 0228/713-270- 1091
-Villemobler Str. 76 koeln.007-OS@arbeitsagentur.de
-Fachschulpraktikanten in Verbindung mit Tel.: 0228/713-1326
-53123 Bonn
-deren Ausbildung im Heimatland
-Fax: 0228 / 713 -1525
-Ferienbeschäftigungen ausländischer
-Koeln.Ferienbeschaeftigung@arbeitsagentur.de
+-Pflegekräfte auf der Grundlage von
+Vermittlungsabsprachen ZAV Team 231
+-Fachschulpraktikanten in Verbindung mit Tel.: 0228/713-1326
+deren Ausbildung im Heimatland zav.amz-bonn-231@arbeitsagentur.de
+Villemo mbler Str. 76
+-Ferienbeschäftigungen ausländischer 53123 Bonn
 Studierender (§ 14 Abs. 2 BeschV)
-Tel.: 0228/713-1330
-studienfachbezogene Praktika Fax: 0228 / 713- 1037
-Koeln.Studenten@arbeitsagentur.de
-(§ 15 Nr. 4 / 6 BeschV) Tel.: 0228/713-1560
-internationalen Personalaustausch Fax: 0228/713-10 91
-Koeln.Personalaustausch@arbeitsagentur.de
-(§ 10 BeschV) Tel.: 0228/713-1514
-ICT-Karte/Mobiler-ICT-Karte Agentur für Arbeit Köln
-Team 008
-(§ 10a BeschV)
-Villemobler Str. 76
-Fax: 0228/713-1 123
-Drittstaatsangehörige, die nicht in den 53123 Bonn
-Koeln.ICT-Karte@arbeitsagentur.de
-Anwendungsbereich der ICT-RL fallen, Tel.: 0228/713-1122
-aber die Voraussetzungen nach Mode 4
-GATS erfüllen (§ 29 (5) BeschV)
-Künstler (§ 25 BeschV)
-Fax: 0228/713-1600
-Einschaltung der Künstlervermittlung Koeln.AMZ-Kuenstler@arbeitsagentur.de
-(Verfahren nach § 21 Abs. 5 AufenthG) Tel.: 0228/713-1316
-Fax: 0228/713-2281
-Spezialitätenköche (§ 11 Abs.2 BeschV) Koeln.Spezialitaetenkoeche@arbeitsagentur.de
-Tel.: 0228/713-1511
-Agentur für Arbeit
-Essen Fax: 0203/9907-238
-Familienangehörige von Diplomaten und
-Team 009 Essen.009-OS@arbeitsagentur.de
-Konsuln (§ 1 AufenthG)
-Dahlmannstr. 23 Tel.: 0228/713 2000
-47169 Duisburg
-Fax: 0711/920-3234
-Stuttgart.007-OS@arbeitsagentur.de
-Werkvertragsarbeitnehmer auf der
-Stuttgart.009-OS@arbeitsagentur.de
-Grundlage zwischenstaatlicher
-'
-Vereinbarungen (§ 29 (1) BeschV)
-Tel.: 0711/920-3265; -3268 oder
-Tel.: 0711/920-3010; -3262 '
-Werkvertragsarbeitnehmer (§ 26 (1)
-Agentur für Arbeit
-BeschV) Stuttgart
-Kurz- und längerfristig entsandte Team 00 7 und Team
-Fax: 0711/920-3234
-009
-Arbeitnehmer im Rahmen von Liefer- und Stuttgart.009-OS@arbeitsagentur.de
-70145 Stuttgart
-Montageverträgen von Maschinen, Tel.: 0711/920-3201 oder -3020
-Anlagen und EDV-Programmen (§ 19
+-Spezialitätenköche (§ 11 Abs.2 BeschV)
+ZAV Team 232
+-Künstler (§ 25 BeschV) Villemo mbler Str. 76 Tel.: 0228/713-13 16
+53123 Bonn zav.amz-bonn-232@arbeitsagentur.de
+-Einschaltung der Künstlervermittlung
+(Verfahren nach § 21 Abs. 5 AufenthG)
+- Internationaler Personalaustausch (§ 10
+Die Zuständigkeit des Teams richtet sich nach der
 BeschV)
-Arbeitnehmer, die im Rahmen von Fax: 0711/920-3234
-Verträgen bis zu 90 Tagen in Stuttgart.009-OS@arbeitsagentur.de
-NATO-Stützpunke entsandt werden Tel.: 0711/920-3018
-Agentur für Arbeit
-Erfurt Team 009
-Fax: 0361/302-2120
-Auskunftsersuchen nach § 39 AufenthG Melchior-Bauer-Straße Erfurt.009-OS@arbeitsagentur.de
-5 Tel.: 0361/302-2121
+Postleitzahl des Standortes des Arbeitgebers:
+- ICT-Karte / Mobiler-ICT-Karte (§ 10a
+BeschV)
+PLZ: 01000-64999: Team 232
+- Ferienbeschäftigungen ausländischer
+Studiernder (§ 14 Abs. 2 BeschV) ZAV Team 231 Tel.: 0228/713-1316
+oder 232
+- Studienfachbezogene Praktika (§ 15 Nr. Villemo mbler Str. 76 zav.amz-bonn-232@arbeitsagentur.de 4 / 6 BeschV) 53123 Bonn
+- Drittstaatsangehörige, die nicht in den PLZ: 65000-99999: Team 231
+Anwendungsbereich der ICT-RL fallen,
+Tel.: 0228/713-1326
+aber die Voraussetzungen nach Mode 4
+GATS erfüllen (§ 29 Abs. 5 BeschV) zav.amz-bonn-231@arbeitsagentur.de
+ZAV
+Tel.: 0711/920-3265; -3268 oder
+- Werkvertragsarbeitnehmer/-innen auf Team 241/242
+Tel.: 0711/920-3010; -3262
+der Grundlage zwischenstaatlicher Nordbahnhofstraße
+zav.amz-stuttgart-241@arbeitsagentur.de
+Vereinbarungen (§ 29 Abs. 1 BeschV) 30-34
+zav.amz-stuttgart-242@arbeitsagentur.de
+70191 Stuttgart
+- Werkvertragsarbeitnehmer/-innen
+(bestimmte Staatsangehörige nach § 26
+Abs. 1 BeschV)
+ZAV
+- Kurz- und längerfristig entsandte Team 242
+Tel.: 0711/920-3201 oder -3020
+Arbeitnehmer/-innen im Rahmen von Nordbahnhofstraße
+zav.amz-stuttgart-242@arbeitsagentur.de
+Liefer- und Montageverträgen von 30-34
+70191 Stuttgart
+Maschinen, Anlagen und
+EDV-Programmen (§ 19 BeschV)
+ZAV
+- Arbeitnehmer/-innen, die im Rahmen Team 241
+Tel.: 0711/920-3018
+von Verträgen bis zu 90 Tagen in Nordbahnhofstraße
+zav.amz-stuttgart-241@arbeitsagentur.de
+NATO-Stützpunkte entsandt werden 30-34
+70191 Stuttgart
+ZAV
+Team 251
+- Familienangehörige von Diplomaten und
+Melchior-Bauer-Straße zav.amz-erfurt-251@arbeitsagentur.de
+Konsuln (§ 1 AufenthG)
+5
+99092 Erfurt
+ZAV
+Team 252/253 Tel.: 0361/302-2121
+- Auskunftsersuchen nach § 39 AufenthG Melchior-Bauer-Straße zav.amz-erfurt-252@arbeitsagentur.de 5 zav.amz-erfurt-253@arbeitsagentur.de
 99092 Erfurt
 Die Agentur für Arbeit wendet sich nach der Anfrage durch das Landesamt für Einwanderung regelmäßig unmittelbar an den Arbeitgeber, um die Frage der Zustimmungsfähigkeit zur beabsichtigten Beschäftigung zu prüfen so noch Unterlagen des Arbeitgebers fehlen. In diesen Fällen erfolgt zwingend ein Schreiben an die anfragende Ausländerbehörde, um die Zustimmungsfiktion des § 36 BeschV nicht eintreten zu lassen.
 Fehlen dagegen aus Sicht der Agentur für Arbeit bei der Zustimmungsanfrage arbeitnehmerbezogene Unterlagen bzw. ist auf Grund einer fehlenden oder unzutreffenden Rechtsgrundlage durch das Landesamt für Einwanderung keine Prüfung möglich, so wird das Landesamt für Einwanderung – im Regelfall innerhalb von 48 Stunden nach Eingang der Zustimmungsanfrage - gebeten, die erforderlichen Unterlagen/Informationen nachzureichen bzw. beim Betroffenen einzuholen oder zu erheben. Mit diesem Schreiben wird mitgeteilt, dass die Zustimmungsfiktion des § 36 Abs. 1 BeschV nicht eintritt. Soweit Unterlagen/Informationen durch den Betroffenen nachzureichen sind, ist dieser schriftlich und unter Hinweis auf die Mitwirkungspflicht gem. § 82 und dem Setzen einer Frist aufzufordern, diese unmittelbar zur Agentur für Arbeit zu übersenden (AusReg > KK Schreiben > Beschäftigung, Nachforderung Unterlagen).
@@ -148,3 +144,4 @@ Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörd
 frei
 39.6.
 Für eine Beschäftigung als Saisonarbeitnehmer ist die Zustimmung der Bundesagentur für Arbeit erforderlich. Die Vorschrift ermächtigt die Bundesagentur für Arbeit, am Bedarf für Saisonarbeitnehmer orientierte Zahlen festzulegen. Hat die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl festgelegt, erteilt diese eine formelle Arbeitserlaubnis zum Zweck der Saisonbeschäftigung nach § 15a Absatz 6 BeschV ohne Vorrangprüfung.
+<a type="hw_internal_link" href="Kategorie%3AVAB">Kategorie:VAB]]]]]]

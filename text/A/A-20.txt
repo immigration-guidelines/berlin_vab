@@ -23,7 +23,7 @@ Voraussetzungen
 20.4.2.-3.
 20.4.4.
 A.20. Arbeitsplatzsuche für Fachkräfte
-(FEG; 01.03.2020; 25.11.2021)
+(FEG; 01.03.2020; 25.11.2021; 03.03.2022)
 20.0. Arbeitsplatzsuche für Fachkräfte
 In § 20 werden die bislang im Aufenthaltsgesetz an verschiedenen Stellen geregelten Sachverhalte für die Erteilung einer Aufenthaltserlaubnis zur Suche nach einem Arbeitsplatz zusammengefasst. Neu ist die Möglichkeit der Titelerteilung für Fachkräfte mit Berufsausbildung gem. § 20 Abs. 1 inklusive der Möglichkeit einer Probebeschäftigung von bis zu 10 Stunden pro Woche sowohl für die Fälle des Abs. 1 als auch des Abs. 2.
 20.1.
@@ -102,4 +102,4 @@ Trotz des Wortlauts des § 20 Abs. 4 S. 1, wonach der Lebensunterhalt gesichert 
 20.4.2.-3.
 Beantragt ein Ausländer nach Ablauf der Geltungsdauer des Aufenthaltstitels die Verlängerung, so ist dies zum Aufenthaltszweck der weiteren Arbeitsplatzsuche ausgeschlossen (§ 20 Abs. 4 S. 2). Im Übrigen ist die Verlängerung zu jedem anderen Aufenthaltszweck etwa gem. § 16b Abs. 1 oder nach dem 6-ten Abschnitt unproblematisch möglich. Auf Grund des Wortlauts des § 20 Abs. 4 S. 2 (Ausland/Bundesgebiet) ist auch ein Aufenthalt in einem anderen Staat der EU auf die Mindestdauer eines Auslandsaufenthalts anrechenbar, bevor erneut ein Titel nach § 20 Abs. 1 oder 2 erteilt werden kann.
 20.4.4.
-Während der Dauer der Aufenthaltserlaubnis nach § 20 Abs. 1-3 kommt die Erteilung einer Niederlassungserlaubnis nicht in Betracht. § 20 Abs. 4 S 4 stellt dies ausdrücklich klar.
+Während der Dauer der Aufenthaltserlaubnis nach § 20 Abs. 1-3 kommt die Erteilung einer Niederlassungserlaubnis nach § 9 nicht in Betracht. § 20 Abs. 4 S. 4 stellt dies ausdrücklich klar. Eine Niederlassungserlaubnis nach § 18c Abs. 3 ist dagegen bei Vorliegen der Voraussetzungen auch für Inhaber eines Titels nach § 20 möglich.
