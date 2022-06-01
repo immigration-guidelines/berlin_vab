@@ -2,7 +2,7 @@ VAB A 2
 VAB A 2
 Inhaltsverzeichnis
 A.2. Begriffsbestimmungen
-(FEG; VAB-Kommission 2019/20, 09.12.2021; 14.04.2022)
+(VAB-Kommission 2019/20, 09.12.2021; 14.04.2022; Sofortzuschlags- und Einmalzahlungsgesetz)
 2.1. Zum Begriff des Deutschen und zur Behandlung von Aussiedlern
 2.2. Zum Begriff der Erwerbstätigkeit
 2.3. Lebensunterhaltssicherung
@@ -59,7 +59,7 @@ A.2. Begriffsbestimmungen
 2.13. International Schutzberechtigter
 2.14. Fluchtgefahr bei Anwendung der Dublin-III-Verordnung
 A.2. Begriffsbestimmungen
-(FEG; VAB-Kommission 2019/20, 09.12.2021; 14.04.2022)
+(VAB-Kommission 2019/20, 09.12.2021; 14.04.2022; Sofortzuschlags- und Einmalzahlungsgesetz)
 Pfändungsfreigrenzen
 Berücksichtigung der Freibeträge SGB II
 2.0. Die Absätze 1 bis 7 zählen eine Reihe von notwendigen Legaldefinitionen auf (Ausländer, Erwerbstätigkeit, Lebensunterhalt, ausreichender Wohnraum, Schengen-Visum, vorübergehender Schutz und langfristig Aufenthaltsberechtigter).
@@ -251,7 +251,8 @@ Der Bezug von Kindergeld ist nach § 2 Abs. 3 S. 2 Nr. 1 unschädlich. Ein ausl�
 2. einer Aufenthaltserlaubnis, einer Blauen Karte EU, einer ICT-Karte oder einer Mobiler ICT-Karte ist, die für einen Zeitraum von mindestens sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigt oder berechtigt hat oder diese erlaubt, es sei denn, die Aufenthaltserlaubnis wurde
 a) nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20 Absatz 1 und 2 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
 b) nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
-c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a, 24, 25 Abs. 3 bis 5 erteilt, 3. einer in Nr. 2 Buchstabe c) genannten Aufenthaltserlaubnis ist und
+c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a,, 25 Abs. 3 bis 5 erteilt,
+3. einer in Nr. 2 Buchstabe c) genannten Aufenthaltserlaubnis ist und
 im Bundesgebiet berechtigt erwerbstätig ist oder
 Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder
 laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch nimmt, oder
@@ -280,7 +281,8 @@ einer Niederlassungserlaubnis,
 einer Aufenthaltserlaubnis ist, die zur Ausübung einer Erwerbstätigkeit berechtigt oder berechtigt hat, es sei denn, die Aufenthaltserlaubnis wurde
 a) nach § 16 oder 17 erteilt,
 b) nach § 18 Abs. 2 erteilt und die Zustimmung der Bundesagentur für Arbeit darf nach der BeschV nur für einen bestimmten Höchstzeitraum erteilt werden (§§ 18 – 22, 26, 31, 36, 39 und 40 BeschV),
-c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a, 24, 25 Abs. 3 bis 5 erteilt,
+c) nach § 23 Abs. 1 wegen eines Krieges in seinem Heimatland oder nach §§ 23a, 25 Abs. 3 bis 5
+erteilt,
 d) nach § 104a erteilt oder
 einer nach Buchstabe c) erteilten Aufenthaltserlaubnis ist und
 a) sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhält und
@@ -388,7 +390,7 @@ b) sich Weiterbildende (betrieblich), Studierende an Höheren Fachschulen (FH), 
 zuzüglich der oben aufgeführten Beträge
 d.h. insg. 836, - €
 Da bei über 30-jährigen Studierenden höhere als die veranschlagten Krankenversicherungskosten von 84 € entstehen können, kann diese Personengruppe nach dem BAföG auf Antrag den tatsächlichen Betrag bis zu einer Höhe von maximal 189 € monatlich geltend machen. Daraus folgt, dass im Falle oberhalb der üblicherweise angesetzten 84 € Krankenversicherungskosten, die tatsächlich zu zahlenden Krankenversicherungsbeiträge anzusetzen sind. Der Betrag von 836 € erhöht sich entsprechend.
-Zur Vermeidung besonderer Härten gilt der Lebensunterhalt in den Fällen einer Verlängerung einer bestehenden Aufenthaltserlaubnis gem. § 16 a, 16b oder 16f bis zum 30.09.2020 als gesichert, wenn der ursprüngliche Regelsatz von 720 € monatlich zur Verfügung steht. Dies gilt auch in Fällen, in denen im Rahmen des Visaverfahrens noch die alten Regelsätze zur Anwendung gekommen sind, die Erteilung einer Aufenthaltserlaubnis jedoch erst nach Änderung der Rechtslage erfolgt. In allen anderen Fällen sind die neuen Regelsätze anzuwenden.
+Zur Vermeidung besonderer Härten gilt der Lebensunterhalt in den Fällen einer Verlängerung einer bestehenden Aufenthaltserlaubnis gem. § 16a, 16b oder 16f bis zum 30.09.2020 als gesichert, wenn der ursprüngliche Regelsatz von 720 € monatlich zur Verfügung steht. Dies gilt auch in Fällen, in denen im Rahmen des Visaverfahrens noch die alten Regelsätze zur Anwendung gekommen sind, die Erteilung einer Aufenthaltserlaubnis jedoch erst nach Änderung der Rechtslage erfolgt. In allen anderen Fällen sind die neuen Regelsätze anzuwenden.
 Merke: Handelt es sich bei dem Antragsteller nicht um einen Studierenden (z.B. Fälle des § 16 Abs. 1 und 5) sondern etwa um einen Schüler einer allgemeinbildenden Schule oder Sprachschüler(Fälle des § 16 b) ist als Bedarf der niedrigere Bedarf von insgesamt 807,- Euro (vorher: 800,- Euro) anzusetzen. Über diese genannten Beträge hinausgehende Sicherheitsleistungen sind nicht zu erbringen. Ein Nachweis der Deckung der Rückreisekosten wird ausweislich der Gesetzesbegründung wie bisher nicht gefordert. Die Möglichkeit eines zustimmungsfreien Zuverdienstes kann bei der Entscheidung über die Verlängerung mit berücksichtigt werden. Vertraglich nachgewiesene zu erwartende Einkünfte aus einer erlaubten Tätigkeit (z.B. Praktikumsvergütung, Einkünfte als Tutor) werden auf die nachzuweisende Finanzierungshöhe angerechnet. Die Mittel zur Deckung der Studienkosten, die nicht zum Lebensunterhalt zählen (etwa Studiengebühren oder Semesterbeiträge), sind grundsätzlich nicht nachzuweisen, es sei denn diese übersteigen die Semesterbeiträge staatlicher Hochschulen deutlich. In Berlin sind dies ca. 310 Euro (vorher: 300 Euro) pro Semester inklusive Semesterticket. Den Anforderungen an den Nachweis hinreichender Mittel zur Sicherung des Lebensunterhalts bei Ersterteilung genügt insbesondere
 eine Verpflichtung gemäß § 68 oder
 die Einrichtung eines Sperrkontos auf Basis des zum Zeitpunkt der Kontoeröffnung veröffentlichten Monatsbeitrags, auf das der entsprechende Betrag für 12 Monate (9.600,- € / 9.936,- €) eingezahlt wird, oder
@@ -415,6 +417,7 @@ Gemäß §§ 13 und § 13 a Abs. 1 BAföG ergibt sich danach ab dem 12.11.2020 d
 325,- € für die Unterkunft (56,- €, wenn der Antragsteller bei den Eltern wohnt),
 84,- € für die Krankenversicherung (der in § 13a Abs. 2 BAföG vorgesehene Zuschlag für die Pflegeversicherung in Höhe von 25, - € ist nach dem Wortlaut des § 2 Abs. 3 Satz 5 nicht zu berücksichtigen),
 pauschaler Zuschlag von 10 %
+¶
 d.h. insg. 920,- €
 Für die von der Pauschalierung betroffenen Personengruppen bleibt die Möglichkeit der individuellen Prüfung der Lebensunterhaltssicherung unberührt, so dass auch bei Nicht-Erreichen der Einkommensschwelle aufgrund geringen sozialhilferechtlichen Bedarfs im Einzelfall das Erfordernis der ausreichenden Lebensunterhaltssicherung dennoch erfüllt sein kann.
 2.4. Ausreichender Wohnraum

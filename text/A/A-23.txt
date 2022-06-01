@@ -2,7 +2,7 @@ VAB A 23
 VAB A 23
 Inhaltsverzeichnis
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 25.01.2022; 07.04.2022)
+(FEG; 07.04.2022, 12.05.2022)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 23.1.1.1. Spätaussiedler
 23.1.1.2. Traumatisierte, Lebensältere und Zeugen bosnischer Staatsangehörigkeit
@@ -21,7 +21,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 240
+23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 239
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -30,7 +30,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 245
+23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 244
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -76,7 +76,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 7. Familiennachzug
 8. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 25.01.2022; 07.04.2022)
+(FEG; 07.04.2022, 12.05.2022)
 Formular Interessenbekundung § 23 Abs. 1
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
@@ -253,8 +253,7 @@ einem Monat (§ 8 Abs. 2 S. 1 AufenthV),
 drei Monaten bei aus Ägypten aufgenommenen Personen
 sechs Monaten bei im Rahmen des Evakuierungsmechanismus und im Rahmen des Pilotprojekts NesT aufgenommenen Personen durch die jeweilige deutsche Botschaft ausgestellt. In den Reiseausweisen der Personen, die im Rahmen des Evakuierungsmechanismus aufgenommen werden, wird der Vermerk angebracht, dass die Personalien auf eigenen Angaben des Schutzbedürftigen beruhen. Die zuständigen Botschaften bzw. Generalkonsulate sind gehalten, bei Antragstellern aus den vom sogen. Islamischen Staat kontrollierten Gebieten Syriens, des Irak und Libyens besonders sorgfältig zu prüfen.
 1.4. Die Aufnahmezusage und die Ausnahme von der Passpflicht sind ab Bekanntgabe sechs Monate gültig und erlöschen, wenn in diesem Zeitraum die Einreise nach Deutschland nicht erfolgt ist.
-1.5. Es wird angestrebt, die Erstaufnahme der ausgewählten Personen zentral über die
-Landesaufnahmebehörde Niedersachsen, vorrangig am Standort Grenzdurchgangslager Friedland, in der Erstaufnahmeeinrichtung Brandenburgs in Doberlug-Kirchhain oder in einer anderen Erstaufnahmeeinrichtung, die dem Bund von einem Land für diesen Zweck zur Verfügung gestellt wurde, für die Dauer von 14 Tagen durchzuführen und von dort aus vom BAMF zu verteilen bzw. für den Fall einer Aufnahme im Rahmen von NesT dort von der Mentorengruppe abholen zu lassen. Ausgenommen sind unbegleitete Minderjährige und Schwerstkranke. Die Direkteinreisen – insbesondere die Organisation dieser Einreisen – spricht das BAMF vorab mit den Ländern ab. Das BAMF wird die Länder rechtzeitig, spätestens aber 21 Tage vor der Einreise der Flüchtlinge, entsprechend informieren.
+1.5. Es wird angestrebt, die Erstaufnahme der ausgewählten Personen zentral über die Landesaufnahmebehörde Niedersachsen, vorrangig am Standort Grenzdurchgangslager Friedland, in der Erstaufnahmeeinrichtung Brandenburgs in Doberlug-Kirchhain oder in einer anderen Erstaufnahmeeinrichtung, die dem Bund von einem Land für diesen Zweck zur Verfügung gestellt wurde, für die Dauer von 14 Tagen durchzuführen und von dort aus vom BAMF zu verteilen bzw. für den Fall einer Aufnahme im Rahmen von NesT dort von der Mentorengruppe abholen zu lassen. Ausgenommen sind unbegleitete Minderjährige und Schwerstkranke. Die Direkteinreisen – insbesondere die Organisation dieser Einreisen – spricht das BAMF vorab mit den Ländern ab. Das BAMF wird die Länder rechtzeitig, spätestens aber 21 Tage vor der Einreise der Flüchtlinge, entsprechend informieren.
 1.6. Personen, die schwerstkrank oder minderjährig sind und ohne Familienangehörige aufgenommen werden, werden in die Verteilung einbezogen; Personen, die schwerstkrank sind, werden – sofern keine Unterbringung in der Erstaufnahmeeinrichtung möglich ist - von einem Vertreter des aufnehmenden Landes unmittelbar nach Ankunft vom Zielflughafen zum Zielort begleitet. Unbegleitete Minderjährige werden anschließend durch das zuständige Jugendamt am Zielort in Obhut genommen.
 1.7. Die Verteilung der ausgewählten Personen erfolgt nach Maßgabe des Königsteiner Schlüssels (Berlin ab 06.11.2018 5,14 %) und unter Berücksichtigung familiärer und sonstiger besonders integrationsförderlicher Bindungen (z.B. Unterbringungs- und Betreuungsangebote kommunaler, karitativer und kirchlicher Stellen). § 24 Abs. 3 bis 5 findet Anwendung, d.h. u.a., dass aufgenommene Schutzbedürftige keinen Anspruch darauf haben, sich an einem bestimmten Ort aufzuhalten, ein Widerspruch gegen die Zuweisungsentscheidung nicht stattfindet und eine Klage keine aufschiebende Wirkung hat. Für im Rahmen des Pilotprogrammes NesT aufgenommene Personen richtet sich die Verteilung nach dem Wohnort der Mentorinnen und Mentoren, wobei eine Anrechnung auf den Königsteiner Schlüssel erfolgt.
 2. Begünstigter Personenkreis
@@ -342,10 +341,10 @@ Im Falle der Verlängerung der Aufenthaltserlaubnis erfolgt diese auf Ausweisers
 Die Erteilung richtet sich nach den in § 9a Abs. 2 AufenthG aufgeführten Voraussetzungen. Da die Erlaubnis zum Daueraufenthalt- EG weiterführende Rechte gewährt und – etwa bei den anrechenbaren Voraufenthaltszeiten - geringere Anforderungen hat, sollte dieser Titel vorrangig geprüft werden (s. hierzu A.9a.-9c.).
 7. Familiennachzug
 7.1. Entsprechend des in der Aufnahmeanordnung des BMI enthaltenen Auswahlkriteriums der „Wahrung der Einheit der Familie“ wird versucht, Familien nur gemeinsam aufzunehmen.
-Sollte dies in Einzelfällen dennoch nicht möglich sein, gelten für den Familiennachzug die allgemeinen Regelungen der §§ 27 ff. AufenthG. Zu beachten sind dabei insbesondere die Regelerteilungsvoraussetzungen nach § 5 Abs. 1 AufenthG. Das bedeutet u.a., dass zwar eine Sicherung des Lebensunterhaltes nicht Voraussetzung für die Erteilung oder Verlängerung des Aufenthaltstitels ist, grundsätzlich aber vorliegen muss, wenn der Familiennachzug begehrt wird. Aufgrund der derzeitigen Situation in Syrien wird beim Ehegattennachzug auf das Erfordernis des Nachweises einfacher Sprachkenntnisse nach § 30 Abs. 1 S. 1 Nr. 2 AufenthG verzichtet. Nachziehenden Ehegatten, die nicht über einfache Sprachkenntnisse verfügen, wird zunächst ein Aufenthaltstitel zum Spracherwerb nach § 16 f Abs. 5 1 AufenthG erteilt (vgl. auch A.30.1.1.2.).
+Sollte dies in Einzelfällen dennoch nicht möglich sein, gelten für den Familiennachzug die allgemeinen Regelungen der §§ 27 ff. AufenthG. Zu beachten sind dabei insbesondere die Regelerteilungsvoraussetzungen nach § 5 Abs. 1 AufenthG. Das bedeutet u.a., dass zwar eine Sicherung des Lebensunterhaltes nicht Voraussetzung für die Erteilung oder Verlängerung des Aufenthaltstitels ist, grundsätzlich aber vorliegen muss, wenn der Familiennachzug begehrt wird. Aufgrund der derzeitigen Situation in Syrien wird beim Ehegattennachzug auf das Erfordernis des Nachweises einfacher Sprachkenntnisse nach § 30 Abs. 1 S. 1 Nr. 2 AufenthG verzichtet. Nachziehenden Ehegatten, die nicht über einfache Sprachkenntnisse verfügen, wird zunächst ein Aufenthaltstitel zum Spracherwerb nach § 16 f Abs. 1 AufenthG erteilt (vgl. auch A.30.1.1.2.).
 Nicht erforderlich bei nachziehenden Familienangehörigen ist das Vorliegen des für die Erteilung der Aufnahmezusage notwendigen besonderen Schutzbedürfnisses.
 Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (vgl. § 4a Abs. 1 S. 1).
-7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Flüchtlinge findet § 33 AufenthG Anwendung. Sind beide personensorgeberechtigten Eltern als Flüchtlinge aus Syrien aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG.
+7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Flüchtlinge findet § 33 AufenthG Anwendung. Sind beide personensorgeberechtigten Eltern als Flüchtlinge aus Syrien aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG, wenn auch die Eltern/der Elternteil einen Reiseausweis für Ausländer besitzen.
 Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. AufenthG. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 8. Gebühren
 8.1. Nach § 52 Abs. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 AufenthG besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EG.
@@ -401,6 +400,8 @@ Im Falle der Verlängerung der Aufenthaltserlaubnis kommt die Ausstellung eines 
 Für den Familiennachzug gelten die allgemeinen Regelungen der §§ 27 ff. Zu beachten sind dabei insbesondere die Regelerteilungsvoraussetzungen nach § 5 Abs. 1. Das bedeutet u.a., dass zwar eine eigenständige Sicherung des Lebensunterhaltes jenseits der abgegebenen Verpflichtungserklärung nicht Voraussetzung für die Erteilung oder Verlängerung des Aufenthaltstitels ist, grundsätzlich aber vorliegen muss, wenn der Familiennachzug begehrt wird. Aufgrund der derzeitigen Situation in Syrien und im Irak wird beim Ehegattennachzug auf das Erfordernis des Nachweises einfacher Sprachkenntnisse nach § 30 Abs. 1 S. 1 Nr. 2 verzichtet. Nachziehenden Ehegatten, die nicht über einfache Sprachkenntnisse verfügen, wird zunächst ein Aufenthaltstitel zum Spracherwerb nach § 16f Abs. 1 AufenthG erteilt (vgl. auch A.30.1.1.2.). Bei Ehegatten deutscher Staatsangehöriger wird bis zum Nachweis der Sprachkenntnisse eine Fiktionsbescheinigung ausgestellt.
 Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (vgl. § 4a Abs. 1 S. 1).
 Auf im Bundesgebiet geborene Kinder aufgenommener Personen findet § 33 Anwendung.
+Sind beide personensorgeberechtigten Eltern als Schutzbedürftige aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33, wenn auch die Eltern/der Elternteil einen Reiseausweis für Ausländer besitzen.
+Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 5. Gebühren
 Von den Gebühren für die Erteilung und Übertragung von Aufenthaltserlaubnissen ist gem. § 53 Abs. 2 AufenthV abzusehen.
 Ein Absehen von der Gebühr für die Ausstellung eines Reiseausweises gem. § 48 Nr. 1 a AufenthV etwa gem. § 53 Abs. 1
@@ -455,7 +456,7 @@ Die Erteilung richtet sich nach den in § 9a Abs. 2 aufgeführten Voraussetzunge
 Sollte dies in Einzelfällen dennoch nicht möglich sein, gelten für den Familiennachzug die allgemeinen Regelungen der §§ 27 ff. Zu beachten sind danach grundsätzlich auch die Regelerteilungsvoraussetzungen nach § 5 Abs. 1. Das bedeutet u.a., dass zwar eine Sicherung des Lebensunterhaltes nicht Voraussetzung für die Erteilung oder Verlängerung des Aufenthaltstitels ist, grundsätzlich aber vorliegen muss, wenn der Familiennachzug begehrt wird. Dabei ist der Umstand, dass der stammberechtigte Familienangehörige aufgrund seiner besonderen Schutzbedürftigkeit nach § 23 Abs. 2 aufgenommen wurde, zu berücksichtigen.
 Aufgrund der derzeitigen Situation in Syrien wird beim Ehegattennachzug auf das Erfordernis des Nachweises einfacher Sprachkenntnisse nach § 30 Abs. 1 S. 1 Nr. 2 verzichtet. Gleiches gilt in Fällen des § 32 Abs. 2 Satz 1. Nachziehenden Ehegatten und minderjährigen ledigen Kindern, die nicht über die erforderlichen Sprachkenntnisse verfügen, wird zunächst ein Aufenthaltstitel zum Spracherwerb nach § 16 f Abs. 1 erteilt (vgl. auch A.30.1.1.2.).
 Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (vgl. § 4a Abs. 1 S. 1).
-7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Schutzbedürftiger findet § 33 Anwendung. Sind beide personensorgeberechtigten Eltern als Schutzbedürftiger aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG.
+7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Schutzbedürftiger findet § 33 Anwendung. Sind beide personensorgeberechtigten Eltern als Schutzbedürftiger aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33 AufenthG, wenn auch die Eltern/der Elternteil einen Reiseausweis für Ausländer besitzen.
 Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 8. Gebühren
 8.1. Nach § 52 Abs. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EU.

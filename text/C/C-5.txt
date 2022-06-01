@@ -2,7 +2,7 @@ VAB C 5
 VAB C 5
 Inhaltsverzeichnis
 C.5. Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht
-(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021; 14.10.2021)
+(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 14.10.2021; 01.05.2022)
 C.5.0. Grundsatz
 C.5.1. Aufenthaltskarte für freizügigkeitsberechtigte Familienangehörige
 C.5.2. Glaubhaftmachung des Freizügigkeitsrechts
@@ -12,7 +12,7 @@ C.5.5. Bescheinigung des Daueraufenthaltsrechts und Daueraufenthaltskarte
 C.5.6. Feststellung des Verlusts des Daueraufenthaltsrechts
 C.5.7. Verleihung eines Aufenthaltsrechts an nahestehende Personen
 C.5. Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht
-(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 05.08.2021; 14.10.2021)
+(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; 14.10.2021; 01.05.2022)
 C.5.0. Grundsatz
 Die bis zum 07.01.2013 an Unionsbürger ausgestellte Bescheinigung über das gemeinschaftsrechtliche Aufenthaltsrecht (Freizügigkeitsbescheinigung) ist mit dem Inkrafttreten des Änderungsgesetzes zum FreizügG/EU ersatzlos weggefallen. Zur Ausübung von Rechten oder zur Erledigung von Verwaltungsformalitäten war die (ohnehin nur deklaratorische) Freizügigkeitsbescheinigung nicht erforderlich. Bereits vor ihrem Wegfall oblag es den jeweiligen Behörden und Anstalten des öffentlichen Rechts, z.B. bei der Bearbeitung von Anträgen, selbst das Vorliegen eines Freizügigkeitsrechts zu prüfen (Art. 25 der UnionsRL).
 Die Freizügigkeitsbescheinigung ist ersatzlos entfallen. Es werden somit auch keine anderen Bescheinigungen über ein vorliegendes Freizügigkeitsrecht ausgestellt.
@@ -57,9 +57,10 @@ C.5. 6. Feststellung des Verlusts des Daueraufenthaltsrechts
 Absatz 6 korrespondiert mit § 4a Abs. 7 und steht für den Grundsatz: Kein Verlust des Freizügigkeitsrechts ohne Feststellung. Demnach tritt der Verlust des Daueraufenthaltsrechts nicht automatisch nach einer Aufenthaltsunterbrechung von mehr als zwei aufeinander folgenden Jahren ein. Vielmehr bedarf es dazu wie bei allen Freizügigkeitsrechten der Feststellung durch einen unanfechtbaren Bescheid (vgl. Ausführungen zu C.4a.7.). Der Gesetzgeber geht an dieser Stelle über die Vorgaben der UnionsRL (kein automatisches Erlöschen) hinaus und passt sie der Systematik des FreizügG/EU an.
 Wurde der Verlust des Daueraufenthaltsrechts unanfechtbar festgestellt, sind eventuell ausgestellte Daueraufenthaltskarten bzw. Bescheinigungen über den Daueraufenthalt einzuziehen.
 C.5.7. Verleihung eines Aufenthaltsrechts an nahestehende Personen
-Das Recht zur Einreise und zum Aufenthalt im Bundesgebiet nach § 3a FreizügG/EU kann nur auf Antrag verliehen werden. Nach positiver Entscheidung des Antrags wird nach § 5 Abs. 7 FreizügG/EU den nahestehenden Personen eines Unionsbürgers, die nicht Unionsbürger sind, eine Aufenthaltskarte ausgestellt. Da die Bundesdruckerei den eAT für nahestehende Personen frühestens am 01.11.2021 zur Verfügung stellen wird, ist bis zu diesem Zeitpunkt im Feld „Art des Titels“ die Formulierung „EU-Familienangehöriger Art 10 RL 2004/38/EG“ für Aufenthaltskarten und „EU-Familienangehöriger Art 20 RL 2004/38/EG“ für Daueraufenthaltskarten sowie die Rechtsgrundlage „§ 3a FreizügG/EU“ einzutragen.
-Sobald die Bundesdruckerei nach dem 31.10.2021 den eAT für nahestehende Personen zur Verfügung stellt, ist dann im Feld „Art des Titels“ die Formulierung „Berechtigter nach Artikel 3 Absatz 2 der Richtlinie 2004/38/EG“ zu verwenden und als Rechtsgrundlage „§ 3a FreizügG/EU“ einzutragen.
+Das Recht zur Einreise und zum Aufenthalt im Bundesgebiet nach § 3a FreizügG/EU kann nur auf Antrag verliehen werden. Nach positiver Entscheidung des Antrags wird nach § 5 Abs. 7 S. 1 FreizügG/EU den nahestehenden Personen eines Unionsbürgers, die nicht Unionsbürger sind, eine Aufenthaltskarte ausgestellt.
+Bis zum 30.04.2022 wurden für den eAT für nahestehende Personen im Feld „Art des Titels“ die
+Formulierung „Berechtigter nach Artikel 3 Absatz 2 der Richtlinie 2004/38/EG“ verwendet und als Rechtsgrundlage „§ 3a FreizügG/EU“ ein getragen. Die veraltete Rechtsgrundlage ist bei Überträgen anzupassen.
 Das Terrorbekämpfungsgesetz findet auch bei nahestehenden Personen von Unionsbürgern aus Drittstaaten Anwendung.
 Gem. § 11 Abs. 4 S. 2 FreizügG/EU findet § 81 AufenthG in den Fällen von nahestehenden Personen entsprechende Anwendung. D.h. für die Dauer des Antragsverfahrens kann nahestehenden Personen eine Fiktionsbescheinigung nach § 81 Abs. 3 oder 4 AufenthG ausgestellt werden. Für die Ausstellung wird gem. § 47 Abs. 1 Nr. 8 AufenthV eine Gebühr von 13 Euro erhoben.
 Die Aufenthaltskarte wird grundsätzlich bei der Erstausstellung auf einen Gültigkeitszeitraum von 5 Jahren ausgestellt. Etwas anderes gilt nur dann, wenn die Betroffenen ausdrücklich vortragen, sie werden sich sicher nur für einen kürzeren Zeitraum im Bundesgebiet aufhalten. Die Aufenthaltskarte wird in Berlin jedoch wenigstens für eine Gültigkeitsdauer von einem Jahr ausgestellt.
-Nahestehende Personen, die gem. § 4a FreizügG/EU ein Daueraufenthaltsrecht erworben haben, erhalten eine unbefristet ausgestellte Daueraufenthaltskarte. Abweichend räumt der Gesetzgeber den Ausländerbehörden eine Frist von sechs Monaten zwischen Antragstellung und Ausstellung der Daueraufenthaltskarte oder deren Versagung ein. Bis zur voraussichtlichen Entscheidung über den Antrag ist eine vorhandene Aufenthaltskarte gebührenpflichtig zu verlängern oder andernfalls für wenigstens sechs Monate auszustellen.
+Nahestehende Personen, die gem. § 4a FreizügG/EU ein Daueraufenthaltsrecht erworben haben, erhalten eine unbefristet ausgestellte Daueraufenthaltskarte nach § 5 Abs. 7 S. 3 FreizügG/EU. Abweichend räumt der Gesetzgeber den Ausländerbehörden eine Frist von sechs Monaten zwischen Antragstellung und Ausstellung der Daueraufenthaltskarte oder deren Versagung ein. Bis zur voraussichtlichen Entscheidung über den Antrag ist eine vorhandene Aufenthaltskarte gebührenpflichtig zu verlängern oder andernfalls für wenigstens sechs Monate auszustellen.

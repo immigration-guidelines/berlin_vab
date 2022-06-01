@@ -1,7 +1,7 @@
 VAB A 81
 VAB A 81
 A.81. Beantragung des Aufenthaltstitels
-(14.03.2022; 14.04.2022)
+(14.03.2022; 14.04.2022; Sofortzuschlags- und Einmalzahlungsgesetz)
 81.0. Grundsätzlich entfaltet ausschließlich die rechtzeitige Antragstellung die Erlaubnisfiktion nach § 81 (zur Ausnahme siehe unten 81.4.3.). In den Fällen, in denen die Rechtmäßigkeit des Aufenthaltes nach § 81 fingiert wird, kommt § 51 Abs. 1 Nr. 6 und 7 zur Anwendung. Denn der Betroffene kann im Falle seiner Ausreise nicht besser gestellt werden, als wenn ihm der begehrte Titel vor der Ausreise erteilt worden ist.
 81.1. frei
 81.2.0. Entgegen § 82 Abs. 3 S. 1 und Nr. 81.2.2 AufenthG-VwV wird es nicht für erforderlich gehalten, jeden Ausländer – gleichsam vorsorgend – durch ein Merkblatt auf seine gesetzliche Verpflichtung gem. § 81 Abs. 2 hinzuweisen. 81.2.1. frei
@@ -59,3 +59,6 @@ Es sind die jeweils zutreffenden Felder anzukreuzen. Sofern sich der Umfang der 
 81.5a.2.3. Bekanntgabe des eAT
 Mit der Ausgabe/Übersendung des eAT wird dieser dem Antragsteller bekannt gegeben.
 81.6. frei
+81.7. Ist die Identität durch erkennungsdienstliche Behandlung gem. § 49 oder § 16 AsylG zu sichern, darf eine Fikrionsbescheinigung nach § 81 Abs. 5 nur ausgestellt oder eine Aufenthaltserlaubnis nur erteilt werden, wenn zurvor eine ED-Behandlung erfolgt ist, siehe insbesondere VAB.A.49.4a.
+Die Regelung gilt demach nicht für alle Fiktionsbescheingungen, sondern selektiv für Antragsteller bestimmter Aufenthaltstitel, u.a. bei Ausländern, die die Gewährung vorübergehenden Schutzes nach § 24 begehren oder in § 15a-Vorgängen. Soll-Regelungen, wie in § 49 Abs. 5 Nr. 6, sind dagegen nicht berührt.
+Die ED-Behandlung muss nicht zwingend durch die eigene Behörde oder eine andere Ausländerbehörde erfolgt sein. Jede im AZR gespeicherte ED-Behandlung, etwa im Rahmen der Registrierung sowie Verteilentscheidung durch das LAF oder einer anderen zuständige Behörde im Bundesgebiet, genügt.
