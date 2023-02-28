@@ -2,7 +2,7 @@ VAB A 7
 VAB A 7
 Inhaltsverzeichnis
 A.7. Aufenthaltserlaubnis
-(FEG; 07.01.2021; 16.09.2021; 14.10.2021)
+(FEG; 14.10.2021; 24.11.2022)
 7.1.3. Erteilungsvoraussetzungen
 Erwerbstätige mit Rentenanspruch
 Erwerbstätige ohne Rentenanspruch
@@ -22,7 +22,7 @@ Krankenhauspatienten
 7.2.2.2. Hinweise zur Rücknahme nach § 48 Abs. 1 VwVfG
 7.2.2.3. Öffentlich-rechtlicher Verzicht ersetzt Verkürzung
 A.7. Aufenthaltserlaubnis
-(FEG; 07.01.2021; 16.09.2021; 14.10.2021)
+(FEG; 14.10.2021; 24.11.2022)
 7.1.1. Die Aufenthaltserlaubnis ist einer der befristeten Aufenthaltstitel, vgl. A.4.1.2.
 Im eAT ist der maßgebliche Paragraph für die Erteilung (Rechtsgrundlage) zu benennen (§ 59 Abs. 3 AufenthV). 7.1.2. einstweilen frei
 7.1.3. Erteilungsvoraussetzungen
@@ -44,8 +44,12 @@ Journalistinnen und Journalisten aus Krisenregionen, die von „Reporter ohne Gr
 und
 „Erlischt mit Wegfall des Krankenversicherungsschutzes“.
 Aus-und Weiterbildung an einer Einrichtung
-Ein besonderes öffentliches Interesse kann vorliegen, wenn der Aufenthalt der Aus- und Weiterbildung an einer Einrichtung gilt und es sich weder um eine betriebliche Aus- und Weiterbildung gem. § 16a und damit um eine Beschäftigung im Sinne des § 2 Abs. 2 i.V.m. § 7 SGB IV noch um eine Ausbildung an einer, einer Hochschule vergleichbaren, Ausbildungseinrichtung handelt (vgl. in diesen Fällen § 16 b Abs. 1 S. 1). Dies gilt etwa für eine Teilnahme an einem Vollzeitprogramm der Yeshiva Beis Zion, bzw. Midrasha in Berlin, der Yeshiva Gedola, einer Teilnahme an den Freiwilligenprogrammen der Aktion Sühnezeichen Friedensdienste (ASF) oder einer mehrmonatigen Hospitation (vgl. A.2.2.) von Ärzten an Berliner Kliniken. Gleiches gilt für Hochschulabsolventen, die ein „Exist-Gründerstipendium“ des Bundesministeriums für Wirtschaft und Energie erhalten und in diesem Rahmen an einer deutschen Hochschule oder Forschungseinrichtung die geförderte Unternehmensgründung vorbereiten sowie für (Gast-)Studenten am Global Institute Berlin der CIEE.
+Ein besonderes öffentliches Interesse kann vorliegen, wenn der Aufenthalt der Aus- und Weiterbildung an einer Einrichtung gilt und es sich weder um eine betriebliche Aus- und Weiterbildung gem. § 16a und damit um eine Beschäftigung im Sinne des § 2 Abs. 2 i.V.m. § 7 SGB IV noch um eine Ausbildung an einer, einer Hochschule vergleichbaren, Ausbildungseinrichtung handelt (vgl. in diesen Fällen § 16 b Abs. 1 S. 1). Dies gilt etwa für eine Teilnahme an einem Vollzeitprogramm der Yeshiva Beis Zion, bzw. Midrasha in Berlin, der Yeshiva Gedola, einer Teilnahme an den Freiwilligenprogrammen der Aktion Sühnezeichen Friedensdienste (ASF) oder einer mehrmonatigen Hospitation (vgl. A.2.2.) von Ärzten an Berliner Kliniken. Gleiches gilt für Hochschulabsolventen, die ein „Exist-Gründerstipendium“ des Bundesministeriums für Wirtschaft und Energie oder ein „Berliner Startup Stipendium“ aus Mitteln des Europäischen Sozialfonds (ESF) und aus Berliner Landesmitteln erhalten und in diesem Rahmen an einer deutschen Hochschule oder Forschungseinrichtung die geförderte Unternehmensgründung vorbereiten sowie für (Gast-)Studenten am Global Institute Berlin der CIEE.
 Die Aufenthaltserlaubnis wird grundsätzlich mit der Nebenbestimmung "Erwerbstätigkeit nicht erlaubt " erteilt, vgl. § 7 Abs. 1 S.4.
+Darüber hinaus wird die Aufenthaltserlaubnis für Stipendiaten mit den Nebenbestimmungen
+Erlischt mit Bezug von Leistungen nach dem SGB II o. SGB XII bzw. AsylbLG
+Erlischt bei Wegfall des gültigen Krankenversicherungsschutzes
+versehen und bei gesichertem Lebensunterhalt für drei Jahre erteilt. Im Anschluss kann bei erfolgreicher Gründung die Erteilung eines Titels nach § 21 Abs. 1 bzw. 5 geprüft werden.
 Dagegen kann nicht auf § 7 Abs. 1 S. 3 zurückgegriffen werden, wenn der Ausländer einer Beschäftigung nachgehen oder ein Studium aufnehmen möchte, bestimmte gesetzliche Voraussetzungen aber nicht erfüllt sind (zum Begriff der Hospitation in Abgrenzung zur Beschäftigung vgl. A. 2.2.).
 Merke: Ist zweifelhaft, ob es sich um eine Beschäftigung handelt, ist die zuständige Arbeitsagentur zu beteiligen. Bestehen Zweifel, ob eine Ausbildung an einer vergleichbaren Ausbildungseinrichtung aufgenommen werden soll, ist die für Hochschulen zuständige Senats kanzlei einzubinden.
 Ausländer mit abgelaufener Aufenthaltserlaubnis

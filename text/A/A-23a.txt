@@ -2,14 +2,14 @@ VAB A 23a
 VAB A 23a
 Inhaltsverzeichnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(12.05.2021; 02.09.2021)
+(02.09.2021; 23.09.2022)
 23a.1.0. Härtefallkommission
 23a.1.1. Erteilung einer Aufenthaltserlaubnis gem. Anordnung von SenInnDS
 23a.2.0. Einrichtung der Härtefallkommission (HFKV vom 01.09.2020) und Mitglieder
 23a.2.1. Verfahrensregelung
 23a.2.1.7. Verlängerung der Aufenthaltserlaubnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(12.05.2021; 02.09.2021)
+(02.09.2021; 23.09.2022)
 23a.1.0. Härtefallkommission
 Soweit in Einzelfällen um Auskunft zum Verfahren der Härtefallkommission (HFK) nach § 23a gebeten wird, so sind die Betroffenen entsprechend zu beraten. Flyer der Härtefallkommission
 23a. 1.0.1. Gibt die Härtefallkommission gegenüber der für Inneres zuständigen Senatsverwaltung. ein Ersuchen um Erteilung eines Aufenthaltstitels ab, kann dort über die Erteilung einer Aufenthaltserlaubnis unabhängig von den gesetzlichen Voraussetzungen entschieden werden.
@@ -92,7 +92,8 @@ Eine Rückführung bleibt während der Befassung des Falls durch die Härtefallk
 Abschiebungsverbot.
 Wird der Betroffene nicht ohnehin geduldet, ist ihm für die Dauer des Verfahrens auf der Grundlage des § 60a Abs. 2 S. 3 eine Duldung zu erteilen (Ermessensduldung), es sei denn, die HFK-Geschäftsstelle hat noch nicht über die (Un-)Zulässigkeit entschieden oder es handelt sich bei der Eingabe um einen Fall, der im Rahmen eines DÜ-Verfahrens in einem Mitgliedstaat überstellt werden soll. Hier wird ausschließlich eine GÜB II ausgestellt.
 Im Fall der Erteilung ist die Ermessensduldung mit der auflösenden Bedingung
-„Erlischt mit Rücknahme des HFK-Antrages od. negativer Entscheidung SenInnDS"
+„Erlischt mit Rücknahme des HFK-Antrages od. negativer Entscheidung SenInnDS" sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 zu versehen.
 Merke: In keinem Fall genügt es, wenn der Ausländer oder ein Mitglied der Kommission mitteilt, der Fall sei oder werde angemeldet.
 Vor dem Hintergrund der langen Verfahrenslaufzeiten sollte die Geltungsdauer der Duldung regelmäßig zwölf Monate betragen. Dies gilt nicht für eilbedürftige Fälle.

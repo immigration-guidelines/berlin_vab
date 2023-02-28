@@ -1,4 +1,0 @@
-VAB A 15
-VAB A 15
-A.15. Zurückweisung
-einstweilen frei

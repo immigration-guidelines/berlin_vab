@@ -1,5 +1,0 @@
-VAB A 100
-VAB A 100
-A.100 Sprachliche Anpassung
-(20.07.2005)
-frei

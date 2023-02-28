@@ -14,9 +14,7 @@ A 10
 A 11
 A 12
 A 12a
-A 13
 A 14
-A 15
 A 15a
 A 16
 A 16a
@@ -65,22 +63,15 @@ A 37
 A 38
 A 38a
 A 39
-A 40
-A 41
-A 42
 A 43
 A 44
 A 44a
-A 45
 A 45a
 A 46
 A 47
 A 47a
 A 48
-A 48a
 A 49
-A 49a
-A 49b
 A 50
 A 51
 A 52
@@ -89,7 +80,6 @@ A 54
 A 55
 A 56
 A 56a
-A 57
 A 58
 A 58a
 A 59
@@ -103,26 +93,17 @@ A 62
 A 62a
 A 62b
 A 62c
-A 63
-A 64
-A 65
 A 66
 A 67
 A 68
-A 68a
 A 69
 A 70
 A 71
-A 71a
 A 72
 A 72a
 A 73
-A 73a
-A 74
-A 74a
 A 75
 A 77
-A 78
 A 78a
 A 79
 A 80
@@ -135,39 +116,25 @@ A 85
 A 85a
 A 86
 A 87
-A 88
 A 89
-A 89a
 A 90
 A 90a
 A 90b
-A 91
 A 91a
 A 91b
 A 91c
 A 91d
-A 91e
 A 91f
 A 91g
 A 95
-A 96
 A 97
-A 97a
 A 98
-A 98a-c
-A 99
-A 100
 A 101
-A 102
-A 103
 A 104
-A 104a
-A 104b
+A 104c
 A 105
-A 105a
 A 105b
-A 106
-A 107
+A 105d
 B.AufenthV.1. - 14. Passpflicht für Ausländer
 B.AufenthV. 15. - 30. Befreiung vom Erfordernis eines Aufenthaltstitels
 B.AufenthV.30a. - 38. Visumverfahren
@@ -183,7 +150,6 @@ B.BeschV.16.-21. Entsandte Arbeitnehmerinnen und Arbeitnehmer
 B.BeschV.22.-28. Besondere Berufs- und Personengruppen
 B.BeschV.29.-30. Sonstiges
 B.BeschV.34.-37. Verfahrensregelungen
-B.BeschV.38.-39. Anwerbung und Arbeitsvermittlung aus dem Ausland
 C 1
 C 2
 C 3
@@ -200,27 +166,21 @@ C 10
 C 11
 C 12
 C 12a
-C 13
-C 14
 C 15
 C 16
 D 1
 D 3 - 3e
 D 4
-D 5
 D 8
-D 9
 D 12
 D 13
 D 14
 D 14a
 D 15
-D 15a
 D 20
 D 23
 D 24
 D 26
-D 27a
 D 29
 D 29a
 D 30
@@ -228,11 +188,9 @@ D 30a
 D 34
 D 34a
 D 36
-D 43
 D 47
 D 51
 D 55
-D 56
 D 58
 D 59
 D 59a
@@ -252,51 +210,26 @@ D 83a
 D 85
 D 87c
 D 88a
-D 90
 E Afghanistan 1
 E Afghanistan 2
-E Afghanistan 3
-E Bosnien 1
-E Bosnien 2
-E Georgien 1
-E Guinea 1
-E Hongkong 1
 E Irak 1
 E Irak 2
-E Irak 3
 E Irak 4
 E Iran 1
 E Iran 2
 E Israel 1
-E Italien 1
-E Kasachstan 1
-E Kirgisistan 1
-E Kongo 1
 E Kosovo 1
 E Libanon 1
 E Libanon 2
 E Libanon 3
-E Lib 4
 E Libyen 1
 E Montenegro 1
-E Myanmar 1
 E Nordkorea 1
-E Rumänien 1
-E Russland 1
 E Russland 2
 E Serbien 1
-E Serbien 2
-E Serbien 3
-E Serbien 4
-E Serbien 5
-E SriLanka 1
 E Syrien 1
 E Syrien 2
+E Syrien 3
 E Türkei 1
 E Türkei 2
-E Türkei 3
-E Türkei 4
-E Tschet 1
-E Ukraine 1
-E Ukraine 2
 E Usbekistan 1

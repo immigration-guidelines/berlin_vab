@@ -7,7 +7,7 @@ A.3. Passpflicht
 3.1.3. Reiseausweise für Staatenlose
 3.2. Bearbeitung von Anträgen zur Ausnahme von der Passpflicht
 A.3. Passpflicht
-(27.02.2019; 21.01.2021)
+(07.07.2022; 16.09.2022)
 3.1. Zuständigkeit für die generelle Anerkennung von Pässen und Passersatzpapieren
 Zur Zuständigkeit für die generelle Anerkennung von Pässen und Passersatzpapieren durch Allgemeinverfügung gilt § 76 Abs. 6.
 Der von der "World Service Authority", einem in Washington/U.S.A. ansässigen privaten Verein, ausgestellte Pass ist kein anerkannter Pass oder Passersatz. Amtliche Eintragungen in dieses Dokument sind deshalb nicht zulässig. Gleiches gilt für
@@ -27,9 +27,56 @@ von dem sogen. "General Khalifat of World Union-General Assistanve" ausgestellte
 3.1.2. Ausweisersatz
 Die Passpflicht wird während des Aufenthalts im Bundesgebiet auch durch den Besitz eines Ausweisersatzes erfüllt, vgl. § 48 Abs. 2. Die Voraussetzungen für die Ausstellung eines Ausweisersatzes ergeben sich aus § 55 AufenthV. Beachte, dass die Regelerteilungsvoraussetzung gemäß § 5 Abs. 1 Nr. 4 zwar durch einen Ausweisersatz erfüllt wird, die Erteilung eines Ausweisersatzes nach § 55 AufenthV jedoch voraus setzt, dass der Ausländer einen gültigen Pass oder Passersatz seines Heimatstaates nicht in zumutbarer Weise erlangen kann.
 3.1.3. Reiseausweise für Staatenlose
-Das Staatenlosenübereinkommen - konkret der Art. 28 - gewährt kein Bleiberecht, sondern setzt eines voraus. Nur so kann möglichen Missbräuchen, wie dem gewollten Verlust der Staatsangehörigkeit zum Zwecke der Erlangung eines Aufenthaltstitels im Bundesgebiet vorgebeugt werden.
-Anknüpfend an die Rechtsprechung des Bundesverwaltungsgerichts aus dem Jahre 1996 (InfAuslR 1997 59 ff.) können Personen, die nachweisen, dass sie ihre Staatsangehörigkeit verloren haben, sich aber als Besitzer eines Aufenthaltstitels rechtmäßig im Bundesgebiet aufhalten oder ihnen ein Aufenthaltstitel erteilt wird, sobald sie einen Reiseausweis für Staatenlose erhalten und damit die Passpflicht gem. § 3 Abs. 1 erfüllen, einen Reiseausweis für Staatenlose gem. Art. 28 S. 1 StlÜbk beanspruchen (für Palästinenser aus dem Libanon vgl. E.Lib.2.). Dabei ist die Gültigkeitsdauer der Aufenthaltserlaubnis ebenso unbeachtlich wie der Aufenthaltszweck (insofern rechtsirrig Nr. 3.3.5.3 AufenthG VwV). Ausnahme: Die Ausstellung eines Reiseausweises für Staatenlose kommt dann nicht in Betracht, wenn der Betreffende als anerkannter Flüchtling einen Anspruch auf Ausstellung eines Reiseausweises für Flüchtlinge hat, weil dieser dann gerade einen gültigen Reiseausweis i.S.v. Art. 27 StlÜbk besitzt.
-Läuft der Titel aus, so ist er ungeachtet des § 3 Abs. 1 zu verlängern, wenn die rechtlichen Voraussetzungen hierfür vorliegen, da hier bezogen auf die Passpflicht von einem Regelausnahmeverhältnis bei § 5 Abs. 1 AufenthG auszugehen ist. Praktisch häufig ist dies bei ehemaligen Staatsangehörigen der UdSSR, die nach dem Zerfall der UdSSR nicht die Staatsangehörigkeit eines Nachfolgestaates erworben haben, und bei Personen aus Syrien, die unter Vorlage der rot-orangenen Plastikkarte vortragen, dass Syrien sie nicht als eigene Staatsangehörige ansieht. Selbst wenn die Betroffenen die Staatenlosigkeit durch einen Antrag auf (Wieder-) Einbürgerung in zumutbarer Weise beseitigen können, ändert dies an dem Anspruch auf Ausstellung des Staatenlosenausweises nichts. Die Ausländer sind zum Stellen eines entsprechenden Antrags nicht verpflichtet. Es trifft sie auch keine entsprechende Obliegenheit. Entsprechend haben Aufforderungen durch uns, eine (Wieder-)Einbürgerung zu beantragen, entgegen Nr. 3.3.5.4 AufenthG- VwV zu unterbleiben.
-Bei der Ausstellung des Reiseausweises für Staatenlose in den Fällen des § 25 Abs. 5 S. 1 oder 2 ist zu beachten, dass die Gültigkeitsdauer des Ausweises die Gültigkeitsdauer des Titels nicht überschreiten darf. Dies folgt schon unmittelbar aus Art. 28 StlÜbK und deckt sich auch mit dem Regelungsgehalt des § 8 Abs. 1 S. 1 AufenthV. Bei Aufenthaltserlaubnissen mit einer Gültigkeitsdauer von weniger als einem Jahr ist der Reiseausweis als vorläufiges Dokument auszustellen, es sei denn, der Betroffene besteht auf Ausstellung des – teureren – biometrischen Reiseausweises. Ausländern, die die Ausstellung eines Reiseausweises beantragt haben, ist zur Erfüllung ihrer Passpflicht für die Dauer des Herstellungsverfahrens ein Ausweisersatz auszustellen. Die Ausstellung eines vorläufigen Reiseausweises kommt nur in Ausnahmefällen in Betracht.
+Das Staatenlosenübereinkommen - konkret der Art. 28 S. 1 StlÜbk - gewährt kein Bleiberecht, sondern setzt eines voraus. Nur so kann möglichen Missbräuchen, wie dem gewollten Verlust der Staatsangehörigkeit zum Zwecke der Erlangung eines Aufenthaltstitels im Bundesgebiet vorgebeugt werden.
+Anknüpfend an die Rechtsprechung des Bundesverwaltungsgerichts aus dem Jahre 1996 (InfAuslR 1997 59 ff.) können Personen, die nachweisen, dass sie ihre Staatsangehörigkeit verloren haben, sich aber als Besitzer eines Aufenthaltstitels rechtmäßig im Bundesgebiet aufhalten oder ihnen ein Aufenthaltstitel erteilt wird, sobald sie einen Reiseausweis für Staatenlose erhalten und damit die Passpflicht gem. § 3 Abs. 1 erfüllen, einen Reiseausweis für Staatenlose gem. Art. 28 S. 1 StlÜbk beanspruchen. Dabei ist die Gültigkeitsdauer der Aufenthaltserlaubnis ebenso unbeachtlich wie der Aufenthaltszweck (insofern rechtsirrig Nr. 3.3.5.3 AufenthG VwV). Beachte: Die Ausstellung eines Reiseausweises für Staatenlose kommt dann nicht in Betracht, wenn der Betreffende als anerkannter Flüchtling einen Anspruch auf Ausstellung eines Reiseausweises für Flüchtlinge hat, weil dieser dann gerade einen gültigen Reiseausweis i.S.v. Art. 27 StlÜbk besitzt. Läuft die Gültigkeit des Titels ab, so ist er ungeachtet des § 3 Abs. 1 zu verlängern, wenn die rechtlichen Voraussetzungen hierfür vorliegen, da hier bezogen auf die Passpflicht von einem Regelausnahmeverhältnis bei § 5 Abs. 1 AufenthG auszugehen ist. Praktisch häufig ist dies bei ehemaligen Staatsangehörigen der UdSSR, die nach dem Zerfall der UdSSR nicht die Staatsangehörigkeit eines Nachfolgestaates erworben haben, und bei Personen aus Syrien, die unter Vorlage der rot-orangenen Plastikkarte vortragen, dass Syrien sie nicht als eigene Staatsangehörige ansieht (beachte unbedingt E.Syrien1). Selbst wenn die Betroffenen die Staatenlosigkeit durch einen Antrag auf (Wieder-) Einbürgerung in zumutbarer Weise beseitigen können, ändert dies an dem Anspruch auf Ausstellung des Staatenlosenausweises nichts. Die Ausländer sind zum Stellen eines entsprechenden Antrags nicht verpflichtet. Es trifft sie auch keine entsprechende Obliegenheit. Entsprechend haben Aufforderungen durch uns, eine (Wieder-)Einbürgerung zu beantragen, entgegen Nr. 3.3.5.4 AufenthG- VwV zu unterbleiben.
+Das Vorliegen der Staatenlosigkeit ist Voraussetzung für die Ausstellung eines Reiseausweises für Staatenlose. Die Prüfung erfolgt auf Antrag durch die Ausländerbehörde, wobei auch Anträge auf Erstausstellung eines Reiseausweises für Staatenlose die Prüfung auslösen. Eines Feststellungsbescheides bedarf es nicht. Gegebenenfalls ist der Antrag auf Ausstellung eines Reiseausweises abzulehnen.
+Reiseausweise für Staatenlose für Personen mit palästinensischer Volkszugehörigkeit
+Palästinensische Volkszugehörige werden als staatenlos angesehen, soweit sie nicht eine andere Staatsangehörigkeit erworben haben.
+Allerdings findet das Staatenlosenübereinkommen gem. Art. 1 Abs. 2 i) StlÜbK keine Anwendung auf Personen, "...denen gegenwärtig ein Organ oder eine Organisation der Vereinten Nationen mit Ausnahme des Hohen Flüchtlingskommissars der Vereinten Nationen Schutz oder Beistand gewährt, solange sie diesen Schutz oder Beistand genießen…". Eine solche Organisation ist die UNRWA (United Nations Relief and Works Agency for Palestine Refugees in the Near East).
+Nach dem Rundschreiben des BMI vom 18. Juni 2020 (M3-20302/2#1) sind aus Syrien oder dem Libanon stammende Palästinenser als staatenlos anzusehen, sofern die nachfolgenden Dokumente kumulativ vorgelegt werden und keine Zweifel an deren Echtheit bestehen.
+Palästinensische Volkszugehörige aus Syrien:
+• syrisches Travel Document for Palestinian Refugies (syrisches DDV) auch mit abgelaufener Gültigkeit
+• Nachweis über UNRWA-Registrierung (Registrierungskarte)
+• syrischer Familienregisterauszug
+• Geburtsurkunde und
+• Bestätigung der Palästinensischen Mission über die Volkszugehörigkeit
+Ausweislich der Homepage der UNRWA (http://www.unrwa.org/where-we-work/syria) bietet diese palästinensische Volkszugehörigkeit in Syrien in zwölf Flüchtlingscamps Unterstützung:
+• Dera'a Camp
+• Ein el Tal
+• Hama Camp
+• Homs Camp
+• Jaramana Camp
+• Khan Dunoun Camp
+• Khan Eshieh Camp
+• Latakia
+• Neirab Camp
+• Qabr Essit Camp
+• Sbeineh Camp
+• Yarmouk
+Beachte: Maßgeblich für die Anerkennung als staatenlos ist daher die Prüfung, ob die antragstellende Person tatsächlich Schutz durch das UNRWA im Herkunftsland erhalten könnte oder nicht. Zumindest sofern sich aus dem Akteninhalt / Vortrag ergibt, dass der Antragsteller aus einem dieser Flüchtlingscamps stammt, unterliegt dieser daher nicht dem Anwendungsbereich des StlÜbk und ist nicht als staatenlos anzuerkennen.
+Palästinensische Volkszugehörige aus dem Libanon (Dokumente sollten nach 1994 ausgestellt worden sein):
+• libanesisches DDV (auch mit abgelaufener Gültigkeit)
+• Nachweis über UNRWA-Registrierung (Registrierungskarte)
+• libanes. Familienbuch/-registerauszug/Geburtsurkunde/Heiratsurkunde
+• Personalausweis für palästinensische Flüchtlinge (blaue Karte) und
+• Bestätigung der Palästinensischen Mission über die Volkszugehörigkeit
+Die Ausschlussklausel des Art. 1 Abs. 2 i) StlÜbK greift bei palästinensischen Volkszugehörigen aus dem Libanon, die als Personengruppe seit 1949 unter dem Schutz und Beistand der UNRWA (United Nations Relief and Works Agency for Palestine Refugees in the Near East) stehen, und zwar auch dann, wenn die Betroffenen den Libanon verlassen.
+Merke: In Zweifelsfällen ist nach Vorgabe des BMI großzügig zu verfahren und ein Reiseausweis für Staatenlose auszustellen. Zuvor als „ungeklärt“ geführte Personen sind auf „997“ (staatenlos) umzuschlüsseln.
+Im Inland geborene Kinder palästinensischer Volkszugehöriger
+Da im Inland geborene Kinder palästinensischer Volkszugehöriger nicht dem Schutz der UNRWA unterstehen, kommt bei Erteilung und Verlängerung eines Aufenthaltstitels die Ausstellung eines Reiseausweises für Staatenlose in Betracht. Sie sind auch nicht aufzufordern, sich nachregistrieren zu lassen. Dies gilt auch für inszwischen volljährige im Inland geborene Kinder.
+GFK-Flüchtlinge
+Hier kommt die Ausstellung des Reiseausweises für Staatenlose nie in Betracht, da der Reiseausweis für Flüchtlinge diesem vorgeht (zum Verhältnis der Reiseausweise zueinander siehe VAB B.AufenthV.4.
+Subsidiär Schutzberechtigte
+Soweit die Voraussetzungen für die Ausstellung eines Reiseausweises für Staatenlose erfüllt sind, kommt die Ausstellung auch für subsidiär Schutzberechtigte in Betracht.
+Geduldete
+Geduldete haben selbst bei Feststellung ihrer Staatenlosigkeit keinen Anspruch nach Art. 28 S. 1 StlÜbk auf die Ausstellung eines Reiseausweises für Staatenlose. Erst bei Erteilung eines Aufenthaltstitels wird der Aufenthalt rechtmäßig, so dass dann nach Artikel 28 S. 1 StlÜbk der Anspruch auf Ausstellung eines Reiseausweises für Staatenlose entsteht.
+Neben Anspruchsfällen, wie etwa im Familiennachzug zu Deutschen, kommen auch Erteilungen im Soll-Ermessen, etwa wenn ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 vorliegt oder im Kann-Ermessen grundsätzlich in Betracht.
+Bei Geduldeten bei denen die Staatenlosigkeit festgestellt wurde, kann die Ausländerbehörde aber einen Reiseausweis für Staatenlose nach Art. 28 S. 2 StlÜbk im pflichtgemäßem Ermessen ausstellen. Das Ermessen ist regelmäßig zu Lasten des Geduldeten auszuüben, solange dem Ausländer keine Aufenthaltserlaubnis, Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt EU erteilt wird. Mit Feststellung der Staatenlosigkeit kommt aber regelmäßig zumindest die parallele Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 5 AufenthG in Betracht (beachte hierzu VAB.A.25.5.1.4.)
+Inhaber lettischer Fremdenpässe "Nepilsona Pase"
+Inhaber lettischer Fremdenpässe („Nepilsona Pase“) sind regelmäßig keine Staatenlosen im Sinne des StlÜbK (siehe hierzu die Ausführungen in der Pass-Info Lettland.
+Gültigkeitsdauer
+Bei der Ausstellung des Reiseausweises für Staatenlose ist zu beachten, dass die Gültigkeitsdauer des Ausweises die Gültigkeitsdauer des Titels nicht überschreiten darf. Dies folgt schon unmittelbar aus Art. 28 StlÜbK und deckt sich auch mit dem Regelungsgehalt des § 8 Abs. 1 S. 1 AufenthV. Bei Aufenthaltserlaubnissen mit einer Gültigkeitsdauer von weniger als einem Jahr ist der Reiseausweis als vorläufiges Dokument auszustellen, es sei denn, der Betroffene besteht auf Ausstellung des – teureren – biometrischen Reiseausweises.
+Beschränkungen des räumlichen Geltungsbereichs
+Bei Ausstellung eines Reiseausweises für Staatenlose besteht grundsätzlich keine Veranlassung für eine Beschränkung des räumlichen Geltungsbereichs (vgl. § 4 des Anhangs zum StlÜbk).
 3.2. Bearbeitung von Anträgen zur Ausnahme von der Passpflicht
 Mit Schreiben vom 20.01.2010 hat das Bundesministerium des Innern dem Bundesamt für Migration und Flüchtlinge - Referat 72A - in 90461 Nürnberg mit Wirkung zum 15.02.2010 die Wahrnehmung sämtlicher Aufgaben übertragen, die im Zusammenhang mit der Bearbeitung von Anträgen zur Ausnahme von der Passpflicht in begründeten Einzelfällen stehen. Maßgeblich ist der Zeitpunkt der Antragstellung.

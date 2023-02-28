@@ -2,7 +2,7 @@ VAB A 51
 VAB A 51
 Inhaltsverzeichnis
 A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschränkungen
-(RiLiUmsG 2017, 21.01.2021; 14.10.2021) Anlage zu 51.7.
+(RiLiUmsG 2017, 14.10.2021; 18.08.2022) Anlage zu 51.7.
 51.1. Fälle des Erlöschens des Aufenthaltstitels
 51.1.2. Insbesondere Widerruf und Rücknahme
 51.1.6. Insbesondere Auslandsaufenthalt zum Zwecke der Ausbildung
@@ -12,6 +12,7 @@ A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschrän
 51.2.1. Übertrag der Niederlassungserlaubnis
 51.2.1.1. Prüfung der Lebensunterhaltssicherung bei Antrag auf Fortgeltungsbescheinigung vor der Ausreise
 51.2.1.2. Prüfung der Lebenunterhaltssicherung bei Antrag auf Fortgeltungsbescheinigung nach der Aus- und ggf. Wiedereinreise
+51.3. Überschreitung wegen Erfüllung der Wehrpflicht
 51.4.1. Bestimmung einer über 6 Monate hinausgehenden Frist durch die Ausländerbehörde
 51.4.2. Privilegierung bei durch Zwangsehen erzwungenen Auslandsaufenthalten
 51.7. Allgemeines zum Erlöschen bei Asylberechtigten und Flüchtlingen (Anlage zu 51.7.)
@@ -21,7 +22,7 @@ A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschrän
 51.10. Erlöschen der Blauen Karte EU und der NE in bestimmten Fällen
 A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von
 Beschränkungen
-(RiLiUmsG 2017, 21.01.2021; 14.10.2021) Anlage zu 51.7.
+(RiLiUmsG 2017, 14.10.2021; 18.08.2022) Anlage zu 51.7.
 51.1. Fälle des Erlöschens des Aufenthaltstitels
 In den Fällen, in denen Anträge auf Erteilung oder Verlängerung eines Titels die Rechtmäßigkeit des Aufenthaltes fingieren bzw. fingiert haben, kommt im Falle der Ausreise des Ausländers § 51 Abs. 1 Nr. 6 und 7 analog zur Anwendung. Der Betroffene kann nicht besser gestellt werden, als wenn ihm der begehrte Titel vor der Ausreise erteilt worden ist. Vereinzelt überträgt die Infostelle - ebenso wie die Bürgerämter - Aufenthaltstitel in neu ausgestellte Pässe, obwohl der Titel zwischenzeitlich nach § 51 Abs. 1 erloschen ist. Es ist davon auszugehen, dass es sich bei der Übertragung nicht um einen Verwaltungsakt handelt. Es fehlt insofern an einer Regelung im Sinne des § 35 VwVfG. Mit der Paßübertragung soll für den Ausländer weder aus behördlicher noch aus Sicht des Betroffenen sein (klärungsbedürftiger) Aufenthaltsstatus verbindlich festgestellt werden. Vielmehr wird bei der Übertragung davon ausgegangen, dass kein Bedürfnis für eine Regelung besteht. Somit kann das in den neuen Pass eingebrachte Dokument in jedem Fall ungültig gestempelt werden, ohne dass es hierfür einer Rücknahme gem. § 48 VwVfG bedarf. Dies gilt unabhängig davon wo und durch wen die Übertragung erfolgte.
 Zum Verzicht auf gültige Aufenthaltstitel im Rahmen von Programmen zur Förderung der freiwilligen Rückkehr vgl.
@@ -85,7 +86,8 @@ Ob der Ausweisungsgrund vorliegt, beurteilt sich ebenfalls nach der Sachlage in 
 51.2.2. Abs. 2 S. 2 schließt das Erlöschen einer NE für Ausländer, die mit einem Deutschen in ehelicher Gemeinschaft (beachte auch A.27.2.) leben und die eine Niederlassungserlaubnis besitzen, aus, ohne dass ausreichender Lebensunterhalt gem. § 2 Abs. 3 nachgewiesen sein oder sich der Ausländer bereits 15 Jahre rechtmäßig im Bundesgebiet aufhalten muß. Auch auf die Dauer des Besitzes der Niederlassungserlaubnis kommt es hier nicht an.
 Befindet sich der Ehepartner des Deutschen bei Beantragung der Bescheinigung im Ausland, ohne dass absehbar wäre ob und wenn ja wann er seinen gewöhnlichen Aufenthalt wieder in das Bundesgebiet verlegen wird, so ist zu prüfen, ob die eheliche Gemeinschaft (noch) gelebt wird. Hiervon kann etwa ausgegangen werden, wenn durch geeignete Nachweise belegt wird, dass sich beide Partner dauerhaft im Heimatland des Antragstellers oder einem anderen Staat dauerhaft aufhalten. In Zweifelsfällen sollte im Rahmen der Amtshilfe bei der zuständigen deutschen Auslandsvertretung um Überprüfung der Angaben ersucht werden (zum Verfahren bezüglich der Versendung der Bescheinigung vgl. unter 51.4). Auch bei dieser Personengruppe erlischt die Niederlassungserlaubnis nach den Nrn. 6 und 7, wenn Ausweisungsgründe im Zusammenhang mit Terrorismus, Extremismus oder schwerwiegenden Verstößen gegen die Integrationsverpflichtung nach den §§ 54 Nr. 5 bis 7 oder 55 Nr. 8 bis 11 vorliegen (siehe oben 51.2.1.).
 51.2.3. Dem Ausländer ist auf Antrag eine entsprechende Bescheinigung über den Fortbestand der NE auszustellen, auch wenn er bereits ausgereist ist. Die Niederlassungserlaubnis besteht ausweislich des Wortlauts auch ohne unsere Bescheinigung fort (zum Gebührentatbestand vgl. § 47 Abs. 1 Nr. 9 AufenthV). Für das Verfahren zur Prüfung der Lebensunterhaltssicherung vgl. 51.2.1..
-51.3. frei
+51.3. Überschreitung wegen Erfüllung der Wehrpflicht
+51.3. Der Aufenthaltstitel erlischt nicht nach Abs. 1 Nr. 7, wenn die Frist lediglich wegen Erfüllung der gesetzlichen Wehrpflicht im Heimatstaat überschritten wird. Erfüllung der gesetzlichen Wehrpflicht ist dabei auch die Verpflichtung zum Militärdienst z.B. im Rahmen der Verteidigung des eigenen Landes bei bewaffneten Konflikten.
 51.4. 1. Bestimmung einer über 6 Monate hinausgehenden Frist durch die Ausländerbehörde
 § 51 Abs. 4 gibt allen Ausländern, die eine Niederlassungserlaubnis besitzen und sich lediglich aus einem seiner Natur nach vorübergehenden Grunde (z. B. zur Pflege eines nahen Angehörigen, für ein Gastsemester während eines Studiums o.ä.) einen Regelanspruch für die Bestimmung einer längeren Wiedereinreisefrist.
 Bei Ausländern, deren Auslandsaufenthalt Interessen der Bundesrepublik Deutschland dient, besteht der Regelanspruch dagegen schon nach dem Wortlaut des § 51 Abs. 4 (..."oder"...), ohne dass zu prüfen ist, ob der Aufenthaltszweck seiner Natur nach nur einen vorübergehenden Aufenthalt erfordert. Bei Auslegung des unbestimmten Rechtsbegriffs "Interessen der Bundesrepublik Deutschland" ist grundsätzlich ein großzügiger Maßstab anzulegen. So dient etwa der Aufenthalt als Entwicklungshelfer, als Familienangehöriger eines deutschen Diplomaten im Ausland, als Studierender an einer hiesigen Hochschule gem. § 16 für ein oder zwei Gastsemester an einer ausländischen Hochschule, oder auch der Auslandseinsatz für ein international tätiges Unternehmens mit Sitz in Deutschland diesen Interessen. Aber auch der Auslandsaufenthalt zum Zweck des Studiums der Islamwissenschaften im Heimatstaat an einer dortigen Hochschule oder vergleichbaren Ausbildungseinrichtung von Ausländern, die im Bundesgebiet aufgewachsen sind und hier einen anerkannten Schulabschluß erworben haben, dient dem Interesse der Bundesrepublik Deutschland.

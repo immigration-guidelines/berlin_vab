@@ -1,12 +1,12 @@
 VAB A 45a
 VAB A 45a
 A.45a. Berufsbezogene Deutschsprachförderung
-(AsylVfBeschG)
+(AsylVfBeschG; ChARG)
 45a.0. Mit dem Inkrafttreten des Asylverfahrensbeschleunigungsgesetzes zum 01.11.2015 wurde § 45a eingeführt. Ziel ist es die Integration in den Arbeitsmarkt durch schnelleren und bedarfsgerechteren Erwerb der deutschen Sprache zu beschleunigen.
+Im Sinne eines Gleichklangs des Zugangs zur Sprachförderung wurde die Einschränkung auf bestimmte Gruppen von Inhabern einer Aufenthaltsgestattung durch das Gesetz zur Einführung eines Chancen-Aufenthaltsrechts gestrichen. § 45a AufenthG richtet sich grundsätzlich nicht an einen bestimmten Personenkreis. Der Zugang zur berufsbezogenen Deutschsprachförderung besteht damit grundsätzlich für Inhaber einer Aufenthaltsgestattung wie auch für alle anderen Ausländer.
 45a.1. Die Umsetzung und Koordinierung der berufsbezogenen Sprachförderung erfolgt durch das BAMF.
 45a.2. Eine Verpflichtung zur Teilnahme an einer Maßnahme der berufsbezogenen Sprachförderung erfolgt, wenn
 der Ausländer Leistungen nach dem SGB II bezieht
 und
 die Teilnahme an einer entsprechenden Maßnahme in einer Eingliederungsvereinbarung des Jobcenters festgelegt wurde.
 Liegen die Voraussetzungen vor, werden die Betroffenen im Rahmen einer Eingliederungsvereinbarung durch das Jobcenter zur Teilnahme verpflichtet. Zwar ist die Zuständigkeit des Jobcenters zur Ausstellung der Bescheinigung über die Teilnahmeverpflichtung im Gesetz nicht eindeutig geregelt. Ausweislich der Gesetzesbegründung soll aber mit Abs. 2 S. 1 eine den Regelungen zu Integrationskursen vergleichbare Möglichkeit, zur Teilnahme an einer berufsbezogenen Sprachförderung zu verpflichten, durch die Jobcenter gesichert werden. Die ABH ist somit nicht Normadressat.
-Ausgeschlossen ist eine Teilnahme an einer Maßnahme der berufsbezogenen Sprachförderung, wenn der Ausländer im Besitz einer Aufenthaltsgestattung und ein dauerhafter und rechtmäßiger Aufenthalt nicht zu erwarten ist. Dies ist regelmäßig der Fall, wenn der Asylbewerber aus einem sicheren Herkunftsstaat stammt (s. Anlage II des AsylG).

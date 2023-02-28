@@ -1,7 +1,7 @@
 VAB D 71
 VAB D 71
 D.71. Folgeantrag
-(15.12.2015, AsylVfBeschlG; 18.01.2016)
+(AsylVfBeschlG; 18.01.2016; 23.09.2022)
 71.1.1. frei
 71.1.2. Satz 2 korrespondiert mit der Vorschrift des negativen Familienasyls des § 14a.
 71.2. 1. frei
@@ -16,8 +16,9 @@ Laut Mitteilung des BAMF beim Erfahrungsaustausch der großen Ausländerbehörde
 Bei Folgeantragstellern aus anderen Staaten wird ab dem 2. Folgeantrag keine erneute Abschiebungsandrohung erlassen. Dabei ist es auch unerheblich, ob der Betroffene zuvor aus- und wiedereingereist ist.
 Sollte das BAMF im Einzelfall anders verfahren, sind die entsprechenden Sachbearbeiter auf die Mitteilung des BAMF beim Erfahrungsaustausch in Köln zu verweisen.
 Für die Dauer der Prüfung des BAMF, ob ein weiteres Asylverfahren durchgeführt wird gilt folgendes: ' Gemäß § 71 Abs. 5 Satz 2 darf die Abschiebung erst nach einer Mitteilung des Bundesamtes, dass die Voraussetzungen des § 51 Abs. 1 bis 3 VwVfG nicht vorliegen, vollzogen werden, es sei denn, der Ausländer soll in einen sicheren Drittstaat abgeschoben werden. In diesen Fällen liegt somit bis zu einer Entscheidung des BAMF ein gesetzliches Abschiebungsverbot und somit eine rechtliche Unmöglichkeit der Abschiebung vor.
-Asylfolgenantragstellern ist daher eine Duldung gemäß § 60a Abs. 2 S. 1 AufenthG auszustellen. Die Duldung ist mit der folgenden Nebenbestimmung zu versehen:
-"Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung".
+Asylfolgenantragstellern ist daher eine Duldung gemäß § 60a Abs. 2 S. 1 AufenthG auszustellen. Die Duldung ist mit den folgenden Nebenbestimmungen zu versehen:
+"Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung" sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“.
 Eine Umverteilung gemäß § 51 findet bei Asylfolgeantragstellern nicht statt. War der Aufenthalt des Ausländers während des früheren Asylverfahrens räumlich beschränkt, gilt die letzte räumliche Beschränkung fort, solange keine andere Entscheidung ergeht, § 71 Abs. 7.
 Bzgl. sonstiger Auflagen, der räumlichen Beschränkung und der Möglichkeit einer Erwerbstätigkeit nachzugehen, sind die Regelungen der §§ 47 - 67 anzuwenden (vgl. insbes. zur räumlichen Beschränkung D.59a.). Hinsichtlich der Erwerbstätigkeit vgl. D.60.1. sowie A.60a.6.
 Stellt der Betroffene beim Bundesamt hingegen einen allein auf das Vorliegen zielstaatsbezogener Abschiebungshindernisse gerichteten Antrag auf teilweises Wiederaufgreifen des Verfahrens (Folgeschutzgesuch), begründet dies für sich genommen keinen Duldungsanspruch. Dies liegt darin, dass anders als in den Fällen des § 71 Abs. 5 Satz 2 die Erteilung einer Duldung nicht vorgesehen ist. Zudem ist die bestandskräftige Entscheidung des Bundesamtes über das Nichtvorliegen von Abschiebungshindernissen bindend (§ 42 Satz 1). Ohne eine Durchbrechung dieser Bindungswirkung kann diesseits keine Duldung erteilt werden. Etwas anderes gilt nur dann, wenn das Bundesamt ausdrücklich mitteilt, dass von Abschiebungsmaßnahmen bis zur Entscheidung über das Folgeschutzgesuch abzusehen ist (zu allem: OVG Berlin-Brandenburg, Beschluss vom 16.01.2017 – OVG 12 S 88.16).

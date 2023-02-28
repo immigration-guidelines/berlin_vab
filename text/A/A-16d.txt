@@ -2,7 +2,7 @@ VAB A 16d
 VAB A 16d
 Inhaltsverzeichnis
 A.16d. Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
-(FEG; 24.06.2021)
+(FEG; 24.06.2021;15.12.2022)
 16d.0.Grundsätzliches
 16d.1. Aufenthaltserlaubnis zum Zweck einer Qualifizierungsmaßnahme zur Anerkennung einer im Ausland erworbenen Berufsqualifikation
 16d.1.4. Erwerbstätigkeit während des Aufenthalts zum Zweck der Anerkennung einer ausländischen Berufsqualifikation
@@ -13,7 +13,7 @@ A.16d. Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
 16d.6.1. Zweckwechsel im Zusammenhang mit einer Qualifizierungsmaßnahme
 16d.6.2. Arbeitsplatzsuche
 A.16d. Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
-(FEG; 24.06.2021)
+(FEG; 24.06.2021; 15.12.2022)
 16d.0.Grundsätzliches
 § 16d übernimmt zum 1.3.2020 im Wesentlichen die bestehenden Regelungen von § 17a a. F. zu Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen und erweitert sie. Die Steigerung der Zuwanderung von Fachkräften in Ausbildungsberufen ist ein Schwerpunktanliegen des Fachkräfteeinwanderungsgesetzes; gleichzeitig erfüllen ausländische Ausbildungsabschlüsse häufig nicht die für eine Anerkennung erforderlichen Anforderungen. Dieser Zwiespalt wird durch den neuen § 16d aufgelöst, der nach Feststellung der „teilweisen“ Gleichwertigkeit eines ausländischen Abschlusses oder der Feststellung von notwendigen Ausgleichsmaßnahmen bei reglementierten Berufen die Möglichkeiten der Einreise und des Aufenthalts zu Qualifizierungsmaßnahmen mit dem Ziel der Feststellung der Gleichwertigkeit oder Erteilung der Berufsausübungserlaubnis erweitert.
 Zu den Maßnahmen zählen Anpassungs- und Ausgleichsmaßnahmen in theoretischer und praktischer Form, Vorbereitungskurse auf Prüfungen und Sprachkurse. Qualifizierungsmaßnahmen können dabei auch rein betrieblich durchgeführt werden, wenn beispielsweise nur noch bestimmte praktische Fertigkeiten, Kenntnisse und Fähigkeiten nachgewiesen werden müssen.
@@ -27,7 +27,7 @@ die Erteilung der Berufsausübungserlaubnis (Berufszugang) oder
 die Erlaubnis zum Führen der Berufsbezeichnung.
 Derartige Qualifizierungsmaßnahmen umfassen z.B. berufs- oder fachschulische Angebote, betriebliche oder überbetriebliche Angebote, die praktische und theoretische Bestandteile enthalten können, Vorbereitungskurse auf Kenntnis- oder Eignungsprüfungen sowie allgemeine oder berufsorientierte Sprachkurse.
 Merke: Der Aufenthaltszweck und damit auch die Geltungsdauer der Aufenthaltserlaubnis umfasst bei Qualifizierungsmaßnahmen in Form eines Prüfungsvorbereitungskurses immer auch das Ablegen der an den Kurs anschließenden Prüfung bis zur Bekanntgabe des Prüfungsergebnisses. Entsprechend sollte die Geltungsdauer – regelmäßig zwischen 4 Wochen und 3 Monaten – nach Ablegen der Prüfung bemessen werden.
-Die Erteilung des Aufenthaltstitels nach Abs. 1 steht im Soll- Ermessen der Ausländerbehörde. Liegen die Voraussetzungen des § 16d Abs. 1 vor, soll die Aufenthaltserlaubnis erteilt werden, d.h. nur in Ausnahmefällen ist von der Titelerteilung abzusehen. Eine Versagung der Aufenthaltserlaubnis kommt allerdings immer dann in Betracht, wenn neben der eigentlichen Qualifizierungsmaßnahme eine zusätzliche (insbesondere zeitlich unbegrenzte) Beschäftigung geplant ist und beide Tätigkeiten in der Zusammenschau einen derartigen Raum einnehmen, dass die Erfolgsaussichten der Qualifizierungsmaßnahme infrage stehen. Wird in der Summe der beiden Tätigkeiten die nach § 3 ArbZG zulässige Höchstarbeitszeit von 48 Stunden wöchentlich überschritten (vgl. hierzu auch A.2.3.1.11.), ist die Aufenthaltserlaubnis regelmäßig zu versagen.
+Die Erteilung des Aufenthaltstitels nach Abs. 1 steht im Soll- Ermessen der Ausländerbehörde. Liegen die Voraussetzungen des § 16d Abs. 1 vor, soll die Aufenthaltserlaubnis erteilt werden, d.h. nur in Ausnahmefällen ist von der Titelerteilung abzusehen.
 16d.1.1. Neben dem Vorliegen der allgemeinen Erteilungsvoraussetzungen muss die jeweilige für die berufliche Anerkennung zuständige Stelle
 fachliche, berufspraktische oder sprachliche Defizite und
 im Falle eines reglementierten Berufs die Erforderlichkeit von Anpassungsmaßnahmen oder eines Sprachkurses für die jeweilige Berufsqualifikation

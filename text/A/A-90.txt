@@ -2,22 +2,22 @@ VAB A 90
 VAB A 90
 Inhaltsverzeichnis
 A.90. Übermittlungen durch Ausländerbehörden
-(IntG; ÄndG Ausreisepflicht; 24.03.2022; Sofortzuschlags- und Einmalzahlungsgesetz; 01.06.22)
+(Sofortzuschlags- und Einmalzahlungsgesetz; 01.06.2022; 23.09.2022)
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.3.1. Übermittlungsregelungen nach Absprache mit den Berliner Leistungsbehörden
 90.3.2. Anspruchseinschränkungen nach § 1a AsylbLG
 90.3.3. Doppel- oder Mehrfachidentität
 90.3.4. Übermittlungspflicht von Daten der Bundesagentur für Arbeit
-90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland
+90.3.4.1. Leistungen für Asylbewerber mit Zuweisung in ein anderes Bundesland. 565
 90.3.5. Leistungsgewährung nach 18 Monaten
 90.3.6. Datenübermittlung bei Integrationskursverpflichtung
 90.3.7. Mitteilung sonstiger Umstände/Maßnahmen
 90.3.8. Zuständigkeiten der Sozialämter
 90.4. Übermittlungspflichten bei Zeuginnen und Zeugen
 A.90. Übermittlungen durch Ausländerbehörden
-(IntG; ÄndG Ausreisepflicht; 24.03.2022; Sofortzuschlags- und Einmalzahlungsgesetz; 01.06.22)
+(Sofortzuschlags- und Einmalzahlungsgesetz; 01.06.2022; 23.09.2022)
 90. 0. Seit Inkrafttreten des ZuwG wird die Rechtsgrundlage in den Vordruck aufgenommen (§ 59 Abs. 3 AufenthV). In den Fällen der Erteilung einer Bescheinigung über die Aussetzung der Abschiebung wird analog § 59 Abs. 3 AufenthV verfahren. Es ist jeweils genau zu bezeichnen, nach welchem Absatz des § 60a die Bescheinigung ausgestellt wurde und die zutreffende Nebenbestimmung zu verfügen.
-Bei Asyl folgeantragstellern ist die Nebenbestimmung „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung" zu verfügen. Bei Asyl zweitantragstellern sind die Nebenbestimmungen „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung“ und „Der Aufenthalt gilt nach § 71a Abs. 3 Asyl G als geduldet“) zu verfügen. Nur so ist für die Leistungsbehörden erkennbar, dass ein Ausländer nach § 1 Abs. 1 Nr. 7 AsylbLG (und nicht nach Nr. 4) leistungsberechtigt ist.
+Bei Asyl folgeantragstellern ist die Nebenbestimmung „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung" sowie „Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“ zu verfügen. Bei Asyl zweitantragstellern sind die Nebenbestimmungen „Erlischt bei Eintritt der Vollziehbarkeit der ablehnenden BAMF-Entscheidung“ und „Der Aufenthalt gilt nach § 71a Abs. 3 Asyl G als geduldet“ sowie „Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“ zu verfügen. Nur so ist für die Leistungsbehörden erkennbar, dass ein Ausländer nach § 1 Abs. 1 Nr. 7 AsylbLG (und nicht nach Nr. 4) leistungsberechtigt ist.
 90.1. Mitteilungspflicht der Ausländerbehörden an die zuständigen Leistungsbehörden.
 90.1.0. § 90 Abs. 1 enthält eine Mitteilungspflicht der Ausländerbehörden an die zuständigen
 Leistungsbehörden/Sozialleistungsträger. Soweit im Einzelfall – etwa auf Grund von Äußerungen des Betroffenen im Rahmen einer Vorsprache oder durch Vorlage von Unterlagen - konkrete Anhaltspunkte für einen Übermittlungstatbestand des § 90 Abs. 1 Nr. 1 -3 vorliegen, ist eine Mitteilung zwingend. Konkrete Anhaltspunkte sind bereits dann gegeben, wenn Tatsachen darauf schließen lassen, dass einer der unter § 90 Abs. 1 Nr. 1 bis 3 genannten Verstöße begangen worden ist. Erforderlich sind konkrete Anhaltspunkte; bloße Vermutungen reichen nicht aus.

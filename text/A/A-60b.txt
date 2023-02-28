@@ -2,7 +2,7 @@ VAB A 60b
 VAB A 60b
 Inhaltsverzeichnis
 A.60b. Duldung für Personen mit ungeklärter Identität
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; 10.12.2020)
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; 10.12.2020; 23.09.2022)
 60b.0 Allgemeines
 60b.1. Tatbestände
 60b.2. Besondere Passbeschaffungspflicht
@@ -10,7 +10,7 @@ A.60b. Duldung für Personen mit ungeklärter Identität
 60b.5. Vorduldungszeiten, Erwerbstätigkeit, Wohnsitzauflage
 60b.6. Widerspruch und Klage
 A.60b. Duldung für Personen mit ungeklärter Identität
-(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; 10.12.2020)
+(2. ÄndGAusreisepflicht; VAB-Kommission 2018/19; 10.12.2020; 23.09.2022)
 60b.0 Allgemeines
 60b.0. Mit dem durch das 2. Gesetz zur besseren Durchsetzung der Ausreisepflicht geschaffenen § 60b will der Gesetzgeber Ausreisepflichtige besser als bisher danach unterscheiden, ob sie unverschuldet an der Ausreise gehindert sind oder ob ihnen die fehlende Möglichkeit bei der Durchsetzung der Ausreisepflicht zugerechnet werden muss. Insoweit wurde bei Personen, bei denen die Abschiebung aus vom Ausländer selbst zu vertretenden Gründen nicht vollzogen werden kann, weil einer der in Abs. 1 S. 1 genannten Tatbestände vorliegt, zur Duldung der Zusatz „für Personen mit ungeklärter Identität“ geschaffen.
 § 60b ist entgegen des Wortlauts des Satzes 1 eine eigenständige Rechtsgrundlage für die Ausstellung der Duldung . In § 60b Abs. 2 S. 1 wird eine besondere Passbeschaffungspflicht für vollziehbar Ausreisepflichtige geschaffen, die in § 60b Abs. 3 S. 1 näher ausgestaltet wird.
@@ -20,6 +20,7 @@ Merke: § 60b ist in seinem Anwendungsbereich lex specialis zu § 60a Abs. 6 S. 
 Dem Inhaber einer Duldung mit dem Zusatz „für Personen mit ungeklärter Identität“ ist die Erwerbstätigkeit nicht gestattet, Abs. 5 S. 2. Liegen die Voraussetzungen des § 60b Abs. 1 vor, ist die nach § 60a Abs. 4 auszustellende Bescheinigung über die Aussetzung der Abschiebung mit den Eintragungen
 „für Personen mit ungeklärter Identität“
 „Erlischt bei Besitz eines zur Ausreise bzw. Rückführung in den Herkunftsstaat berechtigenden Dokumentes“ sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 „Erwerbstätigkeit nicht erlaubt (§ 60b Abs. 5 S. 2 AufenthG).“
 „Bei Verstößen droht Unternehmer/Arbeitgeber Bußgeld bis zu 500.000 Euro“
 sowie
@@ -42,7 +43,7 @@ Nach Abs. 1 S. 1 hat der volljährige Ausländer die Gründe, aus denen aufentha
 60b.2.1. Für volljährige vollziehbar Ausreisepflichtige, die nicht im Besitz eines gültigen Heimreisedokumentes sind, besteht in Abs. 2 S. 1 die sog. besondere Passbeschaffungspflicht.
 Zu den im Rahmen der besonderen Passbeschaffungspflicht bestehenden Pflichten vgl. A.60b.3.
 60b.2.2. Ausländern, die ein (formloses) Asylgesuch nach § 13 AsylG (und nicht wie im Gesetzeswortlaut fälschlicherweise § 18 AsylG) geäußert oder aber bereits einen förmlichen Asylantrag gestellt haben und nicht im Besitz eines gültigen Passes oder Passersatzes sind, ist es gem. Abs. 2 S. 1 bis zum rechtskräftigen Abschluss des Asyl-Erstverfahrens per se nicht zumutbar, mit den Behörden des Staates, vor dem sie Schutz suchen, in Kontakt zu treten. Diese gesetzliche Aussage ist trotz des § 55 AsylG und des gestatteten Aufenthalts von besonderer praktischer Bedeutung.
-Merke: Für die Fälle, in denen vor Eintritt der Rechtskraft (vgl. § 75 Abs. 1 AsylG) die Ausreisepflicht vollziehbar ist (§§ 29/ 29a/30 AsylG), kommt entgegen der bisherigen Verfahrenspraxis jegliche Form von Mitwirkungspflichten, auch im Rahmen der Passbeschaffung von Amts wegen, nicht in Betracht.
+Merke: Für die Fälle, in denen vor Eintritt der Rechtskraft (vgl. § 75 Abs. 1 AsylG) die Ausreisepflicht vollziehbar ist (§§ 29/29a/30 AsylG), kommt entgegen der bisherigen Verfahrenspraxis jegliche Form von Mitwirkungspflichten, auch im Rahmen der Passbeschaffung von Amts wegen, nicht in Betracht.
 Danach unterliegt der volljährige Ausländer nicht der besonderen Passbeschaffungspflicht, wird nicht zu den §§ 48, 49 belehrt und hat auch das Abschiebungshindernis nicht selbst zu vertreten. § 60a Abs. 6 S. 1 Nr. 2 findet gleichfalls auf diese Fälle keine Anwendung. Beachte jedoch die Ausschlussregelungen in § 60a Abs. 6 S. 1 Nr. 1 und 3. Der Anwendungsbereich des Abs. 2 S. 2 2. Hs. ist immer nur dann eröffnet, wenn das BAMF zwar ein Abschiebungsverbot nach § 60 Abs. 7 AufenthG festgestellt hat, aber keine Aufenthaltserlaubnis nach § 25 Abs. 3 erteilt wird. Da im Regelfall eine Aufenthaltserlaubnis nach § 25 Abs. 3 erteilt wird, dürfte der Anwendungsbereich des Abs. 2 S. 2 2. Hs. sehr klein sein.
 60b.3. Zumutbare Handlungen und Eidesstattliche Versicherung
 60b.3.1. Die sich aus der besonderen Passbeschaffungspflicht des Abs. 2 S. 1 ergebenden Pflichten des Ausländers werden in Abs. 3 S. 1 näher konkretisiert. Voraussetzung ist jeweils die Zumutbarkeit der Handlungen zur Passbeschaffung. Abs. 3 S. 1 enthält dabei eine Auslegungshilfe für den unbestimmten Rechtsbegriff der Zumutbarkeit, wobei die Aufzählung in Abs. 3 S. 1 schon nach dem Wortlaut („regelmäßig“) nicht abschließend ist.

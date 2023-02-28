@@ -2,7 +2,7 @@ VAB A 60c
 VAB A 60c
 Inhaltsverzeichnis
 A.60c. Ausbildungsduldung
-(FEG; 10.12.2020; 18.03.2021; 07.12.2021)
+(FEG; 07.12.2021; 23.09.2022)
 60c.0. Allgemeines
 60c.1.1.1. Ausbildungsduldung bei Beginn der Berufsausbildung während eines laufenden Asylverfahrens Staatlich anerkannt
 Engpass / Positivliste
@@ -23,7 +23,7 @@ Familienangehörige
 60c.7.1. Keine Identitätsklärung trotz erforderlicher und zumutbarer Maßnahmen
 60c.7.2 Beginn der erfolgreichen Identitätsklärung nach Fristablauf
 A.60c. Ausbildungsduldung
-(FEG; 10.12.2020; 18.03.2021; 07.12.2021)
+(FEG; 07.12.2021; 23.09.2022)
 Checkliste
 60c.0. Allgemeines
 Die bisherige Regelung der Ausbildungsduldung nach § 60a Abs. 2 S. 3 i.V.m. § 60a Abs. 2 S. 4ff in der Fassung bis zum 31.12.2019 wird durch das Gesetz zur Duldung bei Ausbildung und Beschäftigung ab dem 1.1.2020 in § 60c überführt, bleibt jedoch vom Sinn und Zweck ein Unterfall der Ermessensduldung aus dringenden persönlichen Gründen nach § 60a Abs. 2 S. 3. Allerdings stellen die Duldungen nach § 60a Absatz 2 Satz 3 AufenthG i.V.m. § 60c Absatz 1 bzw. Absatz 7 AufenthG jeweils eigenständige Rechtsgrundlagen dar. Durch § 60c Abs. 1 werden in die Ausbildungsduldung die Fälle der Aufnahme einer Berufsausbildung während des Asylverfahrens aufgenommen (vgl. § 60c Abs. 1 S. 1 Nr. 1a) sowie auch staatlich anerkannte Assistenz- oder Helferausbildungen einbezogen, soweit darauf eine qualifizierte Ausbildung in einem Mangelberuf folgt (§ 60c Abs. 1 Nr.1 b)
@@ -43,7 +43,8 @@ Im Fall der betrieblichen Ausbildung ist zudem ein schriftlicher Nachweis darüb
 Findet die schulische Berufsausbildung an einer staatlichen Berufsfachschule oder einem OSZ statt, genügt die Vorlage einer aktuellen Aufnahmeentscheidung im Sinne der geltenden Ausbildungs- und Prüfungsverordnung, sofern daraus der Berufsabschluss und die Ausbildungsdauer hervorgehen. Entsprechend den Anwendungshinweisen des BMI vom 20.12.2019 kann die bloße Bescheinigung für die Anmeldung für eine schulische Ausbildung allein nicht ausreichen.
 Liegt eine qualifizierte Berufsausbildung vor, sind die Nebenbestimmungen vor dem Hintergrund des § 60c Abs. 1 S. 3
 "Beschäftigung erlaubt. Selbständige Tätigkeit nicht erlaubt“
-"Erlischt mit Abbruch der Ausbildung als ..."
+"Erlischt mit Abbruch der Ausbildung als ..." sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 zu verfügen.
 Wird die Duldung, z.B. an Minderjährige, erteilt, ohne dass die Identität bislang nachgewiesen wurde (vgl. 60b.), ist zusätzlich die Nebenbestimmung
 „Gültiges Reisedokument o. Nachweis über die Beantragung ist vorzulegen“
@@ -66,7 +67,8 @@ Für die anschließende qualifizierte Berufsausbildung muss eine Ausbildungsplat
 Entsprechend den Anwendungshinweisen des BMI vom 20.12.2019 wird die Ausbildungsduldung zunächst nur für die im Ausbildungsvertrag bestimmte Dauer der Ausbildung in dem Assistenz- oder Helferberuf erteilt. Liegt eine anschlussfähige Helfer-oder Assistenzausbildung vor, sind die Nebenbestimmungen vor dem Hintergrund des § 60c Abs. 1 S. 3
 "Beschäftigung erlaubt. Selbständige Tätigkeit nicht erlaubt.“
 und
-"Erlischt mit Nichtantritt oder Abbruch der Ausbildung als ..."
+"Erlischt mit Nichtantritt oder Abbruch der Ausbildung als ..." sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 zu verfügen.
 Wird die Duldung, z.B. an Minderjährige, erteilt, ohne dass die Identität bislang nachgewiesen wurde (vgl. 60b.), ist zusätzlich die Nebenbestimmung
 „Gültiges Reisedokument o. Nachweis über die Beantragung ist vorzulegen“
@@ -109,7 +111,8 @@ bis zum 30.06.2020
 ab dem 1.1.2020 innerhalb von 6 Monaten nach der Einreise; unabhängig von
 der Beantragung einer Ausbildungsduldung
 Stichtag für die Einreise ist jeweils das Datum der Ersteinreise. Hierfür ist ausnahmslos das im Ausländerzentralregister gespeicherte Datum der Ersteinreise maßgeblich. Soweit das Datum der Einreise streitig sein könnte, ist ein Ausdruck des AZR zur Akte zu nehmen. Weist der Ausländer, etwa durch Vorlage seines Passes mit einem Einreisestempel der deutschen Grenzkontrollbehörde, nach, dass er zu einem anderem als dem bislang gespeicherten Datum eingereist ist, sind zunächst die Speichersachverhalte zu aktualisieren. Kann der Ausländer sein Einreisedatum nur glaubhaft machen, kommt die Annahme eines neuen Stichtages nur in Betracht, wenn zuvor das Einreisedatum im AZR geändert wurde.
-Die Frist zur Klärung der Identität gilt als gewahrt, wenn der Ausländer innerhalb der in den Buchstaben a bis c genannten Fristen alle erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen hat und die Identität erst nach dieser Frist geklärt werden kann, ohne dass der Ausländer dies zu vertreten hat. Zur Pass- oder Passersatzbeschaffung ist es erforderlich und zumutbar, dass der Ausländer die in § 60b Abs. 3 genannten Handlungen vornimmt (vgl. VAB A 60b.3.). Die Vornahme der Handlungen muss nachgewiesen werden. Eine Glaubhaftmachung reicht nicht aus.
+Die Frist zur Klärung der Identität gilt als gewahrt, wenn der Ausländer innerhalb der in den Buchstaben a bis c genannten Fristen alle erforderlichen und ihm zumutbaren Maßnahmen für die Identitätsklärung ergriffen hat und die Identität erst nach dieser Frist geklärt werden kann, ohne dass der Ausländer dies zu vertreten hat.
+Zur Pass- oder Passersatzbeschaffung ist es erforderlich und zumutbar, dass der Ausländer die in § 60b Abs. 3 genannten Handlungen vornimmt (vgl. VAB A 60b.3.). Die Vornahme der Handlungen muss nachgewiesen werden. Eine Glaubhaftmachung reicht nicht aus.
 Merke: Einem Ausländer ist es während des gesamten Asylverfahrens bis zu dessen unanfechtbaren Abschluss nicht zumutbar, sich einen Pass zu beschaffen bzw. mit der Auslandsvertretung oder anderen Stellen seines Herkunftsstaates in Kontakt zu treten, auch nicht, um sich sonstige Dokumente zur Identitätsklärung (z.B. Geburtsurkunde) zu beschaffen. In diesem Fall gilt die Frist als gewahrt, wenn der Ausländer nach rechtskräftigem Abschluss seines Asylverfahrens und den in Buchstaben a) bis c) genannten Fristen die erforderlichen und zumutbaren Maßnahmen zur Identitätsklärung ergreift und die Identität dadurch geklärt wird. Anders gesprochen: Hier ersetzt das Datum des rechtskräftigen Abschlusses des Asylverfahrens das Einreisedatum.
 Bei Minderjährigen gilt die Frist als gewahrt, wenn der Minderjährige nach Volljährigkeit und den in Buchstaben a) bis c) genannten Fristen die erforderlichen und zumutbaren Maßnahmen zur Identitätsklärung ergreift und die Identität innerhalb von 6 Monaten geklärt wird.
 Die Ausbildungsduldung kann frühestens ab dem Datum der geklärten Identität erteilt werden.
@@ -156,7 +159,7 @@ Die Sätze 1 und 2 gelten nur für die Fälle, in denen die Berufsausbildung ers
 60c.3.1. Mit Satz 1 wird ein frühestmöglicher Zeitpunkt für die Antragstellung auf eine Ausbildungsduldung festgelegt. Dieser beträgt für Geduldete 7 Monate vor dem im Ausbildungsvertrag genannten Datum der Aufnahme der Berufsausbildung. Der frühestmögliche Erteilungszeitpunkt beträgt 6 Monate vor Ausbildungsbeginn.
 Der fristgerechte formlose Antrag in Verbindung mit dem unterschriebenen Ausbildungsvertrag genügen zum Zeitpunkt der Antragstellung, da nach dem Willen des Gesetzgebers der Antragsteller ja gerade die Zeit nach der Antragstellung nutzen können soll, um die Erfüllung der weiteren Erteilungsvoraussetzungen zu belegen. Bei so weit im Voraus abgeschlossenen Berufsausbildungsverträgen wird mit dem 1-Monatszeitraum zwischen frühestmöglicher Beantragung und frühestmöglicher Erteilung der Ausbildungsduldung ein Zeitraum abgedeckt, in dem erfahrungsgemäß die weiteren
 Erteilungsvoraussetzungen, insbesondere die erforderliche Eintragung des Ausbildungsvertrages in die Lehrlingsrolle bei betrieblichen Berufsausbildungen, nachgewiesen werden können. Für den Zeitraum zwischen Antragsstellung und Erteilung der Ausbildungsduldung ist eine Duldung nach § 60a Abs. 2 S. 1 wegen eines rechtlichen Abschiebungshindernisses für den Zeitraum bis zum Ausbildungsbeginn zu erteilen. Die Duldung ist mit der auflösenden Bedingung
-„ Erlischt m. Entscheidung über d. Antrag auf Erteilung einer Ausbildungsduldung v. [Datum des Antrages]„
+„ Erlischt m. Entscheidung über d. Antrag auf Erteilung einer Ausbildungsduldung v. [Datum des Antrages]„ sowie „Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 zu erteilen.
 Merke: Anträge, die früher als 7 Monate vor Beginn der Ausbildung gestellt werden, haben keine rechtliche Wirkung und stehen insbesondere einer Rückführung nicht entgegen. Auch genügt allein die Vorlage einer Ausbildungsplatzzusage oder eines Vertragsentwurfes nicht bei der Beantragung der Ausbildungsduldung, da nur aus dem endgültigen unterschriebenen Ausbildungsvertrag verlässlich der Ausbildungsbeginn ablesbar und damit die Berechnung der 7-Monats-Frist möglich ist. Auch in einem solchen Fall entsteht aus der bloßen Antragstellung kein rechtliches Abschiebungshindernis.
 Beharrt der Ausländer auf einer Entscheidung seines Antrags, der früher als 7 Monate vor Beginn der Ausbildung gestellt wurde, ist der Ausländer dahingehend zu beraten, dass eine Entscheidung zum jetzigen Zeitpunkt eine zwingende Versagung des Antrags zur Folge hat. Besteht der Ausländer dennoch auf Bescheidung, ist der Antrag abzulehnen. Ansonsten ist über die Anträge ab 7 Monaten vor Ausbildungsbeginn zu entscheiden.
@@ -172,7 +175,8 @@ Familienangehörige
 Familienangehörige des Auszubildenden werden nach § 60a Abs. 2 Satz 3 geduldet. Familienangehörige sind Ehegatten, Lebenspartner und minderjährige ledige Kinder des Auszubildenden. Bis zum vollendeten 18. Lebensjahr des Auszubildenden werden auch seine sorgeberechtigten Eltern und minderjährigen Geschwister als Familienangehörige geduldet.
 Eine Ausnahme hiervon ist bei allen Familienangehörigen angezeigt, die wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden können, außer Betracht bleiben, verurteilt wurden. Das durch Satz 3 eröffnete Ermessen ist dabei grundsätzlich zu Lasten der rechtskräftig Verurteilten auszuüben. Liegen diese Voraussetzungen bei einem Familienangehörigen vor, gilt die Ausnahme auch für solche anderen Familienangehörigen, die nicht ohne den zurückzuführenden Familienangehörigen im Bundesgebiet verbleiben können (z.B. etwa minderjährige Kinder eines allein sorgeberechtigten Elternteils).
 Die Erteilungsdauer richtet sich grundsätzlich nach der Duldung des Auszubildenden. Dies gilt auch für minderjährige Geschwister und Kinder des Auszubildenden, wobei die Duldungsdauer das vollendete 18. Lebensjahr nicht überschreiten darf. Sie ist mit der auflösenden Bedingung
-„Erlischt bei Erlöschen der Duldung des/der …“
+„Erlischt bei Erlöschen der Duldung des/der …“ sowie
+„Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“
 zu versehen.
 60c.4.-5. Widerruf und Mitteilungspflichten
 Wird die Ausbildung vorzeitig beendet oder abgebrochen, ist jede Bildungseinrichtung (abweichend von § 87 Abs. 1; siehe § 2 Abs. 12c) verpflichtet, dies unverzüglich, in der Regel innerhalb von zwei Wochen, der zuständigen Ausländerbehörde schriftlich oder elektronisch mitzuteilen. In der Mitteilung sind neben den mitzuteilenden Tatsachen und dem Zeitpunkt ihres Eintritts die Namen, Vornamen und die Staatsangehörigkeit des Ausländers anzugeben.
