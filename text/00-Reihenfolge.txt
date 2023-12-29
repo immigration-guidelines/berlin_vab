@@ -31,6 +31,9 @@ A 18c
 A 18d
 A 18e
 A 18f
+A 18g
+A 18h
+A 18i
 A 19
 A 19a
 A 19b
@@ -152,6 +155,7 @@ B.BeschV.29.-30. Sonstiges
 B.BeschV.34.-37. Verfahrensregelungen
 C 1
 C 2
+C 2a
 C 3
 C 3a
 C 4
@@ -233,3 +237,42 @@ E Syrien 3
 E Türkei 1
 E Türkei 2
 E Usbekistan 1
+S.1.
+S.3.
+S.4.
+S.5.
+S.6.
+S.7.
+S.8.
+S.9.
+S.10.
+S.11.
+S.12.
+S.12a.
+S.12b.
+S.13.
+S.14.
+S.15.
+S.16.
+S.17.
+S.18.
+S.19.
+S.22.
+S.23.
+S.24.
+S.25.
+S.26.
+S.27.
+S.28.
+S.29.
+S.30.
+S.31.
+S.32.
+S.33.
+S.34.
+S.35.
+S.36.
+S.37.
+S.38.
+S.39.
+S.42.

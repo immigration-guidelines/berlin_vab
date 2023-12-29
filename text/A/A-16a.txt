@@ -6,7 +6,7 @@ A.16a. Berufsausbildung; berufliche Weiterbildung
 16a.1 Betriebliche Aus- und Weiterbildung
 16a.1.1. betriebliche Aus- und Weiterbildung
 16a.1.1.1. Grundsätze zur Vorrangprüfung und Prüfung der Beschäftigungsbedingungen bei Ärzten zu einer Facharzt- oder sonstigen ärztlichen Weiterbildung
-16a.1.1.2 Beschäftigungsbedingungen bei Lehramts- und Rechtsreferendaren
+16a.1.1.2 siehe 16a.2.1.1.
 16a.1.1.3. Beschäftigungsbedingungen bei Volontären
 16a.1.2. Zweckwechsel während der Ausbildung
 16a.1.2.1. Zweckwechsel in eine qualifizierte Berufsausbildung
@@ -16,19 +16,20 @@ A.16a. Berufsausbildung; berufliche Weiterbildung
 16a.2. Schulische Berufsausbildung
 16a.2.0. Allgemeines
 16a.2.1. Schulische Berufsausbildung
-16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der qualifizierten Berufsausbildung
+16a.2.1.1. Aufenthalt für Lehramts- und Rechtsreferendaren
+16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung
 16a.3.2 Erforderliche Sprachkenntnisse
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 A.16a. Berufsausbildung; berufliche Weiterbildung
 Änderungsdatum
-(FEG; 03.11.2020; 16.07.2021)
+(FEG; 11.05.2023; 31.08.2023)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
 16a.0. § 16a enthält zusammengefasst die Regelungen zur Berufsausbildung (bis zum 29.2.2020 § 16b a.F. und § 17 a.F.). Die Voranstellung der Regelungen zur Berufsausbildung entspricht der Neusortierung des Abschnitts 4 und verdeutlicht die Schwerpunktverlagerung der Fachkräfteeinwanderung auf die berufliche Qualifikation.
 Zur anschließenden Erteilung einer AE zur Arbeitsplatzsuche für Fachkräfte nach erfolgreichem Abschluss der Ausbildung oder Aus- und Weiterbildung vgl. A.20.
 16a.1 Betriebliche Aus- und Weiterbildung
 16a.1.1. betriebliche Aus- und Weiterbildung
 Mit Absatz 1 wird der Regelungsgehalt von § 17 Absatz 1 a.F. in Bezug auf die betriebliche Ausbildung übernommen. Danach können Ausländer zur betrieblichen Ausbildung (Berufsausbildung) und zur Beschäftigung im Rahmen einer Weiterbildung (betriebliche Weiterbildung) zugelassen werden, wenn die BA zugestimmt hat (§ 16a Abs. 1 S. 2 i.V.m. § 39 Abs. 1 S. 1 und 2 i.V.m. § 8 Abs. 1 BeschV).
-Die betriebliche Ausbildung im Sinne des § 16a Abs. 1 S. 1 setzt eine qualifizierte Berufsausbildung gemäß § 2 Abs. 12a (s. A.2.12a.) voraus. Dies ergibt sich aus § 16a Abs. 1 S. 1 i.V.m. S. 3.
+Die betriebliche Ausbildung im Sinne des § 16a Abs. 1 S. 1 setzt keine qualifizierte Berufsausbildung gemäß § 2 Abs. 12a (s. A.2.12a.) voraus. Dies wird durch § 16a Abs. 3 S. 1 ausdrücklich bestätigt ..weggefallen.... Es genügt für die Titelerteilung nach §16a auch eine kürzere Ausbildungszeit von einem Jahr, z.B. als Pflegehelfer, auch wenn anschließend die Erteilung einer AE nach § 20 Abs. 2 Nr. 3 und §18a nicht möglich ist.
 Eine betriebliche Weiterbildung liegt dann vor, wenn der Ausländer über eine abgeschlossene Berufsausbildung verfügt. Als abgeschlossene Berufsausbildung gilt die mindestens zweijährige betriebliche oder schulische Berufsausbildung, die gehobene schulische Berufsausbildung (z.B. nach dem Abitur) und die Fachhochschul- oder Hochschulausbildung, Vgl. hierzu unter VAB A 16a.1.1.1. bis 1.1.3.
 Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5 AufenthG. Hinsichtlich der Sicherung des Lebensunterhalts einschließlich einer ausreichenden Krankenversicherung gilt allerdings die Sonderregelung des § 2 Abs. 3 S. 5. Danach gilt der Lebensunterhalt für die Erteilung einer Aufenthaltserlaubnis nach § 16a Abs. 1 als gesichert, wenn der Ausländer über monatliche Mittel in Höhe des monatlichen Bedarfs, der nach den §§ 13 und 13a Abs. 1 des
 Bundesausbildungsförderungsgesetzes bestimmt wird, verfügt vgl. VAB A.2.3.5.
@@ -43,9 +44,7 @@ Bei Ärzten, die ohne ein Stipendium eine Facharztausbildung oder eine sonstige 
 in der Aufenthaltserlaubnis ist als Nebenbestimmung zu verfügen:
 „Facharztausbildung inklusive vorbereitendem Sprachkurs“ und bei Stipendiaten ohne Arbeitsvertrag zusätzlich: „Vor Beginn der Facharztausbildung ist die Berufsausübungserlaubnis vorzulegen.“
 Nach erfolgreicher Absolvierung der Facharztausbildung kommt die Erteilung einer Aufenthaltserlaubnis zum Zweck der Arbeitsplatzsuche nach § 20 Abs. 3 Nr. 3 in Betracht.
-16a.1.1.2 Beschäftigungsbedingungen bei Lehramts- und Rechtsreferendaren
-Die Zustimmung der BA ist erforderlich, § 16a Abs. 1 i.V.m. § 39 Abs. 1 i.V.m. § 8 Abs. 1 BeschV. Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel – zweijährige Dauer des Vorbereitungsdienstes (Referendariat) eine AE nach § 16a Abs. 1. Die Erteilung der Aufenthaltserlaubnis gem. § 16a setzt die Zustimmung der Arbeitsagentur voraus.
-Der erfolgreiche Abschluss des Referendariats (2. Staatsexamen) ermöglicht die anschließende Erteilung einer AE zur Arbeitsplatzsuche gem. § 20 Abs. 3 Nr. 3 AufenthG.
+16a.1.1.2 siehe 16a.2.1.1.
 16a.1.1.3. Beschäftigungsbedingungen bei Volontären
 Die BA muss der Aus- bzw. Weiterbildung als Volontär zustimmen, § 16a Abs. 1 i.V.m. § 39 Abs. 1 i.V.m. § 8 Abs. 1 BeschV. Sofern die BA zustimmt, ist die Aufenthaltserlaubnis bei Vorliegen der sonstigen Voraussetzungen gemäß § 16a Abs. 1 zu erteilen.
 Nach Abschluss des Volontariats kommt die Erteilung einer Aufenthaltserlaubnis zum Zweck der Arbeitsplatzsuche nach § 20 Abs. 1 und Abs. 3 Nr. 3 nicht in Betracht, da es sich bei dem Volontariat nicht um eine qualifizierte Berufsausbildung (s.
@@ -81,11 +80,19 @@ Als Nachweis für die schulische Berufsausbildung genügt ein Schulvertrag oder 
 Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5. Hinsichtlich der Lebensunterhaltssicherung vgl. die Sonderregelung des § 2 Abs. 3 S. 4 (VAB A.2.3.4.).
 Entstehen dem Auszubildenden für die Schulausbildung Gebühren, so sind diese dem Lebensunterhalt hinzuzurechnen. Die Entscheidung liegt im Ermessen der Behörde. Liegen die Erteilungsvoraussetzungen vor, ist das Ermessen grundsätzlich zu Gunsten des Ausländers auszuüben.
 Zur auflösenden Bedingung „Erlischt mit dem Bezug von Leistungen nach dem SGB II, XII oder AsylbLG, vgl. die Ausführungen zu § 2 Abs. 3.
+16a.2.1.1. Aufenthalt für Lehramts- und Rechtsreferendaren
+Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel – zweijährige Dauer des Vorbereitungsdienstes (Referendariat) eine AE nach § 16a Abs. 2. Der erfolgreiche Abschluss des Referendariats (2. Staatsexamen) ermöglicht die anschließende Erteilung einer AE zur Arbeitsplatzsuche gem. § 20 Abs. 3 Nr. 3 AufenthG.
 Zweckwechsel
 Es gelten die Ausführungen unter A.16a.1.2.-A.16a.1.3.
 16a.2.2-3. frei
-16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der qualifizierten Berufsausbildung In den Fällen des § 16a ist die Aufenthaltserlaubnis mit der Auflage
+16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung
+In den Fällen des § 16a ist, bei einer qualifizierten Ausbildung (§ 2 Abs. 12a), die Aufenthaltserlaubnis mit der Auflage
 „Von der Ausbildung unabhängige Beschäftigung von 10 Stunden je Woche erlaubt. Selbstständige Tätigkeit nicht erlaubt. Erlischt mit Abbruch der Ausbildung als ...“
+zu versehen.
+Handelt es sich um eine (nicht qualifizierte) Ausbildung mit kürzerer Ausbildungszeit (z.B. Pflegehelfer) ist die Aufenthaltserlaubnis mit der Auflage:
+"Beschäftigung nicht erlaubt mit Ausnahme der Ausbildung als ......"
+"Selbstständige Tätigkeit nicht erlaubt."
+"Erlischt mit Abbruch der Ausbildung als……"
 zu versehen.
 16a.3.2 Erforderliche Sprachkenntnisse
 Bei einer qualifizierten Berufsausbildung wird ein Nachweis über ausreichende deutsche Sprachkenntnisse (Niveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen) verlangt, wenn die für die konkrete qualifizierte Berufsausbildung erforderlichen Sprachkenntnisse weder durch die Bildungseinrichtung geprüft worden sind, noch durch einen vorbereitenden Deutschsprachkurs erworben werden sollen.

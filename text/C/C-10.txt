@@ -1,7 +1,4 @@
 VAB C 10
 VAB C 10
-C.10. Bußgeldvorschriften
-(25.10.2010; ÄndFreizügG/EU)
-C.10. 0. § 10 orientiert sich an den Bußgeldvorschriften für Deutsche bei Verstößen gegen das Passgesetz. Damit wird die gemeinschaftsrechtliche Vorgabe einer Gleichbehandlung von Unionsbürgern und ihren Familienangehörigen mit Inländern umgesetzt.
-C.10.1. - C.10.4. frei
-C.10.5. § 10 Abs. 5 benennt die verantwortlichen Verwaltungsbehörden. Zuständige Verwaltungsbehörde für die Ahndung von Ordnungswidrigkeiten nach § 10 Abs. 2 sind die Ausländerbehörden. Für die Anzeige einer Ordnungswidrigkeit bzw. einer Verwarnung gilt das übliche Verfahren.
+C.10 Bußgeldvorschriften
+(28.09.2023)

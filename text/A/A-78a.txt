@@ -2,18 +2,14 @@ VAB A 78a
 VAB A 78a
 A.78a. Vordrucke für Aufenthaltstitel in Ausnahmefällen, Ausweisersatz und
 Bescheinigungen
-(07.07.2020; 19.01.2023)
+(28.09.2023; 09.11.2023)
 78a.1.0. Nach § 78a Abs. 1 S. 1 können Aufenthaltstitel in Ausnahmefällen vor dem Hintergrund der besonderen Belastungssituation der Ausländerbehörden weiterhin in Form eines Klebeetiketts ausgestellt werden. Der elektronische Aufenthaltstitel nach § 78 Abs. 1 ist dagegen – mit Ausnahme von Visa nach § 6 Absatz 1 Nummer 1 und Absatz 3 – der Regelfall.
+Hiervon wird insbesondere für folgende Fallgruppen Gebrauch gemacht:
+1. Erteilungen von Aufenthaltserlaubnissen zur Aufenthaltsgewährung zum vorübergehenden Schutz nach § 24
+2. Erteilung und Verlängerung von Aufenthaltserlaubnissen durch den Hochschulservice
+3. Erteilungen von Aufenthaltserlaubnissen nach § 104c (Chancen-Aufenthaltsrecht)
 Entsprechend der gesetzlichen Vorgaben (vgl. § 78a Abs. 1 Satz 3) werden Klebeetiketten durch das Fachverfahren automatisch mit einem Hinweis auf "§ 78a Abs. 1 AufenthG" versehen. Sofern die Rechtsgrundlage nicht in die auf dem Klebeetikett zur Verfügung stehende eine Zeile passt, ist der Hinweis auf "§ 78a Abs. 1 AufenthG" auf das Zusatzblatt zu drucken.
-78a.1.1.1. Satz 1 Nr. 1 ermöglicht die Erteilung von Klebeetiketten, wenn der Aufenthalt nur für einen Monat verlängert werden soll.
-78a.1.1.2. Satz 1 Nr. 2 erlaubt die Erteilung von Klebeetiketten auch in Härtefällen.
-Als Härtefälle sind ausschließlich zu behandeln:
-Kranke und Gebrechliche; hierunter fallen nur solche Personen, die aufgrund einer Krankheit oder körperlichen Behinderung nicht in der Lage sind, persönlich in unserer Behörde vorzusprechen. Die Unmöglichkeit der persönlichen Vorsprache ist von den Betroffenen glaubhaft zu machen, z.B. durch Vorlage eines ärztlichen Attests. Erteilungen in dringenden Fällen (etwa bei innerhalb der nächsten 6 Wochen erforderliche Reisen), so der Betroffene nicht auf der Bestellung eines eAT besteht.
-alle Personen, die einen Titel für einen kurzen Zeitraum von bis zu zwölf Monaten Gültigkeitsdauer erhalten sollen (Stichwort: Programmstudierende).
-alle Personen, die einen Titel nach § 24 Abs. 1 oder § 104c erhalten sollen.
-die von § 41 Abs. 1 AufenthV begünstigten Personen, die erstmalig einen Titel nach dem 4. Abschnitt (z.B. Fachkräfte nach §§ 18a, b) begehren.
-Personen, die zwecks Ausstellung eines Nationalpasses ins Heimatland oder europäische Ausland reisen müssen, weil nur dort die Ausstellung eines Nationalpasses möglich ist.
-alle Personen, die einen Titel nach § 20 Abs. 3 erhalten.
+78a.1.1. Satz 1 ermöglicht die Erteilung von Klebeetiketten, wenn der Aufenthalt zur Vermeidung einer außergewöhnlichen Härte nur für einen Monat verlängert werden soll.
 78a.1.2. Durch § 78a Abs. 1 S. 2 i.V.m. §§ 58 f. AufenthV wird die Verwendung bestimmter fälschungssicherer Vordrucke mit maschinenlesbarer Zone für die Erteilung von Aufenthaltstiteln abweichend von § 78 ermöglicht. Im Feld für Anmerkungen ist die für die Erteilung der Aufenthalts- oder Niederlassungserlaubnis maßgebliche Rechtsgrundlage und die nach Satz 3 erforderliche Kennzeichnung einzutragen.
 Zur Vorlage, den Anforderungen und der Nutzung von Lichtbildern siehe § 60 AufenthV sowie B.AufenthV.60.
 78a.2. Nach richtiger Auffassung folgt aus § 78a Abs. 2(Eintragungen in der Zone für das automatische Lesen) nicht, dass erteilte Genehmigungen alten Rechts, die noch keine entsprechende Zone enthalten, ungültig werden.

@@ -2,7 +2,8 @@ VAB A 11
 VAB A 11
 Inhaltsverzeichnis
 A.11. Einreise- und Aufenthaltsverbot
-(2. ÄndGAusreisepflicht; 14.04.2022, 29.09.2022)
+(2. ÄndGAusreisepflicht; 29.09.2022, 07.03.2023)
+11.0. Ausschreibung des Einreise- und Aufenthaltsverbots im SIS
 11.1. Einreise- und Aufenthaltsverbot
 11.2. Zeitpunkt und Befristung von Amts wegen
 11.2.1. Zeitpunkt des Erlasses des Einreise- und Aufenthaltsverbots bei Ausweisung
@@ -39,7 +40,9 @@ Maximal möglicher Prognosezeitraum:
 11.9.2. Verlängerung bei Wiedereinreise entgegen Einreise- und Aufenthaltsverbot
 11.9.3. Dauer der Sperrfrist in Fällen des § 11 Abs. 9 AufenthG
 A.11. Einreise- und Aufenthaltsverbot
-(2. ÄndGAusreisepflicht; 14.04.2022, 29.09.2022)
+(2. ÄndGAusreisepflicht; 29.09.2022, 07.03.2023)
+11.0. Ausschreibung des Einreise- und Aufenthaltsverbots im SIS
+Wird gegen einen Ausländer ein Einreise- und Aufenthaltsverbot erlassen, so erfolgt dessen Ausschreibung eigenständig durch das LEA. Die bisher in Anspruch genommene Amtshilfe durch das LKA ist entfallen. siehe GA IV A.XIV
 11.1. Einreise- und Aufenthaltsverbot
 Das Einreise- und Aufenthaltsverbot wird im Falle einer Ausweisung, Zurückschiebung oder Abschiebung durch einen behördlichen Verwaltungsakt erlassen. Dies hat zur Folge, dass der Ausländer nicht erneut in das Bundesgebiet einreisen und sich darin aufhalten darf (= Sperrwirkung). Er unterliegt damit einem Einreise-, Aufenthalts- und Titelerteilungsverbot. Dieser Versagungsgrund gilt mit Inkrafttreten des Gesetzes zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung für nahezu alle Aufenthaltstitel.
 11.2. Zeitpunkt und Befristung von Amts wegen

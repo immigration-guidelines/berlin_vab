@@ -2,14 +2,14 @@ VAB C 8
 VAB C 8
 Inhaltsverzeichnis
 C.8. Ausweispflicht
-(ÄndFreizügG/EU; 02.03.2018; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
+(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; Gesetz zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240 sowie zur Änderung des Freizügigkeitsgesetzes/EU)
 C.8.0. Grundsatz
 C.8.1. Ausweispflicht
 Passersatz
 Alienpässe
 C.8.2. Biometrische Daten
 C.8. Ausweispflicht
-(ÄndFreizügG/EU; 02.03.2018; Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU)
+(Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU; Gesetz zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240 sowie zur Änderung des Freizügigkeitsgesetzes/EU)
 C.8.0. Grundsatz
 § 8 bestimmt im Grundsatz die Ausweispflicht für alle Personen, die vom Anwendungsbereich des § 1 Abs. 1 erfasst sind, für die Einreise, den Aufenthalt und die Ausreise. Als Ausweis gilt ein Nationalpass oder ein anerkannter Passersatz. Als anerkannter Passersatz für Unionsbürger gilt insbesondere ein von einem Mitgliedsstaat ausgestellter Personalausweis (siehe § 3 Abs. 3 Nr. 5 AufenthV).
 C.8.1. Ausweispflicht
@@ -24,7 +24,7 @@ Merke: Einige EU-Staaten wie Lettland, Finnland und Italien verwenden für inner
 Entsprechendes gilt bezogen auf den sog. Roten "Identitätsausweis" der Republik Österreich. Es handelt sich dabei um einen nationalen Identitätsausweis für Österreich. Er wird ohne Angabe der Staatsangehörigkeit ausgestellt, berechtigt nicht zum Grenzübertritt resp. den Aufenthalt in Deutschland und ist deshalb ebenfalls nicht als Nachweis der Freizügigkeit anerkannt.
 Minderjährige, die das 16. Lebensjahr noch nicht vollendet haben, erfüllen die Ausweispflicht auch durch Eintragung in einen anerkannten und gültigen Pass ihres gesetzlichen Vertreters (vgl. § 11 Abs. 1 i.V.m. § 2 AufenthV).
 C.8.1.1a. - C.8.1.2. frei
-C.8.1.3. § 8 Abs. 1 Nr. 3 ist insbesondere für Maßnahmen gem. § 2 Abs. 7, § 5 Abs. 4 oder § 6 Abs. 1 relevant und korrespondiert mit § 48 Abs. 1 AufenthG.
+C.8.1.3. § 8 Abs. 1 Nr. 3 ist insbesondere für Maßnahmen gem. § 2 Abs. 4, § 5 Abs. 4 oder § 6 Abs. 1 relevant und korrespondiert mit § 48 Abs. 1 AufenthG.
 Ist der Unionsbürger ausreisepflichtig (vgl. hierzu die Ausführungen unter C.7) so soll der Pass oder anerkannte Passersatz bis zur Ausreise in Verwahrung genommen werden (§ 11 Abs. 1 i.V.m. § 50 Abs. 5 AufenthG). Zu beachten ist in diesem Zusammenhang, das amtliche Personalausweise von EU-und-EFTA-Mitgliedstaaten als anerkannter Passersatz zugelassen sind, vgl. § 3 Abs. 3 Nr. 5 AufenthV. Das Einbehalten von Urkunden und sonstigen Unterlagen wie auch Datenträgern kann schon nach dem Wortlaut des § 8 Abs. 1 Nr. 3 bzw. § 11 Abs. 1 i.V.m. § 50 Abs. 5 AufenthG (Pass, Passersatzpapier) nicht auf diese Norm gestützt werden. Die Anwendung von § 48 Abs. 3 S. 1 AufenthG käme erst nach einer Feststellung des Verlusts der Freizügigkeit in Betracht, § 11 Abs. 14.
 Merke: In Fällen des Fälschungsverdachts oder anderer potentieller Straftaten sind Pässe, Urkunden und sonstige Unterlagen einzubehalten. Sofern § 8 (s.o.) dafür keine Rechtsgrundlage bereithält, ist unbedingt eine Sicherstellung nach dem ASOG Bln oder eine Beschlagnahme nach der StPO erforderlich (siehe A.95.4.).
 Verstöße gegen die Pflichten des § 8 Abs. 1 Nr. 3 sind durch § 10 Abs. 1 bußgeldbewehrt.

@@ -1,0 +1,22 @@
+VAB S.31.
+VAB S.31.
+Inhaltsverzeichnis
+Personenbezogene Daten
+31.0. Allgemeines
+31.1. Personenbezogene Daten allgemein
+31.2. EU-Verordnung
+31.3. Besondere Arten personenbezogener Daten
+Personenbezogene Daten
+31.0. Allgemeines
+§ 31 schafft für Staatsangehörigkeitsbehörden und Auslandsvertretungen die bereichsspezifische Rechtsgrundlage für das Erheben, Speichern, Verändern oder Nutzen personenbezogener Daten.
+31.1. Personenbezogene Daten allgemein
+Erforderlich zur Erfüllung staatsangehörigkeitsrechtlicher Aufgaben nach dem StAG oder nach sonstigen Gesetzen sind personenbezogene Daten, wenn ihre Kenntnis für eine beabsichtigte staatsangehörigkeitsrechtliche Entscheidung oder Feststellung benötigt wird. Das Erheben von Daten auf Vorrat zu unbestimmten oder noch nicht bestimmbaren Zwecken ist unzulässig (Verbot der Vorratsdatenspeicherung).
+31.2. EU-Verordnung
+Die Erfüllung der im StAG und in staatsangehörigkeitsrechtlichen Bestimmungen in anderen Gesetzen bestimmten Aufgaben, insbesondere die Entscheidung über Einbürgerungen, setzt in vielen Fällen zwingend voraus, dass auch personenbezogene Daten besonderer Kategorien, auch die nach VAB S.37.2.2. von den Verfassungsschutzbehörden übermittelten Daten vom LEA verarbeitet werden können.
+Art. 9 Abs. 1 der Verordnung (EU) 2016/679 untersagt jedoch, die Verarbeitung solcher personenbezogenen Daten. Das generelle Verarbeitungsverbot nach Art. 9 Abs. 1 Verordnung (EU) 2016/679 gilt gemäß Art. 9 Abs. 2 der Verordnung nur dann nicht, wenn die Verarbeitung besonderer Kategorien personenbezogener Daten aus Gründen eines erheblichen öffentlichen Interesses erforderlich ist und dafür eine Rechtsgrundlage nationalen Rechts besteht.
+Bei der Bearbeitung von Anträgen auf Grundlage des StAG begründet sich das erhebliche öffentliche Interesse in der gesetzmäßigen Erfüllung der staatsangehörigkeitsrechtlichen Aufgaben, insbesondere der Ermittlung von Ausschlussgründen nach § 11. Die Rechtsgrundlage nach nationalem Recht dafür bildet § 31 S. 2.
+Eine Erweiterung der bisherigen Befugnisse ist mit der klarstellenden Regelung zur Verarbeitung personenbezogener Daten besonderer Kategorie nicht verbunden.
+Besondere Kategorien personenbezogener Daten werden nicht im Register der Entscheidungen in
+Staatsangehörigkeitsangelegenheiten (EStA-Register) gespeichert (vgl. VAB S.33.2.).
+31.3. Besondere Arten personenbezogener Daten
+VAB S.31.2. gilt auch für das Erheben, Speichern, Verändern oder Nutzen bestimmter sensitiver Daten zu von nationalsozialistischen Ausbürgerungen (VAB S.15.s.1.) Betroffener.

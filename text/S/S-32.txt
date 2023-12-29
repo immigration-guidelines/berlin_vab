@@ -1,0 +1,28 @@
+VAB S.32.
+VAB S.32.
+Inhaltsverzeichnis
+Datenübermittlung
+32.0. Allgemeines
+32.1. Übermittlungspflicht ans LEA
+32.1.1. Auf Ersuchen
+32.1.2. Ohne Ersuchen
+32.1.3. und 4. Daten nach § 87 Absatz 4 AufenthG
+32.2. Besondere gesetzliche Verwendungsregeln
+Datenübermittlung
+32.0. Allgemeines
+§ 32 ist eine spezialgesetzliche Regelung für das Übermitteln personenbezogener Daten durch öffentliche Stellen ans LEA. Vor einer Datenübermittlung ist stets der Grundsatz der Verhältnismäßigkeit zu prüfen. Es dürfen nur die Daten übermittelt werden, die bereits bei der mitteilungspflichtigen Stelle vorhanden sind. § 32 begründet keine Pflicht und keine Befugnis zur Datenerhebung, um einem Ersuchen oder einer Übermittlungspflicht ans LEA nachzukommen. Es ist zwischen der Verpflichtung zur Datenübermittlung auf Ersuchen und der Verpflichtung zur Datenübermittlung auch ohne vorangegangenes Ersuchen zu unterscheiden.
+32.1. Übermittlungspflicht ans LEA
+32.1.1. Auf Ersuchen
+Übermitteln öffentliche Stellen des Bundes und der Länder personenbezogene Daten auf Ersuchen, trägt grundsätzlich das LEA die Verantwortung für die Zulässigkeit der Datenübermittlung. Die übermittelnde Stelle prüft nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des LEA liegt, es sei denn, es bestünde besonderer Anlass zur Prüfung der Zulässigkeit. Bereichsspezifische Verwendungsregelungen oder Übermittlungsverbote müssen jedoch von der übermittelnden Stelle beachtet werden (VAB S.32.2).
+32.1.2. Ohne Ersuchen
+Öffentliche Stellen sind verpflichtet bei ihnen vorhandene Erkenntnisse, die Auswirkungen auf Erwerb, Bestand oder Verlust der Staatsangehörigkeit Betroffener haben können, auch ohne Ersuchen ans LEA zu übermitteln. In Betracht kommen zum Beispiel Erkenntnisse über Straftaten, Ausweisungsgründe, Identitätstäuschungen, verfassungsfeindliche Bestrebungen, die vor allem bei anhängigen Einbürgerungsverfahren von Bedeutung sein können. So können Behörden auf eine rechtskräftige Vaterschaftsanfechtung hinweisen, die jeweils Auswirkungen auf den Bestand der Staatsangehörigkeit haben können.
+Soweit Meldebehörden oder Auslandsvertretungen der neue Aufenthaltsort Erklärungspflichtiger nach § 29, die bisher als unbekannt verzogen galten, bekannt wird, übermitteln sie diese Angaben den zuständigen Staatsangehörigkeitsbehörden.
+Bei Übermittlung ohne Ersuchen trägt die übermittelnde Stelle die Verantwortung für die Zulässigkeit der Übermittlung. 32.1.3. und 4. Daten nach § 87 Absatz 4 AufenthG
+Siehe VAB A.87.4.
+32.2. Besondere gesetzliche Verwendungsregeln
+Unter Verarbeitungsregelungen sind gesetzlich geregelte Geheimhaltungspflichten zu verstehen.
+Als entgegenstehende besondere gesetzliche Verwendungsregelungen kommen beispielsweise nachfolgende in Betracht: § 23 BVerfSchG (Mitteilungen vom Verfassungsschutz im Einbürgerungsverfahren)
+§ 203 StGB (Verletzung von Privatgeheimnissen),
+§ 30 AO (Steuergeheimnis) oder
+§ 21 SÜG im Rahmen der Sicherheitsüberprüfung gespeicherten personenbezogenen Daten.
+Bei den genannten Rechtsgrundlagen erfolgt keine Übermittlung personenbezogener Daten.

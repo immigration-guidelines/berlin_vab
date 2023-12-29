@@ -1,13 +1,14 @@
 VAB D 14a
 VAB D 14a
 D.14a. Familieneinheit
-(2.ÄndG; AsylVfBeschlG; 05.06.2018; 19.09.2019)
-14a.1. Mit dieser Vorschrift soll verhindert werden, dass durch das zeitlich versetzte Stellen von Asylanträgen für nicht verfahrensfähige Kinder die Asylverfahren verlängert und damit eine mögliche Ausreisepflicht verzögert wird.
+(2.ÄndG; AsylVfBeschlG; 19.09.2019; 28.09.2023)
+14a.1. Frei
 14a.2.1. frei
-14a.2.2. Die Ausländerbehörde ist von der Regelung insofern betroffen, als ihr grundsätzlich eine Meldepflicht für hier geborene bzw. nachgezogene minderjährige ledige Kinder obliegt. Die Anzeige erfolgt gegenüber der Berliner Außenstelle des BAMF. Die Anzeige der Geburt beim Bundesamt bewirkt die Einleitung eines fiktiven Asylverfahrens für dieses Kind (Antragsfiktion).
+14a.2.2. Die Ausländerbehörde ist von der Regelung insofern betroffen, als ihr grundsätzlich eine Meldepflicht für hier geborene bzw. nachgezogene minderjährige ledige Kinder obliegt.
 Merke: Vor einer Meldung an das BAMF, ist das Neugeborene zunächst im AZR zu erfassen. Der Meldung sind Dokumente beizufügen, die die Geburt des Kindes belegen können (vorzugsweise Geburtsurkunde, Geburtsbescheinigung bzw. ein Registereintrag); sofern diese nicht vorgelegt werden (können), genügt z.B. auch die Kopie des Untersuchungsheftes für das Kind. Eine Meldung ohne jegliches Dokument ist nicht ausreichend.
-Die Meldepflicht der Ausländerbehörde gilt immer dann, wenn beide Eltern oder der alleinsorgeberechtigte Elternteil im Besitz einer Aufenthaltsgestattung oder Aufenthaltserlaubnis nach § 25 Abs. 5 AufenthG sind bzw. sich nach Abschluss eines Asylverfahrens ohne Aufenthaltstitel hier aufhalten. Sind z.B. etwa beide Eltern personensorgeberechtigt und besitzt ein Elternteil einen Titel nach § 25 Abs. 5 AufenthG, der andere dagegen lediglich eine Aufenthaltsgestattung, ist der Anzeigepflicht zu folgen.
+Die Meldepflicht der Ausländerbehörde gilt immer dann, wenn beide Eltern oder der alleinsorgeberechtigte Elternteil im Besitz einer Aufenthaltsgestattung oder Aufenthaltserlaubnis nach § 25 Abs. 5 AufenthG sind bzw. sich nach Abschluss eines Asylverfahrens ohne Aufenthaltstitel hier aufhalten.
 Merke: Eine allein am Wortlaut orientierte Auslegung des Gesetzes („ein Elternteil“) widerspricht dem vom Gesetzgeber verfolgten Zweck (vgl. BT-Drs. 15/420 S. 108; Bayerischer Verwaltungsgerichtshof, Beschluss vom 23. März 2009 – 20 ZB 09.30058 –, juris). Die Anzeigepflicht entfällt nach sinngemäßer Auslegung des § 14a Abs. 2 Satz 1, sofern wenigstens ein sorgeberechtigter Elternteil einen Aufenthaltsstatus besitzt, der über die drei in dieser Vorschrift explizit genannten Aufenthaltsrechte hinausgeht. Kommt demnach die Antragsfiktion nicht zum Tragen, ist ohne Beteiligung des BAMF eine Aufenthaltserlaubnis zum Familiennachzug zu prüfen (vgl. A.33.0.2.).
 14a.2.3. frei
-14a.3. Mit der Neufassung des Absatzes zum 1.12.2013 wird die Möglichkeit für Eltern, Verzichtserklärungen hinsichtlich des Asylverfahrens für das Kind begrenzt. Diese ist nicht mehr jederzeit, sondern nur noch bis zur Zustellung des Bescheides abzugeben. Dadurch sollen weitere Verfahrensverzögerungen verhindert werden. Die Verzichtserklärung kann allerdings beschränkt werden (vgl. § 13 Abs. 2 S. 2).
-14a.4. Die Regelungen der Absätze 1 bis 3 gelten auch in den Fällen, in denen die Antragstellung der Eltern vor dem 01.01.2005 erfolgte. Ausweislich einer Entscheidung des Bundesverwaltungsgerichts vom 21.11.2006 (BVerwG 1 C 10.06) gilt die Anzeigepflicht und die daran anknüpfende Fiktion der Asylantragstellung auch für die Kinder, die vor dem 01.01.2005 geboren oder eingereist sind. Diese sind anlassbezogen nachzumelden. Durch Abs. 4 wird dies noch einmal - ergänzt um die Fälle, in denen das Kind später in das Bundesgebiet einreist oder hier geboren wird - klargestellt.
+14a.3.1 Frei
+14a.3.2 Frei
+14a.4. Frei

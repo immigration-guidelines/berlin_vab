@@ -2,7 +2,9 @@ VAB A 39
 VAB A 39
 Inhaltsverzeichnis
 A.39. Zustimmung zur Ausländerbeschäftigung
+(FEG; 01.04.2022; 18.11.2023; FEWG)
 39.1. Zustimmungsverfahren mit den Agenturen für Arbeit
+39.1.
 39.1.1.1. Die Prüfung findet in folgender Reihenfolge statt (vgl. auch VAB A 18.0.)
 39.1.1.3. Formular im Zustimmungsverfahren
 Zuständigkeiten der Agenturen für Arbeit
@@ -16,61 +18,65 @@ Zuständigkeiten der Agenturen für Arbeit
 39.5.
 39.6.
 A.39. Zustimmung zur Ausländerbeschäftigung
-(FEG; 25.11.2021; 01.04.2022)
-39. 0. Normadressat der Vorschriften der §§ 39 bis 42 sowie der Beschäftigungsverordnung – BeschV - sind neben den Ausländerbehörden die Arbeitgeber- Services der BA.
+(FEG; 01.04.2022; 18.11.2023; FEWG)
+39. 0. Normadressat der Vorschriften der §§ 39 bis 42 sowie der Beschäftigungsverordnung – BeschV - sind neben den Ausländerbehörden die Arbeitgeber-Services der BA.
 Die BeschV regelt sowohl die Zulassung zur Ausübung einer Beschäftigung für Personen, die sich zum Zwecke der Beschäftigung oder Ausbildung hier aufhalten wollen als auch die Zulassung zur Ausübung einer Beschäftigung und das Verfahren für Ausländer, die sich erlaubt zu einem anderen Zweck – etwa aus humanitären Gründen - gestattet oder geduldet hier aufhalten. Sie gilt auch für Ausländer, die sich bereits aus anderen Gründen im Bundesgebiet aufhalten und nunmehr einen Aufenthaltstitel begehren, wie etwa Arbeitsplatzsuchende (vgl. § 17 oder § 20) oder Personen, deren bisheriger Aufenthaltszweck entfallen ist.
 Merke: In allen Zweifelsfällen ist die Agentur für Arbeit ''' um Stellungnahme zu ersuchen (vgl. A.72.7.).
 39.1. Zustimmungsverfahren mit den Agenturen für Arbeit
+39.1.
 39.1.1. 1. Die Prüfung findet in folgender Reihenfolge statt (vgl. auch VAB A 18.0.)
-1. Erwerbstätigkeit kraft Gesetzes erlaubt (vgl. A.4 a.1.1.)
+1. Erwerbstätigkeit kraft Gesetzes erlaubt (vgl. A.4a.1.1.)
 2. zustimmungsfreie Beschäftigung
 durch Gesetz (z.B. § 18b Abs. 2 S.1 für die Blaue Karte EU; § 18c für NE bei Fachkräften, 18d Forscher) oder durch die Beschäftigungsverordnung (BeschV) (z.B. § 5 BeschV, § 9 BeschV, § 15, § 19, § 22 BeschV); oder zwischenstaatliche Vereinbarung, z.B. Working-Holiday (vgl. B.AufenthV.41.)
-3. Verzicht auf das Zustimmungsverfahren bei zustimmungspflichtigen Beschäftigungen (gültige Vorabzustimmung der BA; Globalzustimmungen der BA; vgl. B.BeschV. 37.)
-4. Verzicht auf das Zustimmungsverfahren bei bloßer Erweiterung des Beschäftigungsumfangs (z. B. Erhöhung der Stunden von 20 auf 39 Stunden, wenn der Stundenlohn unverändert bleibt. Eine in diesem Zusammenhang erfolgende Anpassung der sonstigen Beschäftigungsbedingungen, etwa eines höheren Monatslohns oder Urlaubsanspruchs, ist unproblematisch. 39.1.1. 2. Wenn keine Zustimmungsfreiheit der Beschäftigung besteht ist v or jeder Anfrage bei der Agentur für Arbeit aus Gründen der Verwaltungseffizienz zu prüfen, ob überhaupt die aufenthaltsrechtlichen Erteilungsvoraussetzungen für den Titel vorliegen. Kommt zum Beispiel die Erteilung einer AE nach § 18 a nicht in Betracht, weil für den Betroffenen Ausweisungsinteressen bestehen, die zu einer Versagung gem. § 5 Abs. 1 Nr. 2 führen, so ist der Antrag auf AE schon deshalb abzulehnen. Erhält der Betroffene sodann eine Duldung, gelten für den möglichen Zugang zur Beschäftigung andere Regelungen (vgl. hierzu Ausführungen zu § 4 a Abs. 4 sowie B.BeschV. 32.).
+3. Verzicht auf das Zustimmungsverfahren bei zustimmungspflichtigen Beschäftigungen (gültige Vorabzustimmung der BA; Globalzustimmungen der BA; vgl. B.BeschV.37.)
+4. Verzicht auf das Zustimmungsverfahren bei bloßer Erweiterung des Beschäftigungsumfangs (z. B. Erhöhung der Stunden von 20 auf 39 Stunden, wenn der Stundenlohn unverändert bleibt. Eine in diesem Zusammenhang erfolgende Anpassung der sonstigen Beschäftigungsbedingungen, etwa eines höheren Monatslohns oder Urlaubsanspruchs, ist unproblematisch. 39.1.1. 2. Wenn keine Zustimmungsfreiheit der Beschäftigung besteht ist vor jeder Anfrage bei der Agentur für Arbeit aus Gründen der Verwaltungseffizienz zu prüfen, ob überhaupt die aufenthaltsrechtlichen Erteilungsvoraussetzungen für den Titel vorliegen. Kommt zum Beispiel die Erteilung einer AE nach § 18a nicht in Betracht, weil für den Betroffenen Ausweisungsinteressen bestehen, die zu einer Versagung gem. § 5 Abs. 1 Nr. 2 führen, so ist der Antrag auf AE schon deshalb abzulehnen. Erhält der Betroffene sodann eine Duldung, gelten für den möglichen Zugang zur Beschäftigung andere Regelungen (vgl. hierzu Ausführungen zu § 4a Abs. 4 sowie B.BeschV.32.).
 39.1.1.3. Formular im Zustimmungsverfahren
 Die Anfragen an die Agentur für Arbeit um Zustimmung werden auf den mit der hiesigen Regionaldirektion abgestimmten Formularen unter Beachtung der beigefügten Ausfüllhinweise erstellt und enthalten einen Hinweis auf die Mitwirkungspflicht nach § 82. Weiter wird der Ausländer darauf hingewiesen, dass - sollten noch erforderliche Angaben oder Unterlagen fehlen - er diese innerhalb einer Frist von 2 Wochen der zentral für die
-Regionaldirektionen Berlin -Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Erfurt, Team 251, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
+Regionaldirektionen Berlin-Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen zuständigen Agentur für Arbeit Erfurt, Team 251, zu übermitteln hat, weil sein Antrag ansonsten abgelehnt werden kann:
 Agentur für Arbeit Erfurt
 Team 251
 Max-Reger-Str. 1
 99096 Erfurt
 zav.amz-erfurt-251@arbeitsagentur.de
 Auch sollte dem Antragsteller das Formblatt „ Erklärung zum Beschäftigungsverhältnis“ ausgehändigt werden, welches der Arbeitgeber auszufüllen und ebenfalls der zuständigen Agentur für Arbeit Erfurt (s.o.) zu übersenden hat. Hierauf folgt der Hinweis auf eine mögliche Versagung, wenn das Formblatt nicht ausgefüllt innerhalb einer Frist von 2 Wochen an die Agentur für Arbeit Erfurt übersandt wird.
-Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 4). Wenn weitere Unterlagen beim Landesamt für Einwanderung vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden. Das Beteiligungsverfahren nach § 39 AufenthG mit der Bundesagentur für Arbeit (BA) wird ausschließlich digital über AusReg abgewickelt. Sowohl die Zustimmungsanfragen an die für die beabsichtigte Beschäftigung zuständigen Teams der Arbeitsagenturen wie auch die von dort eingehenden Antworten werden über das in AusReg implementierte Modul „BA-Schnittstelle“ eingesteuert und bearbeitet.
+Der Antrag enthält weiter neben dem hiesigen Aktenzeichen, Angaben zu den persönlichen Daten des Ausländers, zur Rechtsgrundlage für den derzeitigen bzw. beabsichtigten Aufenthalt und zu Art und Bedingungen der beabsichtigten Beschäftigung. Weitere Unterlagen – etwa Arbeitsvertragsentwürfe o.ä. – sind für die Anfrage nicht erforderlich, da die Arbeitsagentur regelmäßig ohnehin mit dem Arbeitgeber in Kontakt treten wird (vgl. § 39 Abs. 4). Wenn weitere Unterlagen beim Landesamt für Einwanderung vorhanden sind, sollten sie aber dem Anfrageformular als Anlage beigefügt werden.
+Das Beteiligungsverfahren nach § 39 AufenthG mit der Bundesagentur für Arbeit (BA) wird ausschließlich digital über AusReg abgewickelt. Sowohl die Zustimmungsanfragen an die für die beabsichtigte Beschäftigung zuständigen Teams der Arbeitsagenturen wie auch die von dort eingehenden Antworten werden über das in AusReg implementierte Modul „BA-Schnittstelle“ eingesteuert und bearbeitet.
 Zuständigkeiten der Agenturen für Arbeit
 Zuständig ist grundsätzlich d iejenige Agentur für Arbeit, in de ren Bezirk der Betrieb seinen Sitz oder seine Niederlassung hat, in der der Ausländer arbeiten soll. Im Zweifel ist der Betrieb die Betriebsstätte, dass heißt der Ort an dem der Ausländer tätig werden soll. Bei Beschäftigungen mit wechselnden Arbeitsstätten gilt der Sitz der für die Lohnabrechnung zuständigen Stelle als Beschäftigungsort.
 Für die Regionaldirektionen Berlin-Brandenburg, Nord, Sachsen-Anhalt-Thüringen und Sachsen ist zentral die Agentur für Arbeit Erfurt, Team 00 8, zuständig. Befindet sich der Betrieb in einem anderen Bundesland als den vorgenannten, ist die Zuständigkeit dem Internetauftritt der BA zu entnehmen.
 Spezielle Zuständigkeiten gelten für
 Arbeitnehmergruppe Zuständige Agentur Fax-Nr. /E-Mail-Adresse und Telefonnummer
 -Pflegekräfte auf der Grundlage von
-Vermittlungsabsprachen ZAV Team 231
--Fachschulpraktikanten in Verbindung mit Tel.: 0228/713-1326
+Vermittlungsabsprachen
+-Fachschulpraktikanten in Verbindung mit ZAV Team 231
+Tel.: 0228/713-1326
+Villemombler Str. 76
 deren Ausbildung im Heimatland zav.amz-bonn-231@arbeitsagentur.de
-Villemo mbler Str. 76
--Ferienbeschäftigungen ausländischer 53123 Bonn
+53123 Bonn
+-Ferienbeschäftigungen ausländischer
 Studierender (§ 14 Abs. 2 BeschV)
 -Spezialitätenköche (§ 11 Abs.2 BeschV)
 ZAV Team 232
--Künstler (§ 25 BeschV) Villemo mbler Str. 76 Tel.: 0228/713-13 16
+-Künstler (§ 25 BeschV) Villemombler Str. 76 Tel.: 0228/713-1316
 53123 Bonn zav.amz-bonn-232@arbeitsagentur.de
 -Einschaltung der Künstlervermittlung
 (Verfahren nach § 21 Abs. 5 AufenthG)
-- Internationaler Personalaustausch (§ 10
-Die Zuständigkeit des Teams richtet sich nach der
-BeschV)
-Postleitzahl des Standortes des Arbeitgebers:
+- Internationaler Personalaustausch (§ 10 Die Zuständigkeit des Teams richtet sich nach der
+BeschV) Postleitzahl des Standortes des Arbeitgebers:
 - ICT-Karte / Mobiler-ICT-Karte (§ 10a
-BeschV)
-PLZ: 01000-64999: Team 232
-- Ferienbeschäftigungen ausländischer
-Studiernder (§ 14 Abs. 2 BeschV) ZAV Team 231 Tel.: 0228/713-1316
-oder 232
-- Studienfachbezogene Praktika (§ 15 Nr. Villemo mbler Str. 76 zav.amz-bonn-232@arbeitsagentur.de 4 / 6 BeschV) 53123 Bonn
-- Drittstaatsangehörige, die nicht in den PLZ: 65000-99999: Team 231
-Anwendungsbereich der ICT-RL fallen,
-Tel.: 0228/713-1326
-aber die Voraussetzungen nach Mode 4
-GATS erfüllen (§ 29 Abs. 5 BeschV) zav.amz-bonn-231@arbeitsagentur.de
+BeschV) PLZ: 01000-64999: Team 232
+- Ferienbeschäftigungen ausländischer Tel.: 0228/713-1316
+ZAV Team 231
+Studiernder (§ 14 Abs. 2 BeschV) oder 232
+Villemombler Str. 76 zav.amz-bonn-232@arbeitsagentur.de
+- Studienfachbezogene Praktika (§ 15 Nr.
+53123 Bonn
+4 / 6 BeschV)
+PLZ: 65000-99999: Team 231
+- Drittstaatsangehörige, die nicht in den
+Anwendungsbereich der ICT-RL fallen, Tel.: 0228/713-1326
+aber die Voraussetzungen nach Mode 4 zav.amz-bonn-231@arbeitsagentur.de
+GATS erfüllen (§ 29 Abs. 5 BeschV)
 ZAV
 Tel.: 0711/920-3265; -3268 oder
 - Werkvertragsarbeitnehmer/-innen auf Team 241/242
@@ -82,14 +88,13 @@ zav.amz-stuttgart-242@arbeitsagentur.de
 70191 Stuttgart
 - Werkvertragsarbeitnehmer/-innen
 (bestimmte Staatsangehörige nach § 26
-Abs. 1 BeschV)
-ZAV
-- Kurz- und längerfristig entsandte Team 242
-Tel.: 0711/920-3201 oder -3020
-Arbeitnehmer/-innen im Rahmen von Nordbahnhofstraße
-zav.amz-stuttgart-242@arbeitsagentur.de
-Liefer- und Montageverträgen von 30-34
-70191 Stuttgart
+Abs. 1 BeschV) ZAV
+Team 242
+- Kurz- und längerfristig entsandte Tel.: 0711/920-3201 oder -3020
+Nordbahnhofstraße
+Arbeitnehmer/-innen im Rahmen von zav.amz-stuttgart-242@arbeitsagentur.de
+30-34
+Liefer- und Montageverträgen von 70191 Stuttgart
 Maschinen, Anlagen und
 EDV-Programmen (§ 19 BeschV)
 ZAV
@@ -121,8 +126,7 @@ Spricht der Betroffene im Fall einer zeitlich beschränkten Zustimmung vor Ablau
 Dies gilt allerdings nicht, wenn noch keine (beschränkte) Zustimmung vorgelegen hat. So ist insbesondere in Fällen, in denen Angehörige von in § 41 AufenthV genannten Staaten, die hier nach Einreise ohne Visum einen Antrag auf AE nach zum Zweck der Erwerbstätigkeit stellen, keine Fiktionsbescheinigung, auszustellen, die die Erlaubnis der beantragten Tätigkeit beinhaltet, weil das Arbeitsgenehmigungsverfahren erst in Gang gesetzt wurde.
 39.1.1.6.Dauer und Verlängerung der Zustimmung
 Die Zustimmung kann sowohl zeitlich als auch sachlich beschränkt (§ 34 Abs. 1 BeschV) und für längstens vier Jahre jeweils zu einem bestimmten Aufenthaltstitel erteilt werden (§ 34 Abs. 2 i.V.m. § 35 Abs. 1 BeschV). Wurde eine Zustimmung irrtümlich entgegen § 34 Abs. 2 BeschV für einen längeren Zeitraum als vier Jahre erteilt, so ist von einer Zustimmung für vier Jahre auszugehen und ist auch der Aufenthaltstitel ggf. für vier Jahre zu erteilen. Auf eine Nachfrage bei der Agentur für Arbeit sollte verzichtet werden.
-Endet die Zustimmung, ohne dass der Aufenthaltstitel ausläuft, ist die erneute Vorsprache des Betroffenen bei der Ausländerbehörde erforderlich, die dann erneut die Zustimmung der Agentur für Arbeit einholen muss.
-Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten, von der Gültigkeit des Aufenthaltstitels unabhängigen, Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein.
+Endet die Zustimmung, ohne dass der Aufenthaltstitel ausläuft, ist die erneute Vorsprache des Betroffenen bei der Ausländerbehörde erforderlich, die dann erneut die Zustimmung der Agentur für Arbeit einholen muss. Wird sie auf die Dauer des Aufenthaltstitels befristet erteilt, so ist vor der Verlängerung des Aufenthaltstitels erneut die Zustimmung der Agentur für Arbeit einzuholen. Problematisch ist, ob auch die Zustimmung der Agentur für Arbeit ggf. in analoger Anwendung der „ Fiktionswirkung“ des § 81 Abs. 4 unterliegt. Dies ist nach richtiger Auffassung grundsätzlich zu bejahen. Etwas anderes gilt nur dann, wenn die Agentur für Arbeit die Zustimmung zur Beschäftigung aus arbeitsmarktpolitischen Gründen von vornherein nur für einen bestimmten, von der Gültigkeit des Aufenthaltstitels unabhängigen, Zeitraum erteilt. Dies sollte nach dortiger Vorstellung aber nur selten der Fall sein.
 39.1.1.7. Versagung der Zustimmung
 Die negative Antwort der Bundesagentur wird die die Beschäftigung betreffenden Nebenbestimmungen, ggf. den Hinweis auf den Ablehnungsgrund oder den Hinweis auf die Zustimmungsfreiheit einer Beschäftigung, enthalten.
 Wird die Zustimmung versagt, so ergeht der Bescheid der Ausländerbehörde schriftlich.
@@ -133,7 +137,7 @@ Gegen die behördliche Entscheidung der Versagung der Erwerbstätigkeit bzw. der
 Eine Rückmeldung seitens der Ausländerbehörde, ob aufgrund einer Zustimmung der Agentur für Arbeit ein Aufenthaltstitel erteilt worden ist, ist nicht vorgesehen. Den Agenturen für Arbeit besitzen einen AZR-Zugriff.
 39.1.2. frei
 39.2.
-Absatz 2 regelt mit Inkrafttreten des Fachkräfteeinwanderungsgesetzes zum 1.3.2020 die Zustimmung der BA zur Erteilung von Aufenthaltstiteln an Fachkräfte nach den §§ 18a und 18b. Die Zustimmung zu unqualifizierten Beschäftigungen und anderen Fällen wird in Absatz 3 geregelt.
+Absatz 2 regelt die Zustimmung der BA zur Erteilung von Aufenthaltstiteln an Fachkräfte nach den § § 18a, 18b und 18g Abs. 1 Satz 2 und Abs. 2. Die Zustimmung zu unqualifizierten Beschäftigungen und anderen Fällen wird in Absatz 3 geregelt.
 39.2.1-4.
 Normadressat der Vorschriften sind die Arbeitgeber-Services der BA.
 39.3.
@@ -144,4 +148,3 @@ Die Agentur für Arbeit wendet sich nach der Anfrage durch die Ausländerbehörd
 frei
 39.6.
 Für eine Beschäftigung als Saisonarbeitnehmer ist die Zustimmung der Bundesagentur für Arbeit erforderlich. Die Vorschrift ermächtigt die Bundesagentur für Arbeit, am Bedarf für Saisonarbeitnehmer orientierte Zahlen festzulegen. Hat die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl festgelegt, erteilt diese eine formelle Arbeitserlaubnis zum Zweck der Saisonbeschäftigung nach § 15a Absatz 6 BeschV ohne Vorrangprüfung.
-<a type="hw_internal_link" href="Kategorie%3AVAB">Kategorie:VAB]]]]]]
