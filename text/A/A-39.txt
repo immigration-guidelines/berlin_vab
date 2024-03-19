@@ -13,6 +13,7 @@ Zuständigkeiten der Agenturen für Arbeit
 39.1.1.7. Versagung der Zustimmung
 39.2.
 39.2.1-4.
+39.2a.
 39.3.
 39.4. Dauer und Verlängerung der Zustimmung
 39.5.
@@ -140,6 +141,9 @@ Eine Rückmeldung seitens der Ausländerbehörde, ob aufgrund einer Zustimmung d
 Absatz 2 regelt die Zustimmung der BA zur Erteilung von Aufenthaltstiteln an Fachkräfte nach den § § 18a, 18b und 18g Abs. 1 Satz 2 und Abs. 2. Die Zustimmung zu unqualifizierten Beschäftigungen und anderen Fällen wird in Absatz 3 geregelt.
 39.2.1-4.
 Normadressat der Vorschriften sind die Arbeitgeber-Services der BA.
+39.2a.
+Der neue Absatz 2 a legt den gesetzlichen Rahmen für Globalzustimmungen durch die Bundesagentur für Arbeit sowie eine Mitwirkungspflicht des Arbeitgebers fest.
+Erteilt die Bundesagentur für Arbeit eine Globalzustimmung für einzelne Berufe oder Beschäftigungen, so entfällt eine Beteiligung der Bundesagentur für Arbeit. Die Globalzustimmung wird durch die Bundesagentur für Arbeit bekannt gemacht. Liegt die Globalzustimmung vor, ist die Aufenthaltserlaubnis zu erteilen. Eine weitere Prüfung durch die Ausländerbehörde erfolgt nur, wenn erhebliche Bedenken bezüglich der Arbeitsbedingungen oder an der angemessenen Entlohnung bestehen. Die Bundesagentur für Arbeit kann in diesen Fällen weiterhin durch die Ausländerbehörde fakultativ beteiligt werden (§ 72 Absatz 7; vgl. Nummer 72.7).
 39.3.
 Absatz 3 regelt im Gegensatz zu Absatz 2 die Zustimmung der BA in allen anderen Fällen unabhängig von der Qualifikation als Fachkraft.
 39.4. Dauer und Verlängerung der Zustimmung

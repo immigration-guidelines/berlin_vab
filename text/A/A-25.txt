@@ -2,7 +2,7 @@ VAB A 25
 VAB A 25
 Inhaltsverzeichnis
 A.25. Aufenthalt aus humanitären Gründen
-(07.07.2022, 03.08.2023; ChARG)
+(07.07.2022, 03.08.2023; ChARG; RückführungsVG)
 A.25.1. Anerkannte Asylberechtigte
 A.25.2. Flüchtlingseigenschaft nach dem Abkommen über die Rechtsstellung der Flüchtlinge (Genfer Flüchtlingskonvention)/Subsidiärer Schutz nach § 4 AsylG
 A.25.3. Abschiebungsverbote gemäß § 60 Abs. 5 oder 7
@@ -20,7 +20,7 @@ A.25.4a.4. Nebenbestimmungen
 A.25.4b. Opfer von ausbeuterischen Arbeitsverhältnissen
 A.25.5. Aufenthaltserlaubnis wegen eines bestehenden Ausreisehindernisses
 Familiäre Lebensgemeinschaft kann in zumutbarer Weise ausschließlich im Bundesgebiet gelebt werden Patchwork-Familien
-Abgeleitetes Aufenthaltsrecht des Drittstaatsangehörigen vom minderjährigen Unionsbürger i. S. v. Art. 20 AEUV. 299 Bestehende familiäre Lebensgemeinschaft i.S.v. Art. 6 GG
+Abgeleitetes Aufenthaltsrecht des Drittstaatsangehörigen vom minderjährigen Unionsbürger i. S. v. Art. 20 AEUV. 307 Bestehende familiäre Lebensgemeinschaft i.S.v. Art. 6 GG
 Familiäre Lebensgemeinschaft mit volljährigen ehemals unbegleiteten Ausländern
 Übergeordnete öffentliche Interessen
 Erteilung entgegen der Sperrwirkung aus § 11 Abs. 1 AufenthG
@@ -28,7 +28,7 @@ A.25.s.1. Beginn und Fortsetzung einer Schul- oder Berufsausbildung bzw. eines S
 Aufnahme eines Studiums während des Besitzes einer Aufenthaltserlaubnis nach § 25 Abs. 4 Satz 1 oder Abs. 4a Aufnahme eines Studiums während des Besitzes einer Aufenthaltserlaubnis nach § 25 Abs. 5
 Fortsetzung des Studiums nach Wegfall des Ausreisehindernisses in den Fällen des § 25 Abs. 5
 A.25. Aufenthalt aus humanitären Gründen
-(07.07.2022, 03.08.2023; ChARG)
+(07.07.2022, 03.08.2023; ChARG; RückführungsVG)
 A.25.1. Anerkannte Asylberechtigte
 25.1.0 § 25 Abs. 1 regelt die Rechtsfolge nach Anerkennung als Asylberechtigter.
 25.1.1. Die AE ist in den Fällen des § 25 Abs. 1 erstmalig für bis zu drei Jahre zu erteilen (vgl. A.26.1.; zur Frage der Geltungsdauer der Verlängerung der Aufenthaltserlaubnis vgl. A.26.2.1.).
@@ -47,7 +47,9 @@ A.25.2. Flüchtlingseigenschaft nach dem Abkommen über die Rechtsstellung der F
 A.26.1.; zur Frage der Geltungsdauer der Verlängerung der Aufenthaltserlaubnis vgl. A.26.2.1.). Reiseausweise für Flüchtlinge werden ebenfalls für höchstens drei Jahre ausgestellt, sofern die AE für diesen Zeitraum erteilt wird. Der Reiseausweis ist mit einem Chip versehen, in dem das biometrische Merkmal Gesichtsbild gespeichert ist. Eine Verlängerung des Reiseausweises für Flüchtlinge kommt nicht in Betracht, § 58 Satz 2 AufenthV.
 In eilbedürftigen Fällen kann ein vorläufiger Reiseausweis auf dem bisherigen Muster mit einer Gültigkeitsdauer von bis zu einem Jahr ausgestellt werden. Allerdings sind die jeweiligen Aufkleber mit Personendaten von Kindern nicht mehr zu verwenden. Kinder bis zur Vollendung des 12. Lebensjahres erhalten regelmäßig einen Reiseausweis mit Speichermedium, der höchstens 6 Jahre gültig sein darf, längstens jedoch bis zur Vollendung des 12. Lebensjahres, § 4 Abs. 1 Satz 3 und 4 AufenthV.
 Beachte: Mit Schreiben an die Länder vom 01.10.2018 empfiehlt das BMIBH im Interesse der Identifizierung eines Betroffenen, die (rechtlich erloschene) Bescheinigung über die Aufenthaltsgestattung bis zu dem Zeitpunkt der Ausstellung entsprechender Ausweisdokumente, wie einen Reiseausweis für Flüchtlinge bzw. Reiseausweis für Ausländer, bei dem Ausländer zu belassen und erst dann einzuziehen.
-Eine erloschene Aufenthaltsgestattung kann aus Sicht des Bundesinnenministeriums als zwar nicht mehr (aufenthaltsrechtlich) gültiges, aber offizielles inländisches Dokument mit einem Lichtbild versehen die Identifizierung des Betroffenen im Sinne der Ausweisfunktion und damit die Eröffnung eines sog. Basiskontos ermöglichen. Sie gewährleistet zudem im allgemeinen Rechtsverkehr zweifelsfrei die Feststellung des Aufenthaltsstatus und der Identität des Betroffenen. Der Bitte des BMIBH entsprechend, verbleibt es bei der hier bereits bestehenden Verfahrensweise. 25.2.1. 2. Die AE ist subsidiär Schutzberechtigten (Fälle des § 25 Abs. 2 S.1 2. Alternative) mindestens für 13 Monate zu erteilen, regelmäßig jedoch für drei Jahre. Die Verlängerung erfolgt mindestens für 2 Jahre. (§ 26 Abs. 1 S. 3; zur Frage der Geltungsdauer der Verlängerung der Aufenthaltserlaubnis vgl. A.26.2.).
+Eine erloschene Aufenthaltsgestattung kann aus Sicht des Bundesinnenministeriums als zwar nicht mehr (aufenthaltsrechtlich) gültiges, aber offizielles inländisches Dokument mit einem Lichtbild versehen die Identifizierung des Betroffenen im Sinne der Ausweisfunktion und damit die Eröffnung eines sog. Basiskontos ermöglichen. Sie gewährleistet zudem im allgemeinen Rechtsverkehr zweifelsfrei die Feststellung des Aufenthaltsstatus und der Identität des Betroffenen.
+Der Bitte des BMIBH entsprechend, verbleibt es bei der hier bereits bestehenden Verfahrensweise.
+25.2.1. 2. Die AE ist subsidiär Schutzberechtigten (Fälle des § 25 Abs. 2 S.1 2. Alternative) erstmalig für bis zu drei Jahre zu erteilen. Die Verlängerung erfolgt gleichfalls für 3 Jahre.
 Verfügt der Ausländer über keinen Pass, ist nach §§ 5 Abs. 3 S. 1, 48 Abs. 4 ein Ausweisersatz gekoppelt an die Gültigkeitsdauer der Aufenthaltserlaubnis zu erteilen. Die Voraussetzungen, unter denen ein Reiseausweis für Ausländer ausgestellt wird, ergeben sich aus B.AufenthV.5.-11.
 Familiennachzug zu subsidiär Schutzberechtigten ist grundsätzlich in § 36a geregelt (zu den Ausnahmen vgl. A.36a.0.). 25.2.2.
 Zum Ausschlusstatbestand im Falle einer Ausweisung aus zwingenden Gründen der nationalen Sicherheit oder öffentlichen Ordnung gem. § 25 Abs. 2 S. 2 i.V.m. Abs. 1 S. 2 siehe A.25.1.2.

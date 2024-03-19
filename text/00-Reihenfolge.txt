@@ -230,7 +230,6 @@ E Libyen 1
 E Montenegro 1
 E Nordkorea 1
 E Russland 2
-E Serbien 1
 E Syrien 1
 E Syrien 2
 E Syrien 3

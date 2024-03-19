@@ -1,9 +1,9 @@
 VAB D 8
 VAB D 8
 D.8. Übermittlung personenbezogener Daten
-(17.01.2019; 09.11.2023)
+(17.01.2019; 09.11.2023; RückführungsVG)
 8.1. bis 8.1b. frei
-8.1c. Erhält die Ausländerbehörde (z.B. durch Äußerungen des Betroffenen, Sichtvermerke oder anonyme Hinweise) Anhaltspunkte dafür, dass ein Asylberechtigter oder ein Ausländer, dem internationaler Schutz zuerkannt wurde, in seine Heimat gereist ist, ist dies dem BAMF mitzuteilen und es gilt das Verfahren nach D.73. Auch der dauerhafte Fortzug in das Herkunftsland ist dem BAMF zu melden, § 73 Abs. 1 S. 2 Nr. 4.
+8.1c. Erhält die Ausländerbehörde (z.B. durch Äußerungen des Betroffenen, Sichtvermerke oder anonyme Hinweise) Anhaltspunkte dafür, dass ein Ausländer, der einen förmlichen Asylantrag gem. § 14 gestellt hat, ein Asylberechtigter oder ein Ausländer, dem internationaler Schutz zuerkannt oder für den ein Abschiebungsverbot nach § 60 Abs. 5 oder 7 AufenthG festgestellt wurde, in seine Heimat gereist ist, ist dies dem BAMF mitzuteilen. Das BAMF prüft in der Folge, ob die Voraussetzungen für die Einstellung des Asylverfahrens oder die Ablehnung eines Asylantrags nach § 33 Abs. 1 und 3 oder für einen Widerruf oder eine Rücknahme der Asylberechtigung, des internationalen Schutzes oder der Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 AufenthG vorliegen. Für Widerruf und Rücknahme gilt das Verfahren nach D.73. Auch der dauerhafte Fortzug in das Herkunftsland ist dem BAMF zu melden, § 73 Abs. 1 S. 2 Nr. 4.
 Dabei sind die Tatsachen, die die Vermutung rechtfertigen, mitzuteilen und etwaige Belege beizufügen(auch möglich per Mail an das Organisationspostfach des BAMF Ref31BPosteingang@bamf.bund.de.
 Bitten des BAMF, vorgenannte Anhaltspunkte im Rahmen des Widerrufsverfahrens auch bei anderen öffentlichen Stellen, wie etwa den Jobcentern, in Erfahrung zu bringen und zu übermitteln, ist mangels Rechtsgrundlage dagegen nicht nachzukommen.
 8.2. bis 8.6. frei

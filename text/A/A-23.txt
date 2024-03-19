@@ -21,7 +21,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 243
+23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 251
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -30,7 +30,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 249
+23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 257
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -391,7 +391,7 @@ Im Übrigen gilt der Erlass vom 04.12.2017 in der Fassung vom 08.10.2021 fort. I
 1.1. Die einreisewilligen Personen haben vor Einreise zwingend ein entsprechendes Visumverfahren durchzuführen. Die Erteilung einer Aufenthaltserlaubnis nach Einreise ohne das erforderliche Visum auf der Grundlage des § 23 Abs. 1 scheidet damit aus.
 Grundsätzlich sollen die Erteilungsvoraussetzungen für das Visum durch die Berliner Ausländerbehörde auf der Grundlage der Angaben und Nachweise der sich in Berlin rechtmäßig aufhaltenden Verwandten geprüft werden und soll dies der zuständigen deutschen Auslandsvertretung im Rahmen einer Vorabzustimmung gem. § 31 Abs. 3 AufenthV mitgeteilt werden (Formular Interessenbekundung für Verwandte). Die Prüfung der Auslandsvertretung soll sich damit in der Regel auf die Identitätsfeststellung des Nachziehenden, die Sicherheitsanfrage sowie die Erfassung biometrischer Daten beschränken.
 Soweit die Erteilungsvoraussetzungen nicht vollständig geprüft werden können - etwa weil Nachweise zur Sicherung des Lebensunterhalts fehlen, ist keine Vorabzustimmung zu erteilen, sondern sind die Angehörigen über die Möglichkeit eines geregelten Visumverfahrens zu informieren oder ist die Möglichkeit eines Aufnahmevorschlages nach A.23.s.5. zu prüfen. In Einzelfällen kann die Vorabzustimmung unter der aufschiebenden Bedingung des Nachweises bestimmter Erteilungsvoraussetzungen – etwa des Nachweises des Verwandtschaftsverhältnisses - gegenüber der deutschen Auslandsvertretung erteilt werden.
-1.2. Visumanträge müssen unabhängig vom Zeitpunkt der Abgabe der Verpflichtungserklärung bis 31.Dezember 2024 bei einer zuständigen deutschen Auslandsvertretung (Amman, Ankara, Bagdad, Beirut, Erbil, Istanbul, Izmir, Kairo, Kuwait City, Riad oder Teheran) vorliegen. Die erteilten Vorabzustimmungen sind ebenso wie die Ablehnungen einer Vorabzustimmung nach Beratung seit dem 1.10.2013 statistisch zu erfassen und monatlich der Senatsverwaltung für Inneres und Sport zu melden.
+1.2. Visumanträge müssen unabhängig vom Zeitpunkt der Abgabe der Verpflichtungserklärung bis 31.Dezember 2024 bei einer zuständigen deutschen Auslandsvertretung (Amman, Ankara, Bagdad, Beirut, Erbil, Istanbul, Izmir, Kairo, Kuwait City, Riad oder Teheran) vorliegen. Die erteilten Vorabzustimmungen sind ebenso wie die Ablehnungen einer Vorabzustimmung nach Beratung seit dem 1.10.2013 statistisch zu erfassen und quartalsweise der Senatsverwaltung für Inneres und Sport zu melden.
 2. Begünstigter Personenkreis
 2.1.Allgemeines
 Begünstigt sind syrische und irakische Staatsangehörige. In begründeten Einzelfällen sind auch Staatenlose oder Personen mit ungeklärter Staatsangehörigkeit (Personen kurdischer oder palästinensischer Volkszugehörigkeit), deren Identität feststeht und die nachweislich seit mind. drei Jahren in Syrien bzw. im Irak leben oder gelebt haben, begünstigt. Die Personen müssen infolge des Bürgerkriegs aus ihrem syrischen oder irakischen Wohnort geflohen sein und sich in einem Anrainerstaat Syriens (Libanon, Jordanien, Irak, Türkei) oder in einem Anrainerstaat des Irak (Iran, Jordanien, Kuwait, Saudi-Arabien, Syrien, Türkei), in Ägypten oder noch in Syrien oder dem Irak aufhalten. K ostenpflichtige Ein – und Ausreiseprotokolle werden nicht gefordert.
@@ -444,7 +444,7 @@ Die Frist für Visumanträge läuft bis zum 31.12.2024. Die Visumanträge müsse
 1.1. Die einreisewilligen Personen haben vor Einreise zwingend ein entsprechendes Visumverfahren durchzuführen. Die Erteilung einer Aufenthaltserlaubnis nach Einreise ohne das erforderliche Visum auf der Grundlage des § 23 Abs. 1 scheidet damit aus.
 Grundsätzlich sollen die Erteilungsvoraussetzungen für das Visum durch das Landesamt für Einwanderung auf der Grundlage der Angaben und Nachweise der sich in Berlin rechtmäßig aufhaltenden Verwandten geprüft werden und soll dies der zuständigen deutschen Auslandsvertretung im Rahmen einer Vorabzustimmung gem. § 31 Abs. 3 AufenthV mitgeteilt werden (Formular Interessenbekundung für Verwandte). Die Prüfung der Auslandsvertretung soll sich damit in der Regel auf die Identitätsfeststellung des Nachziehenden, die Sicherheitsanfrage sowie die Erfassung biometrischer Daten beschränken.
 Soweit die Erteilungsvoraussetzungen nicht vollständig geprüft werden können - etwa, weil Nachweise zur Sicherung des Lebensunterhalts fehlen, ist keine Vorabzustimmung zu erteilen, sondern sind die Angehörigen über die Möglichkeit eines geregelten Visumverfahrens zu informieren. In Einzelfällen kann die Vorabzustimmung unter der aufschiebenden Bedingung des Nachweises bestimmter Erteilungsvoraussetzungen – etwa des Nachweises des Verwandtschaftsverhältnisses - gegenüber der deutschen Auslandsvertretung erteilt werden.
-1.2. Visumanträge müssen unabhängig vom Zeitpunkt der Abgabe der Verpflichtungserklärung bis 31. Dezember 2024 bei einer zuständigen deutschen Auslandsvertretung (Teheran, Islamabad, Karachi, Duschanbe, Aschgabat, Taschkent, Peking, Chengdu, Hongkong, Kanton, Shanghai und Shenyang) vorliegen. Die erteilten Vorabzustimmungen sind ebenso wie die Ablehnungen einer Vorabzustimmung nach statistisch zu erfassen und monatlich der Senatsverwaltung für Inneres und Sport zu melden (vgl. oben A.23.s.6. für syrische und irakische Staatsangehörige).
+1.2. Visumanträge müssen unabhängig vom Zeitpunkt der Abgabe der Verpflichtungserklärung bis 31. Dezember 2024 bei einer zuständigen deutschen Auslandsvertretung (Teheran, Islamabad, Karachi, Duschanbe, Aschgabat, Taschkent, Peking, Chengdu, Hongkong, Kanton, Shanghai und Shenyang) vorliegen. Die erteilten Vorabzustimmungen sind ebenso wie die Ablehnungen einer Vorabzustimmung nach statistisch zu erfassen und quartalsweise der Senatsverwaltung für Inneres und Sport zu melden (vgl. oben A.23.s.6. für syrische und irakische Staatsangehörige).
 2. Begünstigter Personenkreis
 2.1. Allgemeines
 Begünstigt sind afghanische Staatsangehörige, die infolge des Kriegs und der Machtübernahme der Taliban aus ihrem afghanischen Wohnort fliehen mussten und sich in einem der o.g. Anrainerstaaten Afghanistans oder noch in Afghanistan aufhalten.

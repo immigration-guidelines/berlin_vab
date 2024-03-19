@@ -2,7 +2,7 @@ VAB A 18g
 VAB A 18g
 Inhaltsverzeichnis
 A.18g. Blaue Karte EU
-(FEWG)
+(FEWG; 01.01.2024)
 18g.0. Grundsätzliche Anmerkungen
 18g.1.1. Regelberufe - Blaue Karte EU ohne Zustimmung der Bundesagentur für Arbeit
 18g.1.2.1. Mangelberufe - Blaue Karte EU mit Zustimmung der Bundesagentur für Arbeit
@@ -13,7 +13,7 @@ A.18g. Blaue Karte EU
 18g.3. Arbeitsplatzangebot
 18g.4. Änderungen des Arbeitsvertrages nach Erteilung der Blauen Karte EU
 A.18g. Blaue Karte EU
-(FEWG)
+(FEWG; 01.01.2024)
 18g.0. Grundsätzliche Anmerkungen
 Mit dem am 18.11.2023 in Kraft getretenen Fachkräfteeinwanderungsweiterentwicklungsgesetz wird die Blaue Karte EU aus § 18b herausgelöst und in § 18g als eigener Norm geregelt.
 Die Zustimmungsfreiheit bzw. Zustimmungspflicht der BA ergibt sich direkt aus § 18g.
@@ -28,7 +28,7 @@ Nicht zum regelmäßigen Gehalt zählen voll variable Sonderzahlungen aller Art.
 Bei Vorliegen der Voraussetzungen für die Erteilung einer Blauen Karte EU besteht ein Anspruch auf Erteilung zum Zweck der Ausübung einer der Qualifikation angemessenen Beschäftigung. Folgende besondere Erteilungsvorrausetzungen müssen dafür kumulativ vorliegen:
 Der Ausländer muss eine Fachkraft mit akademischer Ausbildung sein, vgl. VAB A.18.3.2; und
 Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. hierzu unter VAB A.19f. zwingende Voraussetzung ist, dass es sich um eine der Qualifikation angemessene Beschäftigung handelt. Dies ist zum einen der Fall, wenn das Studium dem Beruf entspricht (z.B. ein Ausländer, der Bauingenieurwesen studiert hat, arbeitet anschließend als Bauingenieur), aber auch, wenn die mit dem Hochschulabschluss erworbenen Kenntnisse teilweise oder mittelbar bei der Ausübung des gewählten Berufes benötigt werden (z.B. wenn ein Arzt in einem Pharma-Unternehmen arbeitet). Es reicht aus, wenn nachgewiesen wird, dass die im Hochschulstudium erworbenen Kenntnisse zumindest teilweise oder mittelbar für die beantragte Tätigkeit benötigt werden. Bei der Bewertung ist ein großzügiger Maßstab anzuwenden. So ist es z.B. möglich, mit einem Wirtschaftsstudium als Softwareentwickler zu arbeiten oder mit einem Studium der Zahnmedizin als Prokuristin (so auch Sächsisches OVG, Urteil vom 11.2.2021, 3 A 973/19, juris, Rn. 27 ff) und
-zudem muss die Mindestgehaltsgrenze von mindestens 50 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.2023 jährlich mindestens 43.800,00 € brutto bzw. monatlich mindestens 3.650,00 € brutto (2022: jährlich mindestens 42.300,00 € brutto bzw. monatlich mindestens 3.525,00 € brutto).
+zudem muss die Mindestgehaltsgrenze von mindestens 50 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.202 4 jährlich mindestens 45.300,00 € brutto bzw. monatlich mindestens 3.775,00 € brutto.
 Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit nicht erforderlich. Es besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 1 S 1. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet.
 Es sind folgende Nebenbestimmungen zu verfügen:
 - Beschäftigung und AG-Wechsel gemäß § 18g Abs. 1 S. 1 AufenthG erlaubt
@@ -41,9 +41,8 @@ Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. h
 Naturwissenschaftler, Mathematiker, Ingenieure, Architekten, Raum-, Stadt- und Verkehrsplaner, Grafik- und Multimedia-Designer und Ingenieurwissenschaftler
 Ärzte, Apotheker, Physiotherapeuten sowie akademische Fachkräfte in der Krankenpflege und Geburtshilfe Lehrkräfte, Kunst-, Musik- und Sprachlehrer, Universitäts- und Hochschullehrer,
 sowie akademische Fachkräfte in der Informations- und Kommunikationstechnologie, Entwickler, Analytiker, Programmierer, Administratoren.
-Zudem muss die Mindestgehaltsgrenze von mindestens 45,3 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.2023 jährlich mindestens 39.682,80 € bzw. monatlich mindestens 3.306,90 € brutto (2022: jährlich mindestens 38.323,80 € bzw. monatlich mindestens 3.193,65 € brutto).
-Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit erforderlich. Die BA prüft sodann in eigener Zuständigkeit, ob der Ausländer zur Ausübung der Beschäftigung befähigt ist bzw. ob es sich um eine angemessene Beschäftigung handelt. Liegt die Zustimmung der Bundesagentur vor, besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 1 S 2 Nr. 1. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet. Wird die Zustimmung der BA nicht erteilt, ist die Aufenthaltserlaubnis oder Blaue Karte EU gem. § 18 Abs. 2 Nr. 2 zu versagen.
-Es sind folgende Nebenbestimmungen zu verfügen:
+Zudem muss die Mindestgehaltsgrenze von mindestens 45,3 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.202 4 jährlich mindestens 41.041,80 € bzw. monatlich mindestens 3.420,15 € brutto.
+Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit erforderlich. Die BA prüft sodann in eigener Zuständigkeit, ob der Ausländer zur Ausübung der Beschäftigung befähigt ist bzw. ob es sich um eine angemessene Beschäftigung handelt. Liegt die Zustimmung der Bundesagentur vor, besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 1 S 2 Nr. 1. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet. Wird die Zustimmung der BA nicht erteilt, ist die Aufenthaltserlaubnis oder Blaue Karte EU gem. § 18 Abs. 2 Nr. 2 zu versagen. Es sind folgende Nebenbestimmungen zu verfügen:
 - Beschäftigung der Tätigkeit als … bei … erlaubt
 Beschäftigung und AG-Wechsel gemäß § 18g Abs. 1 S. 1 AufenthG erlaubt.
 - Nach 1jähr. versicherungspfl. Beschäftig. ist Beschäftig. jeder Art erlaubt.
@@ -53,10 +52,7 @@ Erwerbstätigkeit erlaubt
 auf der verlängerten Blauen Karte EU zu verfügen.
 18g.1.2.2. Berufsanfänger - Blaue Karte EU mit Zustimmung der Bundesagentur für Arbeit
 Die RL (EU) 2021/1883 ermöglicht, für die Dauer eines bestimmten Zeitraums nach dem Hochschulabschluss die niedrigere Gehaltsschwelle von 45,3 Prozent der jährlichen Bemessungsgrenze, die für Mangelberufe gilt, auch für Berufsanhänger anzuwenden. Auf die Ausübung eines Mangelberufs durch den Berufsanfänger kommt es dabei nicht an. Auch Regelberufe sind in die Regelung eingeschlossen. Als Berufsanfänger gilt jeder Akademiker, dessen Hochschulabschluss nicht länger als drei Jahre zurückliegt.
-Der Zeitraum von drei Jahren kommt jedes Mal von Neuem zur Anwendung, wenn der Ausländer ein Hochschulstudium – oder in Verbindung mit Absatz 1 Satz 5 – ein gleichwertiges 3-jähriges tertiäres Bildungsprogramm abgeschlossen hat; die Abschlüsse müssen vergleichbar bzw. gleichwertig mit entsprechenden deutschen Abschlüssen sein.
-Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. hierzu unter VAB A.19f.
-Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit erforderlich. Die BA prüft sodann in eigener Zuständigkeit, ob der Ausländer zur Ausübung der Beschäftigung befähigt ist bzw. ob es sich um eine angemessene Beschäftigung handelt. Liegt die Zustimmung der Bundesagentur vor, besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 1 S 2 Nr. 2. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet. Wird die Zustimmung der BA nicht erteilt, ist die Aufenthaltserlaubnis oder Blaue Karte EU gem. § 18 Abs. 2 Nr. 2 zu versagen.
-Es sind folgende Nebenbestimmungen zu verfügen:
+Der Zeitraum von drei Jahren kommt jedes Mal von Neuem zur Anwendung, wenn der Ausländer ein Hochschulstudium – oder in Verbindung mit Absatz 1 Satz 5 – ein gleichwertiges 3-jähriges tertiäres Bildungsprogramm abgeschlossen hat; die Abschlüsse müssen vergleichbar bzw. gleichwertig mit entsprechenden deutschen Abschlüssen sein. Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. hierzu unter VAB A.19f. Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit erforderlich. Die BA prüft sodann in eigener Zuständigkeit, ob der Ausländer zur Ausübung der Beschäftigung befähigt ist bzw. ob es sich um eine angemessene Beschäftigung handelt. Liegt die Zustimmung der Bundesagentur vor, besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 1 S 2 Nr. 2. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet. Wird die Zustimmung der BA nicht erteilt, ist die Aufenthaltserlaubnis oder Blaue Karte EU gem. § 18 Abs. 2 Nr. 2 zu versagen. Es sind folgende Nebenbestimmungen zu verfügen:
 - Beschäftigung der Tätigkeit als … bei … erlaubt
 Beschäftigung und AG-Wechsel gemäß § 18g Abs. 1 S. 1 AufenthG erlaubt.
 - Nach 1jähr. versicherungspfl. Beschäftig. ist Beschäftig. jeder Art erlaubt.
@@ -74,7 +70,7 @@ Merke: Wird danach das Niveau 6 nicht erreicht, etwa bei Zahntechniker des Nivea
 18g.2. IT-Spezialisten - Blaue Karte EU mit Zustimmung der Bundesagentur für Arbeit
 IT-Spezialisten der Gruppen 133 oder 25, die keinen Hochschulabschluss besitzen, haben einen Anspruch auf Erteilung eine Blaue Karte EU, wenn die Voraussetzungen des Absatz 2 erfüllt sind. Zusätzlich müssen die Voraussetzungen nach § 5 und § 18 Absatz 2 – mit Ausnahme von § 18 Abs. 2 Nr. 4 und Nr. 5 – erfüllt sein.
 Merke: Die Regelung des § 19c Abs. 2 i.V.m. § 6 BeschV läuft mit Inkrafttreten der Regelung praktisch leer. Antragsteller nach § 19c Abs. 2 sind ausnahmslos auf die günstigere Regelung in § 18g Abs. 2 hinzuweisen.
-Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. hierzu unter VAB A.19f. Zudem muss die Mindestgehaltsgrenze von mindestens 45,3 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.2023 jährlich mindestens 39.682,80 € bzw. monatlich mindestens 3.306,90 € brutto (2022: jährlich mindestens 38.323,80 € bzw. monatlich mindestens 3.193,65 € brutto).
+Es dürfen keine Ablehnungsgründe gemäß § 19f Abs. 1 und 2 vorliegen, vgl. hierzu unter VAB A.19f. Zudem muss die Mindestgehaltsgrenze von mindestens 45,3 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung erreicht werden. Diese beträgt ab dem 01.01.202 4 jährlich mindestens 41.041,80 € bzw. monatlich mindestens 3.420,15 € brutto.
 Liegen diese Voraussetzungen vor, ist eine Zustimmung der Bundesagentur für Arbeit erforderlich. Die BA prüft sodann in eigener Zuständigkeit, ob die übrigen Erteilungsvoraussetzungen wie Berufserfahrung oder Gleichwertigkeit der Kenntnisse vorliegen. Liegt die Zustimmung der Bundesagentur vor, besteht ein Anspruch auf Erteilung der Aufenthaltserlaubnis nach § 18g Abs. 2. Ein Ermessen der Behörde ist in diesem Fall nicht eröffnet. Wird die Zustimmung der BA nicht erteilt, ist die Aufenthaltserlaubnis oder Blaue Karte EU gem. § 18 Abs. 2 Nr. 2 zu versagen.
 Es sind folgende Nebenbestimmungen zu verfügen:
 - Beschäftigung der Tätigkeit als … bei … erlaubt

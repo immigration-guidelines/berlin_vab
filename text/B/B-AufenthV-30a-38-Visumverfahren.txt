@@ -191,7 +191,7 @@ B.AufenthV.38f. Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmeverein
 B.AufenthV.38a - 38f. Anerkennung von Forschungseinrichtungen und Abschluss
 von Aufnahmevereinbarungen
 Änderungsdatum
-(22.09.2010, RiLiUmsG2017; FEG)
+(22.09.2010, RiLiUmsG2017; FEG;)
 B.AufenthV.38a. Voraussetzungen für die Anerkennung von Forschungseinrichtungen
 Die Vorschriften regeln in Umsetzung der REST-Richtlinie das Verfahren zur Anerkennung von Forschungseinrichtungen und zur Zulassung von Forschern durch das Bundesamt für Migration und Flüchtlinge. Diese Behörde ist auch der behördliche Normadressat.
 B.AufenthV.38a.1. – 4. frei
@@ -224,7 +224,7 @@ Personen im Besitz einer Blauen Karte EU
 Verlängerung der ICT-Karte
 ICT-Karte eines anderen Mitgliedstaates, Mobiler-ICT-Karte und Familiennachzug
 Aufenthaltstitel für mobile Forscher und ihre Familienangehörigen
-Aufenthaltstitel zur Saisonbeschäftigung
+Aufenthaltstitel nach Saisonbeschäftigung oder zur kurzzeitig kontingentierten Beschäftigung
 Ersterteilung einer ICT-Karte
 B.AufenthV.40. Verlängerung eines visumfreien Kurzaufenthalts
 B.AufenthV.41. Vergünstigung für Angehörige bestimmter Staaten
@@ -308,8 +308,9 @@ ICT-Karte eines anderen Mitgliedstaates, Mobiler-ICT-Karte und Familiennachzug
 B. AufenthV.39.1.9 Für die Verlängerung einer ICT-Karte eines anderen Mitgliedsstaates, die Erteilung der Mobilen-ICT-Karte nach § 19b AufenthG und die Erteilung einer Aufenthaltserlaubnis zum Familiennachzug zu Inhabern einer Mobilen-ICT-Karte ist keine Ausreise erforderlich; diese können auch im Bundesgebiet eingeholt oder verlängert werden. Eine Mobile ICT-Karte zum Familiennachzug zum Inhaber einer Mobilen ICT-Karte gibt es entgegen dem Wortlaut des § 39 Satz 1 Nr. 9 nicht (vgl.VAB.A.27.4.0 und VAB.A.30.1.1.3.). Es handelt sich um einen redaktionellen Fehler des Gesetzgebers.
 Aufenthaltstitel für mobile Forscher und ihre Familienangehörigen
 B.AufenthV.39.1.10. Die Regelung dient der Umsetzung von Artikel 29 Absatz 2 Buchstabe c der REST-Richtlinie. Für die Erteilung einer Aufenthaltserlaubnis an mobile Forschern ach § 18f AufenthG und die Erteilung einer Aufenthaltserlaubnis zum Familiennachzug zu Inhabern einer Aufenthaltserlaubnis nach § 18f AufenthG ist keine Ausreise erforderlich; diese können auch im Bundesgebiet eingeholt oder verlängert werden.
-Aufenthaltstitel zur Saisonbeschäftigung
-B.AufenthV.39.1.11. Soweit vor Ablauf der bestehenden Arbeitserlaubnis, die nach § 15a Abs. 1 Satz 1 Nr. 1 BeschV zum Zweck der Saisonbeschäftigung erteilt wurde, ein Aufenthaltstitel zur Saisonbeschäftigung beantragt wird, gilt dieser bis zu Entscheidung der Ausländerbehörde als erteilt.
+Aufenthaltstitel nach Saisonbeschäftigung oder zur kurzzeitig kontingentierten Beschäftigung
+B.AufenthV.39.1.11. Soweit vor Ablauf der bestehenden Arbeitserlaubnis, die nach § 15a Abs. 1 Satz 1 Nr. 1 BeschV zum Zweck der Saisonbeschäftigung oder nach § 15d Absatz 1 Satz 1 Nummer 1 BeschV zur kurzzeitig kontingentierten Beschäftigung erteilt wurde, ein Aufenthaltstitel zum Zweck der Ausbildung oder Beschäftigung beantragt wird, kann der Ausländer einen solchen Aufenthaltstitel im Bundesgebiet einholen. Wird ein Aufenthaltstitel zu einem anderen Zweck beantragt, ist soweit § 5 Abs. 2 S. 2 AufenthG nicht greift, auf die Nachholung des Visumverfahrens zu verweisen.
+Zielt der Antrag auf die Fortsetzung einer saisonabhängigen oder kurzzeitigen Beschäftigung nach § 19c Absatz 1 AufenthG in Verbindung mit § 15a oder § 15d BeschV, gilt die Aufenthaltserlaubnis bis zur Entscheidung der Ausländerbehörde als erteilt. Dies dient dazu, lange Unterbrechungen in zeitkritischen Wirtschaftszweigen (z. B. Landwirtschaft) zu vermeiden.
 Ersterteilung einer ICT-Karte
 B.AufenthV.39.2. Ein zulässiger Antrag auf einen Aufenthaltstitel zum Zweck des unternehmensinternen Transfers kann nur von einem Drittstaat aus gestellt werden. Die Ausnahmen von dem Grundsatz der Antragsstellung aus dem Ausland finden bei unternehmensintern transferierten Arbeitnehmern (ICT) grundsätzlich keine Anwendung. Maßgeblich ist, dass der Wohnort bzw. Lebensmittelpunkt sich in dem Drittstaat befindet; eine bloße Anwesenheit im Drittstaat zur Antragstellung reicht nicht aus.
 B.AufenthV.40. Verlängerung eines visumfreien Kurzaufenthalts

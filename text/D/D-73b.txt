@@ -1,7 +1,7 @@
 VAB D 73b
 VAB D 73b
 D.73b. Widerrufs- und Rücknahmeverfahren
-(QualRiLiUmsG; AsylVfBG)
+(AsylVfBG; RückführungsVG)
 73b.0. Das Gesetz zur Beschleunigung der Asylgerichtsverfahren und Asylverfahren fasst die
 Verfahrensvorschriften für den Widerruf und die Rücknahme aller Schutzformen im § 73b zusammen.
 73b.1. Die Überprüfung des Widerrufs oder der Rücknahme nach § 73 und 73a, die seitens des BAMF zu erfolgen hat, erfolgt nur noch, wenn ein entsprechender Anlass dafür besteht (Anlassüberprüfung). Die bisherige Regelüberprüfung nach drei Jahren wurde mit Inkrafttreten des Gesetzes zur Beschleunigung der Asylgerichtsverfahren und Asylverfahren ersatzlos gestrichen.
@@ -11,4 +11,4 @@ Bei Vorliegen entsprechender Erkenntnisse ist beim BAMF mittels elektronischer N
 73b.3. Absatz 3 regelt die Mitteilungspflicht des BAMF gegenüber den Ausländerbehörden über das Ergebnis der Widerrufs- oder Rücknahmeprüfung. Dies gilt auch bei Personen, die ihre Asylberechtigung, Flüchtlingseigenschaft oder den subsidiären Schutz von dem Betroffenen ableiten (Familienasyl nach § 26). In der Regel wird die Mittei-lung per elektronischer Nachricht eingehen.
 73b.4. frei
 73b.5. Bei einem Verstoß gegen die Mitwirkungspflicht kann das BAMF den betroffenen Asylberechtigten, den anerkannten Flüchtling oder subsidiär Schutzberechtigten sowie einen Ausländer mit einem Abschiebungsverbot mit den Mitteln des Verwaltungszwangs zur Erfüllung seiner Mitwirkungspflicht anhalten. Eine fehlende oder man-gelhafte persönliche Mitwirkung des Betroffenen im Widerrufs- und Rücknahmeverfahren kann durch das BAMF zu seinen Lasten berücksichtigt werden. Die dafür erforderliche Belehrung über diese Rechtsfolgen obliegt dem BAMF. Laut der Gesetzesbegründung soll das BAMF von der Norm insbesondere bei denjenigen positiven Entscheidungen Gebrauch machen, die im sogenannten schriftlichen Verfahren entschieden wurden. Das BAMF kann z.B. erkennungsdienstliche Maßnahmen oder die Prüfung von Dokumenten nachholen.
-73b.6.- 8. frei
+73b. 5a. - 8. frei

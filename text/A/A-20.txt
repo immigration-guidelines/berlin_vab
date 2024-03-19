@@ -2,7 +2,7 @@ VAB A 20
 VAB A 20
 Inhaltsverzeichnis
 A.20. Arbeitsplatzsuche für Fachkräfte
-(FEG; 15.12.2022; 18.11.2023)
+(FEG; 15.12.2022; 18.11.2023; FEWG)
 20.0. Arbeitsplatzsuche für Fachkräfte
 20.1.
 20.1.1. Ausländer, die zum Zweck der Arbeitsplatzsuche einreisen wollen
@@ -19,12 +19,12 @@ Anspruch
 Voraussetzungen
 20.3.1.3. Arbeitsplatzsuche und Aufnahme einer Erwerbstätigkeit nach erfolgreichem Abschluss einer qualifizierten Berufsausbildung
 20.3.1.4. Arbeitsplatzsuche und Aufnahme einer Erwerbstätigkeit nach Anerkennung
-20.4.
+20.3.1.5. Arbeitsplatzsuche nach erfolgreichem Abschluss einer Assistenz – oder Helferausbildung 20.4.
 20.4.1.
 20.4.2.-3.
 20.4.4.
 A.20. Arbeitsplatzsuche für Fachkräfte
-(FEG; 15.12.2022; 18.11.2023)
+(FEG; 15.12.2022; 18.11.2023; FEWG)
 20.0. Arbeitsplatzsuche für Fachkräfte
 In § 20 werden die bislang im Aufenthaltsgesetz an verschiedenen Stellen geregelten Sachverhalte für die Erteilung einer Aufenthaltserlaubnis zur Suche nach einem Arbeitsplatz zusammengefasst.Neu ist die Möglichkeit der Titelerteilung für Fachkräfte mit Berufsausbildung gem. § 20 Abs. 1 inklusive der Möglichkeit einer Probebeschäftigung von bis zu 10 Stunden pro Woche sowohl für die Fälle des Abs. 1 als auch des Abs. 2.
 20.1.
@@ -85,8 +85,11 @@ Absolventen einer qualifizierten Ausbildung ist die Aufenthaltserlaubnis zunäch
 Auch diese Regelung ist großzügig anzuwenden:
 Mindestvoraussetzung für eine positive Entscheidung nach § 20 Abs. 3 Nr. 4 ist neben den allgemeinen Erteilungsvoraussetzungen die erfolgreiche Anerkennung der ausländischen Berufsqualifikation, die Erteilung der Befugnis zur Berufsausübung oder die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung sowie der Nachweis entsprechender Bemühungen zur Suche eines Arbeitsplatzes (Vorlage von Bewerbungen etc.) oder einer selbständigen Tätigkeit.
 Merke: Der Ausländer muss nicht einen seiner Ausbildung angemessenen Arbeitsplatz suchen, sondern es genügt nach dem Wortlaut der Vorschrift die Suche nach einem Arbeitsplatz, zu dessen Ausübung seine Qualifikation befähigt.
-Die Verlängerung nach erfolgreicher Anerkennung ist im Ermessen möglich („kann“). Hiervon ist grundsätzlich positiv Gebrauch zu machen.
-Auch hier ist durch Hinweis auf § 21 die Chance gegeben, den Aufenthalt hier zum Zweck der selbständigen Tätigkeit zu verfestigen. Die Dauer von 12 Monaten ist grundsätzlich voll auszuschöpfen ("…bis zu"….) und ist die Aufenthaltserlaubnis zu verlängern. Die Jahresfrist bemisst sich ab der Ersterteilung eines Titels nach § 20 Abs. 3 Nr. 4. Zeiten der Fiktionsbescheinigung werden auf die Jahresfrist wie auch bei § 20 Abs. 3 Nr. 3 nicht angerechnet. 20.4.
+Die Verlängerung nach erfolgreicher Anerkennung ist im Ermessen möglich („kann“). Hiervon ist grundsätzlich positiv Gebrauch z u machen.
+Auch hier ist durch Hinweis auf § 21 die Chance gegeben, den Aufenthalt hier zum Zweck der selbständigen Tätigkeit zu verfestigen. Die Dauer von 12 Monaten ist grundsätzlich voll auszuschöpfen ("…bis zu"….) und ist die Aufenthaltserlaubnis zu verlängern. Die Jahresfrist bemisst sich ab der Ersterteilung eines Titels nach § 20 Abs. 3 Nr. 4. Zeiten der Fiktionsbescheinigung werden auf die Jahresfrist wie auch bei § 20 Abs. 3 Nr. 3 nicht angerechnet.
+20.3.1.5. Arbeitsplatzsuche nach erfolgreichem Abschluss einer Assistenz – oder Helferausbildung Diese Regelung soll dem Personalmangel in den Pflege – und Gesundheitsberufen entgegenwirken. Voraussetzung zur Erteilung der Aufenthaltserlaubnis nach § 20 Abs. 3 Nr. 5 ist der erfolgreiche Abschluss einer Assistenz – oder Helferausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf. Der zukünftige Arbeitsplatz muss ein Beruf im Gesundheits – und Pflegewesen sein.
+Die Aufenthaltserlaubnis wird für zwölf Monate erteilt.
+20.4.
 20.4.1.
 Trotz des Wortlauts des § 20 Abs. 4 S. 1, wonach der Lebensunterhalt gesichert sein muss, folglich keine Ausnahme vom Regelerfordernis des § 5 Abs. 1 Nr. 1 möglich ist, gelten die allgemeinen Erteilungsvoraussetzungen des § 5. Auf Grund des zeitlich befristeten Charakters der Titel zur Arbeitsplatzsuche dienen öffentliche Mittel im Sinne des § 2 Abs. 3 S. 2 Nr. 6 ebenfalls der Lebensunterhaltssicherung (beachte A.2.3.2.6.) Liegen diese vor, ist von dem zugestandenen Ermessen großzügig Gebrauch zu machen.
 20.4.2.-3.

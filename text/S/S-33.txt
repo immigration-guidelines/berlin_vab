@@ -8,6 +8,7 @@ Register staatsangehörigkeitsrechtlicher Entscheidungen (EStA)
 33.4. Übermittlung aus dem EStA-Register
 33.5. Mitteilungen der Staatsangehörigkeitsbehörden an die Meldebehörden
 Register staatsangehörigkeitsrechtlicher Entscheidungen (EStA)
+(01.01.2024; 15.02.2024)
 33.1.1. Frei
 33.1.2.1. bis 33.1.2.3. Entscheidungen
 Im EStA-Register werden die Entscheidungen zu Erwerb, Bestand und Verlust der deutschen Staatsangehörigkeit eingetragen, für die entweder Urkunden ausgestellt oder Feststellungen nach § 30 getroffen worden sind.
@@ -20,5 +21,4 @@ frei
 33.4. Übermittlung aus dem EStA-Register
 frei
 33.5. Mitteilungen der Staatsangehörigkeitsbehörden an die Meldebehörden
-Nach dieser bereichsspezifischen Datenübermittlungsregelung ist das LEA verpflichtet, die Meldebehörde (LABO II) zu unterrichten, wenn eine Person eingebürgert worden ist, oder wenn sie festgestellt hat, dass die betroffene Person die deutsche Staatsangehörigkeit weiterhin besitzt, verloren, aufgegeben oder nicht erworben hat. Die Entscheidungsgründe sind nicht mitzuteilen. Der Umfang der Übermittlungspflicht richtet sich nach dem Maßnahmenkatalog des der VAB S.33.2.
-Die in Deutschland ansässigen Auslandsvertretungen (Botschaften) werden nur in bestimmten Ausnahmefällen informiert, wenn die in Deutschland eingebürgerte Person durch die Einbürgerung von Gesetzes wegen seine bisherige Staatsangehörigkeit verliert, siehe Länderliste.
+Nach dieser bereichsspezifischen Datenübermittlungsregelung ist das LEA verpflichtet, die Meldebehörde (LABO II) zu unterrichten, wenn eine Person eingebürgert worden ist, oder wenn sie festgestellt hat, dass die betroffene Person die deutsche Staatsangehörigkeit weiterhin besitzt, verloren, aufgegeben oder nicht erworben hat. Die Entscheidungsgründe sind nicht mitzuteilen. Der Umfang der Übermittlungspflicht richtet sich nach dem Maßnahmenkatalog des der VAB S.33.2. '
