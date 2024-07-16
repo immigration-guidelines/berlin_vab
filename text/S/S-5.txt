@@ -3,13 +3,13 @@ VAB S.5.
 Inhaltsverzeichnis
 5. Erklärungsrecht zur staatsangehörigkeitsrechtlichen Wiedergutmachung
 5.1. Form der Erklärung; Grundvoraussetzungen; Erklärungsberechtigte
-5.1.1.1. Kinder eines deutschen Elternteils, die die deutsche Staatsangehörigkeit nicht durch Geburt erworben haben 885
+5.1.1.1. Kinder eines deutschen Elternteils, die die deutsche Staatsangehörigkeit nicht durch Geburt erworben haben 881
 5.1.1.2. Kinder einer Mutter, die vor der Kindesgeburt die deutsche Staatsangehörigkeit durch Eheschließung mit einem Ausländer verloren hat
 5.1.1.3. Kinder, die ihre durch Geburt erworbene deutsche Staatsangehörigkeit durch Legitimation von einem Ausländer verloren haben
 5.1.1.4. Abkömmlinge
 5.1.1.1. Handlungsfähigkeit, gesetzliche Vertretung
 5.1.1.2. Straffreiheit
-5.1.2. Weitere, für den Erklärungserwerb geltende Rechtrechtsgrundlagen
+5.1.2. Weitere, für den Erklärungserwerb geltende Rechtsgrundlagen
 5.1.3. Für die Ausübung des Erklärungsrechts ist die Rechtsstellung nach Artikel 116 Absatz 1 GG der deutschen Staatsangehörigkeit gleichgestellt.
 5.2. Ausschluss der Erklärungsberechtigung
 5.2.1. Verlust der deutschen Staatsangehörigkeit nach Wiedererwerb
@@ -17,11 +17,13 @@ Inhaltsverzeichnis
 5.3. Befristung des Erklärungserwerbes auf zehn Jahre
 5.4. Ausstellung eines Nachweises über den Erklärungserwerb in Form einer Urkunde
 5. Erklärungsrecht zur staatsangehörigkeitsrechtlichen Wiedergutmachung
+(25.06.2024, 16.07.2024, 27.06.2024 StARModG)
 Durch das Erklärungsrecht wird für nach dem Inkrafttreten des GG geborene Personen die aufgrund geschlechterdiskriminierender Vorschriften vom Geburtserwerb der deutschen Staatsangehörigkeit ausgeschlossen waren oder die deutsche Staatsangehörigkeit aufgrund derartiger Vorschriften verloren und diese bisher nicht anderweitig erworben haben, die Möglichkeit eröffnet, die deutsche Staatsangehörigkeit durch eine auf ihren Erwerb gerichtete Erklärung zu erhalten.
 Der Erwerb der deutschen Staatsangehörigkeit durch Erklärung ist nach S.38.3.4. gebührenfrei.
+Zur Wiedergutmachungseinbürgerung vgl. S.15.
 5.1. Form der Erklärung; Grundvoraussetzungen; Erklärungsberechtigte
 Die Erklärung zum Erwerb der deutschen Staatsangehörigkeit kann formlos abgegeben werden. Für die Prüfung der Voraussetzungen sind jedoch der Erklärungsvordruck und die Anlage zum Erklärungsvordruck vollständig auszufüllen und zu unterschreiben. Sie wird wirksam mit dem Eingang beim LEA, wenn die weiteren Voraussetzungen erfüllt sind. Es sollte daher immer das Eingangsdatum notiert werden. Erklärungsberechtigt ist, wer nach dem Inkrafttreten des GG am 24. Mai 1949 geboren und damit dem grundrechtlichen Schutzregime unterfallen ist.
-Ob die bisherige Staatsangehörigkeit mit Zugang der wirksamen Erklärung verlorengeht oder nicht, können nur die zuständigen Stellen des entsprechenden ausländischen Staates beurteilen. Erklärungswilligen sollten daher geraten werden, sich vor Abgabe einer Erklärung zu informieren, um einen unerwünschten Verlust ihrer Staatsangehörigkeit (Beispiel: Österreich) zu vermeiden.
+Ob die bisherige Staatsangehörigkeit mit Zugang der wirksamen Erklärung verlorengeht oder nicht, können nur die zuständigen Stellen des entsprechenden ausländischen Staates beurteilen. Erklärungswillige sollten sich vor Abgabe einer Erklärung informieren, um einen unerwünschten Verlust ihrer Staatsangehörigkeit (Beispiel: Österreich) zu vermeiden.
 5.1.1.1. Kinder eines deutschen Elternteils, die die deutsche Staatsangehörigkeit nicht durch Geburt erworben haben Erklärungsberechtigt sind die vor dem 1. Januar 1975 geborenen ehelichen Kinder deutscher Mütter und ausländischer Väter sowie die vor dem 1. Juli 1993 geborenen nichtehelichen Kinder deutscher Väter und ausländischer Mütter, die nach § 4 Absatz 1 RuStAG a.F. vom Geburtserwerb der deutschen Staatsangehörigkeit ausgeschlossen waren.
 5.1.1.2. Kinder einer Mutter, die vor der Kindesgeburt die deutsche Staatsangehörigkeit durch Eheschließung mit einem Ausländer verloren hat Erklärungsberechtigt sind die ehelichen Kinder einer Mutter, die vor der Kindesgeburt durch Eheschließung mit einem Ausländer die deutsche Staatsangehörigkeit vor dem 1. April 1953 nach § 17 Nummer 6 RuStAG a.F. verloren hat.
 5.1.1.3. Kinder, die ihre durch Geburt erworbene deutsche Staatsangehörigkeit durch Legitimation von einem Ausländer verloren haben Erklärungsberechtigt sind die nichtehelichen Kinder, die ihre durch Geburt über ihre Mutter erworbene deutsche Staatsangehörigkeit durch eine von einem Ausländer bewirkte und nach den deutschen Gesetzen wirksame Legitimation vor dem 1. April 1953 nach § 17 Nummer 5 RuStAG a.F. verloren haben.
@@ -32,8 +34,8 @@ Fähig zur Vornahme der Antragstellung und der sonstigen Verfahrenshandlungen im
 16. Lebensjahr vollendet hat, sofern er nicht nach Maßgabe des BGB geschäftsunfähig oder im Falle seiner Volljährigkeit in dieser Angelegenheit zu betreuen und einem Einwilligungsvorbehalt zu unterstellen wäre.
 5.1.1. 2. Straffreiheit
 Erklärungsberechtigte dürfen nicht rechtskräftig wegen einer oder mehrerer vorsätzlicher Straftaten zu einer Freiheits- oder Jugendstrafe von zwei Jahren oder mehr verurteilt oder es darf bei der letzten rechtskräftigen Verurteilung keine Sicherungsverwahrung angeordnet worden sein; ebenso darf kein Grund nach S.11 vorliegen, der eine Einbürgerung ausschließen würde.
-5.1.2. Weitere, für den Erklärungserwerb geltende Rechtrechtsgrundlagen
-S.4.1.2. (Wirksamkeit der Anerkennung der Vaterschaft oder deren Feststellung nach den deutschen Gesetzen, Abgabe der Anerkennungserklärung oder Einleitung des Feststellungsverfahrens vor Vollendung des 23. Lebensjahres des betroffenen Kindes), S.12a.2. bis S.12a.4. (Berücksichtigung entsprechender ausländischer Verurteilungen, die anzugeben sind, Aussetzung des Erwerbs bei strafrechtlichen Ermittlungsverfahren) sowie S.37.2. (Regelanfrage bei den Verfassungsschutzbehörden zur Ermittlung von Ausschlussgründen nach S.11 bei der Einbürgerung) gelten entsprechend.
+5.1.2. Weitere, für den Erklärungserwerb geltende Rechtsgrundlagen
+S.4.1.2. (Wirksamkeit der Anerkennung der Vaterschaft oder deren Feststellung nach den deutschen Gesetzen, Abgabe der Anerkennungserklärung oder Einleitung des Feststellungsverfahrens vor Vollendung des 23. Lebensjahres des betroffenen Kindes), S.12a.2. bis S.12a.4. (Berücksichtigung entsprechender ausländischer Verurteilungen, die anzugeben sind, Aussetzung des Erwerbs bei strafrechtlichen Ermittlungsverfahren), S.33.5. (Mitteilung der Entscheidung an die Meldebehörde) sowie S.37. (Regelanfrage bei den Verfassungsschutzbehörden zur Ermittlung von Ausschlussgründen nach S.11 bei der Einbürgerung) gelten entsprechend.
 5.1.3. Für die Ausübung des Erklärungsrechts ist die Rechtsstellung nach Artikel 116 Absatz 1 GG der deutschen Staatsangehörigkeit gleichgestellt.
 5.2. Ausschluss der Erklärungsberechtigung
 5.2.1. Verlust der deutschen Staatsangehörigkeit nach Wiedererwerb
@@ -46,4 +48,4 @@ Ein Erklärungserwerb ist auch ausgeschlossen, wenn die Jahresfrist noch nicht a
 Das Erklärungsrecht kann innerhalb von zehn Jahren nach Einführung des § 5 (mit Inkrafttreten des Vierten Gesetz zur Änderung des StAG am 20.08.2021) ausgeübt werden, d.h. bis zum 19.08.2031.
 Hierbei handelt es sich um eine Ausschlussfrist.
 5.4. Ausstellung eines Nachweises über den Erklärungserwerb in Form einer Urkunde
-Zum Nachweis des Erwerbs der deutschen Staatsangehörigkeit durch Erklärung wird eine Urkunde ausgestellt (vgl. § 1 Absatz 1 Nummer 2 i.V.m. dem Muster der Anlage 2 der VwV über Urkunden in Staatsangehörigkeitssachen).
+Zum Nachweis des Erwerbs der deutschen Staatsangehörigkeit durch Erklärung wird eine Urkunde ausgestellt (vgl. § 1 Absatz 1 Nummer 2 i.V.m. dem Muster der Anlage 2 der VwV über Urkunden in Staatsangehörigkeitssachen). Die Erklärung ist mit dem Eingang der Erklärung wirksam. Die Urkunde ist mit diesem Datum auszustellen.

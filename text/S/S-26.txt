@@ -2,21 +2,48 @@ VAB S.26.
 VAB S.26.
 Inhaltsverzeichnis
 Verzicht
+26.1. Voraussetzungen des Verzichts
 26.2. Genehmigungsbedürftigkeit; Versagung der Genehmigung
 26.2.1. Bedarf einer Genehmigung
 26.2.2. Versagensgründe für die Genehmigung
+26.2.2.1. Personen, die in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis stehen
+26.2.2.2. Wehrpflichtige
+26.2.3. Ausnahmen
 26.3. Wirksamwerden des Verzichts
-26.4. Minderjährige
+26.4. Verzicht durch einen gesetzlichen Vertreter
+26.4.1. Verzichtserklärung bei volljährigen Deutschen
+26.4.2. Verzicht mit Genehmigung des Familiengerichts; Voraussetzungen der Genehmigung. 927
 Verzicht
+(01.01.2024, 16.07.2024, 27.06.2024 StARModG)
 26.1. Voraussetzungen des Verzichts
-frei
+Frei
 26.2. Genehmigungsbedürftigkeit; Versagung der Genehmigung
 26.2.1. Bedarf einer Genehmigung
 Die Verzichtserklärung bewirkt nicht automatisch den Verlust der deutschen Staatsangehörigkeit; sie bedarf vielmehr der Genehmigung. Das Genehmigungsverfahren wird durch die Verzichtserklärung in Gang gesetzt. Die Erteilung der Genehmigung hängt davon ab, dass das Vorliegen einer weiteren Staatsangehörigkeit durch einen aktuell durch amtlichen Nachweis belegt ist (z.B. Nationalpass, ID-Card sowie ggf. Erwerbsurkunde).
 26.2.2. Versagensgründe für die Genehmigung
-S.22.1. schränkt die Entlassung für bestimmte Personengruppen ein. Dabei handelt es sich um Beamte, Richter, Soldaten der Bundeswehr und sonstige Personen während des Bestehens eines öffentlich-rechtlichen Dienst- oder Amtsverhältnisses sowie – mit Befreiungsmöglichkeit – um Wehrpflichtige.
+Die Genehmigung ist für bestimmte Personengruppen ausgeschlossen.
+26.2.2.1. Personen, die in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis stehen
+Beamte im Sinne der Nummer 1 sind Personen, die nach dem Beamtenrecht durch Aushändigung einer
+Ernennungsurkunde mit den Worten „unter Berufung in das Beamtenverhältnis“ zu Beamten ernannt worden sind. Richter sind Personen, die durch Aushändigung einer Ernennungsurkunde mit den Worten „unter Berufung in das Richterverhältnis“ zu Richtern ernannt worden sind. Soldaten der Bundeswehr sind Personen, die aufgrund Wehrpflicht oder freiwilliger Verpflichtung in einem Wehrdienstverhältnis stehen.
+Soweit Wehrpflichtige nicht mehr in einem Wehrdienstverhältnis stehen, findet S.26.2.2.1. Anwendung.
+Sonstigen Personen, die in einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis (z.B. Helfer des THW, Vorstände der Dt. Bundesbank, TÜV, DEKRA) stehen, darf der Verzicht ebenfalls nicht genehmigt werden, solange ihr Dienst- oder Amtsverhältnis nicht beendet ist. Das Dienstverhältnis muss öffentlich-rechtlich ausgestaltet sein und darf nicht auf privatrechtlicher Grundlage beruhen.
+Dies gilt nicht für Angestellte (mit einem privatrechtlichen Arbeitsvertrag) im öffentlichen Dienst. Bei dieser Personengruppe ist lediglich zu beachten, dass nach der Genehmigung des Verzichts auf die deutsche Staatsangehörigkeit ein Aufenthaltstitel und eine Arbeitserlaubnis ausgestellt werden kann. Letzteres gilt nur für Personen, die nach der Verzichtsgenehmigung nicht freizügigkeitsberechtigt sind.
+Ehrenamtlich tätige Personen werden nicht von dem Genehmigungsverbot erfasst.
+26.2.2.2. Wehrpflichtige
+Wehrpflichtig sind alle Männer vom vollendeten 18. Lebensjahr an, die Deutsche im Sinne des Grundgesetzes sind und grundsätzlich ihren ständigen Aufenthalt im Bundesgebiet haben. Dies gilt unabhängig von der Aussetzung des Wehr- und/oder Zivildienstes durch § 2 WPflG.
+Nummer 2 findet insbesondere Anwendung bei Wehrpflichtigen, die nicht in einem Wehrdienstverhältnis stehen.
+Die Staatsangehörigkeitsbehörde ist bei der Entscheidung über die Genehmigung des Verzichts eines Wehrpflichtigen an die Versagung der erforderlichen Unbedenklichkeitsbescheinigung der Wehrverwaltung gebunden. Für die Erteilung ist das Bundesamt für das Personalmanagement der Bundeswehr zuständig.
+26.2.3. Ausnahmen
+Frei
 26.3. Wirksamwerden des Verzichts
-Die Genehmigung des Verzichts wird durch Aushändigung der Verzichtsurkunde erteilt (vergleiche S.23.).
-26.4. Minderjährige
-Für Minderjährige vergleiche hierzu S.19.1.1. bis S.19.2.
+Der Verlust der deutschen Staatsangehörigkeit tritt durch Aushändigung der Verzichtsurkunde ein (vergleiche S.26.2.).
+26.4. Verzicht durch einen gesetzlichen Vertreter
+26.4.1. Verzichtserklärung bei volljährigen Deutschen
+Auch geschäftsunfähige Volljährige und Volljährige, für die ein Betreuer bestellt und ein Einwilligungsvorbehalt nach § 1825 BGB für diese Angelegenheit angeordnet ist, können ihre deutsche Staatsangehörigkeit aufgeben, wenn der Betreuer oder der Vorsorgebevollmächtigte die Verzichtserklärung abgibt. Die Verzichtserklärung bedarf in beiden Fällen der vorherigen Genehmigung des zuständigen deutschen Betreuungsgerichts.
+26.4.2. Verzicht mit Genehmigung des Familiengerichts; Voraussetzungen der Genehmigung
+Kinder bis zum vollendeten 18. Lebensjahr können nicht selbständig auf die deutsche Staatsangehörigkeit verzichten. Die Erklärung muss durch den gesetzlichen Vertreter abgegeben werden. Zum Begriff des gesetzlichen Vertreters vergleiche S.8.1.1.1.
+Zusätzlich ist die Genehmigung des Familiengerichts dem Genehmigungsantrag des gesetzlichen Vertreters beizufügen. Dessen örtliche Zuständigkeit ergibt sich für unter elterlicher Sorge und unter Vormundschaft stehende Kinder gemäß § 152 FamFG. Sie richtet sich hier in der Regel nach dem gewöhnlichen Aufenthalt des Kindes (§ 152 Abs. 2 FamFG).
+Ist die Zuständigkeit eines deutschen Gerichts danach nicht gegeben, so ist das Gericht zuständig, in dessen Bezirk das Bedürfnis der Fürsorge bekannt wird (§ 152 Abs. 3 FamFG).
+In Auslandsfällen steht es daher im Ermessen des gesetzlichen Vertreters, welches Gericht zuständig ist, denn das Fürsorgebedürfnis wird mit dem Eingang des Antrags bei dem jeweiligen Gericht bekannt.
+Dem Verzicht auf die deutsche Staatsangehörigkeit muss der Minderjährige zustimmen, wenn er das 16. Lebensjahr vollendet hat, vgl. S.34.
 Beachte: Die Entscheidung ist dem EStA-Register gemäß § 33 Abs. 1 Nr. 1 und der Meldebehörde gemäß § 33 Abs. 5 zu melden.

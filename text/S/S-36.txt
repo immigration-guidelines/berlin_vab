@@ -4,17 +4,21 @@ Inhaltsverzeichnis
 Einbürgerungsstatistik
 36.1. Erhebungskriterien; Bundesstatistik
 36.2. Erhebungsmerkmale
+36.2a.-b.
 36.3. Hilfsmerkmale
 36.4. Auskunftspflicht
 36.5. Übermittlung von Tabellen mit statistischen Ergebnissen
 Einbürgerungsstatistik
+(27.06.2024 StaRModG)
 36.1. Erhebungskriterien; Bundesstatistik
 Über die Einbürgerungen werden jährliche Erhebungen als Bundesstatistik durchgeführt. Die Vorschrift gilt für alle Einbürgerungstatbestände (§§ 8 bis 16, 40b und 40c).
 36.2. Erhebungsmerkmale
-Die Erhebungsmerkmale sind in Absatz 2 Nummer 1 bis 8 abschließend beschrieben.
+Die Erhebungsmerkmale sind in Absatz 2 Nummer 1 bis 7 abschließend beschrieben.
 Bei den Angaben zum Erhebungsmerkmal gemäß § 36 Absatz 2 Nummer 5 (Aufenthaltsdauer im Bundesgebiet nach Jahren) ist der rechtmäßig und gewöhnlich zurückgelegte Aufenthalt zu Grunde zu legen.
 Zum Fortbestand der bisherigen Staatsangehörigkeit ist zu beachten, dass Einbürgerungsbewerber aus Staaten, bei denen faktisch keine Entlassung erfolgt (§ 12 Absatz 1 Satz 2 Nummer 2), unter Hinnahme von Mehrstaatigkeit eingebürgert werden.
-Bei Einbürgerungsbewerbern aus Staaten, die das Ausscheiden aus ihrer Staatsangehörigkeit erst nach dem Vollzug der Einbürgerung in den deutschen Staatsverband zulassen (bspw. Türkei), ist die Einbürgerung unter Vermeidung von Mehrstaatigkeit zu erfassen, da es sich um eine Auflageneinbürgerung handelt.
+...aufgehoben...
+36.2a.-b.
+Frei
 36.3. Hilfsmerkmale
 frei
 36.4. Auskunftspflicht

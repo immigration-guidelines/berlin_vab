@@ -1,18 +1,12 @@
 VAB S.34.
 VAB S.34.
-Inhaltsverzeichnis
-Datenübermittlung im Optionsverfahren
-34.1. Übermittlungspflichten der Meldebehörden
-34.2.1. Ius-soli-Deutsche, die sich ins Ausland abgemeldet haben
-34.2.2. Ius-soli-Deutsche, die aus dem Ausland zugezogen sind
-Datenübermittlung im Optionsverfahren
-34.1. Übermittlungspflichten der Meldebehörden
-Nach § 34 Absatz 1 übermittelt die zuständige Meldebehörde die darin aufgeführten personenbezogenen Daten der Ius-soli-Deutschen, die mit dem Optionsmerkmal im Melderegister geführt werden, bis zum zehnten Tag eines Kalendermonats, der dem Monat der Vollendung ihres 21. Lebensjahres vorausgeht, ans LEA, das dann entsprechend VAB S.29.5.2 ff. verfährt.
-Bei Ius-soli-Deutschen, die nach Unbekannt verzogen sind, werden deren personenbezogene Daten hierzu von der Meldebehörde des zuletzt gemeldeten Wohnsitzes an die Staatsangehörigkeitsbehörde übermittelt, die für den Ort dieses Wohnsitzes zuständig ist. Für den Fall, dass der Aufenthalt nicht ermittelt werden kann, wird der Optionshinweis (vergleiche S.29.5.5.) durch diese Staatsangehörigkeitsbehörde nach § 10 VwZG öffentlich zugestellt (vergleiche S.29.5.6.).
-Nur wenn sich während des Verfahrens der gewöhnliche Aufenthalt im Zuständigkeitsbereich einer anderen Staatsangehörigkeitsbehörde sicher herausstellt, gibt die bisher zuständige Staatsangehörigkeitsbehörde den Vorgang dorthin ab. Die nunmehr örtlich zuständige Staatsangehörigkeitsbehörde weist die Ius-soli-Deutschen auf die gegebenenfalls bereits erfolgte öffentliche Zustellung und die Nachweismöglichkeit nach VAB S.29.5.3. oder die Erklärungspflicht nach (vergleiche S.29.1.2.) hin.
-In Fällen, in denen sich Ius-soli-Deutsche nach der Datenübermittlung der Meldebehörde an die
-Staatsangehörigkeitsbehörde ins Ausland abmelden, gibt die bisher zuständige Staatsangehörigkeitsbehörde das Verfahren zuständigkeitshalber an das Bundesverwaltungsamt ab (zu dessen Zuständigkeit vergleiche S.34.2.). § 3 Absatz 3 VwVfG bleibt unberührt.
-34.2.1. Ius-soli-Deutsche, die sich ins Ausland abgemeldet haben
-frei
-34.2.2. Ius-soli-Deutsche, die aus dem Ausland zugezogen sind
-In Fällen, in denen Ius-soli-Deutsche nach der Datenübermittlung nach S.34.1. vom Ausland her wieder zugezogen sind, informiert die Meldebehörde des letzten Inlandswohnsitzes die Staatsangehörigkeitsbehörde, der sie die personenbezogenen Daten übermittelt hatte, über den durch das melderechtliche Rückmeldeverfahren bekannt gewordenen Zuzug. Diese gibt das Verfahren an die für den neuen Inlandswohnsitz zuständige Staatsangehörigkeitsbehörde ab.
+Handlungsfähigkeit, Mitwirkungspflicht
+(StaRModG)
+34.1. Handlungsfähigkeit
+Eine Person darf bestimmte Verfahrenshandlungen vornehmen, wenn sie das 16. Lebensjahr vollendet hat.
+Es gibt jedoch Ausnahmen:
+Wenn eine Person nach dem BGB als geschäftsunfähig eingestuft wird oder wenn sie volljährig ist und der Betreuung und einem Einwilligungsvorbehalt unterliegt, ist sie nicht befugt, Verfahrenshandlungen vorzunehmen. Das bedeutet, dass sie die Zustimmung oder Erlaubnis ihres Vormunds oder bestallten Betreuers benötigt, um rechtliche Schritte zu unternehmen.
+34.2. Mitwirkungspflicht
+Der Ausländer ist verpflichtet, seine Belange und für ihn günstige Umstände, die nicht offenkundig oder bekannt sind, nachprüfbar geltend zu machen und erforderliche Nachweise beizubringen. Das betrifft zum Beispiel den Nachweis der Sprachkenntnisse.
+Die Möglichkeit der Anhörung eines deutschen Ehepartners ergibt sich aus den §§ 24 Abs. 1, 26 Abs. 1 VwVfG i.V.m. § 1 Abs. 1 VwVfG Bln. Danach kann die Behörde im Rahmen der Untersuchung des Sachverhaltes von Amts wegen Art und Umfang ihrer Ermittlungen bestimmen, insbesondere die von ihr für erforderlich gehaltenen Beweismittel hinzuziehen. Der deutsche Ehepartner wird in einer solchen Konstellation von Amts wegen als Beteiligter hinzugezogen (§ 13 Abs. 2 Satz 1 VwVfG) und als solcher angehört (§ 26 Abs. 1 Nr. 2 VwVfG).
+Die Mitwirkungspflicht für deutsche Staatsangehörige, die im Rahmen der sonstigen Staatsangehörigkeitsangelegenheiten einen Antrag stellen, ergibt sich aus § 26 Abs. 2 S. 1 VwVfG i.V.m. § 1 Abs. 1 VwVfG Bln.

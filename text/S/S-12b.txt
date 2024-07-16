@@ -2,31 +2,33 @@ VAB S.12b.
 VAB S.12b.
 Inhaltsverzeichnis
 Aufenthaltsunterbrechungen
-12b.1. Allgemeines
 12b.1.1. Unterbrechungen des gewöhnlichen Aufenthalts
 12b.1.2. Anrechnung von Zeiten im Ausland
 12b.1.3. Anrechnung von Wehrpflichtzeiten
+12b.1.4. Unterbrechungen bei Freizügigkeitsberechtigten
+12b.1.5. Unterbrechungen des gewöhnlichen Aufenthalts
 12b.2. Anrechnung früherer Aufenthalte im Inland bei Aufenthaltsunterbrechungen
 12b.3. Unterbrechungen der Rechtmäßigkeit des Aufenthalts
 Aufenthaltsunterbrechungen
-12b.1. Allgemeines
-Von einem gewöhnlichen Aufenthalt im Inland kann regelmäßig dann nicht mehr ausgegangen werden, wenn mehr als die Hälfte der geforderten Aufenthaltsdauer im Ausland verbracht worden ist. In diesen Fällen beginnt die Frist mit der erneuten Begründung eines rechtmäßigen gewöhnlichen Aufenthalts im Inland neu zu laufen.
-Beispiele:
-Bei einer Aufenthaltsdauer von 8 Jahren gem. § 10 Abs. 1 darf die Aufenthaltsunterbrechung insgesamt nicht länger als 4 Jahre sein.
-Bei einer Aufenthaltsdauer von 6 Jahren gem. § 10 Abs. 3 darf die Aufenthaltsunterbrechung insgesamt nicht länger als 3 Jahre sein.
+(01.01.2024, 25.06.2024, 27.06.2024 StARModG)
 12b.1.1. Unterbrechungen des gewöhnlichen Aufenthalts
-Auch mehrere Auslandsaufenthalte bis zu sechs Monaten innerhalb der jeweils geforderten rechtmäßigen und gewöhnlichen Aufenthaltszeit sind grundsätzlich nicht als Unterbrechungen des rechtmäßigen gewöhnlichen Aufenthalts im Inland zu berücksichtigen (zum Beispiel Urlaubsreisen, Verwandtenbesuche, Erledigung von erbrechtlichen oder geschäftlichen Angelegenheiten).
+Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu sechs Monaten im Ausland nicht unterbrochen. Auch mehrere Auslandsaufenthalte von jeweils bis zu sechs Monaten innerhalb der jeweils geforderten rechtmäßigen und gewöhnlichen Aufenthaltszeit sind grundsätzlich nicht als Unterbrechungen des rechtmäßigen gewöhnlichen Aufenthalts im Inland zu berücksichtigen (zum Beispiel Urlaubsreisen, Verwandtenbesuche, Erledigung von erbrechtlichen oder geschäftlichen Angelegenheiten).
 12b.1.2. Anrechnung von Zeiten im Ausland
 Nach Satz 2 besteht der gewöhnliche Aufenthalt auch bei längeren Auslandsaufenthalten fort, wenn der Ausländer innerhalb einer von der Ausländerbehörde bestimmten Frist wieder eingereist ist (zum Beispiel bei einem Aufenthalt zu Studienzwecken, Familienangehörigen von Diplomaten oder einem genehmigten Schulbesuch). In der Regel wird dem Ausländer über die bestimmte Frist von der Ausländerbehörde eine Bescheinigung nach § 51 Abs. 2 oder 4 AufenthG ausgestellt.
 12b.1.3. Anrechnung von Wehrpflichtzeiten
 Der gewöhnliche Aufenthalt besteht auch bei der Erfüllung der gesetzlichen Wehrpflicht im Herkunftsstaat fort, wenn der Ausländer innerhalb von drei Monaten nach der Entlassung aus dem Wehr- oder Ersatzdienst wieder einreist. Erfüllung der gesetzlichen Wehrpflicht ist dabei auch die Verpflichtung zum Militärdienst z.B. im Rahmen der Verteidigung des eigenen Landes bei bewaffneten Konflikten.
 12b.1.4. Unterbrechungen bei Freizügigkeitsberechtigten
 Frei
+12b.1.5. Unterbrechungen des gewöhnlichen Aufenthalts
+Von einem gewöhnlichen Aufenthalt im Inland kann regelmäßig dann nicht mehr ausgegangen werden, wenn mehr als die Hälfte der geforderten Aufenthaltsdauer im Ausland verbracht worden ist. In diesen Fällen beginnt die Frist mit der erneuten Begründung eines rechtmäßigen gewöhnlichen Aufenthalts im Inland neu zu laufen.
+Beispiele:
+Bei einer erforderlichen Aufenthaltsdauer von 5 Jahren bei einer Einbürgerung gemäß § 10 Abs. 1 darf die Aufenthaltsunterbrechung insgesamt nicht länger als 2,5 Jahre sein.
+Bei einer erforderlichen Aufenthaltsdauer von 3 Jahren bei einer Einbürgerung gemäß § 10 Abs. 3 darf die Aufenthaltsunterbrechung insgesamt nicht länger als 1,5 Jahre sein.
 12b.2. Anrechnung früherer Aufenthalte im Inland bei Aufenthaltsunterbrechungen
 In Einbürgerungsverfahren ist bei der Ermessensabwägung, inwieweit ein früherer rechtmäßiger Aufenthalt im Inland nach einer Unterbrechung des Aufenthalts anrechenbar ist, zu prüfen, ob dem früheren Inlandsaufenthalt trotz der Unterbrechung integrierende Wirkung zuerkannt werden kann.
 Das Ermessen ist grundsätzlich zu Gunsten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. eine Ausbildung/ ein Studium absolviert oder gearbeitet hat.
 Das Ermessen ist grundsätzlich zu Lasten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. öffentliche Leistungen nach dem SGB II, XII oder Bürgergeld bezogen hat oder aufgrund von Straffälligkeit verurteilt wurde.
 Eine Abwägung zur Anrechnung der Voraufenthaltszeiten erfolgt immer einzelfallbezogen.
-Bei Personen, denen nach § 37 AufenthG eine Aufenthaltserlaubnis erteilt worden ist, ist der gesamte rechtmäßige frühere Inlandsaufenthalt bis zur gesetzlichen Höchstdauer von fünf Jahren anzurechnen.
+Bei Personen, denen nach § 37 AufenthG eine Aufenthaltserlaubnis erteilt worden ist, ist der gesamte rechtmäßige frühere Inlandsaufenthalt bis zur gesetzlichen Höchstdauer von drei Jahren anzurechnen.
 12b.3. Unterbrechungen der Rechtmäßigkeit des Aufenthalts
 Unterbrechungen des rechtmäßigen Aufenthalts infolge einer nicht rechtzeitigen Beantragung oder Verlängerung des Aufenthaltstitels bleiben außer Betracht, wenn sie bereits bei der Entscheidung über den Aufenthaltstitel außer Betracht geblieben sind.

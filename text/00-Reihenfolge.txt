@@ -224,19 +224,13 @@ E Irak 4
 E Iran 1
 E Iran 2
 E Israel 1
-E Kosovo 1
-E Libanon 1
-E Libanon 2
-E Libanon 3
 E Libyen 1
 E Montenegro 1
-E Nordkorea 1
 E Russland 2
+E Sudan 1
 E Syrien 1
 E Syrien 2
-E Syrien 3
 E Türkei 1
-E Türkei 2
 E Usbekistan 1
 S.1.
 S.3.
@@ -269,6 +263,7 @@ S.29.
 S.30.
 S.31.
 S.32.
+S.32b.
 S.33.
 S.34.
 S.35.
@@ -276,4 +271,5 @@ S.36.
 S.37.
 S.38.
 S.39.
+S.40a.
 S.42.

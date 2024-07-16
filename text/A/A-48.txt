@@ -1,7 +1,7 @@
 VAB A 48
 VAB A 48
 A.48. Ausweisrechtliche Pflichten
-(2. ÄndGAusreisepflicht; 17.02.2022; 07.07.2022; RückführungsVG)
+(2. ÄndGAusreisepflicht; 07.07.2022; 04.07.2024; RückführungsVG)
 48.0. Der Ausländer ist durch ein Merkblatt möglichst in einer ihm verständlichen Sprache auf seine gesetzlichen Verpflichtungen gem. § 48 Abs. 1 und 3 hinzuweisen. Dies ergibt sich zwingend aus § 82 Abs. 3. Das Merkblatt enthält auch einen Hinweis auf die Ordnungswidrigkeit der Passverschleierung sowie auf die Strafbarkeit unrichtiger oder unvollständiger Angaben gem. § 95 Abs. 2 Nr. 2.
 Die Aushändigung des Merkblattes ist zumindest aktenkundig zu vermerken.
 48.1. 0.1. Flankierend zur Vorlagepflicht des § 48 Abs. 1 ist § 57 AufenthV zu beachten (siehe Ausführungen unter B.AufenthV.57.).
@@ -30,6 +30,4 @@ Liegt ein gültiger Pass oder Passersatz vor, sind Maßnahmen nach § 48 Abs. 3 
 Vom Begriff des Datenträgers sind auch mobile Geräte wie Mobiltelefone einschließlich Smartphones und sog. Daten-Clouds umfasst.
 48.3b. - 3c. frei.
 48.4.1. Personen, bei denen nach § 5 Abs. 3 (humanitäre Aufenthaltstitel) vom Regelerfordernis der Erfüllung der Passpflicht abgesehen wird, oder Neugeborenen, die unter § 33 S. 1 oder 2 fallen, ist ein Ausweisersatz auszustellen, sofern nicht vorrangige Bestimmungen zur Ausstellung eines Reiseausweises für Flüchtlinge führen. Die Verpflichtungen zur Mitwirkung bei der Passbeschaffung nach § 48 Abs. 3 bleiben unberührt, sofern die Beantragung eines Passes oder Passersatzes des Herkunftsstaates zumutbar ist (vgl. insoweit die Ausführungen unter B.AufenthV.5.-11.).
-A.48.S.1. Pass- und ausweisrechtliche Situation von Einbürgerungs-bewerbern
-a) Ausländern mit Niederlassungserlaubnis, die die Einbürgerung beantragt haben, kann im Fall ungültig gewordener Nationalpässe für die Dauer des Einbürgerungsverfahrens ein Ausweisersatz ausgestellt werden. Sie sind nicht aufzufordern, sich einen Nationalpass ausstellen zu lassen. Keinesfalls ist ein Ermittlungsverfahren wegen Fehlens eines gültigen Passes einzuleiten oder die Aufenthaltsgenehmigung nach § 52 Abs. 1 Nr. 1 zu widerrufen.
-b) Betreibt ein Ausländer im Rahmen seines Einbürgerungsverfahrens die Entlassung aus seiner bisherigen Staatsangehörigkeit und muss deshalb seinen Nationalpass abgeben oder erhält er aus diesem Grunde keinen neuen Pass, ist ein vorläufiger Reiseausweis für Ausländer gemäß § 5 Abs. 1 AufenthV auszustellen.
+A.48.S.1. Pass- und ausweisrechtliche Situation von Einbürgerungsbewerbern

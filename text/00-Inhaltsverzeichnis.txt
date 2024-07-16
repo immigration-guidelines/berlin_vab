@@ -171,7 +171,6 @@ A.72a. Abgleich von Visumantragsdaten zu Sicherheitszwecken
 A.73. Sonstige Beteiligungserfordernisse im Visumverfahren und bei der Erteilung von
 Abschnitt 2 Bundesamt für Migration und Flüchtlinge
 A.75. Aufgaben
-§ 76 gestrichen
 Abschnitt 3 Verwaltungsverfahren
 A.77. Schriftform; Ausnahme von Formerfordernissen
 A.78a. Vordrucke für Aufenthaltstitel, Ausweisersatz und Bescheinigungen
@@ -198,9 +197,6 @@ A.91d. Auskünfte zur Durchführung der Richtlinie 2016/801/EU
 A.91f. Auskünfte zur Durchführung der Hochqualifiziertenrichtlinie
 A.91g. Auskünfte zur Durchführung der Richtline 2014/66/EU
 Kapitel 8 - Beauftragte für Flüchtlinge, Migration und Integration
-§ 92 Amt der Beauftragten (nicht belegt)
-§ 93 Aufgaben (nicht belegt)
-§ 94 Amtsbefugnisse (nicht belegt)
 Kapitel 9 - Straf- und Bußgeldvorschriften
 A.95. Strafvorschriften
 A.97. Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen
@@ -219,7 +215,6 @@ AufenthV
 30a. - 38. Visumverfahren
 38a. - 38f. Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen
 39. - 41. Einholung des Aufenthaltstitels im Bundesgebiet
-42. - 43. Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen (leer)
 44. - 54. Gebühren
 55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
 61a. - 84. Datenverarbeitung, Ordnungswidrigkeiten, Schlussvorschriften
@@ -304,19 +299,13 @@ E.Irak.4. Aufnahme irakischer Flüchtlinge
 E.Iran.1. Entscheidung über Aufenthaltstitel bei iranischen StA
 E.Iran.2. Rückführung in den Iran
 E.Israel.1. Ausländerrechtliche Behandlung jüdischer Zuwanderer, auch anderer Staatsangehörigkeiten
-E.Kos.1. Staatsangehörige aus dem Kosovo
-E.Lib.1. Abschiebungen in den Libanon
-E.Lib.2. Palästinenser aus dem Libanon
-E.Lib.3. Anwendbarkeit des § 25 Abs. 5 AufenthG für palästinensische Volkszugehörige ungeklärter Staatsangehörigkeit aus dem Libanon
 E.Libyen.1. Abschiebung nach Libyen
 E.Mont.1. Rückführungen nach Montenegro
-E.Nordkorea.1. Anwendung der Sicherheitsratsresolution 239(2017) zur Repatriierung von Staatsangehörigen der Demokratischen Volksrepublik Nordkorea
 E.Russ.2. Deutsch-Russisches Regierungsabkommen über Reiseerleichterungen
+E.Sudan.1. Rückführung in den Sudan
 E.Syrien.1. Ausländerrechtliche Behandlung abgelehnter Asylbewerber aus Syrien
 E.Syrien.2. Aussetzung der Abschiebung nach Syrien
-E.Syrien.3. Ausländerrechtliche Sonderregelungen für syrische Staatsangehörige sowie ungeklärte Staatsangehörige aus Syrien in Folge des Erdbebens vom 06.02.2023
 E.Türk.1. Ausländerrechtliche Sonderregelungen für türkische Staatsangehörige aufgrund des Assoziationsratsbeschlusses (ARB) Nr. 1/80
-E.Türk.2. Ausländerrechtliche Sonderregelungen für türkische Staatsangehörige in Folge des Erdbebens vom 06.02.2023
 E.Usbekistan.1. Zum usbekischen Staatsangehörigkeitsrecht
 Teil S
 VAB S.1. Begriff des Deutschen
@@ -326,7 +315,8 @@ VAB S.5. Erklärungsrecht zur staatsangehörigkeitsrechtlichen Wiedergutmachung
 VAB S.6. Erwerb durch Annahme als Kind
 VAB S.7. Erwerb durch Ausstellung der Spätaussiedlerbescheinigung
 VAB S.8. Einbürgerung im Ermessen
-VAB S.9. Einbürgerung von Ehegatten oder Lebenspartnern deutscher Staatsangehöriger VAB S.10. Anspruchseinbürgerung; Miteinbürgerung von Ehegatten und minderjährigen Kindern
+VAB S.9. Einbürgerung von Ehegatten oder Lebenspartnern deutscher Staatsangehöriger
+VAB S.10. Anspruchseinbürgerung; Miteinbürgerung von Ehegatten und minderjährigen Kindern
 VAB S.11. Ausschlussgründe
 VAB S.12. Einbürgerung unter Hinnahme von Mehrstaatigkeit
 VAB S.12a. Entscheidung bei Straffälligkeit
@@ -349,6 +339,7 @@ VAB S.29. Optionspflichtige, Erklärung, Verlust der deutschen Staatsangehörigk
 VAB S.30. Feststellung der deutschen Staatsangehörigkeit; Staatsangehörigkeitsausweis
 VAB S.31. Personenbezogene Daten
 VAB S.32. Datenübermittlung
+VAB S 32b. Datenübermittlung der Staatsanwaltschaften
 VAB S.33. Register staatsangehörigkeitsrechtlicher Entscheidungen (EStA)
 VAB S.34. Datenübermittlung im Optionsverfahren
 VAB S.35. Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
@@ -356,5 +347,6 @@ VAB S.36. Einbürgerungsstatistik
 VAB S.37. Verfahrensvorschriften
 VAB S.38. Gebühren
 VAB S.39. Verordnungsermächtigung
+VAB S.40a Übergangsvorschrift
 VAB S.42. Strafvorschrift
 Inhaltsverzeichnis

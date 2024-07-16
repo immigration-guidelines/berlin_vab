@@ -1,7 +1,7 @@
 VAB S.35.
 VAB S.35.
 Inhaltsverzeichnis
-Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
+Rücknahme einer rechtswidrigen Einbürgerung
 35.0. Allgemeines
 35.1. Rücknahmevoraussetzungen
 35.2. Staatenlosigkeit
@@ -10,39 +10,43 @@ Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
 35.5. Rücknahme eines rechtswidrigen Verwaltungsaktes gegenüber betroffenen Dritten
 35.5.1. Auswirkungen der Rücknahme auf die Rechtmäßigkeit von Verwaltungsakten nach dem StAG
 35.5.2. Beteiligung des Dritten
-Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
+Rücknahme einer rechtswidrigen Einbürgerung
+(StaRModG)
 35.0. Allgemeines
-§ 35 enthält spezialgesetzliche Regelungen zur Rücknahme von rechtswidrigen Verwaltungsakten nach dem Staatsangehörigkeitsgesetz und ist insofern lex specialis zu § 48 VwVfG, soweit diese zum Verlust der deutschen Staatsangehörigkeit führen (vergleiche VAB S.17.). Dabei handelt es sich nur um Einbürgerungen und Beibehaltungsgenehmigungen.
+§ 35 enthält spezialgesetzliche Regelungen zur Rücknahme von rechtswidrigen Verwaltungsakten nach dem Staatsangehörigkeitsgesetz und ist insofern lex specialis zu § 48 VwVfG, soweit diese zum Verlust der deutschen Staatsangehörigkeit führen (vergleiche VAB S.17.).
 Bei anderen Verwaltungsakten nach dem StAG, deren Rücknahme für die Vergangenheit nicht automatisch zum Verlust der deutschen Staatsangehörigkeit führt, sind für die Rücknahme die Vorschriften des VwVfG anwendbar, z. B. bei der Erteilung der Einbürgerungszusicherung oder bei der Feststellung der deutschen Staatsangehörigkeit. Im Übrigen bleibt die Anwendung von verwaltungsverfahrensrechtlichen Regelungen außerhalb der Spezialregelung des § 35 unberührt, zum Beispiel bei der Einziehung von Urkunden (vergleiche § 52 VwVfG).
 35.1. Rücknahmevoraussetzungen
-Die Rücknahmevoraussetzungen entsprechen im Wesentlichen den Voraussetzungen in § 48 Absatz 2 Satz 3 Nummern 1 und 2 VwVfG mit der Besonderheit, dass die unrichtigen oder unvollständigen Angaben vorsätzlich abgegeben sein müssen. Es kann daher Überschneidungen mit Fällen der arglistigen Täuschung geben. Die Angaben müssen auch wesentlich für den Erlass der Einbürgerung oder Beibehaltungsgenehmigung gewesen sein.
+Die Rücknahmevoraussetzungen entsprechen im Wesentlichen den Voraussetzungen in § 48 Absatz 2 Satz 3 Nummern 1 und 2 VwVfG mit der Besonderheit, dass die unrichtigen oder unvollständigen Angaben vorsätzlich abgegeben sein müssen. Es kann daher Überschneidungen mit Fällen der arglistigen Täuschung geben. Die Angaben müssen auch wesentlich für den Erlass der Einbürgerung gewesen sein.
 Die Entscheidung über die Rücknahme ist eine Ermessensentscheidung. Hat der Betroffene seinen dauernden Aufenthalt im Ausland, ist das BVA für die Rücknahme zuständig.
-Bei der Ermessensentscheidung sind die Gründe für die Wiederherstellung des rechtmäßigen Zustandes mit den Rechten der betroffenen Person (deren schutzwürdige Belange) abzuwägen. Dabei ist auf der einen Seite zu berücksichtigen, dass die Ursache für die Fehlerhaftigkeit der Einbürgerung oder der Beibehaltungsgenehmigung in der Sphäre der betroffenen Person liegt und dass die Rücknahme der Wiederherstellung eines Zustands der Rechtmäßigkeit dient. Auf der anderen Seite kann beispielsweise in Rechnung gestellt werden, ob die Belange des Betroffenen durch die Rücknahme besonders stark beeinträchtigt werden, weil er bspw. mit der Rücknahme der Einbürgerung auch sein Amt als Beamter oder seine Zulassung als Arzt verlieren wird.
+Bei der Ermessensentscheidung sind die Gründe für die Wiederherstellung des rechtmäßigen Zustandes mit den Rechten der betroffenen Person (deren schutzwürdige Belange) abzuwägen. Dabei ist auf der einen Seite zu berücksichtigen, dass die Ursache für die Fehlerhaftigkeit der Einbürgerung in der Sphäre der betroffenen Person liegt und dass die Rücknahme der Wiederherstellung eines Zustands der Rechtmäßigkeit dient.
+Auf der anderen Seite kann beispielsweise in Rechnung gestellt werden, ob die Belange des Betroffenen durch die Rücknahme besonders stark beeinträchtigt werden, weil er bspw. mit der Rücknahme der Einbürgerung auch sein Amt als Beamter oder seine Zulassung als Arzt verlieren wird.
 Soziale Härten kommen als Abwägungskriterien nur in Betracht, wenn deren Linderung ausschließlich deutschen Staatsangehörigen zugutekäme.
-Das Interesse des Betroffenen am Fortbestand der rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung tritt regelmäßig dann zurück, wenn der Betroffene sich nicht auf ein schützenswertes Vertrauen in den Fortbestand berufen kann. Auf ein solches Vertrauen kann sich der Betroffene nach den Wertungen des § 48 Abs. 2 Satz 3 VwVfG nicht berufen, wenn er die Einbürgerung oder Beibehaltungsgenehmigung durch arglistige Täuschung, Drohung oder Bestechung bzw. durch falsche oder unrichtige Angaben erwirkt hat oder wenn er die Rechtswidrigkeit kannte oder infolge grober Fahrlässigkeit nicht kannte. In einem solchen Fall gilt als Leitlinie für das Ermessen, dass auf eine Rücknahme lediglich dann verzichtet werden kann, wenn der Betroffene dadurch außergewöhnlichen und letztlich unverhältnismäßigen Belastungen ausgesetzt würde.
+Das Interesse des Betroffenen am Fortbestand der rechtswidrigen Einbürgerung tritt regelmäßig dann zurück, wenn der Betroffene sich nicht auf ein schützenswertes Vertrauen in den Fortbestand berufen kann. Auf ein solches Vertrauen kann sich der Betroffene nach den Wertungen des § 48 Abs. 2 Satz 3 VwVfG nicht berufen, wenn er die Einbürgerung durch arglistige Täuschung, Drohung oder Bestechung bzw. durch falsche oder unrichtige Angaben erwirkt hat oder, wenn er die Rechtswidrigkeit kannte oder infolge grober Fahrlässigkeit nicht kannte. In einem solchen Fall gilt als Leitlinie für das Ermessen, dass auf eine Rücknahme lediglich dann verzichtet werden kann, wenn der Betroffene dadurch außergewöhnlichen und letztlich unverhältnismäßigen Belastungen ausgesetzt würde.
 Eine Rücknahmeentscheidung wird nur im Vier-Augen-Prinzip mit der Referatsleitung getroffen.
 35.2. Staatenlosigkeit
 Absatz 2 enthält wegen Artikel 16 Absatz 1 Satz 2 GG eine besondere Konkretisierung der Abwägung im Rahmen des Ermessens. Nach dem Urteil des Bundesverfassungsgerichts vom 24. Mai 2006 - BvR 669/04 - steht eine mit der Rücknahme eintretende Staatenlosigkeit der Rücknahme nicht entgegen. In der Regel hindert die drohende Staatenlosigkeit daher nicht die Rücknahme. Ausnahmen sind nur in wenigen Fällen einer mit der Staatenlosigkeit verbundenen über die bloße Rechtsfolge hinausgehende Härte für die betroffene Person denkbar. Ermessenserwägungen sind aber bei drohender Staatenlosigkeit stets anzustellen (vergleiche BVerwG, Urteil vom 3. Juni 2003, Az.: 1 C 19.02).
 Wegen der mit der Rücknahme verbundenen Verlustes der Unionsbürgerschaft (vergleiche Artikel 17 Absatz 1 des Vertrages zur Gründung der Europäischen Gemeinschaft - EGV) sind hierzu in allen Fällen zusätzliche Ermessenserwägungen anzustellen insbesondere zu auslandsbezogenen und mit Reisen verbundenen Tätigkeiten - (vergleiche BVerwG, Urteil vom 3. Juni 2003, Az.: 1 C 19.02).
 35.3. Rücknahmefrist
-Die Frist von zehn Jahren nach Bekanntgabe der Einbürgerung oder Beibehaltungsgenehmigung (Aushändigung der Urkunde) gilt absolut. Auf die Kenntnis der Behörde kommt es nicht an. Nach Ablauf von zehn Jahren können Einbürgerungen oder Beibehaltungsgenehmigungen nicht mehr zurückgenommen werden.
+Die Frist von zehn Jahren nach Bekanntgabe der Einbürgerung (Aushändigung der Urkunde) gilt absolut. Auf die Kenntnis der Behörde kommt es nicht an. Nach Ablauf von zehn Jahren können Einbürgerungen nicht mehr zurückgenommen werden.
 Im Hinblick auf das sogenannte echte Rückwirkungsverbot ist die zehnjährige Rücknahmefrist für die bereits abgeschlossenen Einbürgerungsfälle nicht mehr anwendbar; dies betrifft die Einbürgerungsfälle, bei denen zum Zeitpunkt des Inkrafttretens des Dritten Gesetzes zur Änderung des Staatsangehörigkeitsgesetzes die fünfjährige Rücknahmefrist bereits abgelaufen war (9. August 2019).
 35.4. Zeitliche Wirkung der Rücknahme
-Eine Einbürgerung oder eine Genehmigung zur Beibehaltung der Staatsangehörigkeit darf nur mit Wirkung für die Vergangenheit (ex tunc) zurückgenommen werden. Eine Rücknahme für die Zukunft (ex nunc) ist nicht zulässig.
+Eine Einbürgerung darf nur mit Wirkung für die Vergangenheit (ex tunc) zurückgenommen werden. Eine Rücknahme für die Zukunft (ex nunc) ist nicht zulässig.
 35.5. Rücknahme eines rechtswidrigen Verwaltungsaktes gegenüber betroffenen Dritten
 35.5.1. Auswirkungen der Rücknahme auf die Rechtmäßigkeit von Verwaltungsakten nach dem StAG
-Die Vorschrift ist von § 17 Absatz 2 abzugrenzen. Diese ist auf den gesetzlichen Erwerb der deutschen Staatsangehörigkeit nach §§ 4–7 bezogen, während § 35 Absatz 5 ausschließlich die Einbürgerung aufgrund eines Antrags nach dem StAG betrifft.
+Die Vorschrift ist von § 17 Satz 3 abzugrenzen. Diese ist auf den gesetzlichen Erwerb der deutschen Staatsangehörigkeit nach §§ 4–7 bezogen, während § 35 Absatz 5 ausschließlich die Einbürgerung aufgrund eines Antrags nach dem StAG betrifft.
 Betroffen von § 35 Absatz 5 sind somit Einbürgerungen nach § 8 sofern eine Einbürgerungsvoraussetzung auf die deutsche Staatsangehörigkeit eines anderen abstellt (z.B. Miteinbürgerung von Ehegatten bzw. Kindern).
 Weiter sind betroffen Einbürgerungen nach § 9 (privilegierte Einbürgerung des Ehegatten).
 Ebenso betroffen sind Einbürgerungen nach § 10 Absatz 2 (Miteinbürgerung des Ehegatten bzw. der Kinder).
-Nicht betroffen von § 35 Absatz 5, sondern ein Fall des § 17 Abs. 2 sind der Erwerb der deutschen Staatsangehörigkeit nach §§ § 4–7, somit aufgrund Geburt, Erklärung oder Annahme als Kind.
+Nicht betroffen von § 35 Absatz 5, sondern ein Fall des § 17 Satz 3 sind der Erwerb der deutschen Staatsangehörigkeit nach §§ § 4–7, somit aufgrund Geburt, Erklärung oder Annahme als Kind.
 Für jede betroffene Person ist eine eigene Rücknahmeentscheidung und eigene Ermessenserwägungen anzustellen. Dabei wiegt auch gegenüber dritten betroffenen Personen das öffentliche Interesse an der Wiederherstellung gesetzmäßiger Zustände auf dem Gebiet des Staatsangehörigkeitsrechts schwer.
 35.5.2. Beteiligung des Dritten
-Haben dritte Personen (zum Beispiel Ehegatte, ältere Kinder) an der Erschleichung der Einbürgerung beziehungsweise Beibehaltungsgenehmigung mitgewirkt oder wussten sie davon, so entfällt der Vertrauensschutz.
+Haben dritte Personen (zum Beispiel Ehegatte, ältere Kinder) an der Erschleichung der Einbürgerung mitgewirkt oder wussten sie davon, so entfällt der Vertrauensschutz.
 Schutzwürdige Belange der Betroffenen können in diesen Fällen - wie beim Hauptbetroffenen - nur bei in der Person liegenden besonderen Gründen berücksichtigt werden.
-Waren die dritten Personen an der Erschleichung der Einbürgerung beziehungsweise Beibehaltungsgenehmigung nicht beteiligt, so sind außerdem noch folgende schutzwürdige Belange dieser Personen abzuwägen:
+Waren die dritten Personen an der Erschleichung der Einbürgerung nicht beteiligt, so sind außerdem noch folgende schutzwürdige Belange dieser Personen abzuwägen:
 inzwischen erworbener eigener Einbürgerungsanspruch,
 Grad der Integration in Deutschland,
 bei minderjährigen Kindern Beachtung des Kindeswohls.
 Bei Beachtung des Kindeswohls gilt:
 Kinder unter fünf Jahren teilen regelmäßig das staatsangehörigkeitsrechtliche Schicksal ihrer Eltern, außer bei dadurch eintretender Staatenlosigkeit. Je älter und selbständiger das Kind ist, umso mehr ist auch die eigene Integration in Deutschland (Schul-, Berufsausbildung, deutsches Umfeld) zu berücksichtigen und abzuwägen.
+35.6. rückwirkender Verlust der deutschen Staatsangehörigkeit oder Rücknahme einer rechtswidrigen Bescheinigung nach dem BVFG
+Frei

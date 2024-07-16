@@ -11,20 +11,21 @@ Erwerb durch Geburt
 4.2.2. Vertraulich geborene Kinder
 4.3. Erwerb durch Geburt im Inland (Geburtsortsprinzip)
 4.3.1. Zeitliche Aufenthaltsvoraussetzungen
-4.3.1.1. Rechtmäßiger gewöhnlicher Aufenthalt seit acht Jahren
+4.3.1.1. Rechtmäßiger gewöhnlicher Aufenthalt seit fünf Jahren
 4.3.1.2. Erforderlicher Aufenthaltsstatus
 4.4. Einschränkung des Abstammungserwerbs bei Auslandsgeburt
 4.4.1. Voraussetzungen; Vermeidung von Staatenlosigkeit
 4.4.2. Antrag auf Beurkundung der Geburt, fristwahrende Antragstellung bei der Auslandsvertretung
 4.5. Ausnahmen der Einschränkung des Abstammungserwerbs bei Auslandsgeburt
 Erwerb durch Geburt
-(01.01.2024, 15.02.2024)
+(15.02.2024, 04.07.2024, 27.06.2024 StARModG)
 4.0. Allgemeines
 § 4 regelt den Erwerb der deutschen Staatsangehörigkeit mit der Geburt durch Abstammung (Abstammungsprinzip – ius sanguinis) sowie den Erwerb der deutschen Staatsangehörigkeit durch Geburt im Inland (Geburtsortsprinzip – ius-soli) und etwaige Einschränkungen des Geburtserwerbes durch Abstammung.
 Die Abstammung kann durch deutsche oder ausländische Personenstandsurkunden nachgewiesen werden. Liegen Urkunden nicht vor oder ergeben sich Zweifel an den Abstammungsverhältnissen, sind diese, soweit keine rechtskräftige gerichtliche Entscheidung besteht, unter Berücksichtigung der Regelungen des Internationalen Privatrechts nach dem danach berufenen Sachrecht zu prüfen. Dazu dient die Datenbank ElBib (Elektronische Bibliothek) beim Verlag für Standesamtswesen (VfS). In schwierigen Fällen kann das Prozessreferat P 1 bei der Prüfung unterstützen.
 4.1. Ehelich und nicht eheliche geborene Kinder (Abstammungsprinzip)
 4.1.1. Erwerb durch Abstammung von einem deutschen Elternteil
-Von der deutschen Staatsangehörigkeit eines Elternteils kann ausgegangen werden, wenn nachgewiesen oder glaubhaft gemacht ist, dass der Elternteil und gegebenenfalls die Personen, von denen er seine Staatsangehörigkeit ableitet, spätestens seit dem 1. Januar 1950 von deutschen Stellen als deutsche Staatsangehörige behandelt worden sind, vergleiche S.30.2. In Zweifelsfällen kann die Vorlage eines Staatsangehörigkeitsausweises gefordert werden. Unter Satz 1 fallen z. B. die Fälle ehelich geborener Kinder eines deutschen Vaters und einer ausländischen Mutter, vgl. § 1592 Nr. 1 BGB.
+Von der deutschen Staatsangehörigkeit eines Elternteils kann ausgegangen werden, wenn nachgewiesen oder glaubhaft gemacht ist, dass der Elternteil und gegebenenfalls die Personen, von denen er seine Staatsangehörigkeit ableitet, spätestens seit dem 1. Januar 1950 von deutschen Stellen als deutsche Staatsangehörige behandelt worden sind, vergleiche S.30.2. In Zweifelsfällen kann die Vorlage eines Staatsangehörigkeitsausweises gefordert werden. Unter Satz 1 fallen z. B. die Fälle ehelich geborener Kinder eines deutschen Vaters und einer ausländischen Mutter, vgl. § 1592 Nr. 1 B G B.
+Merke: Verlangt eine ausländische Botschaft von einem Kunden den Nachweis der deutschen Staatsangehörigkeit und akzeptiert hierfür nicht den deutschen Personalausweis, stellt das LEA dennoch keine Bescheinigung über das Bestehen der deutschen Staatsangehörigkeit aus, da hierfür kein berechtigtes Interesse besteht. Der Kunde ist auf das Bürgeramt zur Beantragung einer erweiterten Meldebescheinigung mit Angabe über die Staatsangehörigkeit zu verweisen. Mit dieser Bescheinigung kann gegenüber der Botschaft die deutsche Staatsangehörigkeit nachgewiesen werden.
 4.1.2. Erwerb durch Abstammung von einem deutschen Vater und einer ausländischen Mutter, die zum Zeitpunkt der Geburt nicht verheiratet waren
 Der Erwerb der deutschen Staatsangehörigkeit durch den Vater tritt nur ein, wenn bis zum 23. Lebensjahr des Kindes nach § 1592 Nr. 2 oder 3 BGB die Vaterschaft anerkannt oder festgestellt wurde. Die Anerkennungserklärung bzw. das Feststellungsverfahren müssen vor Vollendung des 23. Lebensjahres abgegeben bzw. eingeleitet sein.
 4.2. Findelkinder, vertraulich geborene Kinder (Abstammungsprinzip)
@@ -35,8 +36,8 @@ Die vertrauliche Geburt ist ein Hilfsangebot für schwangere Frauen, die ihre Sc
 Im Inland vertraulich geborene Kinder gelten bis zum Beweis des Gegenteils als Kind einer Deutschen.
 4.3. Erwerb durch Geburt im Inland (Geburtsortsprinzip)
 4.3.1. Zeitliche Aufenthaltsvoraussetzungen
-4.3.1.1. Rechtmäßiger gewöhnlicher Aufenthalt seit acht Jahren
-Der rechtmäßige gewöhnliche Aufenthalt eines Elternteiles im Inland muss bei Geburt des Kindes seit acht Jahren bestanden haben. Zu den Aufenthaltsunterbrechungen vergleiche S.12b.1. bis 12b.1.3. und 12b.3.
+4.3.1.1. Rechtmäßiger gewöhnlicher Aufenthalt seit fünf Jahren
+Der rechtmäßige gewöhnliche Aufenthalt eines Elternteiles im Inland muss bei Geburt des Kindes seit fünf Jahren bestanden haben. Zu den Aufenthaltsunterbrechungen vergleiche S.12b.1. bis 12b.1.3. und 12b.3.
 4.3.1.1.1. Rechtmäßiger gewöhnlicher Aufenthalt im Inland; anrechenbare Aufenthaltszeiten
 a) Der Ausländer hat ein Aufenthaltsrecht
 (aa) als freizügigkeitsberechtigter Unionsbürger oder als gleichgestellter Staatsangehöriger eines EWR-Staates (Island, Liechtenstein, Norwegen) oder deren Familienangehöriger (vergleiche Freizügigkeitsgesetz/EU) oder nach § 16 FreizügG/EU (Aufenthaltsdokument-GB) oder

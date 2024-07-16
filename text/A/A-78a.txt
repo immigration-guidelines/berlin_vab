@@ -2,12 +2,14 @@ VAB A 78a
 VAB A 78a
 A.78a. Vordrucke für Aufenthaltstitel in Ausnahmefällen, Ausweisersatz und
 Bescheinigungen
-(28.09.2023; 09.11.2023)
+(09.11.2023; 04.07.2024)
 78a.1.0. Nach § 78a Abs. 1 S. 1 können Aufenthaltstitel in Ausnahmefällen vor dem Hintergrund der besonderen Belastungssituation der Ausländerbehörden weiterhin in Form eines Klebeetiketts ausgestellt werden. Der elektronische Aufenthaltstitel nach § 78 Abs. 1 ist dagegen – mit Ausnahme von Visa nach § 6 Absatz 1 Nummer 1 und Absatz 3 – der Regelfall.
 Hiervon wird insbesondere für folgende Fallgruppen Gebrauch gemacht:
 1. Erteilungen von Aufenthaltserlaubnissen zur Aufenthaltsgewährung zum vorübergehenden Schutz nach § 24
 2. Erteilung und Verlängerung von Aufenthaltserlaubnissen durch den Hochschulservice
 3. Erteilungen von Aufenthaltserlaubnissen nach § 104c (Chancen-Aufenthaltsrecht)
+4. Verlängerung von Aufenthaltserlaubnissen im Notfall (Reise, Jobverlust, Einstellung von Leistungen)
+5. Ersatzausstellung von Aufenthaltserlaubnissen bei Verlust (vgl. B.AufenthV.57a.)
 Entsprechend der gesetzlichen Vorgaben (vgl. § 78a Abs. 1 Satz 3) werden Klebeetiketten durch das Fachverfahren automatisch mit einem Hinweis auf "§ 78a Abs. 1 AufenthG" versehen. Sofern die Rechtsgrundlage nicht in die auf dem Klebeetikett zur Verfügung stehende eine Zeile passt, ist der Hinweis auf "§ 78a Abs. 1 AufenthG" auf das Zusatzblatt zu drucken.
 78a.1.1. Satz 1 ermöglicht die Erteilung von Klebeetiketten, wenn der Aufenthalt zur Vermeidung einer außergewöhnlichen Härte nur für einen Monat verlängert werden soll.
 78a.1.2. Durch § 78a Abs. 1 S. 2 i.V.m. §§ 58 f. AufenthV wird die Verwendung bestimmter fälschungssicherer Vordrucke mit maschinenlesbarer Zone für die Erteilung von Aufenthaltstiteln abweichend von § 78 ermöglicht. Im Feld für Anmerkungen ist die für die Erteilung der Aufenthalts- oder Niederlassungserlaubnis maßgebliche Rechtsgrundlage und die nach Satz 3 erforderliche Kennzeichnung einzutragen.

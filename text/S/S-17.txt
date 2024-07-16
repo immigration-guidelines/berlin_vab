@@ -1,23 +1,15 @@
 VAB S.17.
 VAB S.17.
-Inhaltsverzeichnis
 Verlust der Staatsangehörigkeit
+(01.01.2024, 27.06.2024 StARModG)
 17.1. Verlustgründe
-17.2. Einschränkung des Verlustes bei Dritten
-17.3. Verlust der deutschen Staatsangehörigkeit Dritter aufgrund anderer Gesetze
-Verlust der Staatsangehörigkeit
-17.1. Verlustgründe
-Die Vorschrift zählt abschließend die aktuellen Gründe für den Verlust der deutschen Staatsangehörigkeit auf (vergleiche S.18. bis S.35.).
+Die Vorschrift zählt abschließend die aktuellen Gründe für den Verlust der deutschen Staatsangehörigkeit auf (vergleiche S.26. bis S.35.).
 Zu früheren Verlustgründen, z.B. Legitimation durch einen Ausländer vor dem 01. April 1953, vergleiche S.1.1.1.2.
-17.2. Einschränkung des Verlustes bei Dritten
-Die Rücknahme eines rechtswidrigen Verwaltungsaktes (vergleiche S.35.) führt nicht zum Verlust der kraft Gesetzes erworbenen deutschen Staatsangehörigkeit Dritter, wenn diese ihre deutsche Staatsangehörigkeit vom Stammberechtigten ableiten und zum Zeitpunkt der Rücknahme das fünfte Lebensjahr vollendet haben. Praktisch gesprochen bedeutet dies: Wenn Kinder von Personen, die die deutsche Staatsangehörigkeit durch Rücknahme der Einbürgerungsentscheidung verlieren, älter als 5 Jahre alt sind, behalten diese Kinder die deutsche Staatsangehörigkeit.
-Im Umkehrschluss müssen für den Verlust der deutschen Staatsangehörigkeit bei Dritten die folgenden Voraussetzungen kumulativ erfüllt sein:
-a) Die dritte Person muss ihre deutsche Staatsangehörigkeit durch Gesetz von der Person erworben haben, deren deutsche Staatsangehörigkeit durch die Rücknahme rückwirkend entfallen ist.
-b) Der rückwirkende Verlust der deutschen Staatsangehörigkeit durch die Rücknahme bei der Person, die den rechtswidrigen Verwaltungsakt erwirkt hat, muss ursächlich für den automatischen Verlust der deutschen Staatsangehörigkeit der dritten Person sein.
-c) Der Verlust der deutschen Staatsangehörigkeit bei der dritten Person tritt nur dann ein, wenn diese ihr fünftes Lebensjahr noch nicht vollendet hat, es sei denn, sie würde durch den Verlust staatenlos.
-17.3. Verlust der deutschen Staatsangehörigkeit Dritter aufgrund anderer Gesetze
-Nach Absatz 3 verlieren Personen, die das fünfte Lebensjahr bereits vollendet haben, ebenfalls nicht ihre deutsche Staatsangehörigkeit, wenn Entscheidungen aufgrund anderer Gesetze außerhalb des StAG getroffen werden, die sich automatisch auf die deutsche Staatsangehörigkeit dieser Personen auswirken. Für Personen, die das fünfte Lebensjahr noch nicht vollendet haben, tritt der Verlust nur dann nicht ein, wenn sie sonst staatenlos würden.
-Bei den Entscheidungen handelt es sich um behördliche Entscheidungen (zum Beispiel Verwaltungsakte) oder Gerichtsentscheidungen. Sie müssen aufgrund anderer Rechtsgrundlagen als dem StAG getroffen worden sein und sich in erster Linie an andere Personen als die genannten Dritten richten.
-Als Beispiele werden die Rücknahme der Niederlassungserlaubnis nach § 51 Absatz 1 Nummer 3 AufenthG (vergleiche VAB
-A.51.1.3.) mit der Folge des rückwirkenden Wegfalls des Erwerbs nach § 4 Absatz 3 (Ius-soli-Erwerbs, Geburtsortsprinzip, vergleiche S.4.3.), die Rücknahme einer Spätaussiedler- oder Angehörigenbescheinigung nach § 15 des BVFG mit der Folge des rückwirkenden Wegfalls des Erwerbs nach § 4 Absatz 1 und § 6 (vergleiche S.4.1. und S.6.) und die Feststellung des Nichtbestehens der Vaterschaft nach § 1599 BGB mit der Folge des rückwirkenden Wegfalls des Abstammungserwerbs nach § 4 Absatz 1 angeführt.
-Die Beispiele sind nicht abschließend. Die Regelung schließt andere Fälle nicht aus.
+17.2. Verlust bei Kindern
+Unter sehr strengen Voraussetzungen kann ein Kind rückwirkend die deutsche Staatsangehörigkeit verlieren, wenn die Voraussetzungen für den Erwerb der deutschen Staatsangehörigkeit des Stammberechtigten, von dem das Kind die deutsche Staatsangehörigkeit ableitete, rückwirkend entfallen, z.B., weil festgestellt wird, dass die Vaterschaft eines Deutschen nicht besteht.
+In einem ersten Schritt ist zu prüfen, ob Gründe vorliegen, aus denen die deutsche Staatsangehörigkeit des Kindes dennoch bestehen bleibt. Dies ist dann der Fall, wenn das Kind
+bei der Unanfechtbarkeit der Entscheidung älter als 5 Jahre ist; oder
+mit einem anderen deutschen Elternteil verwandt bleibt; oder
+aus anderen Gründen nach § 4 Abs. 3 die deutsche Staatsangehörigkeit erworben hätte; oder
+ansonsten staatenlos würde.
+Wenn keiner dieser Ausnahmegründe vorliegt, ist - wenn mit dem Verlust der deutschen Staatsangehörigkeit auch ein Verlust der Unionsbürgerschaft verbunden wäre - auf Grund des drohenden Verlusts der Unionsbürgerschaft stets eine einzelfallbezogene Verhältnismäßigkeitsprüfung vorzunehmen. Im Rahmen dieser Verhältnismäßigkeitsprüfung ist das Wohl des Kindes ein Gesichtspunkt, der gemäß Artikel 3 Absatz 1 des Übereinkommens über die Rechte des Kindes vorrangig zu berücksichtigen ist, beachte S.30.1.4-5.
