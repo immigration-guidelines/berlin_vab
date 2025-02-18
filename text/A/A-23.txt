@@ -2,7 +2,7 @@ VAB A 23
 VAB A 23
 Inhaltsverzeichnis
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 01.07.2023; 16.05.2024)
+(FEG; 16.05.2024; 21.11.2024)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 23.1.1.1. Spätaussiedler
 23.1.1.2. Traumatisierte, Lebensältere und Zeugen bosnischer Staatsangehörigkeit
@@ -11,7 +11,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 23.1.1.5. Traumatisierte serbische, montenegrinische und kosovarische Staatsangehörige aus dem Kosovo
 23.4. Neuansiedlung von Schutzsuchenden (sog. Resettlement)
 23.s.1. Bleiberechtsbeschluss der IMK vom 17.11.2006
-23.s.2. Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und berufskonsularischen Vertretungen in Deutschland
+23.s.2.Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und berufskonsularischen Vertretungen in Deutschland
 23.s.3. Aufnahme von nach Malta geflüchteten Personen
 1. Aufnahmezusage
 2. Begünstigter Personenkreis
@@ -21,7 +21,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 258
+23.s.4. Aufnahme von besonders Schutzbedürftigen aus Drittstaaten in Zusammenarbeit mit dem UNHCR (Resettlement). 272
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -30,7 +30,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 6. Aufenthaltsrechtliche Verfestigung
 7. Familiennachzug
 8. Gebühren
-23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 265
+23.s.5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen Anrainerstaaten im Rahmen eines Aufnahmekontingents 279
 1. Grundsätzliches
 2. Begünstigter Personenkreis
 3. Ausschlussgründe
@@ -99,7 +99,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 7. Familiennachzug
 8. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 01.07.2023; 16.05.2024)
+(FEG; 16.05.2024; 21.11.2024)
 Formular Interessenbekundung § 23 Abs. 1
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
@@ -131,23 +131,22 @@ In der jeweiligen Aufnahmeanordnung des Bundesministeriums des Innern werden zug
 Zur entsprechenden Anwendung der Vorschriften des § 23 Abs. 4, vgl. A.104.
 23.s.1. Bleiberechtsbeschluss der IMK vom 17.11.2006
 - Aufgehoben mit Inkrafttreten des 2. ÄndG zum ZuwG, s. jetzt A.104a/b -
-23.s.2. Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und
+23.s.2.Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und
 berufskonsularischen Vertretungen in Deutschland
-Die Richtlinien des Auswärtigen Amtes zur Beschäftigung von im Ausland angeworbenen so genannten unechten Ortskräften an diplomatischen und berufskonsularischen Vertretungen in Deutschland sind am 1. Februar 2010 in Kraft getreten und regeln folgendes: Für bisher begünstigte Personen wird eine Altfallregelung eingeführt, die vorsieht, dass ein eigenes Aufenthaltsrecht erworben werden kann, wenn bestimmte Voraussetzungen erfüllt sind (weiter unten).
-1. Die Vertretungen dürfen weiterhin eigene Staatsangehörige als Ortskräfte im Heimatland anwerben, 2. der Aufenthalt der neuen Ortskräfte wird auf maximal fünf Jahre begrenzt,
-3. der Familiennachzug ist ausgeschlossen,
-4. für bisher begünstigte Personen wird eine Altfallregelung eingeführt, die vorsieht, dass ein eigenes Aufenthaltsrecht erworben werden kann, wenn bestimmte Voraussetzungen erfüllt sind (weiter unten).
-Ab dem 01.01.2013 dürfen fremde Missionen Ortskräfte nur noch im Inland anwerben, wenn die Angeworbenen im Besitz eines Aufenthaltstitels mit freiem Zugang zum Arbeitsmarkt sind.
-In diesem Zusammenhang wurde zwischen Bund und Ländern eine Altfallregelung für die „unechten“ Ortskräfte und deren Familienangehörigen abgestimmt, die bereits vor Inkrafttreten der o.g. Neuregelung an einer diplomatischen oder berufskonsularischen Vertretung in der Bundesrepublik Deutschland tätig waren.
-Das Bundesministerium des Innern hat mit Schreiben vom 15. Dezember 2009 das erforderliche Einvernehmen mit dieser Altfallregelung erklärt. Diese wird in Berlin aufgrund des Schreibens der Senatsverwaltung für Inneres und Sport vom 18.12.2009 wie folgt umgesetzt:
-„Unechte“ Ortskräfte im Sinne dieser Regelung sind die nicht entsandten Mitglieder des Verwaltungs- und technischen Personals einer fremden Mission, die
+Das Bundesministerium des Innern erklärte mit Schreiben vom 15. Dezember 2009 das erforderliche Einvernehmen mit dieser Altfallregelung. Diese wird in Berlin aufgrund des Schreibens der Senatsverwaltung für Inneres und Sport vom 18.12.2009 wie folgt umgesetzt.
+Die Anwendung der Altfallregelung für ehemalige „unechte“ Ortskräfte an diplomatischen und berufskonsularischen Vertretungen in Deutschland nach diesem Abschnitt bezieht sich überwiegend auf die Erteilung einer Aufenthaltserlaubnis.
+Beachte: In Deutschland angeworbene Ortskräfte sind bei einer Beschäftigung in einer diplomatischen oder berufskonsularischen Vertretung grundsätzlich nicht mehr von einer Aufenthaltstitelpflicht befreit. Ortskräften werden im Gegensatz zu früheren Regelungen keine Vorrechte und Befreiungen mehr gewährt. Für angeworbene Ortskräfte gelten somit die allgemeinen Vorschriften des Aufenthaltsgesetzes. Die Möglichkeit zur Anwerbung eigener Staatsangehöriger im Entsendestaat (sogenannte „unechte Ortskräfte“) ist für ausländische Vertretungen in Deutschland entfallen.
+Ab dem 01.01.2013 dürfen fremde Missionen Ortskräfte nur noch im Inland anwerben, wenn die Angeworbenen im Besitz eines Aufenthaltstitels mit freiem Zugang zum Arbeitsmarkt sind (siehe Richtlinien des Auswärtiges Amtes). Für vor dem 01.02.2010 im Ausland angeworbene Ortskräfte galten die vorherigen Bestimmungen bis zum Ende ihrer Beschäftigung weiter (sogenannte „Altfallregelung“).
+Ein eigenes Aufenthaltsrecht kann erworben werden, wenn bestimmte Voraussetzungen
+erfüllt sind.
+„Unechte“ Ortskräfte im Sinne dieser Altfall- Regelung sind die nicht entsandten Mitglieder des Verwaltungs- und technischen Personals einer fremden Mission, die
 - in der Vertretung in Deutschland mit Genehmigung des Auswärtigen Amts vor dem 01.02.2010 tätig waren,
 - keinen Aufenthaltstitel nach dem Aufenthaltsgesetz besitzen, und
 - sich seit ihrer Einreise rechtmäßig in der Bundesrepublik Deutschland aufhalten.
 Merke: Überwiegend handelt es sich dabei um Personen, die im Besitz der Staatsangehörigkeit des Entsendestaates sind. Da das Auswärtige Amt in der Vergangenheit auch Personen als unechte Ortskräfte zugelassen hat, die eine andere Staatsangehörigkeit besitzen, ist dies keine Voraussetzung für die Anwendung der Altfallregelung. Im übrigen ist der begünstigte Personenkreis ganz überwiegend im Ausland von der fremden Mission angeworben wurden. Allerdings hat das Auswärtige Amt in der Vergangenheit teilweise auch solchen Personen, den Status einer unechten Ortskraft verliehen und ihnen einen Protokollausweis ausgestellt, die im Inland angeworben wurden. Teilweise sind dies Personen, die zuvor einen Aufenthaltstitel besaßen.
 Familienmitglieder von unechten Ortskräften im Sinne dieser Regelung können grundsätzlich auch begünstigt werden, soweit sie mit der Ortskraft in häuslicher Gemeinschaft leben. Familienmitglieder im Sinne dieser Regelung sind zunächst leibliche Kinder der Ortskraft und Ehegatten. Weitere Kinder und eingetragene Lebenspartner, die im Besitz eines gültigen Protokollausweises sind, sind analog Nr. 4.1. der Protokollrichtlinien des Auswärtigen Amtes ebenfalls Familienmitglieder im Sinne dieser Altfallregelung.
 Im Einzelnen gilt folgendes:
-1. „unechten“ Ortskräften kann eine Aufenthaltserlaubnis gem. § 23 Abs. 1 erteilt werden, wenn sie ihre Tätigkeit an der Auslandsvertretung nach einem Tätigkeitszeitraum von mehr als 15 Jahren beenden. Die Altfallregelung zielt damit auf Personen, die trotz ihres langjährigen Aufenthalts im Bundesgebiet nach Beendigung der Tätigkeit das Bundesgebiet verlassen müßten. Wie die Senatsverwaltung für Inneres und Sport am 17.02.2010 unter Bezugnahme auf ein Schreiben des Bundesministeriums des Innern vom 12.02.2010 noch einmal deutlich gemacht hat, ist somit zwingende Voraussetzung, dass die Person aus dem Beschäftigungsverhältnis an der Auslandsvertretung ausscheidet. Im Falle der Erteilung einer Aufenthaltserlaubnis nach Satz 1 wird eine Aufenthaltserlaubnis auch an den Ehegatten sowie den eingetragenen gleichgeschlechtlichen Lebenspartner und an die minderjährigen ledigen Kinder der unechten Ortskraft bzw. der Ehegatten gemeinsam erteilt, sofern der Ehepartner bzw. die Kinder mit der „unechten“ Ortskraft in häuslicher Gemeinschaft leben und im Besitz eines gültigen Protokollausweises sind.
+„ Unechten“ Ortskräften kann eine Aufenthaltserlaubnis gem. § 23 Abs. 1 erteilt werden, wenn sie ihre Tätigkeit an der Auslandsvertretung nach einem Tätigkeitszeitraum von mehr als 15 Jahren beenden. Die Altfallregelung zielt damit auf Personen, die trotz ihres langjährigen Aufenthalts im Bundesgebiet nach Beendigung der Tätigkeit das Bundesgebiet verlassen müssten. Wie die Senatsverwaltung für Inneres und Sport am 17.02.2010 unter Bezugnahme auf ein Schreiben des Bundesministeriums des Innern vom 12.02.2010 noch einmal deutlich gemacht hat, ist somit zwingende Voraussetzung, dass die Person aus dem Beschäftigungsverhältnis an der Auslandsvertretung ausscheidet. Im Falle der Erteilung einer Aufenthaltserlaubnis nach Satz 1 wird eine Aufenthaltserlaubnis auch an den Ehegatten sowie den eingetragenen gleichgeschlechtlichen Lebenspartner und an die minderjährigen ledigen Kinder der unechten Ortskraft bzw. der Ehegatten gemeinsam erteilt, sofern der Ehepartner bzw. die Kinder mit der „unechten“ Ortskraft in häuslicher Gemeinschaft leben und im Besitz eines gültigen Protokollausweises sind.
 Merke: In Abstimmung mit der Senatsverwaltung für Inneres und Sport greift die Altfallregelung nicht, wenn ein Ehegatte, der bisher als unechte Ortskraft auf Grund eigener Tätigkeit vom Erfordernis eines Aufenthaltstitels befreit war, diese Tätigkeit beendet, allerdings wiederum als Ehegatte einer unechten Ortskraft weiterhin vom Erfordernis eines Aufenthaltstitels befreit ist. Dies folgt zum einen aus Sinn und Zweck der Altfallregelung, Personen, die wie nach Beendigung der Tätigkeit ausreisen müßten, hier aus humanitären Gründen einen Titel zu gewähren; zum anderen deckt sich dies mit der Regelung zu Kindern von unechten Ortskräften, die ja auch nur dann in eine solche Erlaubnis wachsen, wenn sie die Voraussetzungen für die Befreiuung vom Erfordernis des Titels als Kind einer unechten Ortskraft nicht mehr erfüllen (vgl. hierzu unten unter Nr. 3).
 2. Beendet eine „unechte“ Ortskraft ihre Tätigkeit an der Auslandsvertretung, soll (auch wenn die Dauer ihrer Tätigkeit an der Auslandsvertretung 15 Jahre unterschreitet) ihr und, sofern sie mit ihr in häuslicher Gemeinschaft leben, ihrem Ehegatten, sowie den eingetragenen gleichgeschlechtlichen Lebenspartner und den minderjährigen ledigen Kindern der unechten Ortskraft bzw. der Ehegatten gemeinsam eine Aufenthaltserlaubnis erteilt werden, wenn eines dieser Kinder zu diesem Zeitpunkt das 12. Lebensjahr vollendet hat und seit mindestens 8 Jahren in häuslicher Gemeinschaft mit der „unechten“ Ortskraft in Deutschland lebt sowie im Besitz eines gültigen Protokollausweises ist.
 3. Kindern von „unechten“ Ortskräften, die
@@ -289,11 +288,9 @@ Bei der Auswahl der Schutzbedürftigen durch das BAMF sind möglichst die Einhei
 Ausgeschlossen sind grundsätzlich Personen,
 die wegen Delikten, die in Deutschland als vorsätzliche schwere Straftat anzusehen sind, verurteilt worden sind oder bei denen tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass Verbindungen zu kriminellen Organisationen oder terroristischen Vereinigungen bestehen oder bestanden haben oder dass sie in sonstiger Weise Bestrebungen verfolgen oder unterstützen oder verfolgt oder unterstützt haben, die gegen den Gedanken der Völkerverständigung verstoßen oder gegen das friedliche Zusammenleben der Völker gerichtet sind oder
 bei denen tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass sie Bestrebungen unterstützen, welche geeignet sind, gegen eine durch ihren Glauben oder ihre nationale bzw. ethnische Herkunft bestimmte Gruppe aufzuwiegeln oder bei denen sonstige tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass diese im Falle einer Aufnahme eine besondere Gefahr für die öffentliche Sicherheit und Ordnung der Bundesrepublik Deutschland, der freiheitlich demokratischen Grundordnung oder sonstiger erheblicher Interessen der Bundesrepublik Deutschland darstellen könnten.
-Darüber hinaus können Personen bis zur Erteilung der Aufnahmezusage aus dem Verfahren ausgeschlossen werden, die
-vorsätzlich falsche Angaben machen oder eine zumutbare Mitwirkung am Verfahren verweigern; oder die einem angesetzten Termin für ein Interview im Rahmen des Verfahrens aufgrund eines durch sie zu vertretenden Grundes fernbleiben.
+Darüber hinaus können Personen bis zur Erteilung der Aufnahmezusage aus dem Verfahren ausgeschlossen werden, die vorsätzlich falsche Angaben machen oder eine zumutbare Mitwirkung am Verfahren verweigern; oder die einem angesetzten Termin für ein Interview im Rahmen des Verfahrens aufgrund eines durch sie zu vertretenden Grundes fernbleiben.
 4. Erteilung und Verlängerung des Aufenthaltstitels im Inland
-4.1. Im Rahmen des Aufnahmeverfahrens sowie des sich anschließenden Visumverfahrens findet eine Überprüfung der Personen durch die Sicherheitsbehörden statt. Die Überprüfung besteht insbesondere aus einem
-Datenbankabgleich gemäß § 73 Abs. 1a S. 3 (AsylKon) und in der Regel aus einem persönlichen Gespräch (sog. Sicherheitsinterview). Eine Beteiligung der Sicherheitsbehörden im Inland ist damit erst vor der Verlängerung der Aufenthaltserlaubnis erforderlich.
+4.1. Im Rahmen des Aufnahmeverfahrens sowie des sich anschließenden Visumverfahrens findet eine Überprüfung der Personen durch die Sicherheitsbehörden statt. Die Überprüfung besteht insbesondere aus einem Datenbankabgleich gemäß § 73 Abs. 1a S. 3 (AsylKon) und in der Regel aus einem persönlichen Gespräch (sog. Sicherheitsinterview). Eine Beteiligung der Sicherheitsbehörden im Inland ist damit erst vor der Verlängerung der Aufenthaltserlaubnis erforderlich.
 4.2. Die aufgenommenen Schutzbedürftigen erhalten eine AE nach § 23 Abs. 2 oder § 23 Abs. 4 für drei Jahre; von der Anwendung der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 AufenthG ist dabei abzusehen.
 Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (vgl. § 4a Abs. 1 S. 1). Bei der erstmaligen Erteilung der Aufenthaltserlaubnis auf der Grundlage des § 23 nach dem 06.08.2016 ist auf der Grundlage des § 12a Abs. 1 S. 1 für die Dauer von drei Jahren ab Erteilung der AE die nachstehende Auflage zu verfügen
 Wohnsitznahme im Land Berlin bis zum ... erforderlich.
@@ -317,7 +314,7 @@ Der Aufenthaltstitel berechtigt zur Ausübung einer Erwerbstätigkeit (vgl. § 4
 7.2. Auf im Bundesgebiet geborene Kinder aufgenommener Schutzbedürftiger findet § 33 Anwendung. Sind beide personensorgeberechtigten Eltern als Schutzbedürftige aufgenommen worden oder leitet sich die Staatsangehörigkeit des Kindes allein von dem aufgenommenen Elternteil ab, so erhält das Kind grundsätzlich einen Reiseausweis für Ausländer gem. §§ 5 Abs. 1, 6 Nr. 1 AufenthV i.V.m. § 33, wenn auch die Eltern/der Elternteil einen Reiseausweis für Ausländer besitzen.
 Beansprucht dagegen der andere personensorgeberechtigte hier aufhältliche Elternteil gleichfalls eine Aufenthaltserlaubnis nach dem 6. Abschnitt des AufenthG, so unterliegt auch das Kind vollumfänglich der Passpflicht gem. § 3 Abs. 1. Bis zur Ausstellung des Passes ist ein Ausweisersatz auszustellen.
 8. Gebühren
-8.1. Nach § 52 Abs. 3 resp. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 oder Abs. 4 besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-E U.
+8.1. Nach § 52 Abs. 3 resp. 4 AufenthV sind Personen, die ein Aufenthaltsrecht nach § 23 Abs. 2 oder Abs. 4 besitzen, von den Gebühren für die Erteilung und Übertragung der Niederlassungserlaubnis sowie von der Gebühr für die Bearbeitung von Anträgen auf Vornahme der vorstehend genannten Amtshandlungen befreit. Dies gilt nicht für die Erteilung einer Erlaubnis zum Daueraufenthalt-EU.
 Eine Gebührenbefreiung für die Erteilung und Übertragung einer Aufenthaltserlaubnis nach § 23 Abs. 2 hat der Gesetzgeber anders als in den Fällen des § 23 Abs. 4 nicht vorgesehen, gleichwohl ist von der Erhebung dieser Gebühr wie auch der Antragsgebühr nach § 52 Abs. 7 AufenthV aus humanitären Gründen abzusehen.
 8.2. Ein Absehen von der Gebühr für die Ausstellung eines Reiseausweises gem. § 48 Nr. 1 a-c AufenthV etwa gem. § 53 Abs. 1 2. HS oder Abs. 2 AufenthV kommt hingegen vor dem Hintergrund der angespannten Haushaltslage und der Möglichkeit einen Ausweisersatz erhalten zu können, nicht in Betracht. Bei Ausstellung eines Ausweisersatzes ist dagegen der Gebührenbefreiungstatbestand des § 53 Abs. 1 Nr. 8 AufenthV zu beachten.
 23.s. 5. Aufnahme von syrischen Flüchtlingen aus Syrien und dessen

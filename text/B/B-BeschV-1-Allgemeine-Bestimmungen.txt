@@ -1,7 +1,7 @@
 VAB B.BeschV.1. Allgemeine Bestimmungen
 VAB B.BeschV.1. Allgemeine Bestimmungen
 B.BeschV.1. Anwendungsbereich der Verordnung
-(FEG; 01.01.2024, 01.03.2024; FEWG)
+(FEG; 01.03.2024, FEWG; 01.01.2025)
 B.BeschV.1.1.
 In Abs. 1 wurde der Anwendungsbereich der VO geregelt, deren Gegenstand die Zustimmung der Bundesagentur für Arbeit ist, unabhängig davon, ob ein Aufenthaltstitel zum Zweck der Beschäftigung erteilt werden soll oder ob es um den Arbeitsmarktzugang für in Deutschland lebende ausländische Staatsangehörige geht, die keinen Aufenthaltstitel zur Beschäftigung haben.
 Ist eine nach den Vorschriften der BeschV zustimmungsfreie Beschäftigung, z.B. nach § 5, § 9, § 15, § 19 oder § 22 beabsichtigt, so ist die Beteiligung der Bundesagentur grundsätzlich nicht erforderlich.
@@ -9,8 +9,7 @@ B.BeschV.1.2.1.
 Absatz 2 regelt die Voraussetzungen zur erstmaligen Zustimmung einer Beschäftigung in den Fällen der § 24a BeschV (Berufskraftfahrer) und § 26 Abs. 2 BeschV (Balkan-Staaten), in denen der Ausländer das 45. Lebensjahr bereits vollendet hat.
 Normadressat ist die BA und nicht die Ausländerbehörde.
 B.BeschV.1.2.2. Mindestgehalt ab 45. Lj bzw. angemessene Altersvorsorge
-Wenn die BA erstmalig die Zustimmung zur Erteilung einer Aufenthaltserlaubnis nach §6 BeschV, § 22a BeschV, § 24a BeschV oder § 26 Abs. 2 BeschV prüft und zum Zeitpunkt der Aufnahme der Beschäftigung der Ausländer älter als 45 Jahre alt ist, muss sein Gehalt mindestens 55 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung entsprechen. Ab dem 01.01.2024 entspricht dies einem jährlichem Brutto-Einkommen von mindestens 49.830,00 € bzw. einem monatlichen Einkommen von mindestens 4.152,50 € brutto. Dieser
-Betrag wird jährlich neu angepasst.
+Wenn die BA erstmalig die Zustimmung zur Erteilung einer Aufenthaltserlaubnis nach §6 BeschV, § 22a BeschV, § 24a BeschV oder § 26 Abs. 2 BeschV prüft und zum Zeitpunkt der Aufnahme der Beschäftigung der Ausländer älter als 45 Jahre alt ist, muss sein Gehalt mindestens 55 Prozent der jährlichen Bemessungsgrenze in der allgemeinen Rentenversicherung entsprechen. Ab dem 01.01.202 5 entspricht dies einem jährlichem Brutto-Einkommen von mindestens 53.130,00 € bzw. einem monatlichen Einkommen von mindestens 4.427,50 € brutto. Dieser Betrag wird jährlich neu angepasst.
 Von der Mindestgehaltsgrenze kann nach den Regelungen in A.18.2.5.1.-3. abgesehen werden. In den Fällen des § 26 Abs. 2 BeschV gilt dies aber nur, wenn ein öffentliches, insbesondere ein regionales, wirtschaftliches oder arbeitsmarkpolitisches Interesse an der Beschäftigung besteht. § 1 Abs. 2 Satz 3 BeschV findet keine Anwendung.
 B.BeschV.1.2.3.
 Von der Erfüllung der Gehaltsgrenze nach Satz 1 kann nur in begründeten Ausnahmefällen, in denen ein öffentliches, insbesondere ein regionales, wirtschaftliches oder arbeitsmarktpolitisches Interesse an der Beschäftigung des Ausländers besteht, abgesehen werden.

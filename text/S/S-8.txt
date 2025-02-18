@@ -20,7 +20,7 @@ Einbürgerung im Ermessen
 8.1.5. Einbürgerungserleichterungen für bestimmte Personengruppen
 8.1.5.1. Miteinbürgerung von Ehegatten, eingetragenen Lebenspartnern und minderjährigen Kindern
 8.1.5.1.1. Miteinbürgerung eines Ehegatten oder eingetragenen Lebenspartners
-8.1.5.1.1. Miteinbürgerung von minderjährigen Kindern
+8.1.5.1.2. Miteinbürgerung von minderjährigen Kindern
 8.1.5.2. Selbständige Einbürgerung minderjähriger Kinder unter 16 Jahren
 8.1.5.3. Volljährige Adoptivkinder deutscher Staatsangehörigkeit
 8.1.5.4. Deutschsprachige Einbürgerungsbewerber
@@ -29,7 +29,7 @@ Einbürgerung im Ermessen
 8.1.5.7. Vorsorgliche Einbürgerung
 8.2. Ausnahmen von der Straffreiheit und der Unterhaltsfähigkeit bei öffentlichem Interesse oder besonderer Härte
 Einbürgerung im Ermessen
-(27.06.2024; 16.07.2024; 27.06.2024 StARModG)
+(15.01.2025; 27.06.2024 StARModG; 28.01.2025)
 8.0. Allgemeines
 Bei Erfüllung der gesetzlichen Voraussetzungen oder Vorliegen von Gründen für ein Absehen einiger dieser Voraussetzungen (vergleiche die S.8.1.1. bis 8.1.1.4.) kann eine Einbürgerung im Ermessen der Behörde erfolgen. Maßgeblich für die Ermessensentscheidung sind die unter den S.8.1.1. bis S.8.1.5.9.2. und S.8.2. aufgeführten Gesichtspunkte.
 Merke: Bevor die Prüfung einer Einbürgerung im Ermessenswege aufgenommen wird, ist vorrangig immer die Erfüllung der Voraussetzungen einer Einbürgerung nach §§ 9, 10 StAG zu prüfen.
@@ -45,9 +45,7 @@ Fähig zur Vornahme der Antragstellung und der sonstigen Verfahrenshandlungen im
 Der Einbürgerungsbewerber darf weder wegen einer rechtswidrigen Tat zu einer Strafe verurteilt noch darf gegen ihn aufgrund seiner Schuldunfähigkeit eine Maßregel der Besserung und Sicherung angeordnet worden sein. Zum Begriff der Strafe und zur Maßregel der Besserung und Sicherung vergleiche S.10.1.1.5.
 Davon kann aus Gründen des öffentlichen Interesses oder zur Vermeidung einer besonderen Härte abgesehen werden (vergleiche S.8.2.).
 Bestimmte Verurteilungen wegen Straftaten bleiben auch bei der Ermessenseinbürgerung nach § 8 außer Betracht (vergleiche S.12a.1.).
-Ob ggf. strafrechtliche Verurteilungen im Ausland zu berücksichtigen sind, ist zu prüfen. (vergleiche die S.12a.2. und 12a.4.). Das Einbürgerungsverfahren ist während eines anhängigen Straf- oder Ermittlungsverfahrens auszusetzen, vgl. § 12a Abs.
-3. (vergleiche S.12a.3.).
-Beachte:
+Ob ggf. strafrechtliche Verurteilungen im Ausland zu berücksichtigen sind, ist zu prüfen (vergleiche die S.12a.2. und 12a.4.). Das Einbürgerungsverfahren ist während eines anhängigen Straf- oder Ermittlungsverfahrens auszusetzen, vgl. S.12a.3.). Beachte:
 Das besonders schwerwiegende Ausweisungsinteresse nach § 54 Absatz 1 Nummern 2 und 4 des AufenthG gilt als Ausschlussgrund über § 11 auch für die Einbürgerung nach § 8.
 8.1. 1.3. Wohnung; Unterkommen
 Unter Wohnung ist eine Unterkunft zu verstehen, die dem Einbürgerungsbewerber und seinen mit ihm in häuslicher Gemeinschaft lebenden Familienangehörigen die Führung eines Haushalts ermöglicht. Es muss sich hierbei nicht um eine selbständige Wohnung handeln, auch ein Untermietverhältnis reicht aus. Eine lediglich provisorische Unterbringung genügt jedoch nicht. Abweichend von VAB A 2.4. kommt es auf die Größe der Wohnung nicht an.
@@ -55,42 +53,23 @@ Als Unterkommen ist eine andere Unterkunft anzusehen, die dem ständigen Aufenth
 Wohnheim meint in diesem Sinne eine gemietete Wohnmöglichkeit in einer gemeinschaftlich mit anderen Personen benutzten Anlage, in der einerseits dem einzelnen Benutzer (oder mehreren einander verbundenen Benutzern, z. B. Eheleuten) ein bestimmter Raum nur für sich (zum Rückzug in die Privatsphäre) zur Verfügung steht, in der andererseits aber auch bestimmte für die Wohnbedürfnisse erforderliche Räume und Einrichtungen (wie etwa Küche, Aufenthaltsraum, Waschgelegenheiten) für alle Personen zur gemeinschaftlichen Benutzung zur Verfügung stehen (bspw. Schüler-, Lehrlings-, Studenten-, Internats-, Seniorenwohnheim, Frauenhaus). Wohnheim meint in diesen Zusammenhang keine staatlichen Unterkünfte, die für einen konkreten Personenkreis kostenfrei sind (bspw. Asylbewerber-, Flüchtlings- oder Obdachlosenwohnheim).
 Erforderliche Nachweise sind in diesem Zusammenhang ein Mietvertrag oder eine Bestätigung der jeweiligen Einrichtung über das Wohnen zur Miete sowie ein Nachweis über die zu zahlende Miethöhe mittels Kontoauszug.
 8.1. 1.4. Unterhaltsfähigkeit
-Zur Prüfung der Unterhaltsfähigkeit vgl. die Ausführungen unter VAB A 2.3. Dies gilt im Interesse eines praktikablen Prüfungsmaßstabes auch für die dort genannten öffentlichen Mittel. Unterhaltsberechtigte ausländische Familienangehörige, die im Ausland leben, werden bei der Bedarfsberechnung ebenfalls nicht berücksichtigt (vgl. VAB
-A.2.3.1.6.). Eine Altersvorsorge ist nicht zwingend erforderlich. Bei der Einbürgerung ist unabhängig vom Titel der Arbeitnehmerfreibetrag immer zu berücksichtigen. Die Werbekostenkostenpauschale ist bei allen Erwerbseinkommen, außer bei Selbständigen, zu berücksichtigen.
+Zur Prüfung der Unterhaltsfähigkeit vgl. die Ausführungen unter VAB A 2.3. Dies gilt im Interesse eines praktikablen Prüfungsmaßstabes auch für die dort genannten öffentlichen Mittel. Unterhaltsberechtigte ausländische Familienangehörige, die im Ausland leben, werden bei der Bedarfsberechnung ebenfalls nicht berücksichtigt (vgl. VAB A.2.3.1.6.). Eine Altersvorsorge ist nicht zwingend erforderlich. Bei der Einbürgerung ist unabhängig vom Titel der Arbeitnehmerfreibetrag immer zu berücksichtigen. Die Werbekostenkostenpauschale ist bei allen Erwerbseinkommen, außer bei Selbständigen, zu berücksichtigen.
 Merke: Der Bezug von Leistungen zur Sicherung des Lebensunterhalts nach dem SGB II (Grundsicherung für Arbeitssuchende) oder nach dem SGB XII (Sozialhilfe) sowie das Bestehen eines entsprechenden Anspruchs steht der Einbürgerung im Ermessenswege nach § 8 entgegen.
 Dies gilt auch dann, wenn der Einbürgerungsbewerber den Umstand, der ihn zur Inanspruchnahme dieser Leistungen berechtigt, nicht zu vertreten hat. Die Nachweispflicht liegt beim Einbürgerungsbewerber.
 Davon kann aus Gründen des öffentlichen Interesses oder zur Vermeidung einer besonderen Härte abgesehen werden (vergleiche S.8.2.)
 8.1. 1.5.
 8.1. 2. Sprachkenntnisse
-Ausreichende Kenntnisse der deutschen Sprache liegen vor, wenn der Einbürgerungsbewerber die Anforderungen des Sprachniveaus B1 des Gemeinsamen Europäischen Referenzrahmens erfüllt (vergleiche § 10 Absatz 4, S.10.1.1.6.). Zu den Ausnahmen vergleiche S.8.1.5.7.
+Ausreichende Kenntnisse der deutschen Sprache liegen vor, wenn der Einbürgerungsbewerber die Anforderungen des Sprachniveaus B1 des Gemeinsamen Europäischen Referenzrahmens erfüllt (vergleiche § 10 Absatz 4, S.10.1.1.6.). ... weggefallen ...
 8.1. 2.1. Nachweis der Sprachkenntnisse
 Zu den Nachweismöglichkeiten vergleiche die S.10.4. und S.10.1.1.6.
 8.1. 2.2. Ausnahmen vom Nachweis ausreichender deutscher Sprachkenntnisse
-Zu den Ausnahmen vom Nachweis ausreichender Sprachkenntnisse vergleiche S.10.6. Auf die Einbürgerungserleichterung für ältere Personen in S.8.1.5.7. wird hingewiesen.
+Zu den Ausnahmen vom Nachweis ausreichender Sprachkenntnisse vergleiche S.10.6.
 8.1. 3. Dauer des Inlandsaufenthalts
-Vor der Einbürgerung soll sich ein Einbürgerungsbewerber, der bei der Einbürgerung das 16. Lebensjahr vollendet hat, mindestens fünf Jahre im Inland aufgehalten haben.
-Bei besonderen Integrationsleistungen kann der Voraufenthalt auf bis zu drei Jahre verkürzt werden (vergleiche S 10.3.1.).
+Vor der Einbürgerung hat sich ein Einbürgerungsbewerber, der bei der Einbürgerung das 16. Lebensjahr vollendet hat, grundsätzlich mindestens fünf Jahre im Inland aufgehalten, vgl. S.10.1.1.1. Davon kann im Ermessen aus verschiedenen Gründen abgesehen werden.
+Ehegatten oder eingetragene Lebenspartner Deutscher sollen unter den Voraussetzungen des § 10 Absatz 1 eingebürgert werden, wenn sie seit drei Jahren ihren rechtmäßigen gewöhnlichen Aufenthalt im Inland haben und die Ehe oder eingetragene Lebenspartnerschaft seit zwei Jahren besteht (intendiertes Ermessen), vgl. S.9.1.1.2.1.
+Der Ehegatte oder eingetragene Lebenspartner und die minderjährigen Kinder des Ausländers können nach Maßgabe des Absatzes 1 mit eingebürgert werden, auch wenn sie sich noch nicht seit fünf Jahren rechtmäßig im Inland aufhalten. Bei der Miteinbürgerung eines Ehegatten/Lebenspartners genügt ein Aufenthalt im Inland von vier Jahren bei zweijähriger Dauer der ehelichen Lebensgemeinschaft bzw. bei minderjährigen Kindern ein dreijähriger Aufenthalt bzw. das halbe Leben des Kindes (vgl. S.10.2.1. und 10.2.2.).
+Bei besonderen Integrationsleistungen kann der Voraufenthalt auf bis zu drei Jahre verkürzt werden (vergleiche S 10.3.1.). Bei den unter S.8.1.5. genannten besonderen Personengruppen kann ebenfalls im Ermessen über eine (weitere) Reduzierung der erforderlichen Aufenthaltszeit entschieden werden.
 Nach einer Unterbrechung des Aufenthalts können frühere Aufenthalte im Inland bis zu drei Jahren der geforderten Aufenthaltsdauer angerechnet werden. (vergleiche S.12b.2.).
-Weitere Gründe für eine Verkürzung der Dauer des Inlandsaufenthalts
-Verkürzung der Aufenthaltszeit auf Hinweis auf Personengruppe Fundstelle in den VAB S
-Miteinbürgerung eines Ehegatten oder
-4 Jahre 8.1. 5.1.1.
-eingetragenen Lebenspartners
-Miteinbürgerung von
-8.1. 5.1.2.;
-3 Jahre oder halbes Leben Kindern;Selbständige Einbürgerung
-8.1. 5.2.
-minderjähriger Kinder unter 16 Jahren
-3 Jahre 8.1. 5.3.;
-Volljährige Adoptivkinder deutscher
-8.1. 5.4.;
-Staatsangehöriger;
-Deutschsprachige
-Einbürgerungsbewerber;
-1 Jahr Besonderes öffentliches Interesse; 8.1. 5.5.;
-unter 1 Jahr ehemalige Deutsche und deren 8.1. 5.6.
-Abkömmlinge sowie Abkömmlinge
-deutscher Staatsangehöriger
 8.1. 3. 1. Rechtmäßigkeit des Aufenthalts im Inland; anrechenbare Aufenthaltszeiten
 Bei der Berechnung der für eine Einbürgerung erforderlichen Aufenthaltsdauer können nur Zeiten berücksichtigt werden, in denen der Einbürgerungsbewerber sich rechtmäßig im Inland aufgehalten hat.
 Zu den danach anrechenbaren Aufenthaltszeiten vergleiche S.4.3.1.2. Zu den Aufenthaltsunterbrechungen vergleiche die S.12b.1. bis S.12b.1.3. und S.12b.3.
@@ -101,23 +80,25 @@ Zu beachten sind die Grundsätze der rückwirkenden Erteilung einer Aufenthaltse
 Erforderlich ist eine in S.10.1.1.1.2. genannte Aufenthaltserlaubnis bzw. Fiktionswirkung gem. § 81 Abs. 4 AufenthG. Abweichend davon genügt eine Aufenthaltserlaubnis bzw. Fiktionswirkung nach §§ 22, 23a Absatz 1 und 2 5 Abs. 5 AufenthG.
 Für Ausländer, die aufgrund völkerrechtlicher Übereinkommen oder damit in Zusammenhang stehender Rechtsvorschriften vom Erfordernis eines Aufenthaltstitels befreit sind, insbesondere die bei den diplomatischen Missionen oder berufskonsularischen Vertretungen ausländischer Staaten im Inland beschäftigten ausländischen Ortskräfte und ihre Familienangehörigen, setzt die Einbürgerung voraus, dass ihnen nach Fortfall der aufenthaltsrechtlichen Vergünstigung ein Aufenthaltsstatus (Aufenthaltsrecht oder Aufenthaltstitel) gewährt werden könnte.
 Die Erteilung eines Aufenthaltstitels nach Fortfall der Befreiung setzt voraus, dass dieser Personenkreis zum Zeitpunkt der Aufnahme einer Beschäftigung bei den diplomatischen Missionen oder berufskonsularischen Vertretungen seinen gewöhnlichen Aufenthalt bereits im Inland hatte (vergleiche § 27 Absatz 3 AufenthV).
-8.1. 4. Staatsbürgerliche Kenntnisse; Bekenntnis zur freiheitlichen demokratischen Grundordnung; Loyalitätserklärung Zu den staatsbürgerlichen Kenntnissen vergleiche S.10.1.1.1.7.1. Zu den Ausnahmen vom Nachweis staatsbürgerlicher Kenntnisse vergleiche S.10.6. Auf die Einbürgerungserleichterung für ältere Personen in S.8.1.5.7. wird hingewiesen.
+8.1. 4. Staatsbürgerliche Kenntnisse; Bekenntnis zur freiheitlichen demokratischen Grundordnung; Loyalitätserklärung Zu den staatsbürgerlichen Kenntnissen vergleiche S.10.1.1.1.7.1. Zu den Ausnahmen vom Nachweis staatsbürgerlicher Kenntnisse vergleiche S.10.6.
 Erfüllt der Einbürgerungsbewerber einen der in § 11 aufgeführten Ausschlussgründe (vergleiche die S. 11.1.1. und S.11.1.2. ), so kommt eine Einbürgerung nicht in Betracht. Ist die politische Betätigung nach § 47 des Aufenthaltsgesetzes beschränkt oder untersagt worden, so kommt eine Einbürgerung für die Dauer der Beschränkung oder Untersagung nicht in Betracht.
 Hat der Einbürgerungsbewerber im Zeitpunkt der Einbürgerung das 16. Lebensjahr vollendet und ist er im Übrigen handlungsfähig im Sinne des § 34 Absatz 1 Satz 1, so hat er ein Bekenntnis zur freiheitlichen demokratischen Grundordnung und eine Loyalitätserklärung abzugeben, vergleiche die S.10.1.1.1.1a.-c. und S.16.
 8.1. 5. Einbürgerungserleichterungen für bestimmte Personengruppen
-Für die im Folgenden aufgeführten Personengruppen kommen die jeweils genannten Abweichungen von den unter den S.8.1.1. bis S.8.1.4.3. genannten allgemeinen Grundsätzen für die Ermessensausübung in Betracht. 8.1. 5.1. Miteinbürgerung von Ehegatten, eingetragenen Lebenspartnern und minderjährigen Kindern Ehegatten, eingetragene Lebenspartner und Kinder, die das 16. Lebensjahr noch nicht vollendet haben, können mit den Personen eingebürgert werden, die unter den Voraussetzungen der S.8.1.1. bis S.8.1.5.8. eingebürgert werden. Beachte: Bei der Miteinbürgerung eines Ehegatten oder eingetragenen Lebenspartners sowie bei der Miteinbürgerung von minderjährigen Kindern nach § 8 wird bei der miteinzubürgernden Partei lediglich auf den gewöhnlichen Aufenthalt im Inland abgestellt.
+Für die im Folgenden aufgeführten Personengruppen können ebenfalls Einbürgerungserleichterungen im Ermessen bestehen.
+8.1. 5.1. Miteinbürgerung von Ehegatten, eingetragenen Lebenspartnern und minderjährigen Kindern Ehegatten, eingetragene Lebenspartner und Kinder, die das 16. Lebensjahr noch nicht vollendet haben, können mit den Personen eingebürgert werden, die unter den Voraussetzungen der S.8.1.1. bis S.8.1.5.8. eingebürgert werden. Beachte: Bei der Miteinbürgerung eines Ehegatten oder eingetragenen Lebenspartners sowie bei der Miteinbürgerung von minderjährigen Kindern nach § 8 wird bei der miteinzubürgernden Partei lediglich auf den gewöhnlichen Aufenthalt im Inland abgestellt.
 Dies begründet sich bspw. darin, dass ein in Deutschland geborenes ausländisches Kind in der Regel nicht ab dem Zeitpunkt der Geburt über einen Aufenthaltstitel verfügt. In einem solchen Fall kann jedoch die gewöhnliche Aufenthaltszeit ab dem Zeitpunkt der Geburt als erforderliche Aufenthaltszeit angerechnet werden.
 8.1. 5.1.1. Miteinbürgerung eines Ehegatten oder eingetragenen Lebenspartners
-Bei miteinzubürgernden Ehegatten oder eingetragenen Lebenspartnern genügt ein Aufenthalt im Inland von vier Jahren bei zweijähriger Dauer der ehelichen Lebensgemeinschaft oder der eingetragenen Lebenspartnerschaft.
-8.1. 5.1.1. Miteinbürgerung von minderjährigen Kindern
-Ein minderjähriges Kind des Einbürgerungsbewerbers, das im Zeitpunkt der Einbürgerung das 16. Lebensjahr noch nicht vollendet hat, soll mit ihm eingebürgert werden, wenn er für das Kind sorgeberechtigt ist und mit ihm eine familiäre Lebensgemeinschaft im Inland besteht.
+Bei miteinzubürgernden Ehegatten oder eingetragenen Lebenspartnern genügt ein Aufenthalt im Inland von vier Jahren bei zweijähriger Dauer der ehelichen Lebensgemeinschaft oder der eingetragenen Lebenspartnerschaft, vgl. S.10.2. Eine weitere Reduzierung der Aufenthaltszeit des miteinzubürgernden Ehegatten/ Lebenspartners kann zur Wahrung der staatsangehörigkeitsrechtlichen Familieneinheit (Art. 6 GG) im Ermessen nach § 8 StAG entschieden werden, wenn der stammberechtigte Ausländer im Ermessen unter den Voraussetzungen des § 8 nach einer kürzeren Zeit eingebürgert wird.
+8.1. 5.1.2. Miteinbürgerung von minderjährigen Kindern
+Ein minderjähriges Kind des Einbürgerungsbewerbers, das im Zeitpunkt der Einbürgerung das 16. Lebensjahr noch nicht vollendet hat, soll mit ihm eingebürgert werden, wenn er für das Kind sorgeberechtigt ist und mit ihm eine familiäre Lebensgemeinschaft im Inland besteht, vgl. S.10.2.
 Es genügt, wenn das Kind über eine altersgemäße Sprachentwicklung verfügt (zu den Nachweisen vergleiche S.10.4.2.).
-Das einzubürgernde muss sich Kind vor der Einbürgerung seit mindestens drei Jahren im Inland aufhalten. Ausnahme: Bei einem Kind, das im Zeitpunkt der Miteinbürgerung das sechste Lebensjahr noch nicht vollendet hat, genügt es, wenn es unmittelbar vor der Einbürgerung sein halbes Leben im Inland verbracht hat.
-Die Miteinbürgerung minderjähriger Kinder, die das 16. Lebensjahr vollendet haben, setzt in der Regel voraus, dass sie selbständig eingebürgert werden können. Die erforderliche Voraufenthaltszeit wird auf 3 Jahre gesenkt, wenn dadurch die staatsangehörigkeitsrechtliche Familieneinheit bewahrt wird und das Kind sich seit mindestens 3 Jahren im Inland aufhält.
+Das einzubürgernde Kind muss sich vor der Einbürgerung seit mindestens drei Jahren im Inland aufhalten. Ausnahme: Bei einem Kind, das im Zeitpunkt der Miteinbürgerung das sechste Lebensjahr noch nicht vollendet hat, genügt es, wenn es unmittelbar vor der Einbürgerung sein halbes Leben im Inland verbracht hat.
+Die Miteinbürgerung minderjähriger Kinder, die das 16. Lebensjahr vollendet haben, setzt in der Regel voraus, dass sie selbständig eingebürgert werden können. Die erforderliche Voraufenthaltszeit wird auf 3 Jahre gesenkt, wenn dadurch die staatsangehörigkeitsrechtliche Familieneinheit bewahrt wird und das Kind sich seit mindestens 3 Jahren im Inland aufhält. Eine weitere Reduzierung der Aufenthaltszeit des miteinzubürgernden minderjährigen Kindes kann zur Wahrung der staatsangehörigkeitsrechtlichen Familieneinheit (Art. 6 GG) im Ermessen nach § 8 entschieden werden, wenn der stammberechtigte Ausländer im Ermessen unter den Voraussetzungen des § 8 nach einer kürzeren Zeit eingebürgert wird.
 8.1. 5.2. Selbständige Einbürgerung minderjähriger Kinder unter 16 Jahren
+Ein minderjähriges Kind, das bei der Einbürgerung das 16. Lebensjahr noch nicht vollendet hat, soll nur dann selbständig eingebürgert werden, wenn es im Inland mit einem deutschen Staatsangehörigen, der für das Kind sorgeberechtigt ist, in einer familiären Gemeinschaft lebt (z.B. Ein Elternteil ist bereits in Deutschland eingebürgert und ein im Ausland lebendes Kind zieht nach.)
 Für minderjährige Kinder unter 16 Jahren, bei denen eine familiäre Lebensgemeinschaft mit einem deutschen Staatsangehörigen besteht, kann unter folgenden beiden Voraussetzungen im Ermessenswege von der geforderten Aufenthaltszeit abgewichen werden:
 Ein einzubürgerndes Kind soll sich vor der Einbürgerung seit mindestens drei Jahren im Inland aufhalten.
-Bei einem Kind, das im Zeitpunkt der Einbürgerung das sechste Lebensjahr noch nicht vollendet hat, genügt es, wenn es unmittelbar vor der Einbürgerung sein halbes Leben im Inland verbracht hat.
+Bei einem Kind, das zum Zeitpunkt der Einbürgerung das sechste Lebensjahr noch nicht vollendet hat, genügt es, wenn es unmittelbar vor der Einbürgerung sein halbes Leben im Inland verbracht hat.
 Zuvor ist grundsätzlich zu prüfen, ob eine Einbürgerung nach § 10 in Betracht kommt.
 8.1. 5.3. Volljährige Adoptivkinder deutscher Staatsangehörigkeit
 Ist der Einbürgerungsbewerber von einem deutschen Staatsangehörigen nach deutschem Recht wirksam als Kind angenommen (vergleiche S.6.1. bis S.6.1.3.) und hatte er im Zeitpunkt des Annahmeantrags das 18. Lebensjahr bereits vollendet, so kommt eine Einbürgerung nach einer Aufenthaltsdauer von drei Jahren in Betracht, wenn er nach der Annahme als Kind mit dem deutschen Elternteil in einer familiären Lebensgemeinschaft lebt. Das Annahmeverhältnis und die familiäre Lebensgemeinschaft sollen seit zwei Jahren bestanden haben.
@@ -140,9 +121,12 @@ Ein nachträglicher Nachweis, dass die deutsche Staatsangehörigkeit oder Deutsc
 Im Einzelfall kann von den Voraussetzungen der Straffreiheit oder der Unterhaltsfähigkeit aus Gründen des öffentlichen Interesses oder zur Vermeidung einer besonderen Härte ausnahmsweise abgesehen werden.
 Ein öffentliches Interesse ist gegeben, wenn nach dem konkreten Sachverhalt ein sich vom Durchschnittsfall abhebendes spezifisch staatliches Interesse an der Einbürgerung besteht, welches es ausnahmsweise rechtfertigen kann, den Ausländer trotz mangelnder Unbescholtenheit oder fehlender Unterhaltsfähigkeit einzubürgern.
 Eine besondere Härte muss durch atypische Umstände des Einzelfalls bedingt sein und gerade durch die Verweigerung der Einbürgerung hervorgerufen werden. Durch eine Einbürgerung muss die besondere Härte vermieden oder zumindest entscheidend abgemildert werden.
-Eine besondere Härte bei fehlender Unterhaltsfähigkeit kann z.B. bei Schwerbehinderten, chronisch Erkrankten und lebensälteren Personen ab 60 Jahren mit einem rechtmäßigen Inlandsaufenthalt von 8 Jahren angenommen werden, soweit die fehlende Unterhaltfähigkeit nicht zu vertreten ist. Indizwirkung für das Nichtvertretenmüssen ist, wenn dem Betroffenen eine Niederlassungserlaubnis erteilt worden ist.
+Eine besondere Härte bei fehlender Unterhaltsfähigkeit kann z.B. bei Schwerbehinderten, chronisch Erkrankten und lebensälteren Personen ab 60 Jahren mit einem rechtmäßigen Inlandsaufenthalt von 5 Jahren angenommen werden, soweit die fehlende Unterhaltfähigkeit nicht zu vertreten ist. Indizwirkung für das Nichtvertretenmüssen ist, wenn dem Betroffenen eine Niederlassungserlaubnis erteilt worden ist.
 Eine besondere Härte kann auch bei pflegenden Angehörigen und Alleinerziehenden, die wegen Kinderbetreuung nicht oder nur in Teilzeit erwerbstätig sein können, vorliegen, soweit sie die fehlende Unterhaltsfähigkeit nicht zu vertreten haben.
-Auch jugendliche und junge volljährige (bis zur Vollendung des 27. Lebensjahres) Schüler, Auszubildende und Studierende, die ergänzende Leistungen nach dem SGB II oder SGB XII beziehen, haben dies regelmäßig nicht zu vertreten, so dass auch in diesen Fällen regelmäßig das Vorliegen einer besonderen Härte bejaht werden kann. Die fehlende Lebensunterhaltssicherung ist dabei grundsätzlich nur dann nicht zu vertreten, wenn es sich um eine förderungsfähige Ausbildung im Sinne der jeweiligen Ausbildungsförderungsgesetze handelt.
+Ausnahmen von der Sicherung des Lebensunterhalts gelten auch für Schüler, Auszubildende und
+Studierende ab der Vollendung des 16. Lebensjahres (vgl. § 34 StAG) bis zu zur Vollendung des 27. Lebensjahres, die einen eigenen Antrag auf Einbürgerung stellen und die ergänzende Leistungen nach dem SGB II oder SGB XII beziehen. Die fehlende Lebensunterhaltssicherung ist dabei grundsätzlich nur dann nicht zu vertreten, wenn es sich um eine förderungsfähige Ausbildung im Sinne der jeweiligen Ausbildungsförderungsgesetze handelt. Alle förderungsfähigen Ausbildungen finden sich in der Datenbank des Studentenwerks. Dies gilt auch für Personen, die ein Freiwilliges Soziales Jahr (FSJ), Freiwilliges Ökologisches Jahr (FÖJ) oder einen Bundesfreiwilligendienst absolvieren (BFD). Zudem muss die Prognose gerechtfertigt sein, dass der Antragsteller aufgrund ordnungsgemäßen und regelmäßigen Besuchs der Schule bzw. ordnungsgemäßer Absolvierung seiner betrieblichen oder Hochschul-Ausbildung einen Abschluss erwerben wird. Für Personen in Freiwilligendiensten muss nachgewiesen werden, dass die praktischen Erfahrungen des Dienstes in einer weiterführenden Ausbildung oder einem Studium und als praktischer Teil der Fachhochschulreife anerkannt werden. Im Übrigen gelten die Ausführungen unter A.35.1.2. Ausnahmsweise kann auch bei älteren Auszubildenden/Studierenden davon ausgegangen werden, dass sie die fehlende Lebensunterhaltssicherung nicht zu vertreten haben, z.B. wenn es für eine spätere Ausbildung/Umschulung/Studium einen sachlichen Grund gibt und positive Beschäftigungsmöglichkeiten anzunehmen sind (z.B. bei einer Berufsunfähigkeit eines Bäckers auf Grund einer entwickelten Mehlallergie).
+Merke: Stellt eine Familie einen Antrag auf Miteinbürgerung für ihre minderjährigen Kinder, müssen die Eltern grundsätzlich den Lebensunterhalt des minderjährigen Kindes auch dann sichern, wenn diese zur Schule gehen. Zu den Ausnahmen vgl. S.10.1.1.3.b und 10.1.1.3.c.
+Wurden die Anträge vor dem 23.08.2023 gestellt, gilt nach § 40a noch die großzügigere Regelung der Senatsverwaltung für Inneres und Sport nach der früheren Gesetzeslage: Danach konnten Kinder nach § 10 Abs. 1 S. 1 Nr. 3 StAG eingebürgert werden, weil sie den Bezug von Sozialleistungen ihrer Eltern nicht zu vertreten hatten.
 In den Fällen, in denen dem Einbürgerungsbewerber eine Einbürgerungszusicherung ausgestellt wurde, dieser daraufhin den Verlust der ausländischen Staatsangehörigkeit herbeigeführt hat und staatenlos geworden ist, hat er eine ggf. zwischenzeitlich eingetretene fehlende Lebensunterhaltssicherung nicht zu vertreten und ist trotzdem einzubürgern.
 Das Vorliegen einer besonderen Härte im Zusammenhang mit Straffreiheit ist als Ausnahmefall zu behandeln, da bereits die Voraussetzungen des § 12a (Bagatellstrafen) zugunsten des Einbürgerungsbewerbers eingreifen.
 Es müssen daher für den Einbürgerungsbewerber besonders beschwerende Umstände vorliegen, die im Einzelfall ein Absehen von darüber hinaus gehenden strafrechtlichen Verurteilungen rechtfertigen.

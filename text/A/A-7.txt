@@ -2,7 +2,7 @@ VAB A 7
 VAB A 7
 Inhaltsverzeichnis
 A.7. Aufenthaltserlaubnis
-(FEG; 14.03.2024; 04.07.2024; FEWG)
+(FEG; 04.07.2024; FEWG)
 7.1.3. Erteilungsvoraussetzungen
 Erwerbstätige mit Rentenanspruch
 Erwerbstätige ohne Rentenanspruch
@@ -22,7 +22,7 @@ Krankenhauspatienten
 7.2.2.2. Hinweise zur Rücknahme nach § 48 Abs. 1 VwVfG
 7.2.2.3. Öffentlich-rechtlicher Verzicht ersetzt Verkürzung
 A.7. Aufenthaltserlaubnis
-(FEG; 14.03.2024; 04.07.2024; FEWG)
+(FEG; 04.07.2024; FEWG)
 7.1.1. Die Aufenthaltserlaubnis ist einer der befristeten Aufenthaltstitel, vgl. A.4.1.2.
 Im eAT ist der maßgebliche Paragraph für die Erteilung (Rechtsgrundlage) zu benennen (§ 59 Abs. 3 AufenthV). 7.1.2. einstweilen frei
 7.1.3. Erteilungsvoraussetzungen

@@ -3,12 +3,13 @@ VAB A 58a
 A.58a.
 20.07.2005,
 21.11.2017
+InnSichVG
 A.58a. Abschiebungsanordnung
 58a. 0. § 58a regelt das Rechtsinstitut der Abschiebungsanordnung durch die oberste Landesbehörde oder das BMI zur Abwehr einer besonderen Gefahr. Da diese Aufgabe ausweislich des Wortlauts nicht delegiert werden kann, sind die Ausländerbehörden von dieser Vorschrift nicht betroffen.
-58a.1.1. bis 58a. 2.2. frei
+58a.1.1. bis 58a.2.2. frei
 58a.2.3.
 Soweit die Anordnung durch das BMI erfolgt, obliegt entgegen der sonstigen Zuständigkeitsregelungen der Vollzug der Bundespolizei. Dazu gehört auch eine ggf. erforderliche Haftantragstellung.
 58a.3
-Bei der Abschiebungsanordnung hat die zuständige Behörde in eigener Verantwortung zu prüfen, ob der beabsichtigten Abschiebung ein zielstaatsbezogenes Abschiebungsverbot nach § 60 Abs. 1 bis 8 AufenthG entgegensteht. Ein nach Bekanntgabe der Abschiebungsanordnung beim Bundesamt für Migration und Flüchtlinge gestellter Asylantrag steht dem Vollzug einer Abschiebungsanordnung nicht entgegen (vgl. Beschluss BVerwG vom 21.03.2017 – BverwG 1 VR 2.17).
+Bei der Abschiebungsanordnung hat die zuständige Behörde in eigener Verantwortung zu prüfen, ob der beabsichtigten Abschiebung ein zielstaatsbezogenes Abschiebungsverbot nach § 60 Abs. 1 bis 8 b AufenthG entgegensteht. Ein nach Bekanntgabe der Abschiebungsanordnung beim Bundesamt für Migration und Flüchtlinge gestellter Asylantrag steht dem Vollzug einer Abschiebungsanordnung nicht entgegen (vgl. Beschluss BVerwG vom 21.03.2017 – BverwG 1 VR 2.17).
 58a.4.1. bis 58a.4.2. frei
 58a.4.3. Zwar ist in Absatz 1 die sofortige Vollziehbarkeit einer solchen Anordnung geregelt, allerdings verbietet § 58a Abs. 4 S. 3 den Vollzug der Abschiebung bis zum Ablauf der Frist zur Einlegung eines Antrages auf Gewährung vorläufigen Rechtsschutzes. Hieraus folgt, dass zwingend in allen Fällen der Abschiebungsanordnung nach § 58a Abschiebungshaft auf der Grundlage des § 62 Abs. 2 S. 1 Nr. 1a zu beantragen ist. Dies ist angesichts des vorausgesetzten Gefahrenpotentials (vgl. § 58a Abs. 1 S. 1) des betroffenen Ausländers nach ausdrücklicher Auffassung des BMI vom 27.09.2004 auch sachgerecht.

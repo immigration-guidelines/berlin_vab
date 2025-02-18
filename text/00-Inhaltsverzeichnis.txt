@@ -9,7 +9,6 @@ Friedrich-Krause-Ufer 24
 13353 Berlin
 Inhaltsverzeichnis
 Inhaltsverzeichnis
-==
 Teil A
 Kapitel 1 - Allgemeine Bestimmungen
 Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
@@ -41,7 +40,6 @@ Teil D
 Teil E
 Teil S
 Inhaltsverzeichnis
-==
 Teil A
 Kapitel 1 - Allgemeine Bestimmungen
 A.1. Zweck des Gesetzes, Anwendungsbereich
@@ -72,6 +70,7 @@ A.16c. Mobilität im Rahmen des Studiums
 A.16d. Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
 A.16e. Studienbezogenes Praktikum EU
 A.16f. Sprachkurse und Schulbesuch
+A.16g. Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer
 A.17. Suche eines Ausbildungs- oder Studienplatzes
 Abschnitt 4 Aufenthalt zum Zweck der Erwerbstätigkeit
 A.18. Grundsatz der Fachkräfteeinwanderung; allgemeine Bestimmungen
@@ -127,10 +126,12 @@ A.43. Integrationskurs und-programm
 A.44. Berechtigung zur Teilnahme an einem Integrationskurs
 A.44a. Verpflichtung zur Teilnahme an einem Integrationskurs
 A.45a. Berufsbezogene Deutschsprachförderung
+A.45b. Informations- und Beratungsangebote; Verordnungsermächtigung und Vorintegrationsmaßnahmen
 Kapitel 4 - Ordnungsrechtliche Vorschriften
 A.46. Ordnungsverfügungen
 A.47. Verbot und Beschränkung der politischen Betätigung
 A.47a. Mitwirkungspflichten; Lichtbildabgleich
+A.47b. Reisen in den Herkunftsstaat
 A.48. Ausweisrechtliche Pflichten
 A.49. Feststellung und Sicherung der Identität
 Kapitel 5 - Beendigung des Aufenthaltes
@@ -173,6 +174,7 @@ Abschnitt 2 Bundesamt für Migration und Flüchtlinge
 A.75. Aufgaben
 Abschnitt 3 Verwaltungsverfahren
 A.77. Schriftform; Ausnahme von Formerfordernissen
+A.78. Dokumente mit elektronischem Speicher- und Verarbeitungsmedium (Gesetz zur Verbesserung der Rückführung)
 A.78a. Vordrucke für Aufenthaltstitel, Ausweisersatz und Bescheinigungen
 A.79. Entscheidung über den Aufenthalt
 A.80. Handlungsfähigkeit Minderjähriger
@@ -199,7 +201,7 @@ A.91g. Auskünfte zur Durchführung der Richtline 2014/66/EU
 Kapitel 8 - Beauftragte für Flüchtlinge, Migration und Integration
 Kapitel 9 - Straf- und Bußgeldvorschriften
 A.95. Strafvorschriften
-A.97. Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen
+A.97a. Geheimhaltungspflichten
 A.98. Bußgeldvorschriften
 Kapitel 10 - Verordnungsermächtigungen, Übergangs- und Schlussvorschriften
 A.101. Fortgeltung bisheriger Aufenthaltsrechte
@@ -253,6 +255,7 @@ D 3-3e
 D4
 D8
 D 12
+D 12a
 D 13
 D 14
 D 14a
@@ -301,12 +304,9 @@ E.Iran.2. Rückführung in den Iran
 E.Israel.1. Ausländerrechtliche Behandlung jüdischer Zuwanderer, auch anderer Staatsangehörigkeiten
 E.Libyen.1. Abschiebung nach Libyen
 E.Mont.1. Rückführungen nach Montenegro
-E.Russ.2. Deutsch-Russisches Regierungsabkommen über Reiseerleichterungen
-E.Sudan.1. Rückführung in den Sudan
 E.Syrien.1. Ausländerrechtliche Behandlung abgelehnter Asylbewerber aus Syrien
 E.Syrien.2. Aussetzung der Abschiebung nach Syrien
 E.Türk.1. Ausländerrechtliche Sonderregelungen für türkische Staatsangehörige aufgrund des Assoziationsratsbeschlusses (ARB) Nr. 1/80
-E.Usbekistan.1. Zum usbekischen Staatsangehörigkeitsrecht
 Teil S
 VAB S.1. Begriff des Deutschen
 VAB S.3. Erwerb der Staatsangehörigkeit

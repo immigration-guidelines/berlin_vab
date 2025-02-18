@@ -7,10 +7,9 @@ D.13. Asylantrag
 13.s.3. Verordnung (EG) Nr. 604/2013 des Rates der Europäischen Union vom 26.06.2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Dublin III)
 Verfahren bei freiwilliger Ausreise in den Mitgliedstaat
 Rückführungen nach Italien
-Rückführungen nach Griechenland
 Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
 D.13. Asylantrag
-(23.05.2019, 2. ÄndGAusreisepflicht; 14.10.2021)
+(2. ÄndGAusreisepflicht; 14.10.2021; 17.02.2025)
 Anlage
 13.1. Mit Umsetzung der Richtlinie 2011/95/EU beinhaltet ein formloser Asylantrag i.S.d. § 13 neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst den Flüchtlingsschutz und den subsidiären Schutz nach der Richtlinie 2011/95/EU. Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und Flüchtling im Sinne des § 3 nicht erfüllt sind. Die Prüfung des subsidiären Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
 Beruft sich der Ausländer auf subsidiären Schutz im Sinne des § 4, liegt die Zuständigkeit für die Prüfung und Entscheidung – da es sich um Asylanträge handelt – ausschließlich beim BAMF. Für Entscheidungen über inlandsbezogene Abschiebungsverbote nach § 60 Abs. 5 und 7 AufenthG ist die Ausländerbehörde zuständig.
@@ -70,17 +69,6 @@ Rückführungen nach Italien
 Aufgrund höchstrichterlicher Rechtsprechung durch den Europäischen Gerichtshof für Menschenrechte und durch das Bundesverfassungsgericht (EGMR Tarakhel / Schweiz, Urteil vom 04.11.2014, Nr. 29217/12 und BVerfG, Beschluss vom 17.09.2014 - 2 BvR 939/14) beschränkte das Bundesamt im Fall von Italien die Durchführung des Dublin-Verfahrens bei Familien mit minderjährigen Kindern auf Fälle von Familien mit Kindern ab 16 Jahren.
 Inzwischen hat sich die Aufnahmekapazität in Italien insgesamt erhöht sowie für Familien mit minderjährigen Kindern als ausreichend erwiesen. Auch die von Italien gegebenen Zusicherungen für diesen Personenkreis bezüglich Aufnahme und Unterkunft (kindgerecht und ohne Trennung der Familie voneinander) wurden bei der Durchführung von Dublin-Verfahren durch andere Mitgliedstaaten als zuverlässig und rechtskonform angesehen. Der Europäische Gerichtshof für Menschenrechte bestätigte, dass die von den italienischen Behörden abgegebenen Garantien für die Unterbringung von Familien als ausreichend anzusehen sind (EGMR Ali / Schweiz und Italien, Urteil vom 04.10.2016, Nr. 30474/14). Vor diesem Hintergrund führt das Bundesamt Dublinverfahren auch betreffend Familien mit Kindern (mit Ausnahme von Säuglingen und Kleinstkindern) nach Italien ab dem 01.06.2017 wieder durch.
 Diese Ausführungen gelten grundsätzlich auch für Rückführungen nach dem Rückübernahmeübereinkommen. Allerdings ist bei einem Familienverbund mit Säuglingen und Kleinstkindern stets eine Anfrage an das BAMF nach § 72 Abs. 2 AufenthG zu stellen. Die Betroffenen erhalten währenddessen eine Duldung.
-Rückführungen nach Griechenland
-Erstmalig mit Schreiben vom 18.01.2011 hatte das BAMF mitgeteilt, dass mit sofortiger Wirkung für die Dauer eines Jahres keine Überstellungen nach dem DÜ von Drittstaatsangehörigen nach Griechenland erfolgen. Das BAMF machte in diesen Fällen von seinem Selbsteintrittsrecht Gebrauch mit der Konsequenz, dass die Asylverfahren in Deutschland durchgeführt werden. Dies galt auch für alle anhängigen Fälle, in denen eine Überstellung nach Griechenland aufgrund von Gerichtsentscheidungen oder wegen Petitionsverfahren bislang nicht erfolgte.
-Diese Maßnahmen waren zuletzt bis zum 15.03.2017 befristet. Mit Schreiben vom 15.03.2017 wurde das BAMF vom BMI gebeten, in Anwendung der Dublin-III-VO künftig wie folgt zu verfahren:
-Auf Übernahmeersuchen an Griechenland in Bezug auf vulnerable Personen wird verzichtet.
-Ein Übernahmeersuchen wird hingegen gestellt
-bei alleinstehenden Personen, Ehepaaren und Familienverbänden ohne Problemkonstellationen,
-deren erkennungsdienstliche Behandlung im Rahmen eines ab dem 15.03.2017 gestellten Asylantrages einen EURODAC-Treffer in Griechenland ergibt,
-die ab dem 15.03.2017 illegal über Griechenland eingereist sind oder
-die mit einem griechischen Visum oder Aufenthaltstitel ab dem 15.03.2017 nach Griechenland ein- und von dort weitergereist sind,
-bei Gefährdern und Straftätern in griechischer Zuständigkeit seit dem 15.03.2017.
-Eine Überstellung erfolgt nach Zustimmung und bis auf weiteres auf Basis einer einzuholenden Zusicherung durch Griechenland, dass die zu überstellende Person entsprechend den Normen der Richtlinie 2013/33/EU (Aufnahmerichtlinie) untergebracht und ihr Antrag nach Maßgabe der Richtlinie 2013/32/EU (Asylverfahrensrichtlinie) bearbeitet wird.
 Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
 Für das Überstellungsverfahren gelten - weggefallen- folgende Zuständigkeiten:
 BAMF Nürnberg - Referat 32A:

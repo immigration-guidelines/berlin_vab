@@ -2,7 +2,7 @@ VAB A 19c
 VAB A 19c
 Inhaltsverzeichnis
 A.19c. Sonstige Beschäftigungszwecke; Beamte
-(FEG; 16.03.2023; FEWG; 29.04.2024)
+(FEG; FEWG; 29.04.2024; 19.12.2024)
 19c.0.
 19c.1.
 19c.2.
@@ -10,7 +10,7 @@ A.19c. Sonstige Beschäftigungszwecke; Beamte
 19c.3.
 19c.4. Tätigkeit im Beamtenverhältnis zu einem deutschen Dienstherrn
 A.19c. Sonstige Beschäftigungszwecke; Beamte
-(FEG; 16.03.2023; FEWG; 29.04.2024)
+(FEG; FEWG; 29.04.2024; 19.12.2024)
 19c.0.
 § 19c fasst als Grundsatznorm verschiedenen besondere Zwecke der Beschäftigung zusammen. Dies betrifft zum einen Beschäftigungen, die nicht zwingend eine qualifizierte Berufsausbildung voraussetzen. Darüber hinaus können Ausländer mit berufspraktischen Kenntnissen, aber ohne qualifizierte Ausbildung über diese Norm einen Titel erhalten. Daneben finden sich Regelungen zu Beschäftigungen aus besonderen Gründen und zu Beamten.
 19c.1.
@@ -37,7 +37,8 @@ Ist die Tätigkeit nicht im Gesetz, in der BeschV oder einer zwischenstaatlichen
 Zu Ärzten in Weiterbildung beachte A.16a.
 Ob ein arbeitsmarktpolitisches Interesse besteht, beurteilt ausschließlich die Bundesagentur für Arbeit, die insofern zu beteiligen ist. Soll der Titel allerdings auf Grund eines regionalen oder wirtschaftlichen öffentlichen Interesses erteilt werden, bedarf es der Beteiligung der Bundesagentur nicht.
 Dies gilt etwa in den Fällen der Beschäftigung israelischen Sicherheitspersonals durch die jüdische Gemeinde oder die israelische Fluglinie EL AL oder für Beschäftigte des Forschungszentrums für Migration und Integration der Türkisch-Deutschen Universität in Berlin. Bei der Erteilung von Aufenthaltserlaubnissen nach § 19c Abs. 3 ist die Beschäftigung allerdings auf die konkrete Beschäftigung bei dem Arbeitgeber für die Geltungsdauer des Titels zu beschränken.
-Gleiches gilt für die Drittstaatsangehörigen aus der Ukraine, die nachweislich über einen befristeten ukrainischen Aufenthaltstitel im Original („TEMPORARY RESIDENCE PERMIT“) verfügen, aber nicht unter den begünstigten Personenkreis des Durchführungsbeschlusses (EU) 2022/382 des Rates vom 4. März 2022 (vgl. A.24.s.1.1.) fallen, und sich nach ihrer Flucht aus der Ukraine hier auf Grund § 81 Abs. 3 Satz 1 AufenthG erlaubt aufhalten, ohne im Besitz eines Aufenthaltstitels zu sein, und bereits seit einem Zeitraum von mindestens 6 Monaten bei einem Arbeitgeber mit Berliner oder Brandenburger Betriebssitz sozialversicherungspflichtig beschäftigt sind und die Begründung einer Ausreisepflicht die Betriebsabläufe erheblich beeinträchtigen könnte. Ein wirtschaftliches öffentliches Interesse ist hier nach Weisung der für Inneres zuständigen Senatsverwaltung stets anzunehmen, denn die Begründung einer Ausreisepflicht würde angesichts des allgemeinen Fachkräftemangels die Betriebsabläufe erheblich beeinträchtigen.
+Gleiches gilt für die Drittstaatsangehörigen aus der Ukraine, die nachweislich über einen befristeten ukrainischen Aufenthaltstitel im Original („TEMPORARY RESIDENCE PERMIT“) verfügen, aber nicht oder ab dem 04.03.2025 nicht mehr unter den begünstigten Personenkreis des Durchführungsbeschlusses (EU) 2022/382 des Rates vom 4. März 2022 (vgl.
+A.24.s.1.1.) fallen, und sich nach ihrer Flucht aus der Ukraine hier auf Grund § 81 Abs. 3 Satz 1 AufenthG oder § 24 Abs. 1 erlaubt aufhalten,, und bereits seit einem Zeitraum von mindestens 6 Monaten bei einem Arbeitgeber mit Berliner oder Brandenburger Betriebssitz sozialversicherungspflichtig beschäftigt sind und die Begründung einer Ausreisepflicht die Betriebsabläufe erheblich beeinträchtigen könnte. Ein wirtschaftliches öffentliches Interesse ist hier nach Weisung der für Inneres zuständigen Senatsverwaltung stets anzunehmen, denn die Begründung einer Ausreisepflicht würde angesichts des allgemeinen Fachkräftemangels die Betriebsabläufe erheblich beeinträchtigen.
 Daneben ist der Lebensunterhalt selbstständig zu sichern. Gelingt die Sicherung des Lebensunterhalts aufgrund gesundheitlicher Belange, geistiger oder körperlicher Beeinträchtigungen nicht, ist auf die Möglichkeit zur Durchführung eines Härtefallverfahrens gem. § 23a Abs. 1 zu verweisen. Weiterhin müssen mindestens einfache Kenntnisse der Deutschen Sprache (Niveau A1) nachgewiesen werden. Zudem darf keine Verurteilung wegen einer im Bundesgebiet begangenen, vorsätzlichen Straftat erfolgt sein, wobei Geldstrafen im Bagatellbereich (in Höhe von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden können) grundsätzlich außer Betracht bleiben können (vgl. § 19d Abs. 1 Nr. 7).
 Im Übrigen müssen auch die sonstigen allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1 erfüllt sein. Die Nachholung des Visumverfahrens ist auf Grund besonderer Umstände des Einzelfalles und des Krieges in der Ukraine nicht zumutbar; die Betroffenen haben nach § 5 Abs. 2 Halbsatz 2 einen Anspruch darauf, dass vom Visumverfahren abgesehen wird und die Titelerteilung nach § 19c Abs. 3 ohne Ausreise erfolgt.
 Die Aufenthaltserlaubnis ist nach § 19c Abs. 3 AufenthG für zunächst vier Jahre oder für die Dauer des Arbeitsverhältnisses zzgl. eines Zeitraums von drei Monaten, nicht jedoch länger als vier Jahre, zu erteilen, auf die aktuelle Tätigkeit zu beschränken und daher ggf. mit folgenden Auflagen zu versehen:

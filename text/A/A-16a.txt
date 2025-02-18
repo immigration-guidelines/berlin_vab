@@ -17,12 +17,12 @@ oder sonstigen ärztlichen Weiterbildung
 16a.2.1. Schulische Berufsausbildung
 16a.2.1.1. Aufenthalt für Lehramts- und Rechtsreferendaren
 16a.2.4.
-16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung und beruflichen Weiterbildung .. 142
+16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung und beruflichen Weiterbildung .. 144
 16a.3.2 Erforderliche Sprachkenntnisse
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 A.16a. Berufsausbildung; berufliche Weiterbildung
 Änderungsdatum
-(FEG; 31.08.2023; 01.03.2024; FEWG)
+(FEG; 01.08.2024; FEWG; 23.01.2025)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
 Zur anschließenden Erteilung einer AE zur Arbeitsplatzsuche für Fachkräfte nach erfolgreichem Abschluss der Ausbildung oder Aus- und Weiterbildung vgl. A.20.
 16a.1 Betriebliche Aus- und Weiterbildung
@@ -35,7 +35,10 @@ Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5 AufenthG. Hinsichtl
 Bundesausbildungsförderungsgesetzes bestimmt wird, verfügt vgl. VAB A.2.3.5.
 Die Sicherung des Lebensunterhalts kann z.B. auch mittels einer Verpflichtungserklärung eines leistungsfähigen Dritten oder mittels eines Sperrkontos nachgewiesen werden.
 Die Entscheidung liegt nicht im Ermessen der Behörde. Sofern die Erteilungsvoraussetzungen vorliegen und die BA zugestimmt hat, ist die Aufenthaltserlaubnis in der Regel zu erteilen. Nur bei besonderen Umständen im atypischen Einzelfall kann ein Abweichen von der Soll-Vorschrift begründet sein.
-Der Aufenthaltstitel wird in der Regel für die gesamte Dauer der Ausbildung bzw. Weiterbildung und im Falle des vorangestellten Sprachkurses für die Dauer der Ausbildung zuzüglich 6 Monate erteilt. Im Einreiseverfahren ist die Auslandsvertretung um die Ausstellung eines Visums für 6 Monate zu bitten. Im beschleunigten Verfahren gem. § 81a wird das Visum für ein Jahr erteilt, worauf besonders hinzuweisen ist.
+Der Aufenthaltstitel wird in der Regel für die gesamte Dauer der Ausbildung bzw. Weiterbildung sowie für einen zuzüglichen Zeitraum von 18 Monaten erteilt. Wird ein vorangestellter Sprachkurs absolviert, ...weggfefallen... verlängert sich die Erteilungsdauer um weitere sechs Monate. Die Dauer des Titels dient dem nahtlosen Übergang in die Erwerbstätigkeit nach erfolgreich abgeschlossener Ausbildung und wird analog den Regelungen zu § 20 Abs. 1 Nr. 3 – 5 erteilt und mit entsprechender Nebenbestimmung versehen (vgl. A.20.1.0). Im beschleunigten Verfahren gem. § 81a wird das Visum für ein Jahr erteilt, worauf besonders hinzuweisen ist.
+Um innerhalb der Ausbildung den problemlosen Wechsel des Arbeitgebers zu ermöglichen, ist die Aufenthaltserlaubnis ohne Arbeitgeberbindung mit der Nebenbestimmung:
+„Ausbildung zum/zur … erlaubt“
+auszustellen.
 16a.1.1.1. Grundsätze zur Prüfung der Beschäftigungsbedingungen bei Ärzten zu einer Facharzt- oder sonstigen ärztlichen Weiterbildung
 Die Bundesagentur für Arbeit (BA) kann Beschäftigungen ausländischer Ärzte zur ärztlichen Weiterbildung gemäß § 16a Abs. 1 i.V. m § 39 Abs. 1 i.V.m. § 8 Abs. 1 BeschV zulassen zwecks
 mehrjähriger Weiterbildung zum Facharzt, wenn die Weiterbildung den Weiterbildungsordnungen der Landesärztekammern entspricht, oder
@@ -82,10 +85,11 @@ Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel
 16a.2.2-3. frei
 16a.2.4.
 Die Regelungen des Abs. 1 S. 2 und 3 zum grundsätzlich eröffneten Zweckwechsel und zur in der Regel ausgeschlossenen Erteilung einer Niederlassungserlaubnis gelten entsprechend auch für die Fälle einer schulischen Berufsausbildung.
-16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung und beruflichen Weiterbildung In den Fällen des § 16a ist die Aufenthaltserlaubnis mit der Auflage
+16a.3.1 Erwerbstätigkeit während des Aufenthaltes zum Zweck der Berufsausbildung und beruflichen Weiterbildung In den Fällen des § 16a ist die Aufenthaltserlaubnis mit den Auflagen
 „Von der Aus -/Weiterbildung unabhängige Beschäftigung von 2 0 Stunden je Woche erlaubt. Selbstständige Tätigkeit nicht erlaubt."
+„Nach erfolgreichem Abschluss: Erwerbstätigkeit erlaubt.“
 In Fällen der Ausbildung wird zusätzlich verfügt:
-Erlischt mit Abbruch der Ausbildung als ...“
+„ Erlischt mit Abbruch der Ausbildung als ...“
 zu versehen.
 16a.3.2 Erforderliche Sprachkenntnisse
 Bei einer qualifizierten Berufsausbildung wird ein Nachweis über ausreichende deutsche Sprachkenntnisse (Niveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen) verlangt, wenn die für die konkrete qualifizierte Berufsausbildung erforderlichen Sprachkenntnisse weder durch die Bildungseinrichtung geprüft worden sind, noch durch einen vorbereitenden Deutschsprachkurs erworben werden sollen.

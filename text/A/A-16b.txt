@@ -23,7 +23,7 @@ Beschäftigung für Studienbewerber
 16b.3.2.2. Praktika und Hospitationen
 16b.3.2.3. selbstständige Tätigkeit
 16b.4. Wechsel des Aufenthaltszwecks/Niederlassungserlaubnis
-16b.4.1. Zweckwechsel ohne erfolgreichen Abschluss des Studiums. 151
+16b.4.1. Zweckwechsel ohne erfolgreichen Abschluss des Studiums. 153
 16b.4.1.4 Studiengangwechsel
 16b.4.1.5. zulässige Schwerpunktverlagerung
 16b.4.1.6. zulässiges Aufbau-, Zusatz- oder Ergänzungsstudium
@@ -37,7 +37,7 @@ Beschäftigung für Studienbewerber
 16b.7. Fortsetzung des Studiums für international Schutzberechtigte
 A.16b. Studium
 Änderungsdatum
-(FEG; 11.05.2023, 01.03.2024; FEWG)
+(FEG; 01.03.2024, 01.08.2024; FEWG)
 16b.0. Allgemeines
 Eine Zustimmung der BA zur Erteilung einer AE zum Studium ist nicht erforderlich.
 16b.0.1. örtliche Zuständigkeit
@@ -201,19 +201,17 @@ Im eAT ist als Rechtsgrundlage einheitlich § 16b Abs. 5 einzutragen. Die Aufent
 In den Fällen des Satzes 1 Nummer 1a) und 1b) sind Absatz 1 Satz 2 bis 4 und die Absätze 2 bis 4 entsprechend anzuwenden und ist der Betroffene folglich wie ein Titelinhaber gem. § 16b Abs. 1 zu behandeln.
 16b.5.1.1c. Teilzeitstudium
 Der Gesetzgeber lässt mit § 16b Abs. 5 S. 1 Nr. 1 c ausdrücklich ein Teilzeitstudium zu. Der gleichzeitig geforderte Hauptaufenthaltszweck des Studiums, der bislang ein Vollzeitstudium voraussetzte, ist entsprechend zu modifizieren. Die Erteilung und Verlängerung steht im pflichtgemäßen Ermessen der Behörde.
-Das Ermessen ist lediglich zu Gunsten des Teilzeitstudenten auszuüben, wenn der Umfang des Teilzeitstudiums mindestens 50% des Vollzeitstudienganges erreicht, keine Erwerbstätigkeit von mehr als 20 Stunden pro Woche ausgeübt wird, es sich um ein Präsenzstudium handelt, neben der Zulassung durch seine Bildungseinrichtung zum Teilzeitstudium auch eine vom Fachberater unterschriebene individuelle Studienverlaufsplanung vorgelegt wird, durch das Teilzeitstudium eine Gesamtaufenthaltsdauer von zehn Jahren voraussichtlich nicht überschritten wird und nicht zusätzlich ein weiteres Teilzeitstudium absolviert wird.
-Bei einem Teilzeitstudium an einer privaten Hochschule oder vergleichbaren Bildungseinrichtung ist zusätzlich zu prüfen, ob ein Grund für ein Teilzeitstudium analog § 22 Abs. 4 BerlHG vorliegt:
-wenn Studenten und Studentinnen berufstätig sind,
+Das Ermessen ist lediglich zu Gunsten des Teilzeitstudenten auszuüben, wenn der Umfang des Teilzeitstudiums mindestens 50% des Vollzeitstudienganges erreicht, es sich um ein Präsenzstudium handelt, neben der Zulassung durch seine Bildungseinrichtung zum Teilzeitstudium auch eine vom Fachberater unterschriebene individuelle Studienverlaufsplanung vorgelegt wird, und nicht zusätzlich ein weiteres Teilzeitstudium absolviert wird.
+Da ausländische Studierende, die sich mit einem Aufenthaltstitel gem. § 16b im Bundesgebiet aufhalten, keinem anderen Zweck als dem des Studiums nachgehen, ist b ei einem Teilzeitstudium zusätzlich zu prüfen, ob ein Grund für ein Teilzeitstudium vorliegt. Dies kann etwa der Fall sein:
 zur Pflege und Erziehung eines Kindes im Alter von bis zu 10 Jahren,
 zur Pflege pflegebedürftiger naher Angehöriger im Sinne des Pflegezeitgesetzes,
 wenn eine Behinderung ein Teilzeitstudium erforderlich macht,
 während einer Schwangerschaft,
 während der Wahrnehmung eines Mandats eines Organs der Hochschule, der Studierendenschaft oder des Studierendenwerks Berlin,
-aus sonstigen schwerwiegenden Gründen.
-Liegt ein solcher Grund nicht vor, ist das Ermessen in der Regel negativ auszuüben.
-Im eAT ist als Rechtsgrundlage einheitlich § 16b Abs. 5 einzutragen. Die Aufenthaltserlaubnis soll zunächst für mindestens 1 Jahr erteilt werden. Die Ausbildungseinrichtungen werden in der Regel von einem vorübergehenden Abschnitt von zunächst 2 Semestern ausgehen. Eine großzügige Verlängerung kommt solange in Betracht, wie der Ausländer nachweisen kann, dass das ordnungsgemäße Teilzeitstudium weiterhin seinen Hauptaufenthaltszweck darstellt (s.o.). Hinsichtlich der Ausführungen zum ordnungsgemäßen Studium sowie zum angemessenen Zeitraum für einen Studienabschluss in VAB
-A.16b.2.4. gelten keine Besonderheiten.
-Wird zur Verlängerung eine Rückkehr zum Vollzeitstudium nachgewiesen, ist der Wechsel in eine Aufenthaltserlaubnis nach § 16b Abs. 1 in der Regel zuzulassen (vgl. A.16b.1.).
+aus sonstigen schwerwiegenden persönlichen Gründen.
+Liegt ein solcher Grund nicht vor, ist das Ermessen in der Regel negativ auszuüben und dem Betroffenen die Möglichkeit einzuräumen, in ein Vollzeitstudium zu wechseln.
+Im eAT ist als Rechtsgrundlage einheitlich § 16b Abs. 5 einzutragen. Die Aufenthaltserlaubnis soll zunächst für mindestens 1 Jahr erteilt werden. Eine großzügige Verlängerung kommt solange in Betracht, wie der Ausländer nachweisen kann, dass das ordnungsgemäße Teilzeitstudium weiterhin seinen Hauptaufenthaltszweck darstellt (s.o.). Hinsichtlich der Ausführungen zum ordnungsgemäßen Studium sowie zum angemessenen Zeitraum für einen Studienabschluss in VAB A.16b.2.4. gelten keine Besonderheiten.
+Wird zur Verlängerung eine Rückkehr zum Vollzeitstudium nachgewiesen, ist der Wechsel in eine Aufenthaltserlaubnis nach § 16b Abs. 1 zuzulassen (vgl. A.16b.1.).
 In den Fällen des Satzes 1 Nummer 1c) sind Absatz 1 Satz 2 bis 4 und die Absätze 2 bis 4 entsprechend anzuwenden und ist der Betroffene folglich wie ein Titelinhaber gem. § 16b Abs. 1 zu behandeln.
 16b.5.1.2. Studienvorbereitende Sprachkurse ohne Zulassung
 Der Fall, dass noch keine Zulassung durch die Hochschule vorliegt und zunächst ein studienvorbereitender Sprachkurs besucht werden soll, wird in Absatz 5 Satz 1 Nr. 2 geregelt.

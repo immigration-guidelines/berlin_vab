@@ -17,12 +17,12 @@ Lebensunterhaltssicherung
 18d.1.2. 60-Tage-Frist
 18d.2. Verzicht auf die Vorlage der Kostenübernahmeerklärung
 18d.3. Abgabe einer allgemeinen Übernahmeerklärung
-18d.4. Geltungsdauer der Aufenthaltserlaubnis
+18d.4. Geltungsdauer der Aufenthaltserlaubnis - (vgl. VAB A.18.4.1.2.)
 18d.5. Berechtigung zur Ausübung einer Forschungstätigkeit
 18d.6. Aufenthalt von international Schutzberechtigten als Forscher
 zur Beantragung der Aufenthaltserlaubnis
 A.18d. Forschung
-(FEG; 08.07.2021; 04.07.2024)
+(FEG; 04.07.2024; 01.08.2024)
 18d.0. Allgemeines
 Die §§ 18d-f folgen den Vorgaben der REST-Richtlinie. Bzgl. der Verfahrensvorschriften zur Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen wird auf die §§ 38 a –f der AufenthV verwiesen. qualifizierte Forscher
 Nach den Vorgaben der REST-Richtlinie soll für qualifizierte Forscher im Sinne der Definition in Artikel 3 Nr. 2 der Richtlinie ein besonderes Zulassungsverfahren Anwendung finden, in dem die Expertise bestehender öffentlicher und privater Forschungseinrichtungen genutzt wird.
@@ -72,10 +72,8 @@ Auf die Kostenübernahmeerklärung sollte gleichfalls gem. § 18d Abs. 2 S. 2 ve
 18d.3. Abgabe einer allgemeinen Übernahmeerklärung
 Die Forschungseinrichtung kann die Erklärung nach Absatz 1 Satz 1 Nr. 2 auch gegenüber dem BAMF allgemein für sämtliche Ausländer abgeben, denen auf GrundN einer mit ihr geschlossenen Aufnahmevereinbarung eine Aufenthaltserlaubnis erteilt wird.
 Ob die Einrichtung eine solche allgemeine Erklärung abgegeben hat, ist gleichfalls in jedem Einzelfall durch eine Internetrecherche unter BAMF.de zu ermitteln (vgl. § 38 e AufenthV).
-18d.4. Geltungsdauer der Aufenthaltserlaubnis
-Liegen die Voraussetzungen für die Erteilungen der Aufenthaltserlaubnis nach § 18d Abs. 1 Satz 1 Nr. 1a bzw. § 18d Abs. 6 vor, so ist die Geltungsdauer der Erlaubnis grundsätzlich an der Dauer der Tätigkeit auszurichten, wie sie sich aus der vorzulegenden Aufnahmevereinbarung oder dem entsprechenden Vertrag ergeben sollte. Dies gilt ausgerichtet an § 18d Abs. 4 S. 3 insbesondere dann, wenn ausweislich der Aufnahmevereinbarung bzw. des Vertrages feststeht, dass das Forschungsvorhaben in einem kürzeren Zeitraum als einem Jahr durchgeführt sein wird.
-Sollte die Dauer des Vorhabens unbestimmt sein, so ist die Erlaubnis regelmäßig für vier Jahre zu erteilen. Anderes gilt für die Fälle nach § 18d Abs. 1 S. 1 Nr. 1b an nicht-anerkannten Forschungseinrichtungen. Hier soll die Aufenthaltserlaubnis jeweils für 1 Jahr erteilt und verlängert werden.
-Steht das Forschungsvorhaben in Zusammenhang mit einem Unions- oder multilateralen Programm mit Mobilitätsmaßnahmen, wird eine Aufenthaltserlaubnis regelmäßig für 2 Jahre ausgestellt. Ist das Programm von Beginn an auf einen kürzeren oder längeren Zeitraum zugeschnitten, soll die Aufenthaltserlaubnis für den konkreten Zeitraum erteilt werden. Darüber hinaus ist die Aufenthaltserlaubnis dann auch mit der Nebenbestimmung „Forschung im Rahmen des Programms …“ unter Benennung des Programms oder der Vereinbarung zu versehen.
+18d.4. Geltungsdauer der Aufenthaltserlaubnis - (vgl. VAB A.18.4.1.2.)
+..weggefallen...
 Das BAMF als nationale Kontaktstelle nach § 91d für die REST-Richtlinie beabsichtigt eine Datenbank zu den entsprechenden Programmen einzurichten. Im Einzelfall können Anfragen an die Nationale Kontaktstelle beim BAMF gerichtet werden (rest@bamf.bund.de).
 18d.5. Berechtigung zur Ausübung einer Forschungstätigkeit
 Im Absatz 5 Satz 1 wird geregelt, dass der Aufenthaltstitel zur Aufnahme der Forschungstätigkeit bei der in der Aufnahmevereinbarung oder dem entsprechenden Vertrag bezeichneten Forschungseinrichtung und zur Lehrtätigkeit berechtigt. Die genaue Bezeichnung des Forschungsvorhabens ist nicht zwingend als Inhalt der Aufnahmevereinbarung bzw. des entsprechenden Vertrages vorgesehen, da dadurch eventuell Unternehmensinterna preisgegeben werden.

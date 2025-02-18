@@ -2,7 +2,7 @@ VAB A 72
 VAB A 72
 Inhaltsverzeichnis
 A.72. Beteiligungserfordernisse
-(25.11.2021; 27.02.2024; FEG; RückführungsVG; FEWG)
+(27.02.2024; 24.10.2024; FEG; RückführungsVG; FEWG)
 72.2.1. Beteiligung des BAMF
 72.3.1.1. Einvernehmen anderer Behörden
 72.3.1.2. Örtliche Zuständigkeit für Befristungsentscheidungen
@@ -10,7 +10,7 @@ A.72. Beteiligungserfordernisse
 72.4.1. Zustimmung der Staatsanwaltschaft
 72.7. Fakultative Beteiligung der Bundesagentur für Arbeit
 A.72. Beteiligungserfordernisse
-(25.11.2021; 27.02.2024; FEG; RückführungsVG; FEWG)
+(27.02.2024; 24.10.2024; FEG; RückführungsVG; FEWG)
 Generelles Einvernehmen GStA nach § 72 Abs. 4 AufenthG - Stand: 15.02.2013
 72.1.1. bis 72.1.2. frei
 72.2.1. Beteiligung des BAMF
@@ -50,7 +50,8 @@ Anträge zur Vermeidung einer Härte nach § 12a Absatz 5 Satz 1 Nummer 2 sollen
 Die Zustimmung gilt als erteilt, wenn die für den Zuzugsort zuständige Ausländerbehörde nicht innerhalb von 4 Wochen ab Eingang der Anfrage die Zustimmung erteilt. Analog § 31 AufenthV kann die Schweigefrist innerhalb dieses Zeitraums unterbrochen werden. Zur Unterbrechung ist das hierfür vorgesehene Formular zu verwenden.
 Merke: Eine Anfrage zum Wegfall der Wohnsitzzuweisung, die über XAusländer eingeht, löst keine Frist im Rahmen des § 12a-Verfahrens aus.
 In den Zuzugsfällen bedeutet dies, dass die Ausländerbehörde Berlin für die nach Berlin zuzugswilligen Personen nicht zuständig ist, solange eine Wohnsitzzuweisung für einen anderen Ort besteht, allerdings von der jeweils örtlich zuständigen Ausländerbehörde im Rahmen des Zustimmungsverfahrens beteiligt wird.
-Sprechen Personen in diesen Fällen dennoch bei der ABH Berlin vor, ist diesen eine Verweisungsbescheinigung auszuhändigen und sie haben sich zu der für ihren Wohnort zuständigen Ausländerbehörde zurückzubegeben. In den Wegzugsfällen ist eine Anfrage an die jeweils für den Zuzugsort zuständige Ausländerbehörde um Zustimmung mit dem hierfür vorgesehenen Formular unter Beifügung sämtlicher entscheidungserheblicher Unterlagen zu stellen. Liegen die Voraussetzungen für den Wegfall der Wohnsitzzuweisung vor und stimmt die Ausländerbehörde des Zuzugsortes dem Wegfall zu, ist der Vermerk „Wohnsitznahme im Land Berlin bis zum ….. erforderlich.“ zu streichen.
+Sprechen Personen in diesen Fällen dennoch bei der ABH Berlin vor, ist diesen eine Verweisungsbescheinigung auszuhändigen und sie haben sich zu der für ihren Wohnort zuständigen Ausländerbehörde zurückzubegeben.
+In den Wegzugsfällen ist eine Anfrage an die jeweils für den Zuzugsort zuständige Ausländerbehörde um Zustimmung mit dem hierfür vorgesehenen Formular unter Beifügung sämtlicher entscheidungserheblicher Unterlagen zu stellen. Liegen die Voraussetzungen für den Wegfall der Wohnsitzzuweisung vor und stimmt die Ausländerbehörde des Zuzugsortes dem Wegfall zu, ist der Vermerk „Wohnsitznahme im Land Berlin bis zum ….. erforderlich.“ zu streichen.
 72.4.1. Zustimmung der Staatsanwaltschaft
 Vor einer Abschiebung ist die Zustimmung der zuständigen Staatsanwaltschaft bzw. der Amtsanwaltschaft erforderlich. Vor einer Ausweisung ohne gleichzeitige Abschiebung ist die Zustimmung der Staatsanwaltschaft nach Sinn und Zweck der Vorschrift entbehrlich, da allein die Ausweisung das Strafverfolgungsinteresse der Staatsanwaltschaft nicht erschwert oder vereitelt. Spätestens vor der Abschiebung auf Grund einer vollziehbaren oder bestandskräftigen Ausweisung ist die Zustimmung der Staatsanwaltschaft zur Abschiebung ohnehin einzuholen, so dass das Interesse der Staatsanwaltschaft an der Strafverfolgung in jedem Fall gewahrt bleibt.
 Sofern gegen einen Ausländer wegen einer Straftat nach § 95 AufenthG oder nach § 9 FreizügG/EU öffentlich Klage erhoben oder ein Ermittlungsverfahren eingeleitet ist, bedarf es für eine Ausweisung oder Abschiebung – abweichend von dem in § 72 Abs. 4 Satz 1 AufenthG geregelten Grundsatz – allerdings nicht des Einvernehmens mit der Staatsanwaltschaft bzw. der Amtsanwaltschaft.

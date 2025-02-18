@@ -18,7 +18,7 @@ Entzug der deutschen Staatsangehörigkeit
 Welche Unterlagen werden benötigt?
 Gebühren
 Wiedergutmachungseinbürgerung
-(01.01.2024, 25.06.2024, 27.06.2024 StARModG)
+(27.06.2024 StARModG; 25.06.2024; 21.11.2024)
 15.0. Allgemeines
 Für Einbürgerungsanträge nach §15 von Personen, die im Ausland leben, ist das Bundesverwaltungsamt (BVA) zuständig. Auf der Webseite des BVA finden sich Antragsformulare (auf Deutsch und Englisch) sowie Merkblätter zu den Voraussetzungen sowie regelmäßig angeforderten Unterlagen. Einbürgerungsanträge in Berlin lebender Personen werden vom LEA bearbeitet.
 Begünstigt werden Personen, die im Zusammenhang mit nationalsozialistischen Verfolgungsmaßnahmen aus den in Artikel 116 Absatz 2 Satz 1 des Grundgesetzes aufgeführten Gründen die deutsche Staatsangehörigkeit nicht durch Entzug, sondern auf andere Weise verloren haben oder nie haben erwerben können und ihre Abkömmlinge.
@@ -44,8 +44,8 @@ Die Einbürgerungsmöglichkeit steht auch den Abkömmlingen (Abstammung in gerad
 Dazu zählen auch diejenigen Abkömmlinge, die vor dem 01.01.1977 von anspruchsberechtigten Personen adoptiert worden sind.
 Der Einbürgerungsanspruch eines Abkömmlings kann, unabhängig voneinander, über jedes der beiden Elternteile und deren Vorfahren abgeleitet werden.
 Die Einbürgerungsmöglichkeit besteht nicht, wenn sie wegen vorsätzlicher Straftat(en) (im In- und Ausland) rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens 2 Jahren verurteilt worden sind oder bei der letzten Verurteilung Sicherungsverwahrung angeordnet worden ist (S.12a.1 findet keine Anwendung).
-Im Übrigen finden die allgemeinen Regelungen für den Staatsangehörigkeitserwerb durch Einbürgerung in S.11., S.12a.2. bis S.12a.4., S.16. und S.37. Anwendung. Es ist daher festzustellen, dass die Antragsteller strafrechtlich nicht in relevanter Weise in Erscheinung getreten sind und keine verfassungsfeindlichen oder extremistischen Bestrebungen verfolgen.
-Die Einbürgerung ist nach S.38.3.2. gebührenfrei.
+Beachte: Wenn sich der Einbürgerungsbewerber seit weniger als 3 Jahren rechtmäßig und gewöhnlich in Deutschland aufhält oder einen Nebenwohnsitz im Ausland hat, soll ein ausländisches Führungszeugnis eingereicht werden. Das ausländische Führungszeugnis ist von dem Staat auszustellen, in welchem der Einbürgerungsbewerber unmittelbar vor dem Aufenthalt in Deutschland wohnhaft war bzw. in welchem sich der Nebenwohnsitz des Einbürgerungsbewerbers befindet.
+Im Übrigen finden die allgemeinen Regelungen für den Staatsangehörigkeitserwerb durch Einbürgerung in S.11., S.12a.2. bis S.12a.4., S.16. und S.37. Anwendung. Es ist daher festzustellen, dass die Antragsteller strafrechtlich nicht in relevanter Weise in Erscheinung getreten sind und keine verfassungsfeindlichen oder extremistischen Bestrebungen verfolgen. Die Einbürgerung ist nach S.38.3.2. gebührenfrei.
 15.2. Nicht Einbürgerungsberechtigte
 Liegen die Voraussetzungen des Satz 2 vor, steht der Nichtbesitz der deutschen Staatsangehörigkeit dann nicht mehr im Zusammenhang mit nationalsozialistischen Verfolgungsmaßnahmen.
 15.3. Ausnahme von 15.2. für Frauen und Kinder
@@ -68,8 +68,7 @@ Die Staatsangehörigkeit ist insbesondere dann aus politischen, rassischen oder 
 oder
 nach dem Gesetz über den Widerruf von Einbürgerungen und die Aberkennung der deutschen Staatsangehörigkeit vom 14.07.1933 im Einzelfall entzogen wurde. Die Aberkennung der deutschen Staatsangehörigkeit im Einzelfall wurde im Reichsanzeiger veröffentlicht.
 Welche Unterlagen werden benötigt?
-Stets beizufügen ist ein aktueller Reisepass oder Personalausweis (Seiten mit Passbild und Personalangaben).
-Zum Nachweis der Voraussetzungen sind folgende Unterlagen erforderlich:
+Stets beizufügen ist ein aktueller Reisepass oder Personalausweis (Seiten mit Passbild und Personalangaben). Zum Nachweis der Voraussetzungen sind folgende Unterlagen erforderlich:
 Unterlagen über Abstammung und Personenstand
 Geburtsurkunde bzw. Abstammungsurkunde der antragstellenden Person
 Heiratsurkunde der Eltern der antragstellenden Person
