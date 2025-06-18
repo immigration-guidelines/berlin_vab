@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 04.07.2024; 19.08.2024 ÄndVO PAuswV u.a.)
+(FreizügG/EU-AnpG; 23.05.2025; ÄndVO PAuswV u.a.; 05.06.2025)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -23,7 +23,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 04.07.2024; 19.08.2024 ÄndVO PAuswV u.a.)
+(FreizügG/EU-AnpG; 23.05.2025; ÄndVO PAuswV u.a.; 05.06.2025)
 Merkblatt Gebühren (Stand: 12.01.2024)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -93,7 +93,29 @@ B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für S
 - wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 22,80 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben. B.AufenthV.52.3.bis B.AufenthV.52.4.
 Wird die Neuausstellung einer Niederlassungserlaubnis oder einer Aufenthaltserlaubnis in den Fällen des Ablaufs des Passes oder des eAT (§ 45 c Abs. 1 Nr. 1 und 2 AufenthV) erforderlich, sind Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Abs. 4 AufenthG, anerkannte Flüchtlinge nach § 3 AsylG, subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG sowie Personen mit einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG gemäß § 52 Abs. 3 Nr. 1, 2 und Abs. 4 AufenthV von der Zahlung der Gebühr befreit.
 Die Formulierung „in Ausnahmefällen“ am Ende von § 52 Abs. 3 Nr. 1, 2 sowie Abs. 4 bezieht sich nur auf die Befreiungstatbestände gemäß § 45b und § 47 Abs. 1 Nr. 11.
-B.AufenthV.52.5. Die Freie Universität Berlin führt Direktaustauschprogramme mit Partneruniversitäten in verschiedenen Staaten durch. Diese Direktaustauschprogramme werden zu 100 % aus Mitteln des Landes Berlin finanziert. Teilnehmern an diesen Programmen ist Gebührenbefreiung zu gewähren. Diese Partneruniversitäten sind:
+B.AufenthV.52.5. Ausländer, die für ihren Aufenthalt im Bundesgebiet ein Stipendium aus öffentlichen Mitteln erhalten, sind befreit von den Gebühren zur Erteilung einer Aufenthaltserlaubnis sowie der Ausstellung einer Fiktionsbescheinigung – dazu zählen:
+Stipendiaten des ERASMUS-, TEMPUS- und SOKRATES-Programms,
+Stipendiaten des "Berlin Programms" der FU Berlin,
+Stipendiaten der Stiftung Luftbrückendank,
+Stipendiaten der Fulbright-Kommission,
+und Stipendiaten folgender Stiftungen:
+Avicenna-Studienwerk
+Cusanuswerk
+Ernst Ludwig Ehrlich Studienwerk
+Evangelisches Studienwerk Villigst
+Friedrich-Ebert-Stiftung
+Friedrich-Naumann-Stiftung
+Hanns-Seidel-Stiftung
+Hans-Böckler-Stiftung
+Konrad-Adenauer-Stiftung
+Rosa-Luxemburg-Stiftung
+Studienstiftung des deutschen Volkes
+Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation,
+sowie:
+Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
+Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
+Forschungsstipendiaten der Alexander-von-Humboldt-Stiftung und des Deutschen Akademischen Austauschdienstes.
+Die Freie Universität Berlin führt außerdem Direktaustauschprogramme mit Partneruniversitäten in verschiedenen Staaten durch. Diese Direktaustauschprogramme werden zu 100 % aus Mitteln des Landes Berlin finanziert. Teilnehmern an diesen Programmen ist Gebührenbefreiung zu gewähren. Diese Partneruniversitäten sind:
 USA
 Columbia University, New York
 Cornell University, Ithaca, New York
@@ -147,36 +169,9 @@ PERU
 Universidad Católica del Perú
 Der Nachweis ist von den Begünstigten durch Vorlage der Einladung, des Bescheides über die Stipendiumgewährung oder einer Bescheinigung der betreuenden Stelle zu führen.
 B.AufenthV.52.5.1.1. bis B.AufenthV.52.5.2. frei
-B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll kein strenger Maßstab angelegt werden.
-B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel die Gebühren zu erlassen:
-Praktikanten, die auf Einladung der Bundesregierung oder einer Landesregierung oder Anstalt oder Körperschaft des öffentlichen Rechts oder einer Stiftung mit einem von deutschen Stellen gewährten Stipendium eine berufliche Aus- und Fortbildung in der Bundesrepublik Deutschland erhalten,
-Medizinal- und Medizinalhilfspersonen, die im Rahmen der Entwicklungshilfe oder des Kulturprogramms des Landes Berlin von dem für das Gesundheitswesen zuständigen Mitglied des Senats zur Aus- oder Fortbildung beschäftigt werden,
-Studenten, die aus deutschen öffentlichen Mitteln ein Stipendium erhalten,
-Forschungsstipendiaten der Alexander-von-Humboldt-Stiftung und des Deutschen Akademischen Austauschdienstes, Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
-Austauschschüler,
-ehrenamtliche Jugend-Mitarbeiter des CVJM-Missio-Center Berlin,
-Teilnehmer am Jugendfreiwilligendienst (Freiwilliges soziales Jahr gemäß § 3 Jugendfreiwilligendienstgesetz (JFDG) oder Freiwilliges ökologisches Jahr (§ 4 JFDG)
-Teilnehmer am Bundesfreiwilligendienst
-Teilnehmer des Europäischen Freiwilligendienstes
-Lehrer aus Übersee, die auf Einladung deutscher öffentlicher Stellen einen Studienaufenthalt in der Bundesrepublik Deutschland nehmen, um sich mit deutschen pädagogischen Grundsätzen vertraut zu machen,
-Stipendiaten des ERASMUS-,TEMPUS- und SOKRATES-Programms,
-Stipendiaten des "Berlin Programms" der FU Berlin,
-Stipendiaten der Stiftung Luftbrückendank,
-Stipendiaten der Fulbright-Kommission,
-und Stipendiaten folgender Stiftungen:
-Cusanuswerk
-Evangelisches Studienwerk Villigst
-Friedrich-Ebert-Stiftung
-Friedrich-Naumann-Stiftung
-Hanns-Seidel-Stiftung
-Hans-Böckler-Stiftung
-Konrad-Adenauer-Stiftung
-Rosa-Luxemburg-Stiftung
-Stiftungsverband Regenbogen
-Studienstiftung des deutschen Volkes
-Stiftung der deutschen Wirtschaft für Qualifizierung und Kooperation
-Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)
-Personengruppen, die in den Art. 5 und 14 des Deutsch-Russischen Regierungsabkommens über Reiserleichterungen genannt sind.
+B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll ein strenger Maßstab angelegt werden.
+B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel sowie der Ausstellung einer Fiktionsbescheinigung die Gebühren zu erlassen:
+Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
 Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 Mitarbeiter der Türkisch-Zypriotischen Repräsentanz in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
@@ -191,7 +186,8 @@ Mit § 52a wurde die AufenthV um eine Vorschrift ergänzt, die in Umsetzung der 
 Mit Ausnahme der der im folgenden Genannten sind weitere Dienstleistungen nach §§ 47-48 AufenthV von einer Gebührenermäßigung bzw. –befreiung nicht betroffen, weil diese nicht mit der Erteilung eines Aufenthaltstitels verbunden sind und es daher von vornherein an der Vergleichbarkeit mit Dienstleistungen für Unionsbürger und freizügigkeitsberechtigten Drittstaatsangehörigen fehlt.
 B.AufenthV.52a.1. Berechtigter Personenkreis
 Mit Abs. 1 wird klargestellt, dass die in der Vorschrift aufgeführten Gebührenermäßigungen und Befreiungen türkischen Staatsangehörigen und ihren Familienangehörigen gewährt werden, auf die das Assoziationsrecht EU- Türkei Anwendung findet.
-Im Rahmen der Gebührenermäßigung ist nur zu prüfen, ob es sich um einen türkischen Staatsangehörigen handelt, der sich bereits ordnungsgemäß im Bundesgebiet aufhält. Keine Gebührenermäßigung ist daher zu gewähren bei Ersteinreisen (Erstvorsprache bei uns mit Visum ist keine Ersteinreise in diesem Sinne!), unerlaubten Einreisen und bei rechtswidrigem bzw. geduldetem Aufenthalt bis zur Titelerteilung. Klarstellend wird darauf hingewiesen, dass die Erstvorsprache mit einem Visum zu touristischen Zwecken nicht zu einer Gebührenermäßigung führt (entscheidend ist hierbei, dass der Tourist nicht dem regulären Arbeitsmarkt angehört). Gebührenbefreiungen z.B. wegen Leistungsbezugs sind vorrangig zu prüfen. Die Gebührenermäßigung ist nicht auf türkische Arbeitnehmer begrenzt und setzt ebenso wenig ein Aufenthaltsrecht nach Art. 6 oder 7 ARB 1/80 voraus. Art. 13 ARB 1/80 gilt nach ständiger Rechtsprechung des EuGH (ausdrücklich und ausführlich begründet im Urteil vom 21.10.2003, Abatay, C-317/01, Rn. 75 ff.; ebenso Urteil vom 09.12.2010, Toprak und Oguz, C-300/09, Rn. 45 und Urteil vom 29.04.2010, Kommission/Niederlande, C-92/07, Rn. 45) auch für türkische Staatsangehörige mit ordnungsgemäßem Aufenthalt, die noch nicht im deutschen Arbeitsmarkt integriert sind. Eine Beschränkung der Gebührenermäßigung auf bestimmte Aufenthaltszwecke ist daher nicht möglich, zumal das Verbot diskriminierender Gebühren über das allgemeine Diskriminierungsverbot des Art. 9 Assoziierungsabkommen i.V.m. der Stillstandsklausel des Art. 41 Abs. 1 Zusatzprotokoll für den Bereich der Niederlassungs- und Dienstleistungsfreiheit auch für türkische Staatsangehörige gilt, die von der Niederlassungs- und Dienstleistungsfreiheit Gebrauch machen wollen (EuGH, Urteil vom 29.04.2010, Kommission/Niederlande, C-92/07, Rn. 75).
+Im Rahmen der Gebührenermäßigung ist nur zu prüfen, ob es sich um einen türkischen Staatsangehörigen handelt, der sich bereits ordnungsgemäß im Bundesgebiet aufhält. Keine Gebührenermäßigung ist daher zu gewähren bei Ersteinreisen (Erstvorsprache bei uns mit Visum ist keine Ersteinreise in diesem Sinne!), unerlaubten Einreisen und bei rechtswidrigem bzw. geduldetem Aufenthalt bis zur Titelerteilung. Klarstellend wird darauf hingewiesen, dass die Erstvorsprache mit einem Visum zu touristischen Zwecken nicht zu einer Gebührenermäßigung führt (entscheidend ist hierbei, dass der Tourist nicht dem regulären Arbeitsmarkt angehört). Gebührenbefreiungen z.B. wegen Leistungsbezugs sind vorrangig zu prüfen.
+Die Gebührenermäßigung ist nicht auf türkische Arbeitnehmer begrenzt und setzt ebenso wenig ein Aufenthaltsrecht nach Art. 6 oder 7 ARB 1/80 voraus. Art. 13 ARB 1/80 gilt nach ständiger Rechtsprechung des EuGH (ausdrücklich und ausführlich begründet im Urteil vom 21.10.2003, Abatay, C-317/01, Rn. 75 ff.; ebenso Urteil vom 09.12.2010, Toprak und Oguz, C-300/09, Rn. 45 und Urteil vom 29.04.2010, Kommission/Niederlande, C-92/07, Rn. 45) auch für türkische Staatsangehörige mit ordnungsgemäßem Aufenthalt, die noch nicht im deutschen Arbeitsmarkt integriert sind. Eine Beschränkung der Gebührenermäßigung auf bestimmte Aufenthaltszwecke ist daher nicht möglich, zumal das Verbot diskriminierender Gebühren über das allgemeine Diskriminierungsverbot des Art. 9 Assoziierungsabkommen i.V.m. der Stillstandsklausel des Art. 41 Abs. 1 Zusatzprotokoll für den Bereich der Niederlassungs- und Dienstleistungsfreiheit auch für türkische Staatsangehörige gilt, die von der Niederlassungs- und Dienstleistungsfreiheit Gebrauch machen wollen (EuGH, Urteil vom 29.04.2010, Kommission/Niederlande, C-92/07, Rn. 75).
 B.AufenthV.52a.2. Gebührenermäßigungen
 Für die Erteilung, die Verlängerung und den Übertrag von Titeln für alle türkischen Staatsangehörigen gelten nach Abs. 2 der Vorschrift folgende ermäßigte Gebührensätze:
 Aufenthaltstitel Gebühr Rechtsgrundlage
@@ -236,7 +232,8 @@ Daueraufenthalt-EU) jeweils als
 §§ 47 Abs. 1 Nr. 11, 44, 44a
 Etikett
 B.AufenthV.52a.3. Gebührenbefreiungen
-Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben: Aufenthaltstitel Rechtsgrundlage
+Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben:
+Aufenthaltstitel Rechtsgrundlage
 Erteilung/ Verlängerung von § 52a Abs. 3 Nr. 1
 befristeten Aufenthaltstiteln jeweils als Etikett i.V.m.
 § 45b Abs. 2, § 45

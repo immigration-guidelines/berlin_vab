@@ -2,17 +2,17 @@ VAB A 23a
 VAB A 23a
 Inhaltsverzeichnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(24.10.2024; 19.12.2024)
+(19.12.2024; 10.04.2025)
 23a.1.0. Härtefallkommission
 23a.1.1. Erteilung einer Aufenthaltserlaubnis gem. Anordnung von SenInnSport
 23a.2.0. Einrichtung der Härtefallkommission (HFKV vom 01.09.2020) und Mitglieder
 23a.2.1. Verfahrensregelung
 23a.2.1.7. Verlängerung der Aufenthaltserlaubnis
 A.23a. Aufenthaltsgewährung in Härtefällen
-(24.10.2024; 19.12.2024)
+(19.12.2024; 10.04.2025)
 23a.1.0. Härtefallkommission
 Soweit in Einzelfällen um Auskunft zum Verfahren der Härtefallkommission (HFK) nach § 23a gebeten wird, so sind die Betroffenen entsprechend zu beraten. Flyer der Härtefallkommission
-23a. 1.0.1. Gibt die Härtefallkommission gegenüber der für Inneres zuständigen Senatsverwaltung. ein Ersuchen um Erteilung eines Aufenthaltstitels ab, kann dort über die Erteilung einer Aufenthaltserlaubnis unabhängig von den gesetzlichen Voraussetzungen entschieden werden.
+23a. 1.0.1. Gibt die Härtefallkommission gegenüber der für Inneres zuständigen Senatsverwaltung ein Ersuchen um Erteilung eines Aufenthaltstitels ab, kann dort über die Erteilung einer Aufenthaltserlaubnis unabhängig von den gesetzlichen Voraussetzungen entschieden werden.
 23a.1.1. Erteilung einer Aufenthaltserlaubnis gem. Anordnung von SenInnSport
 Eine Aufenthaltserlaubnis nach § 23a kann einem Ausländer auch abweichend von den im AufenthG vorgesehenen Erteilungs- und Verlängerungsvoraussetzungen sowie abweichend von den §§ 10 und 11 erteilt werden. Insbesondere kann also auch von den Erteilungsverboten gemäß § 10 Abs. 3 S. 2 oder § 11 Abs. 1 abgewichen werden. Ordnet die für Inneres zuständige Senatsverwaltung an, dass eine Aufenthaltserlaubnis gemäß § 23a zu erteilen ist, wird diese für drei Jahre erteilt, sofern sich nicht wie im Regelfall aus dem Anschreiben etwas anderes ergibt. Besteht ein Einreise- und Aufenthaltsverbot, z.B. nach § 11 Abs. 7, soll dieses nach § 11 Abs. 4 Satz 2 aufgehoben werden. Diese Aufhebung erfolgt grundsätzlich gebührenfrei (s. auch B.AufenthV.47).
 Entsprechend den Ausführungen in den Mitteilungen von der für Inneres zuständigen Senatsverwaltung über den Ausgang des Härtefallverfahrens ist vor Erteilung einer Aufenthaltserlaubnis im Regelfall sicherzustellen, dass sämtliche Rechtsbehelfe zurückgenommen worden sind. Weigert sich der/die Betroffene anhängige Rechtsbehelfe zurückzunehmen, wirkt die entsprechende Mitteilung von der für Inneres zuständigen Senatsverwaltung wie eine aufschiebende Bedingung. Das heißt, die Erteilung der Aufenthaltserlaubnis kann grundsätzlich unterbleiben, bis die Rechtsbehelfe zurückgenommen worden sind. Der Betroffene verbleibt jedoch in diesem Fall weiterhin in der HFK-Duldung nach § 60a Abs. 2 S. 3.
@@ -48,7 +48,7 @@ Tel.: 0179 4170751
 E-Mail: k.thiel@hfk-liga-berlin.de, s.aleksjuk@hfk-liga-berlin.de
 Hr. Tobias Jung / Stellv. Fr. Emily Barnickel
 Tel.: 01578 - 5957191 (Hr. Jung), 01578 - 5957027 (Fr. Barnickel)
-E-Mail: jung @fluechtlingsrat-berlin.de
+E-Mail: jung@fluechtlingsrat-berlin.de
 E-Mail: barnickel@fluechtlingsrat-berlin.de
 Fr. Magdalena Benavente / Stellv. Dr. Victoria Faison
 Tel. 69 53 60 31, Fax 6165-8756
@@ -67,17 +67,10 @@ In der Regel unzulässig ist der Antrag für eine Person,
 3. für die ein Rückführungstermin bereits konkret feststeht oder
 4. die sich in einem Asylverfahren befindet, für dessen Durchführung ein anderer Mitgliedstaat der Europäischen Union als die Bundesrepublik Deutschland aufgrund einer auf Art. 78 Absatz 2 Buchstabe e) des Vertrages über die Arbeitsweise der europäischen Union gestützten Verordnung zuständig ist.
 Kommt das LEA zu dem Ergebnis, dass zwingende oder regelmäßige Ausschlussgründe vorliegen, wird dies der für Inneres zuständigen Senatsverwaltung ohne Übersendung der Akte unverzüglich mitgeteilt. Befindet sich der Vorgang bereits im Rückführungsbereich (R 2 oder R 3) hat diese Mitteilung innerhalb von 72 Stunden nach Eingang der Aktenanforderung zu erfolgen.
-Die Entscheidung der Zulässigkeit eines Härtefallantrags obliegt der für Inneres zuständigen Senatsverwaltung. Etwaige in die Wege geleitete Rückführungsmaßnahmen werden in diesen Fällen nur ausdrücklich auf Weisung der Geschäftsstelle der Härtefallkommission storniert.
+Die Entscheidung der Zulässigkeit eines Härtefallantrags obliegt der für Inneres zuständigen Senatsverwaltung. Etwaige in die Wege geleitete Rückführungsmaßnahmen werden in diesen Fällen nur ausdrücklich auf Weisung der Geschäftsstelle der Härtefallkommission storniert. '
 Hinsichtlich des „feststehenden Rückführungstermins“ gilt folgendes:
 Ein Rückführungstermin steht konkret fest, sobald der Termin datumsmäßig bestimmt ist. Hingegen genügt es nicht, dass bereits ein Ersuchen an die Polizei gesandt wurde.
 Wurde ein Rückführungstermin konkret festgesetzt und geht an demselben Tag ein Antrag bei der Geschäftsstelle der Härtefallkommission ein, so sind die Anträge auf Weisung der für Inneres zuständigen Senatsverwaltung vom 12.04.2016 dennoch aus Billigkeitsgründen als zulässig zu erachten. Der Betroffene ist also so zu stellen, als ob ein Termin noch nicht feststünde. Genauso ist nach der genannten Weisung der für Inneres zuständigen Senatsverwaltung zu verfahren, wenn das LEA - im Regelfall per Fax oder elektronischer Post - von einem eingegangenen HFK-Antrag unterrichtet wird und der HFK-Geschäftsstelle nicht innerhalb von 72 Stunden mitgeteilt wird, dass ein Termin konkret feststeht. Es handelt sich also um eine von der Fachaufsicht festgesetzte echte Verschweigensfrist, die § 23 a Abs. 1 S. 3 aus Billigkeitsgründen unbeachtlich macht. Dabei kommen aber nur die Stunden von montags bis freitags zur Anrechnung. Maßgeblich ist der Eingang der Nachricht in der Ausländerbehörde und nicht beim zuständigen Rückführungssachbearbeiter. Bei gesetzlichen Feiertagen wird der Fristlauf gleichfalls gehemmt.
-Ein Berechnungsbeispiel:
-Ein Rückführungstermin wird am Donnerstag, den 10.12.2015 festgesetzt.
-Nunmehr erhält das Vorzimmer am Freitag, den 11.12.2015, um 18.30 Uhr die Mitteilung von einem eingegangenen Antrag bei der Geschäftsstelle der Härtefallkommission
-Jetzt läuft die 72-Stunden-Frist bis Freitag 00.00 Uhr (5,5 Stunden).
-Sodann wird der Fristlauf bis Sonntag 00.00 Uhr gehemmt.
-Die Frist endet somit am Mittwoch, dem 16.12.2015, um 18.30 Uhr.
-Liegt der Geschäftsstelle somit erst am Mittwoch um 18.31 Uhr eine Mitteilung des LEA vor, dass der Vorgang bereits am Donnerstag die Woche zuvor konkret festgesetzt wurde, so ist der Antrag bei der Härtefallkommission dennoch als zulässig zu erachten und wird das LEA angewiesen, die Rückführung abzubrechen.
 Das LEA wird von der Geschäftsstelle über die Zulässigkeit des Härtefallantrags informiert. Der Abschiebungstermin ist in diesen Fällen zu stornieren. Ein konkreter Termin der Rückführung wird den Mitgliedern der Kommission jedoch nicht bekannt gegeben, da dies gegen § 59 Abs. 1 Satz 8 und § 97a verstoßen würde.
 Etwaige direkt an das LEA gerichtete Einwendungen eines Mitglieds der HFK bleiben grundsätzlich unbeachtlich. Ein Abbruch der Maßnahme erfolgt regelmäßig nur auf ausdrückliche Weisung der für Inneres zuständigen Senatsverwaltung. Ist die Abschiebung auf Veranlassung von der für Inneres zuständigen Senatsverwaltung storniert, eine endgültige Entscheidung über die Zulässigkeit jedoch nicht getroffen worden, ist bis zu dieser Entscheidung eine PEB II auszustellen. Ansonsten ist nach Auffassung der Senatsverwaltung für Inneres und Sport ein ursprünglich wegen Feststehens eines Abschiebungstermins nach § 23a Abs.1 S.3 unzulässiger HFK-Antrag nach Scheitern der Abschiebung im Regelfall nachträglich als zulässiger Antrag zu werten. Ein Regel-Ausnahme-Fall liegt nach Weisung der Senatsverwaltung für Inneres und Sport vom 1.2.2018 vor
 - bei Sammelchartern, wenn bei Scheitern der Abschiebung die Betroffenen lediglich auf einen anderen schon feststehenden Termin auf der Liste verschoben werden, oder

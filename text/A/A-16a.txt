@@ -22,7 +22,7 @@ oder sonstigen ärztlichen Weiterbildung
 16a.4. Ausbildungswechsel vor Widerruf, Rücknahme oder Verkürzung
 A.16a. Berufsausbildung; berufliche Weiterbildung
 Änderungsdatum
-(FEG; 01.08.2024; FEWG; 23.01.2025)
+(FEG; 25.01.2025; FEWG; 17.03.2025; 31.03.2025)
 Zustimmungen für verschiedene ärztliche Weiterbildungen
 Zur anschließenden Erteilung einer AE zur Arbeitsplatzsuche für Fachkräfte nach erfolgreichem Abschluss der Ausbildung oder Aus- und Weiterbildung vgl. A.20.
 16a.1 Betriebliche Aus- und Weiterbildung
@@ -66,6 +66,7 @@ Merke: Da die Aufenthaltserlaubnis nach § 16a Abs. 1 S. 1 nur erteilt werden ka
 16a.2. Schulische Berufsausbildung
 16a.2.0. Allgemeines
 Mit Absatz 2 Satz 1 wird die Regelung zur schulischen Berufsausbildung, die vorwiegend in fachtheoretischer Form durchgeführt und bislang als Unterkategorie des Schulbesuchs in § 16b a.F., mit kleinen sprachlichen Anpassungen nunmehr als eigenständiger gesetzlicher Regelungssachverhalt ausgestaltet.
+Die Aufenthaltserlaubnis zur schulischen Berufsausbildung kann zusätzlich um 18 Monate erteilt werden, um auch hier einen nahtlosen Übergang in eine Erwerbstätigkeit zu ermöglichen – analog zur Regelung für die betriebliche Aus- und Weiterbildung (vgl. VAB A 16a.1.1).
 Eine Zustimmung der BA ist für die Erteilung einer AE nach § 16a Abs. 2 nicht erforderlich.
 Die Entscheidung liegt nicht im Ermessen der Behörde. Bei vorliegenden Erteilungsvoraussetzungen ist die Aufenthaltserlaubnis in der Regel zu erteilen. Nur bei besonderen Umständen im atypischen Einzelfall kann ein Abweichen von der Soll-Vorschrift begründet sein.
 16a.2.1. Schulische Berufsausbildung
@@ -81,7 +82,7 @@ Es gelten die allgemeinen Erteilungsvoraussetzungen des § 5. Hinsichtlich der L
 Entstehen dem Auszubildenden für die Schulausbildung Gebühren, so sind diese dem Lebensunterhalt hinzuzurechnen.
 Zur auflösenden Bedingung „Erlischt mit dem Bezug von Leistungen nach dem SGB II, XII oder AsylbLG, vgl. die Ausführungen zu § 2 Abs. 3.
 16a.2.1.1. Aufenthalt für Lehramts- und Rechtsreferendaren
-Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel – zweijährige Dauer des Vorbereitungsdienstes (Referendariat) eine AE nach § 16a Abs. 2. Der erfolgreiche Abschluss des Referendariats (2. Staatsexamen) ermöglicht die anschließende Erteilung einer AE zur Arbeitsplatzsuche gem. § 20 Abs. 3 Nr. 3 AufenthG.
+Ausländische Lehramts- und Rechtsreferendare erhalten für die – in der Regel – zweijährige Dauer des Vorbereitungsdienstes (Referendariat) eine AE nach § 16a Abs. 2. Der erfolgreiche Abschluss des Referendariats (2. Staatsexamen) ermöglicht die anschließende Erteilung einer AE zur Arbeitsplatzsuche gem. § 20 Abs. 1 Nr. 3 AufenthG.
 16a.2.2-3. frei
 16a.2.4.
 Die Regelungen des Abs. 1 S. 2 und 3 zum grundsätzlich eröffneten Zweckwechsel und zur in der Regel ausgeschlossenen Erteilung einer Niederlassungserlaubnis gelten entsprechend auch für die Fälle einer schulischen Berufsausbildung.

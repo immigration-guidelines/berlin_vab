@@ -10,7 +10,7 @@ Aufenthaltsunterbrechungen
 12b.2. Anrechnung früherer Aufenthalte im Inland bei Aufenthaltsunterbrechungen
 12b.3. Unterbrechungen der Rechtmäßigkeit des Aufenthalts
 Aufenthaltsunterbrechungen
-(01.01.2024, 25.06.2024, 27.06.2024 StARModG)
+(25.06.2024, 27.02.2025, 27.06.2024 StARModG)
 12b.1.1. Unterbrechungen des gewöhnlichen Aufenthalts
 Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu sechs Monaten im Ausland nicht unterbrochen. Auch mehrere Auslandsaufenthalte von jeweils bis zu sechs Monaten innerhalb der jeweils geforderten rechtmäßigen und gewöhnlichen Aufenthaltszeit sind grundsätzlich nicht als Unterbrechungen des rechtmäßigen gewöhnlichen Aufenthalts im Inland zu berücksichtigen (zum Beispiel Urlaubsreisen, Verwandtenbesuche, Erledigung von erbrechtlichen oder geschäftlichen Angelegenheiten).
 12b.1.2. Anrechnung von Zeiten im Ausland
@@ -26,8 +26,7 @@ Bei einer erforderlichen Aufenthaltsdauer von 5 Jahren bei einer Einbürgerung g
 Bei einer erforderlichen Aufenthaltsdauer von 3 Jahren bei einer Einbürgerung gemäß § 10 Abs. 3 darf die Aufenthaltsunterbrechung insgesamt nicht länger als 1,5 Jahre sein.
 12b.2. Anrechnung früherer Aufenthalte im Inland bei Aufenthaltsunterbrechungen
 In Einbürgerungsverfahren ist bei der Ermessensabwägung, inwieweit ein früherer rechtmäßiger Aufenthalt im Inland nach einer Unterbrechung des Aufenthalts anrechenbar ist, zu prüfen, ob dem früheren Inlandsaufenthalt trotz der Unterbrechung integrierende Wirkung zuerkannt werden kann.
-Das Ermessen ist grundsätzlich zu Gunsten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. eine Ausbildung/ ein Studium absolviert oder gearbeitet hat.
-Das Ermessen ist grundsätzlich zu Lasten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. öffentliche Leistungen nach dem SGB II, XII oder Bürgergeld bezogen hat oder aufgrund von Straffälligkeit verurteilt wurde.
+Das Ermessen ist grundsätzlich zu Gunsten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. eine Ausbildung (Schul- oder Berufsausbildung) / ein Studium absolviert oder gearbeitet hat. Das Ermessen ist grundsätzlich zu Lasten auszulegen, wenn der Einbürgerungsbewerber während des Voraufenthaltes bspw. öffentliche Leistungen nach dem SGB II, XII oder Bürgergeld bezogen hat oder aufgrund von Straffälligkeit verurteilt wurde.
 Eine Abwägung zur Anrechnung der Voraufenthaltszeiten erfolgt immer einzelfallbezogen.
 Bei Personen, denen nach § 37 AufenthG eine Aufenthaltserlaubnis erteilt worden ist, ist der gesamte rechtmäßige frühere Inlandsaufenthalt bis zur gesetzlichen Höchstdauer von drei Jahren anzurechnen.
 12b.3. Unterbrechungen der Rechtmäßigkeit des Aufenthalts

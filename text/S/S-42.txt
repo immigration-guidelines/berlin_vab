@@ -1,7 +1,7 @@
 VAB S.42.
 VAB S.42.
 Strafvorschrift
-(26.09.2024)
+(26.09.2024; 05.06.2025)
 Tathandlung ist das Vorbringen oder Benutzen von unrichtigen oder unvollständigen Angaben mit dem Ziel, für sich oder einen anderen eine Einbürgerung zu erlangen. Der Täter muss wissen, dass die Angaben unrichtig oder unvollständig sind oder dies zumindest billigend in Kauf nehmen. Die Handlung muss in der Absicht erfolgen, für sich oder einen anderen eine Einbürgerung zu erschleichen.
 Täter nach dieser Vorschrift kann nicht nur der Ausländer sein, der selber unrichtige oder unvollständige Angaben macht oder benutzt, um für sich eine Einbürgerung zu erschleichen, sondern auch derjenige, der falsche Angaben macht, um einem anderen eine Einbürgerung zu ermöglichen. Der Straftatbestand kann daher auch von deutschen Staatsangehörigen erfüllt werden.
 Beispiel: Der Ehegatte macht falsche Angaben über die angebliche eheliche Lebensgemeinschaft.
@@ -11,4 +11,4 @@ Merke: Das Verschweigen von für die Einbürgerung unbeachtlichen Verurteilung i
 Das bedeutet, dass eine Strafbarkeit nach § 42 nicht gegeben ist, wenn im Einbürgerungsverfahren unrichtige oder unvollständige Angaben über inländische Strafverurteilungen gemacht werden, die gemäß § 12a Abs. 1 S. 1 und S. 2 bei der Einbürgerung außer Betracht bleiben.
 Auch wenn die Bagatellgrenze nur geringfügig überschritten und im Ermessen eingebürgert werden kann (§ 12a Abs. 1 S. 4 StAG), ist keine Strafanzeige zu stellen.
 Wenn der Ausländer ein anhängiges Strafverfahren oder eine strafrechtliche Verurteilung im Ausland nicht im Einbürgerungsverfahren angegeben hat, ist grundsätzlich keine Anzeige zu erstatten, wenn durch das BAMF geprüft und festgestellt wurde, dass es sich um (politische) Tatvorwürfe handelt, die in Deutschland zu keinem Strafverfahren bzw. zu keiner Verurteilung führen würden.
-In allen anderen Fällen ist eine Strafanzeige zu erstatten und die Einbürgerung auszusetzen.
+In allen anderen Fällen ist eine Strafanzeige beim LKA 422 zu erstatten und die Einbürgerung auszusetzen.
