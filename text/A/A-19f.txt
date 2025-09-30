@@ -1,7 +1,7 @@
 VAB A 19f
 VAB A 19f
 Inhaltsverzeichnis
-A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f, 17, 18d, 18e, 18f, 18g und 19e (FEG; 14.03.2022; 18.11.2023; FEWG)
+A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f, 17, 18d, 18e, 18f, 18g und 19e (FEG; 18.11.2023; FEWG; 25.09.2025)
 19f.0.Allgemeines
 19f.1. Allgemeine Ausschlussgründe
 19f.2. Ausschlussgründe für die Erteilung der Blauen Karte EU
@@ -10,7 +10,7 @@ A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f,
 19f.5. Versagungsgründe bei kurzfristiger Mobilität von Studenten und Forschern
 A.19f. Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16d, 16f, 17,
 18d, 18e, 18f, 18g und 19e
-(FEG; 14.03.2022; 18.11.2023; FEWG)
+(FEG; 18.11.2023; FEWG; 25.09.2025)
 19f.0.Allgemeines
 § 19f ist besonders sorgfältig zu prüfen, da
 alle Absätze jeweils für unterschiedliche Titelgruppen Regelungen enthalten und
@@ -36,8 +36,11 @@ Gemäß Abs. 3 Nr. 2 ist die Titelerteilung ausgeschlossen, sofern in Deutschlan
 Abs. 3 S. 2 a.F. enthielt einen zusätzlichen Ablehnungsgrund allein für den Titel der Forschung (§ 18d). Dieser wurde ersatzlos gestrichen. Wie bisher haben Promovierende ein Wahlrecht zwischen den zwei in Betracht kommenden Aufenthaltstiteln: § 16b oder § 18d. Doktoranden, die an einer deutschen Hochschule
 eingeschrieben sind, um als Haupttätigkeit ein Vollzeitstudienprogramm zu absolvieren, das zu einem Doktorgrad führt, ist vorrangig eine Aufenthaltserlaubnis zum Studium zu erteilen. Umgekehrt kommt § 18d zur Anwendung, wenn keine Einschreibung an einer deutschen Hochschule erfolgt oder die Forschung nicht ausschließlich zum Zweck der Erstellung einer Dissertation durchgeführt wird. Letzteres wäre etwa der Fall, wenn die Dissertation im Rahmen eines Arbeitsvertrags erstellt wird. Soweit für die Durchführung des Promotionsvorhabens ein Arbeitsvertrag zwischen dem Doktoranden und einer deutschen Hochschule oder Forschungseinrichtung abgeschlossen wird, hat § 18d Vorrang gegenüber dem Aufenthalt zu Zwecken des Studiums nach § 16b.
 19f.4. Allgemeine Ausschlussgründe
-Auch Abs. 4 S. 1 enthält neben Abs. 1 ebenso wie Abs. 2 zusätzliche Ablehnungsgründe allerdings nur für die Titelgruppen der §§ 16b (Studium, hier allerdings umfänglich und damit anders als bei § 19f Abs. 1), 16e (studienbezogenes Praktikums EU), § 16f (anders als bei Abs. 1 bis 3 auch Sprachkurs und Schulbesuch), 17 (anders als bei Abs. 1 und 2 auch Ausbildungsplatzsuche und Studienbewerbung), 18d (Forschung), 18f (Aufenthaltserlaubnis für mobile Forscher) und 19e (Teilnahme am europäischen Freiwilligendienst).
-In Praxis dürfte die Ausländerbehörde allerdinge keine konkreten Kenntnisse über einen der Ablehnungsgründe haben. In den wenigen Fällen eines konkreten Anhaltspunktes für eine Versagung ist der Vorgang unverzüglich der Referatsleitung vorzulegen und ist das Ermessen grundsätzlich restriktiv auszuüben.
+19f.4.0. Auch Abs. 4 S. 1 enthält neben Abs. 1 ebenso wie Abs. 2 zusätzliche Ablehnungsgründe allerdings nur für die Titelgruppen der §§ 16b (Studium, hier allerdings umfänglich und damit anders als bei § 19f Abs. 1), 16e (studienbezogenes Praktikums EU), § 16f (anders als bei Abs. 1 bis 3 auch Sprachkurs und Schulbesuch), 17 (anders als bei Abs. 1 und 2 auch Ausbildungsplatzsuche und Studienbewerbung), 18d (Forschung), 18f (Aufenthaltserlaubnis für mobile Forscher) und 19e (Teilnahme am europäischen Freiwilligendienst).
+19f.4.1.-5. frei
+19f.4.6. Übersteigt die Studiengebühr bzw. der Semesterbeitrag das Doppelte des üblichen Satzes (vgl. A.2.3.5.) staatlicher Hochschulen, ist dies – sowohl an einer staatlichen Hochschule, an einer staatlich anerkannten Hochschule als auch an einer vergleichbaren Bildungseinrichtung – ein konkreter Anhaltspunkt dafür, dass der eigentliche Aufenthalt nicht dem Zweck des Vollzeitstudiums dient. Bei entsprechend hohen Studiengebühren ohne ausreichenden Finanzierungsnachweis besteht die widerlegliche Vermutung, dass zu deren Deckung und zu Lasten eines Vollzeitstudiums eine Teil- oder Vollzeitbeschäftigung aufgenommen wird (der zeitliche Anteil der Erwerbstätigkeit übersteigt in diesen Fällen den des Studiums auch außerhalb der vorlesungsfreien Zeit). Ein weiterer konkreter Anhaltspunkt eines zweckwidrigen Aufenthalts kann darin gesehen werden, wenn die (anteilige) Miete den BAföG-Förderungshöchstsatz (vgl. A.2.3.5.) des Betroffenen entsprechend erheblich übersteigt. Zur Widerlegung dieser Vermutung sind die gesicherte Finanzierung der Studiengebühren und der Mietkosten sowie der Studienfortschritt in geeigneter Weise nachzuweisen, vgl. Artikel 11 Absatz 1 Buchst. bund/oder d der Richtlinie 2016/801.
+Vor einer Ablehnung sind die Studienfortschritte wie die Einhaltung der Beschränkungen des § 16b Abs. 3 streng zu prüfen. Im Zweifelsfall ist vom Betroffenen nachzuweisen, dass der Hauptzweck tatsächlich dem Vollzeitstudium gewidmet ist. Der Betroffene kann den Nachweis neben entsprechenden Studienleistungen etwa durch Vorlage einer Verpflichtungserklärung oder die Darlegung hinreichender eigener Einkommens- und Vermögensverhältnisse, die die Kosten für Studiengebühr und Miete tragfähig erscheinen lassen, führen. Ist der Studienabschluss innerhalb von sechs Monaten zu erwarten, ist im Zweifel eine großzügige Prüfung vorzunehmen.
+Im Fall eines Teilzeitstudiums werden dieselben Maßstäbe im Rahmen der Ermessenserwägungen zugrunde gelegt.
 19f.5. Versagungsgründe bei kurzfristiger Mobilität von Studenten und Forschern
 § 19f Abs. 5 gibt der zuständigen Ausländerbehörde die Möglichkeit, die kurzfristige Mobilität für Studenten nach § 16c sowie für Forscher nach § 18e abzulehnen und kommt in Praxis schon auf Grund der engen Frist nicht zur Anwendung. Zwar lässt die Ablehnung den jeweiligen Aufenthaltstitel des anderen Mitgliedsstaats unberührt, jedoch wird der Ausländer im Hinblick auf seinen Aufenthalt im Bundesgebiet ausreisepflichtig (vgl. A.16c. und A.18e.).
 Die Möglichkeit der Ablehnung der kurzfristigen Mobilität soll den Ausländerbehörden nach dem Willen des Gesetzgebers Gelegenheit geben, nachträgliche Veränderungen der Sachlage zu berücksichtigen, die bei der Erteilung des Aufenthaltstitels durch den anderen Mitgliedstaat nicht berücksichtigt werden konnten.

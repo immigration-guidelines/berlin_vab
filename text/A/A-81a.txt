@@ -2,7 +2,7 @@ VAB A 81a
 VAB A 81a
 Inhaltsverzeichnis
 A.81a. Beschleunigtes Fachkräfteverfahren
-(BQFGModG; 25.11.2021; 18.11.2023; FEWG)
+(BQFGModG; 18.11.2023; FEWG; 28.08.2025)
 81a.0. Grundsätzliches
 81a.1.1.1. Sachliche und örtliche Zuständigkeit
 81a.1.1.2 Beginn und Ende des Verfahrens
@@ -19,7 +19,7 @@ A.81a. Beschleunigtes Fachkräfteverfahren
 81a.4.
 81a.5.
 A.81a. Beschleunigtes Fachkräfteverfahren
-(BQFGModG; 25.11.2021; 18.11.2023; FEWG)
+(BQFGModG; 18.11.2023; FEWG; 28.08.2025)
 81a.0. Grundsätzliches
 § 81a ist das Kernstück des Fachkräfteeinwanderungsgesetzes. Mit dem hier beschriebenen festgelegten Verfahren erhält der künftige Arbeitgeber im Zusammenspiel mit seiner künftigen Fachkraft und ggf. dessen nachzugswilligen Familienangehörigen die Möglichkeit, Verfahrensverzögerungen insbesondere beim Verfahren zur Anerkennung ausländischer Berufsqualifikationen sowie im Visumsverfahren zu umgehen, indem diese die Ausländerbehörde mit der Koordinierung der Verfahren beauftragen (vgl. zur Begründung vgl. Gesetzesentwurf BT/Drs. 19/8285, S. 108).
 Damit folgt der Gesetzgeber grundsätzlich dem auch im Land Berlin verfolgten Modell des Business Immigration Service (BIS) im Sinne einer „One-Stop-Agency“ als koordinierende Stelle. Für den zukünftigen Arbeitgeber ausländischer Fachkräfte werden hier alle Services der IHK, Berlin Partner, dem Bürgeramt und der Ausländerbehörde aus einer Hand angeboten. Das Inkrafttreten des Gesetzes wird deshalb zum Anlass genommen, diesen integrierten Ansatz auszubauen, indem auch die Bundesagentur für Arbeit sowie die Handwerkskammer als Partner mit eingebunden und der Service auch auf alle Fachkräfte, die den Katalog des § 81a Abs. 1 und 5 erfüllen, ausgeweitet werden.
@@ -60,7 +60,6 @@ A.81a.2.1.-7.frei
 81a.2.8. Zu den Folgen der Nichteinhaltung der Vereinbarung
 Sofern ein Arbeitgeber durch mangelnde Mitwirkung und Unzuverlässigkeit, wie zum Beispiel wiederholtes Einreichen unvollständiger Unterlagen, Nichteinhalten von Fristen oder durch falsche Angaben zum zukünftigen Einsatzort für erhebliche Verfahrensverschleppung und Mehraufwände sorgt, kann ein Verfahren durch den BIS vorzeitig schriftlich beendet werden und das Unternehmen von der Teilnahme am beschleunigten Verfahren für die Zukunft durch Kündigung des Rahmenvertrages ausgeschlossen werden.
 Gleiches gilt für Arbeitgeber, gegen die wegen illegaler Beschäftigung von Ausländern ohne erforderlichen Aufenthaltstitel ermittelt wird.
-</span></span></span></div>
 81a.3. Grundsätzliches zum Verfahren
 Wesentlich zum bisherigen Verfahren ist auch, dass mit Abschluss der auf Basis des Rahmenvertrages mit dem BIS abgeschlossene Einzelvereinbarungen im Sinne des § 81a für die verschiedenen im Verfahren beteiligten Stellen, auch wenn sie keine Partner des BIS sind, verbindliche Bearbeitungsfristen festgelegt sind, so für die Ausländerbehörde (Absatz 3 Nummern 3 und 6), für die für berufliche Anerkennung zuständigen Stellen (z. B. § 14a Abs. 3
 Berufsqualifikationsfeststellungsgesetz – Entscheidung 2 Monate nach Vorlage der vollständigen Unterlagen), für die Bundesagentur für Arbeit (§ 36 Absatz 2 Satz 2 BeschV) und für die Auslandsvertretungen (§ 31a AufenthV -Terminvergabe innerhalb von 3 Wochen nach Vorlage der Vorabzustimmung die Bescheidung drei Wochen nach Stellung des vollständigen Visumsantrags).
@@ -81,8 +80,7 @@ In Fällen, in denen ein beschleunigtes Fachkräfteverfahren beantragt wird, wä
 81a.3.1.5.
 Gemäß Nr. 81a.3.5 der Anwendungshinweise des BMI wird für die Übermittlung der Information an die Auslandsvertretung im Zuge der Digitalisierung des Visumverfahrens ein sicherer und effizienter Kommunikationskanal geschaffen werden. Bis dahin erfolgt die Information an die Auslandsvertretung regelmäßig per Telefax oder auf elektronischem Wege unter Beifügung der Kopie der Vorabzustimmung.
 81a.3.1.6.
-Am Ende des beschleunigten Fachkräfteverfahrens steht die Vorabzustimmung, die mittels des in AusReg hinterlegten Formulars auszustellen und per Telefax oder elektronischer Post an den Bevollmächtigten zu übersenden ist. Die Erteilung der Vorabzustimmung kann von der Ausländerbehörde seit dem 01.05.2021 über die
-AZR-Weboberfläche manuell gespeichert werden. Dies ist Verbunden mit der Möglichkeit, die Vorabzustimmung selbst und jeweils ein Scan der Urkunden und Zertifikate, die Grundlage für die Vorabzustimmung sind, hochgeladen werden, die dann den Auslandsvertretungen zum Download zur Verfügung stehen.
+Am Ende des beschleunigten Fachkräfteverfahrens steht die Vorabzustimmung, die mittels des in AusReg hinterlegten Formulars auszustellen und per Telefax oder elektronischer Post an den Bevollmächtigten zu übersenden ist. Die Erteilung der Vorabzustimmung kann von der Ausländerbehörde seit dem 01.05.2021 über die AZR-Weboberfläche manuell gespeichert werden. Dies ist Verbunden mit der Möglichkeit, die Vorabzustimmung selbst und jeweils ein Scan der Urkunden und Zertifikate, die Grundlage für die Vorabzustimmung sind, hochgeladen werden, die dann den Auslandsvertretungen zum Download zur Verfügung stehen.
 In dem Formular wird aufgezeigt, was von der ABH im beschleunigten Verfahren geprüft wurde. Andererseits wird darin auch klargestellt, dass die Vorabzustimmung vorbehaltlich der Echtheitsprüfung der vorgelegten Urkunden sowie des Ergebnisses aller im Visumverfahren vorzunehmenden Abfragen bzw. Sicherheitsüberprüfungen erfolgt und die abschließende Entscheidung über den von der Fachkraft zu stellenden Visumantrag also bei der Auslandsvertretung liegt. Entsprechend § 31a Abs. 1 AufenthV vergibt die Auslandsvertretung einen Termin zur Visumantragstellung innerhalb von drei Wochen nach Vorlage der Vorabzustimmung durch die Fachkraft. Den Visumantrag hat die Auslandvertretung dann in der Regel innerhalb von drei Wochen ab Stellung des vollständigen Visumantrags zu bescheiden.
 Bei der Vorabzustimmung handelt es sich wie oben ausgeführt nicht um einen anfechtbaren Verwaltungsakt, sondern um ein reines Verwaltungsinternum. Rechtsmittel sind daher nur gegen die Ablehnung des bei der Auslandsvertretung beantragten Visums gegeben.
 81a.3.2.
@@ -94,6 +92,6 @@ Die Prüfung der Echtheit von Geburts-, Heirats- und anderen Urkunden sowie der 
 Soweit für einen Familiennachzug Sprachkenntnisse erforderlich sind, ist es Aufgabe der Auslandsvertretungen, sich diese nach Maßgabe des Visumhandbuchs durch ein entsprechendes Sprachzertifikat nachweisen zu lassen (ggf. inkl. Prüfung der Echtheit des Nachweises). Auf das Erfordernis von Sprachkenntnissen für nachzugswillige Familienangehörige hat der BIS den Arbeitgeber im Rahmen der Beratungspflicht nach Abs. 3 Nr. 1 zu Beginn des Verfahrens hinzuweisen. 81a.5.
 Das Verfahren soll ausweislich der Gesetzesbegründung für alle sonstigen qualifizierten Beschäftigten gemäß § 2 Abs. 12b gelten. Dies sind insbesondere die folgenden Fallgruppen:
 Forscher (§ 18d),
-sonstige Beschäftigungen gemäß § 19c Abs. 1 i.V.m. den künftig insoweit relevanten Vorschriften in Teil 2 der BeschV ( §§ 3, 4, 5 und 8 BeschV)
+sonstige Beschäftigungen gemäß § 19c Abs. 1 i.V.m. (§§ 3, 4, 5 und 8 BeschV)
 IT-Spezialisten (§ 19c Abs. 2 i.V.m § 6 BeschV),
 Beschäftigung im begründeten Einzelfall bei Vorliegen eines öffentlichen Interesses (§ 19c Abs. 3, vgl. A.19c.3.), Beamte (§ 19c Abs. 4).

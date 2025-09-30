@@ -18,7 +18,7 @@ Entzug der deutschen Staatsangehörigkeit
 Welche Unterlagen werden benötigt?
 Gebühren
 Wiedergutmachungseinbürgerung
-(27.06.2024 StARModG; 25.06.2024; 21.11.2024)
+(27.06.2024 StARModG; 21.11.2024; 16.09.2025)
 15.0. Allgemeines
 Für Einbürgerungsanträge nach §15 von Personen, die im Ausland leben, ist das Bundesverwaltungsamt (BVA) zuständig. Auf der Webseite des BVA finden sich Antragsformulare (auf Deutsch und Englisch) sowie Merkblätter zu den Voraussetzungen sowie regelmäßig angeforderten Unterlagen. Einbürgerungsanträge in Berlin lebender Personen werden vom LEA bearbeitet.
 Begünstigt werden Personen, die im Zusammenhang mit nationalsozialistischen Verfolgungsmaßnahmen aus den in Artikel 116 Absatz 2 Satz 1 des Grundgesetzes aufgeführten Gründen die deutsche Staatsangehörigkeit nicht durch Entzug, sondern auf andere Weise verloren haben oder nie haben erwerben können und ihre Abkömmlinge.
@@ -60,15 +60,19 @@ Bis zur Wohnsitznahme in Deutschland und bis zur Geltendmachung des Wiedergutmac
 Ein staatsangehörigkeitsrechtlicher Widergutmachungsanspruch nach Art. 116 Abs. 1 Satz 2 GG kann im Wege eines Staatsangehörigkeitsfeststellungsverfahrens nach § 30 StAG geltend gemacht werden.
 Abkömmlinge
 Abkömmlinge im Sinne des Art. 116 Abs. 2 GG sind alle Nachkommen einer zwischen dem 30.01.1933 und 08.05.1945 ausgebürgerten Person.
-Als Abkömmlinge im staatsangehörigkeitsrechtlichen Sinne zählen (durch den Beschluss des Bundesverfassungsgerichts vom 20.05.2020 – 2 BvR 2628/18 –) auch
-vor dem 01.04.1953 geborene eheliche Kinder zwangsausgebürgerter deutscher Mütter und ausländischer Väter, vor dem 01.07.1993 geborene nichteheliche Kinder zwangsausgebürgerter deutscher Väter und ausländischer Mütter.
+Als Abkömmlinge im staatsangehörigkeitsrechtlichen Sinne zählen auch
+vor dem 01.04.1953 geborene eheliche Kinder zwangsausgebürgerter deutscher Mütter und ausländischer Väter, vor dem 01.07.1993 geborene nichteheliche Kinder zwangsausgebürgerter deutscher Väter und ausländischer Mütter, als Minderjährige angenommene Adoptivkinder von Wiedergutmachungsberechtigten.
+Dies gilt auch für vor dem 1. Januar 1977 durchgeführte Minderjährigenadoptionen nach ausländischem (Sach-)Recht, sofern diese nach den deutschen Gesetzen wirksam sind.
+Eine nach dem 1. Januar 1977 durchgeführte Minderjährigenadoption setzt für den Wiedergutmachungsanspruch voraus, dass diese einer Volladoption nach deutschem Recht entspricht.
+Beachte: Als volljährig angenommene Adoptivkinder fallen nicht unter den Abkömmlingsbegriff.
 Entzug der deutschen Staatsangehörigkeit
 Die Staatsangehörigkeit ist insbesondere dann aus politischen, rassischen oder religiösen Gründen entzogen worden, wenn sie entweder nach
 § 2 der 11. Verordnung zum Reichsbürgergesetz vom 25.11.1941 automatisch verloren ging (dies traf auf alle deutschen Staatsangehörigen, die als Juden verfolgt wurden zu, die zum Zeitpunkt des Inkrafttretens der Verordnung oder später ihren gewöhnlichen Aufenthalt im Ausland hatten)
 oder
 nach dem Gesetz über den Widerruf von Einbürgerungen und die Aberkennung der deutschen Staatsangehörigkeit vom 14.07.1933 im Einzelfall entzogen wurde. Die Aberkennung der deutschen Staatsangehörigkeit im Einzelfall wurde im Reichsanzeiger veröffentlicht.
 Welche Unterlagen werden benötigt?
-Stets beizufügen ist ein aktueller Reisepass oder Personalausweis (Seiten mit Passbild und Personalangaben). Zum Nachweis der Voraussetzungen sind folgende Unterlagen erforderlich:
+Stets beizufügen ist ein aktueller Reisepass oder Personalausweis (Seiten mit Passbild und Personalangaben).
+Zum Nachweis der Voraussetzungen sind folgende Unterlagen erforderlich:
 Unterlagen über Abstammung und Personenstand
 Geburtsurkunde bzw. Abstammungsurkunde der antragstellenden Person
 Heiratsurkunde der Eltern der antragstellenden Person

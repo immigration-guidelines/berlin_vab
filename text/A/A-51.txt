@@ -2,7 +2,7 @@ VAB A 51
 VAB A 51
 Inhaltsverzeichnis
 A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschränkungen
-(RiLiUmsG 2017, 18.08.2022; 04.07.2024) Anlage zu 51.7.
+(RiLiUmsG 2017, 04.07.2024; 25.09.2025) Anlage zu 51.7.
 51.1. Fälle des Erlöschens des Aufenthaltstitels
 51.1.2. Insbesondere Widerruf und Rücknahme
 51.1.6. Insbesondere Auslandsaufenthalt zum Zwecke der Ausbildung
@@ -22,7 +22,7 @@ A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschrän
 51.10. Erlöschen der Blauen Karte EU und der NE in bestimmten Fällen
 A.51. Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von
 Beschränkungen
-(RiLiUmsG 2017, 18.08.2022; 04.07.2024) Anlage zu 51.7.
+(RiLiUmsG 2017, 04.07.2024; 25.09.2025) Anlage zu 51.7.
 51.1. Fälle des Erlöschens des Aufenthaltstitels
 In den Fällen, in denen Anträge auf Erteilung oder Verlängerung eines Titels die Rechtmäßigkeit des Aufenthaltes fingieren bzw. fingiert haben, kommt im Falle der Ausreise des Ausländers § 51 Abs. 1 Nr. 6 und 7 analog zur Anwendung. Der Betroffene kann nicht besser gestellt werden, als wenn ihm der begehrte Titel vor der Ausreise erteilt worden ist. Vereinzelt überträgt die Infostelle - ebenso wie die Bürgerämter - Aufenthaltstitel in neu ausgestellte Pässe, obwohl der Titel zwischenzeitlich nach § 51 Abs. 1 erloschen ist. Es ist davon auszugehen, dass es sich bei der Übertragung nicht um einen Verwaltungsakt handelt. Es fehlt insofern an einer Regelung im Sinne des § 35 VwVfG. Mit der Paßübertragung soll für den Ausländer weder aus behördlicher noch aus Sicht des Betroffenen sein (klärungsbedürftiger) Aufenthaltsstatus verbindlich festgestellt werden. Vielmehr wird bei der Übertragung davon ausgegangen, dass kein Bedürfnis für eine Regelung besteht. Somit kann das in den neuen Pass eingebrachte Dokument in jedem Fall ungültig gestempelt werden, ohne dass es hierfür einer Rücknahme gem. § 48 VwVfG bedarf. Dies gilt unabhängig davon wo und durch wen die Übertragung erfolgte.
 Zum Verzicht auf gültige Aufenthaltstitel im Rahmen von Programmen zur Förderung der freiwilligen Rückkehr vgl.
@@ -62,7 +62,7 @@ Der Flexibilität und Mobilität von Ausländern bezüglich Beruf und Ausbildung
 Eine Ausreise im Sinne der Erlöschenstatbestände nach § 51 Abs. 1 Nr. 6 und 7 AufenthG liegt nicht vor, wenn der Ausländer an ein Drittland ausgeliefert wird (Urteil des Bundesverwaltungsgerichts in Leipzig vom 17.01.2012). Abweichend von der sechsmonatigen Frist gilt eine zwölfmonatige Frist in folgenden Fällen (vgl. A.51.10.): Inhaber einer Blauen Karte und deren Familienangehörige im Besitz einer AE nach dem sechsten Abschnitt sowie Inhaber einer Niederlassungserlaubnis, die sich mindestens 15 Jahre rechtmäßig im Bundesgebiet aufgehalten haben und deren Ehegatten, die im Besitz einer Niederlassungserlaubnis sind, wenn sie das 60. Lebensjahr vollendet haben. Die zwölfmonatige Frist gilt für diejenigen Fälle, in denen die o.g. Aufenthaltstitel am 01.08.2015 (Zeitpunkt des Inkrafttretens des Gesetzes zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung) noch nicht erloschen sind. Merke: Das Erlöschen eines Aufenthaltstitels gemäß § 51 kann mangels Rechtsgrundlage nicht durch Verwaltungsakt festgestellt werden. Begehrt der Ausländer ein Schriftstück, in welchem das Erlöschen des Aufenthaltstitels niedergelegt wird, ist das Erlöschen im Rahmen anderer Verfügungen – wie etwa der Ausreiseaufforderung, der Ablehnung oder (Neu-) Erteilung eines Titels – zu prüfen und darzulegen (vgl. VG Hannover, Urteil vom 28. September 2010, 12 A 327/09, juris, Rn. 19).
 Ein Feststellungsbescheid mit dem Inhalt, dass der Aufenthaltstitel erloschen ist, ist demgegenüber nicht zu erlassen.
 51.1.8. Erlöschen bei Asylantrag
-Der Erlöschenstatbestand wird nur durch die Stellung eines Asylantrags ausgelöst und greift nicht bei der Stellung eines Folgeantrags, unabhängig davon, ob der Folgeantrag in ein weiteres Asylverfahren mündet. Vor Annahme des Erlöschens einer Aufenthaltserlaubnis nach § 25 Abs. 3 ist zu prüfen, ob ein Fall des § 104 Abs. 9 vorliegt.
+Der Erlöschenstatbestand wird nur durch die Stellung eines Asylantrags ausgelöst und greift nicht bei der Stellung eines Folgeantrags, unabhängig davon, ob der Folgeantrag in ein weiteres Asylverfahren mündet..
 51.1a. Besonderheiten für Inhaber einer ICT-Karte, Studenten und Forscher
 Die Regelung stellt sicher, dass die ICT-Karte nicht erlischt, wenn der Ausländer von der Möglichkeit Gebrauch macht, einen Teil des unternehmensinternen Transfers (auch für mehr als 90 Tage) in einem anderen EU-Mitgliedstaat durchzuführen, selbst wenn es dabei nicht um einen vorübergehenden Grund im Sinne des § 51 Absatz 1 Nummer 6 handeln sollte. Das Gleiche gilt für die Aufenthaltserlaubnisse von Forschern und Studenten, die von den in der REST-Richtlinie vorgesehenen Mobilitäts-Möglichkeiten Gebrauch machen.
 51.2. Besonderheiten für die Niederlassungserlaubnis

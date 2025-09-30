@@ -1,7 +1,7 @@
 VAB A 82
 VAB A 82
 A.82. Mitwirkung des Ausländers
-(FEG; FEWG)
+(FEG; FEWG; 04.08.2025; 28.08.2025)
 82.0. Aus § 82 Abs. 1 ergibt sich eine echte Rechtspflicht des Ausländers zur Mitwirkung. Abs. 3 enthält eine ganze Reihe Hinweispflichten für die Ausländerbehörden. Dazu wurde eine Reihe von Informationsblättern geschaffen, die den Referaten zur Verfügung gestellt wurden und deren Aushändigung jeweils aktenkundig zu machen ist.
 Die sich aus § 82 Abs. 4 ergebende Möglichkeit einer "Anordnung einer ärztlichen Untersuchung zur Feststellung der Reisefähigkeit" wird im Referat R 3 (Rückführung) konzentriert.
 82.1.1. bis 82.1.2. frei
@@ -36,8 +36,7 @@ Minderjährige Ausländer können verpflichtet werden, in der Vertretung ihres (
 Bei nicht handlungsfähigen Ausländern obliegt es dem gesetzlichen Vertreter, sein Kind, sein Mündel oder den Betreuten zur Erfüllung seiner ausländerrechtlichen Pflichten etwa aus §§ 48 Abs. 3 und § 49 Abs. 2 oder aus Vorspracheanordnungen nach § 82 Abs. 4 anzuhalten.
 Soweit Vorspracheanordnungen mit der Androhung und Festsetzung von Zwangsmitteln verbunden sind, sei darauf hingewiesen, dass die Androhung und Festsetzung der Zwangsmittel kein Verschulden des Pflichtigen erfordert. Zwangsmitteln kommt kein Strafcharakter zu, sie sind vielmehr Beugemittel zur Vermeidung künftiger objektiver Rechtsverletzungen (vgl. BVerwG, Urteil vom 16.12.2004 - 1 C 30/03).
 82.4.2. frei
-82.4.3. Mit dem Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht wurde für Vorführungen bei einer Botschaft oder ermächtigten Bediensteten bzw. zum Zwecke einer ärztlichen Untersuchung eine eigene Rechtsgrundlage für die Haft geschaffen (vgl. § 60 Abs. 6). Die Regelungen der §§ 40 - 42 BPolG finden daher in diesen Fällen keine Anwendung mehr.
-Gleichwohl sind noch weitere Fälle eines Erlasses einer Vorspracheanordnung bei der Behörde denkbar, so etwa zur Durchführung von Präventiv- oder Sicherheitsgesprächen. Befolgt der Ausländer eine solche vollziehbare Vorspracheanordnung unter Zwangsmittelandrohung nicht, kann er zwangsweise vorgeführt werden. Die Beantragung von Haft auf der Grundlage der §§ 82 Abs. 4 AufenthG und 40 - 42 des BPolG i.V.m. §§ 415ff. FamFG ist möglich.
+82.4.3. Mit dem Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht wurde für Vorführungen bei einer Botschaft oder ermächtigten Bediensteten bzw. zum Zwecke einer ärztlichen Untersuchung eine eigene Rechtsgrundlage für die Haft geschaffen (vgl. § 6 2 Abs. 6). § 62 Abs. 6 ist indes kein lex specialis zum Mitwirkungsgewahrsam nach § 82 Abs. 4, da sich beide Formen der Freiheitsentziehung nach Voraussetzungen und Rechtsfolge wesentlich unterscheiden, und ist parallel anwendbar.
 82.5.1. § 82 Abs. 5 ist die Rechtsgrundlage für die Verpflichtung eines Ausländers, ein aktuelles Lichtbild vorzulegen oder bei der Aufnahme eines solchen Bildes mitzuwirken sowie bei der Abnahme seiner Fingerabdrücke mitzuwirken, um Lichtbild und Fingerabdrücke in ein aufenthaltsrechtliches Dokument einbringen sowie für eine spätere Feststellung der Identität nutzen zu können.
 82.5.2. frei
 82.6.1. bis 82.6.2. Bei allen Aufenthalten zum Zweck der Ausbildung oder zum Zweck der Erwerbstätigkeit (§§ 16-21) besteht die Pflicht des Titelinhabers, der zuständigen Ausländerbehörde unverzüglich (innerhalb von zwei Wochen ab Kenntnis) mitzuteilen, wenn die Beschäftigung vorzeitig beendet wurde. Die Pflicht besteht nach dem Wortlaut des Gesetzes auch in den Fällen der Aufgabe einer freiberuflichen selbstständigen Tätigkeit oder eines Unternehmens.

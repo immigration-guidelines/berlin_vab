@@ -16,7 +16,7 @@ B.BeschV.15c. Haushaltshilfen
 B.BeschV.15d. Kurzzeitige kontingentierte Beschäftigung
 B.BeschV.10. - 15c. Vorübergehende Beschäftigung
 Änderungsdatum
-(FEG; ÄnderungsVO zur BeschV und AufenthV; 23.12.2022; 01.01.2024; FEWG; 01.01.2025)
+(FEG; ÄnderungsVO zur BeschV und AufenthV; 23.12.2022; 01.01.2024; FEWG; 01.01.2024, 31.07.2025)
 B.BeschV.10. Internationaler Personalaustausch, Auslandsprojekte
 frei
 B.BeschV.10a Unternehmensintern Transferierte Arbeitnehmer

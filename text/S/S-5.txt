@@ -3,7 +3,7 @@ VAB S.5.
 Inhaltsverzeichnis
 5. Erklärungsrecht zur staatsangehörigkeitsrechtlichen Wiedergutmachung
 5.1. Form der Erklärung; Grundvoraussetzungen; Erklärungsberechtigte
-5.1.1.1. Kinder eines deutschen Elternteils, die die deutsche Staatsangehörigkeit nicht durch Geburt erworben haben 896
+5.1.1.1. Kinder eines deutschen Elternteils, die die deutsche Staatsangehörigkeit nicht durch Geburt erworben haben 900
 5.1.1.2. Kinder einer Mutter, die vor der Kindesgeburt die deutsche Staatsangehörigkeit durch Eheschließung mit einem Ausländer verloren hat
 5.1.1.3. Kinder, die ihre durch Geburt erworbene deutsche Staatsangehörigkeit durch Legitimation von einem Ausländer verloren haben
 5.1.1.4. Abkömmlinge
@@ -17,7 +17,7 @@ Inhaltsverzeichnis
 5.3. Befristung des Erklärungserwerbes auf zehn Jahre
 5.4. Ausstellung eines Nachweises über den Erklärungserwerb in Form einer Urkunde
 5. Erklärungsrecht zur staatsangehörigkeitsrechtlichen Wiedergutmachung
-(27.06.2024 StARModG; 16.07.2024; 21.11.2024)
+(27.06.2024 StARModG; 21.11.2024; 04.09.2025)
 Durch das Erklärungsrecht wird für nach dem Inkrafttreten des GG geborene Personen die aufgrund geschlechterdiskriminierender Vorschriften vom Geburtserwerb der deutschen Staatsangehörigkeit ausgeschlossen waren oder die deutsche Staatsangehörigkeit aufgrund derartiger Vorschriften verloren und diese bisher nicht anderweitig erworben haben, die Möglichkeit eröffnet, die deutsche Staatsangehörigkeit durch eine auf ihren Erwerb gerichtete Erklärung zu erhalten.
 Der Erwerb der deutschen Staatsangehörigkeit durch Erklärung ist nach S.38.3.4. gebührenfrei.
 Zur Wiedergutmachungseinbürgerung vgl. S.15.
@@ -29,6 +29,7 @@ Ob die bisherige Staatsangehörigkeit mit Zugang der wirksamen Erklärung verlor
 5.1.1.3. Kinder, die ihre durch Geburt erworbene deutsche Staatsangehörigkeit durch Legitimation von einem Ausländer verloren haben Erklärungsberechtigt sind die nichtehelichen Kinder, die ihre durch Geburt über ihre Mutter erworbene deutsche Staatsangehörigkeit durch eine von einem Ausländer bewirkte und nach den deutschen Gesetzen wirksame Legitimation vor dem 1. April 1953 nach § 17 Nummer 5 RuStAG a.F. verloren haben.
 5.1.1.4. Abkömmlinge
 Erklärungsberechtigt sind die Abkömmlinge der unter den S.5.1.1.1. bis S.5.1.1.3. aufgeführten Kinder, die im Fall verfassungskonformer Abstammungsregelungen die deutsche Staatsangehörigkeit ohne weiteres durch Geburt erworben hätten.
+Abkömmlinge im Sinne des § 5 sind auch ab Inkrafttreten des § 6 (Ru)StAG (a.F.) am 1. Januar 1977 - auch nach ausländischem (Sach-)Recht - als Minderjährige angenommene Adoptivkinder der unter S.5.1.1.1. bis S.5.1.1.3. aufgeführten Personen, wenn eine Minderjährigen-Adoption erfolgt ist, die nach den deutschen Gesetzen wirksam ist. Eine Minderjährigen-Adoption nach ausländischem (Sach-)Recht setzt aber für die Erklärungsberechtigung nach § 5 voraus, dass sie einer Volladoption nach deutschem Recht entspricht. Als Volljährige Angenommene fallen indes nicht unter den Abkömmlingsbegriff.
 5.1.1. 1. Handlungsfähigkeit, gesetzliche Vertretung
 Fähig zur Vornahme der Antragstellung und der sonstigen Verfahrenshandlungen im Einbürgerungsverfahren ist, wer das
 16. Lebensjahr vollendet hat, sofern er nicht nach Maßgabe des BGB geschäftsunfähig oder im Falle seiner Volljährigkeit in dieser Angelegenheit zu betreuen und einem Einwilligungsvorbehalt zu unterstellen wäre.

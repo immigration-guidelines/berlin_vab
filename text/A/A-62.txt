@@ -19,7 +19,7 @@ A.62. Abschiebungshaft
 62.S.1. Berichts- und Meldepflichten; Statistik
 62.S.2. Impfprophylaxe für Ausreisepflichtige
 A.62. Abschiebungshaft
-(22.08.2019; 27.02.2024; ChARG; RückführungsVG)
+(27.02.2024; ChARG; RückführungsVG; 28.08.2025)
 62.0. Allgemeine Verfahrenshinweise
 Bei der Abschiebungshaft ist zu berücksichtigen, dass das aus Artikel 2 Abs. 2 Satz 2 GG abzuleitende Beschleunigungsgebot dazu verpflichtet, die Abschiebung eines in Abschiebungshaft befindlichen Ausländers mit größtmöglicher Beschleunigung zu betreiben.
 Zum Verfahren bei Geltendmachung von zielstaatsbezogenenen Abschiebungshindernissen aus Haft vgl. Ausführungen zu § 60 Abs. 7 bzw. § 72 Abs. 2. Zur Problematik von Anträgen auf Erteilung eines Titels aus Haft vgl. Ausführungen zu § 81 Abs. 4.
@@ -52,8 +52,7 @@ Dies gilt nicht in den Fällen, in denen sich die Betroffenen bereits mehrfach d
 Trägt eine Betroffene vor, sie sei schwanger oder habe ihr Kind verloren und macht dies nicht weiter glaubhaft, ist dies sowie gegebenenfalls die Haftfähigkeit durch den polizeiärztlichen Dienst oder eine sonstige dafür geeignete medizinische Einrichtung festzustellen.
 Die Beantragung von Vorabhaft bleibt von den vorstehenden Regelungen unberührt, sofern sie ausschließlich der rechtlichen Absicherung einer für denselben Tag beabsichtigten Direktabschiebung dient und bei der eine Freiheitsentziehung unvermeidlich ist. Einer telefonischen Entscheidung von der für Inneres zuständigen Senatsverwaltung im Vorfeld der Beantragung von Vorabhaft bedarf es in diesen Fällen nicht.
 62. 3.1.0.3. Keine Trennungen von Eltern und Kindern vor Vollendung des 18. Lebensjahres
-Treffen Polizeibeamte im Rahmen von Kontrollen vollziehbar ausreisepflichtige Familien mit Kindern an und wird der telefonische Auskunftsdienst des Abschiebungsbereichs in die Entscheidung über die Einlieferung miteinbezogen, ist durch diesen die Einlieferung für R 3 abzulehnen bzw. die Entlassung der festgenommenen Personen zu
-verfügen. Eine derartige Trennung von Familien und eine Haftantragstellung für einzelne Familienmitglieder erfolgt grundsätzlich nicht.
+Treffen Polizeibeamte im Rahmen von Kontrollen vollziehbar ausreisepflichtige Familien mit Kindern an und wird der telefonische Auskunftsdienst des Abschiebungsbereichs in die Entscheidung über die Einlieferung miteinbezogen, ist durch diesen die Einlieferung für R 3 abzulehnen bzw. die Entlassung der festgenommenen Personen zu verfügen. Eine derartige Trennung von Familien und eine Haftantragstellung für einzelne Familienmitglieder erfolgt grundsätzlich nicht.
 62. 3.1. 0.4. Hafthöchstdauer in bestimmten Fällen
 Zu beachten ist darüber hinaus, dass die Hafthöchstdauer für Schwangere außerhalb der Duldungsfristen auf drei Monate begrenzt wird. Diese Regelung gilt auch für Personen, die nur mit Zustimmung der für Inneres zuständigen Senatsverwaltung im Ausnahmefall in Haft genommen werden dürfen (siehe oben unter 62.3.1.0.2.).
 Diese Hafthöchstdauer gilt grundsätzlich im Falle der Erstinhaftierung eines Ausländers, der zu dem hiervon begünstigten Personenkreis zählt. Eine Entlassung nach Erreichen der Dreimonatsfrist hat daher ohne Ansehen des Verhaltens des Betroffenen zu erfolgen, also auch in dem Fall, in dem der Ausländer mit seinem Verhalten seine Abschiebung beharrlich verhindert. Ausgenommen von dieser Regelung sind jedoch aufenthaltsrechtliche Gefährder bzw.
@@ -77,9 +76,9 @@ Laut Gesetzesbegründung liegen der Regelung beispielhaft vier Fallkonstellation
 Auch in der zweiten und dritten Fallkonstellation einer Vorsprache bei der Ausländerbehörde wird wie bisher eine vorläufige Festnahme durch die Polizei durchgeführt.
 Rechtsgrundlage für die vorläufige Festnahme eines Ausländers, der bei der Begehung von Straftaten oder Ordnungswidrigkeiten festgestellt wird, und mithin für die vorläufige Festnahme im Vorfeld der Vorbereitungshaft im Sinne von § 62 Abs. 2 ist weiterhin § 30 Abs. 1 Nr. 2 ASOG.
 62.6. Mitwirkungshaft
-Die Vorschrift greift die Möglichkeit des Artikels 15 Absatz 1 Buchstabe b der Rückführungsrichtlinie auf, Drittstaatsangehörige, die die Vorbereitung der Rückkehr oder das Abschiebungsverfahren umgehen oder behindern, für maximal 14 Tage in Haft zu nehmen. Die Vorschrift betrifft den Zeitabschnitt vor einer möglichen Sicherungshaft nach § 62 Abs. 3.
+Die Vorschrift greift die Möglichkeit des Artikels 15 Absatz 1 Buchstabe b der Rückführungsrichtlinie auf, Drittstaatsangehörige, die die Vorbereitung der Rückkehr oder das Abschiebungsverfahren umgehen oder behindern, für maximal 14 Tage in Haft zu nehmen. Die Vorschrift betrifft den Zeitabschnitt vor einer möglichen Sicherungshaft nach § 6 2 Abs. 3.
 Die Mitwirkungshaft ist nur zulässig, um Mitwirkungspflichten sicherzustellen, deren Erfüllung aufgrund des bisherigen Verhaltens des Ausländers nicht sichergestellt ist. Eine Inhaftnahme für andere Zwecke, beispielsweise als Sanktion, ist nicht zulässig. Auch muss eine hinreichende Aussicht auf Abschiebung bestehen und der Zweck der Haft erreichbar sein. Andernfalls wäre eine Inhaftnahme unverhältnismäßig und daher unzulässig.
-Voraussetzung für die Inhaftnahme ist, dass der Ausländer unentschuldigt einer vorangegangenen Anordnung zur Vorsprache nicht gefolgt ist und über die Folgen eines unentschuldigten Nichterscheinens belehrt wurde. Da es sich sowohl bei Untersuchungsterminen beim Polizeiärztlichen Dienst als auch bei Botschaftsvorführungen bzw. Vorführungen bei ermächtigten Bediensteten des Staates, dessen Staatsangehörigkeit der Ausländer vermutlich besitzt, um geplante Maßnahmen handelt, ist in diesen Fällen grundsätzlich immer eine Vorabhaftantragstellung geboten.
+Voraussetzung für die Inhaftnahme ist, dass der Ausländer unentschuldigt einer vorangegangenen Anordnung zur Vorsprache nicht gefolgt ist und über die Folgen eines unentschuldigten Nichterscheinens belehrt wurde.
 62.S.1. Berichts- und Meldepflichten; Statistik
 Die Senatsverwaltung für Inneres und Sport ist über besondere Vorkommnisse in Abschiebungshaft unverzüglich zu unterrichten.
 62.S.2. Impfprophylaxe für Ausreisepflichtige
