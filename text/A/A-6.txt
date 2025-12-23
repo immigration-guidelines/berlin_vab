@@ -130,7 +130,7 @@ Die Visawarndatei (VWD) dient in erster Linie den Visumbehörden zur Vermeidung 
 in einem einschlägigen Zusammenhang (§§ 95 – 97 AufenthG, §§ 10, 11 Schwarzarbeitsbekämpfungsgesetz, §§ 232, 233, 233a, 236 Abs. 2 S. 3 StGB, § 30a Abs. 1 oder 2 BTMG) entweder aufgrund von strafrechtlichen Verurteilungen (§ 2 Abs. 1 Nr. 1 VWDG) oder
 durch Verstöße im Visumverfahren als Antragsteller oder Einlader (§ 2 Abs. 1 Nr. 2 und 3 VWDG) auffällig geworden sind.
 Wurden die falschen Angaben von Einladern, Verpflichtungsgebern oder sonstigen Referenzpersonen für eine Organisation gemacht, erfolgt die Eintragung von Warndaten auch für die Organisation.
-Daneben kann die Speicherung von Warndaten einer Person oder Organisation auch freiwillig erfolgen, wenn unter ihrem Namen unbefugt Einladungen oder Verpflichtungserklärungen (VE) abgegeben worden sind oder die Person oder Organisation dies befürchtet. Gleiches gilt, wenn eine Person oder Organisation eine Einladung oder Verpflichtungserklärung widerrufen hat (§ 2 Abs. 2 WDG). Entsprechende an die ABH gerichtete Anträge auf freiwillige Speicherung sind IV G 2 zuzuleiten.
+Daneben kann die Speicherung von Warndaten einer Person oder Organisation auch freiwillig erfolgen, wenn unter ihrem Namen unbefugt Einladungen oder Verpflichtungserklärungen (VE) abgegeben worden sind oder die Person oder Organisation dies befürchtet. Gleiches gilt, wenn eine Person oder Organisation eine Einladung oder Verpflichtungserklärung widerrufen hat (§ 2 Abs. 2 WDG). Entsprechende an die ABH gerichtete Anträge auf freiwillige Speicherung sind G 2 zuzuleiten.
 2. Nutzende Stellen
 Zu den übermittlungspflichtigen Behörden (Datenübermittlung an die VWD) zählen:
 Auslandsvertretungen

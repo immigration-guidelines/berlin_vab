@@ -37,7 +37,7 @@ Beschäftigung für Studienbewerber
 16b.7. Fortsetzung des Studiums für international Schutzberechtigte
 A.16b. Studium
 Änderungsdatum
-(FEG; 01.03.2024, 01.08.2024; FEWG)
+(FEG; 01.08.2024; FEWG; 18.12.2025)
 16b.0. Allgemeines
 Eine Zustimmung der BA zur Erteilung einer AE zum Studium ist nicht erforderlich.
 16b.0.1. örtliche Zuständigkeit
@@ -136,6 +136,9 @@ Eine Berechnung nach Nr. 2 ist während der Vorlesungszeit nur für eine Beschä
 In der vorlesungsfreien Zeit gibt es hingegen für die Beschäftigung keine zeitliche Begrenzung, so dass auch bei einer Vollzeitbeschäftigung nur 2,5 Arbeitstage je Kalenderwoche auf das Arbeitstagekonto angerechnet werden.
 Maßgeblich für die Berechnung der Jahresfrist ist das Kalenderjahr. Dies gilt im Übrigen auch in allen sonstigen Fällen und unabhängig davon, zu welchem Zeitpunkt im Jahr der ausländische Student zur Aufnahme des Studiums eingereist ist bzw. das Studium beendet. Es ist keine Anteilsberechnung erforderlich, sofern der Aufenthaltstitel nicht das gesamte Kalenderjahr abdeckt. Als Beschäftigungszeiten werden auch im Fall, dass die Beschäftigung nicht über einen längeren Zeitraum verteilt erfolgt, sondern zusammenhängend z.B. in den Semesterferien ausgeübt wird, nur die Arbeitstage oder halben Arbeitstage angerechnet, an denen tatsächlich gearbeitet wurde. Auf den Grund, warum nicht gearbeitet wurde, kommt es dabei nicht an. Deshalb werden auch bezahlte oder unbezahlte Urlaubs- und Krankheitstage nicht angerechnet. Über die Zeiten der erfolgten Beschäftigung ist durch den Arbeitgeber in geeigneter Weise ein Nachweis zu führen.
 Nachtschichten von maximal 8 Stunden gelten als ein Beschäftigungstag. Studenten, die von dieser kraft Gesetzes eröffneten Möglichkeit der Beschäftigung Gebrauch machen, gehören nicht dem regulären Arbeitsmarkt an. Es besteht kein Anspruch auf die Zustimmung für die Fortsetzung der Beschäftigung (§ 35 Abs. 5 BeschV).
+Um einen schnellen Übergang nach erfolgreich abgeschlossenem Hochschulstudium in die Beschäftigung zu ermöglichen, wird analog der Titelerteilung nach § 20 bereits der Titel nach § 16b mit folgender Nebenbestimmung versehen:
+„Nach erfolgreichem Abschluss: Erwerbstätigkeit erlaubt.“
+Die Zeit zwischen erfolgreichem Abschluss des Studiums und der Titelerteilung nach § 20 wird auf die Dauer des Titels zur Arbeitsplatzsuche nach § 20 angerechnet.
 Beschäftigung für Studienbewerber
 Siehe A.17.3
 16b.3.2.
@@ -202,7 +205,7 @@ In den Fällen des Satzes 1 Nummer 1a) und 1b) sind Absatz 1 Satz 2 bis 4 und di
 16b.5.1.1c. Teilzeitstudium
 Der Gesetzgeber lässt mit § 16b Abs. 5 S. 1 Nr. 1 c ausdrücklich ein Teilzeitstudium zu. Der gleichzeitig geforderte Hauptaufenthaltszweck des Studiums, der bislang ein Vollzeitstudium voraussetzte, ist entsprechend zu modifizieren. Die Erteilung und Verlängerung steht im pflichtgemäßen Ermessen der Behörde.
 Das Ermessen ist lediglich zu Gunsten des Teilzeitstudenten auszuüben, wenn der Umfang des Teilzeitstudiums mindestens 50% des Vollzeitstudienganges erreicht, es sich um ein Präsenzstudium handelt, neben der Zulassung durch seine Bildungseinrichtung zum Teilzeitstudium auch eine vom Fachberater unterschriebene individuelle Studienverlaufsplanung vorgelegt wird, und nicht zusätzlich ein weiteres Teilzeitstudium absolviert wird.
-Da ausländische Studierende, die sich mit einem Aufenthaltstitel gem. § 16b im Bundesgebiet aufhalten, keinem anderen Zweck als dem des Studiums nachgehen, ist b ei einem Teilzeitstudium zusätzlich zu prüfen, ob ein Grund für ein Teilzeitstudium vorliegt. Dies kann etwa der Fall sein:
+Da ausländische Studierende, die sich mit einem Aufenthaltstitel gem. § 16b im Bundesgebiet aufhalten, keinem anderen Zweck als dem des Studiums nachgehen, ist bei einem Teilzeitstudium zusätzlich zu prüfen, ob ein Grund für ein Teilzeitstudium vorliegt. Dies kann etwa der Fall sein:
 zur Pflege und Erziehung eines Kindes im Alter von bis zu 10 Jahren,
 zur Pflege pflegebedürftiger naher Angehöriger im Sinne des Pflegezeitgesetzes,
 wenn eine Behinderung ein Teilzeitstudium erforderlich macht,

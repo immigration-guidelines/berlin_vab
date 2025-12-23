@@ -2,7 +2,7 @@ VAB A 12a
 VAB A 12a
 Inhaltsverzeichnis
 A.12a. Wohnsitzregelung
-(G zur Entfristung des Integrationsgesetzes; Einmalzahlungs- und Sofortzuschlagsgesetz; 01.11.2024; 01.01.2025)
+(G zur Entfristung des Integrationsgesetzes; Einmalzahlungs- und Sofortzuschlagsgesetz; 01.01.2025; 20.10.2025)
 12a.0. Allgemeines
 12a.1.
 12a.1.2.
@@ -15,7 +15,7 @@ A.12a. Wohnsitzregelung
 12a.7.
 12a.10. Verhältnis zur Wohnsitzauflage nach § 12 Abs. 2
 A.12a. Wohnsitzregelung
-(G zur Entfristung des Integrationsgesetzes; Einmalzahlungs- und Sofortzuschlagsgesetz; 01.11.2024; 01.01.2025)
+(G zur Entfristung des Integrationsgesetzes; Einmalzahlungs- und Sofortzuschlagsgesetz; 01.01.2025; 20.10.2025)
 12a.0. Allgemeines
 Mit dem Ziel der Sicherstellung der Integration von Personen, deren Aufenthaltsrecht auf der Gewährung humanitären oder internationalen Schutzes beruht und einer gleichmäßigeren Verteilung dieser Personengruppe wurde mit dem Integrationsgesetz in § 12a eine neue Regelung zur Wohnsitzzuweisung geschaffen.
 Erfasst von § 12a sind mit Ausnahme von unbegleiteten minderjährigen Ausländern (vgl. dazu A.12a.1a.) alle Personen, die als Asylberechtigte, Flüchtlinge im Sinne des § 3 Abs. 1 AsylG oder subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG anerkannt worden sind sowie Personen, die eine Aufenthaltserlaubnis nach §§ 22, 23, 24 Abs. 1 oder 25 Abs. 3 erhalten haben (vgl. hierzu § 12 a Abs. 7 sowie A.12a.7.).
@@ -36,7 +36,7 @@ Ein Beispiel: Nimmt die älteste Tochter einer 5- köpfigen Familie 17- jährig 
 Bei Satz 2 handelt es sich um eine gesetzliche Ausnahme von der gesetzlichen Verpflichtung des S. 1. Liegen die Voraussetzungen des S. 2 vor, ist eine Wohnsitzbeschränkung von Gesetzes wegen nicht aufzutragen. Eines gesonderten Antrags des Betroffenen bedarf es dabei nicht. Dies folgt klar aus dem Wortlaut der Vorschrift („Satz 1 findet keine Anwendung, wenn…“) und aus der Gesetzesbegründung, nach der der Gesetzgeber die Fälle des Satzes 2 zugleich von vorn herein aus dem Anwendungsbereich des § 12a ausgenommen wissen will (vgl. BT-Drucksache 18/8615, S. 45).
 In den folgenden Fällen (Aufzählung ist abschließend) liegen die Voraussetzungen des S. 2 vor:
 Aufnahme einer sozialversicherungspflichtigen Beschäftigung:
-Der Umfang der Beschäftigung muss mindestens 15 Wochenstunden betragen und ein Netto-Einkommen von derzeit mindestens 894 Euro pro Monat erzielt werden (Jahres durchschnittlicher bundesweiter Bedarf nach §§ 20, 22 SGB II für eine Einzelperson beruhend auf den Angaben der Bundesagentur für Arbeit). Jede Vereinbarung, die den Mindestlohn von 12, 82 € brutto unterschreitet, ist unwirksam (§ 3 MiLoG). Daher wird ein neuer Arbeitsvertrag gefordert, in dem mindestens der gesetzlich festgeschriebene Mindestlohn vereinbart wurde.
+Der Umfang der Beschäftigung muss mindestens 15 Wochenstunden betragen und ein Netto-Einkommen von derzeit mindestens 966 Euro pro Monat erzielt werden (Jahresdurchschnittlicher bundesweiter Bedarf nach §§ 20, 22 SGB II für eine Einzelperson beruhend auf den Angaben der Bundesagentur für Arbeit). Jede Vereinbarung, die den Mindestlohn von 12, 82 € brutto unterschreitet, ist unwirksam (§ 3 MiLoG). Daher wird ein neuer Arbeitsvertrag gefordert, in dem mindestens der gesetzlich festgeschriebene Mindestlohn vereinbart wurde.
 Beim Hauptzollamt wird eine Anzeige wegen des Verdachts des Verstoßes gegen das MiLoG unter Beifügung des Arbeitsvertrages erstattet (Hauptzollamt Berlin, Finanzkontrolle Schwarzarbeit, Coldizstr. 34 – 36, 12099 Berlin), wenn der Arbeitsvertrag zum Zeitpunkt des Vertragsschlusses unter dem gesetzlichen Mindestlohn lag oder liegt.
 Beachte: Zusätzlich genügt neben der sozialversicherungspflichtigen Beschäftigung im Sinne des Abs. 1 S. 2 zur Aufhebung der Verpflichtung der Wohnsitzauflage auch ein den Lebensunterhalt überwiegend sicherndes Einkommen, vgl. § 12a Abs. 5 S. 1 Nr. 1a. Eine überwiegende Lebensunterhaltssicherung liegt regelmäßig dann vor, wenn durch die bereits ausgeübte Erwerbstätigkeit ein Einkommen von mindestens 51 % des zu berücksichtigenden Bedarfs dauerhaft erwirtschaftet wird. Bei der Prüfung der Anwendung der verpflichtenden Wohnsitzauflage nach Abs. 1 ist, daher auch immer zu prüfen, ob die Wohnsitzauflage bereits bei Ersterteilung über das Konstrukt der logischen Sekunde wieder aufgehoben werden könnte, da bereits zum Zeitpunkt der Ersterteilung eine überwiegende Sicherung des Lebensunterhaltes vorliegt. Ist dies der Fall, findet Abs. 1 keine Anwendung und die Aufenthaltserlaubnis ist direkt ohne Wohnsitzverpflichtung zu erteilen.
 Zweck dieser Regelung ist es, Personen, die an einem anderen als dem ihnen zugewiesenen Ort einer Beschäftigung nachgehen können, die geeignet ist, den Lebensunterhalt zumindest teilweise zu decken, einen Umzug an diesen Ort zu ermöglichen, da mit der Ausübung dieser Beschäftigung vermutet wird, dass diese zur Integration beiträgt. In Fällen, in denen der Ort der Beschäftigung vom beabsichtigten Wohnort abweicht, ist die Anfrage ausschließlich an die für den künftigen Wohnort zuständige Ausländerbehörde zu richten.

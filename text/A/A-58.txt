@@ -2,16 +2,16 @@ VAB A 58
 VAB A 58
 Inhaltsverzeichnis
 A.58. Abschiebung
-(2. ÄndGAusreisepflicht; 14.03.2024; FEWG; RückführungsVG; 23.01.2025; 05.09.2025)
+(2. ÄndGAusreisepflicht; 14.03.2024; FEWG; RückführungsVG; 05.09.2025; 18.12.2025)
 58.1.0 Allgemeine Verfahrenshinweise zum Abschiebungsvollzug
 58.1.0.1. Wahrung der Familieneinheit
 58.1.0.2. Abschiebungen aus Jugendhilfeeinrichtungen, Krankenhäusern, Schulen, Kindertagesstätten und aus dem Kirchenasyl
 58.1.0.3. Zustimmungsvorbehalt bei Rückführungen von Personen mit Pflegebedarf der Pflegegrade 4 oder 5 sowie bei Volljährigen mit einer Schwerbehinderung (Grad der Behinderung in Höhe von mindestens 50 und Merkzeichen aG und B oder H)
-58.1.0.4. Rückführungen in der Zeit vom 22.12.2024 bis 28.02.2025
+58.1.0.4. Rückführungen in der Zeit vom 22.12.2025 bis 28.02.2026
 58.2.1.3. Zur Richtlinie 2001/40/EG
 58.s.1. Rückübernahme- Migrations- und Transitabkommen
 A.58. Abschiebung
-(2. ÄndGAusreisepflicht; 14.03.2024; FEWG; RückführungsVG; 23.01.2025; 05.09.2025)
+(2. ÄndGAusreisepflicht; 14.03.2024; FEWG; RückführungsVG; 05.09.2025; 18.12.2025)
 58.1. § 58 Abs. 1 ordnet unter den dort genannten Voraussetzungen die Vollziehung der Abschiebung an (kein Ermessen).
 Die mit dem 2. RL-Umsetzungsgesetz vorgenommenen Ergänzung wonach ein Ausländer abzuschieben ist, wenn eine Ausreisefrist nicht gewährt wurde oder diese abgelaufen ist, dient der Klarstellung, dass der Lauf der Ausreisefrist die verwaltungsrechtliche Vollziehbarkeit der Ausreisepflicht nicht berührt. Ungeachtet dessen bleibt die Abschiebung weiterhin nur zulässig, wenn eine gewährte Ausreisefrist abgelaufen ist.
 Ein Ausländer, der sich unerlaubt im Bundesgebiet aufhält und nicht ausreisewillig ist oder dessen Abschiebung geboten ist, wird grundsätzlich in sein Herkunftsland abgeschoben. Dies gilt auch, wenn er einen noch gültigen Aufenthaltstitel eines anderen Schengen-Vertrags- oder EU-Mitgliedsstaates besitzt. Für Unionsbürger und deren Familienangehörige sowie Inhaber einer Erlaubnis zum Daueraufenthalt- EU oder Personen, die eine entsprechende Rechtsstellung in einem anderen Mitgliedstaat der EU innehaben und dort in dem anderen Mitgliedstaat weiterhin internationalen Schutz genießen, gelten besondere Regelungen (vgl.nachfolgend 58.1b.).
@@ -68,9 +68,9 @@ erfüllt sind.
 Ziel der Weisung ist die grundsätzliche Gewährleistung der Begleitung des (reisefähigen) Betroffenen durch ein Familienmitglied (wenn ein solches vorhanden ist). Auf das Ergebnis der Reisefähigkeitsfeststellung kommt es hierbei nicht an. Die Reisefähigkeit wird vielmehr vor-ausgesetzt.
 Merke: Ein bloßer Antrag auf Feststellung des Grads der Behinderung/Merkzeichen bzw. Atteste genügen nicht.
 Ist die Gültigkeit eines Schwerbehindertenausweises seit mehr als vier Wochen abgelaufen und besteht die schwere Behinderung offenkundig noch, ist der Ausländer unter Setzung einer angemessenen Frist aufzufordern, den Ausweis verlängern zu lassen und vorzulegen. Als angemessen wird eine Frist von vier Wochen angesehen, da entsprechend der Information auf dem Serviceportal Berlin von einer Bearbeitungszeit der dafür zuständigen Behörde von zwei bis drei Wochen auszugehen ist.
-58.1.0.4. Rückführungen in der Zeit vom 22.12.2024 bis 28.02.2025
-Auf Weisung der für Inneres und Sport zuständigen Senatsverwaltung vom 20.12.2024 sind in der Zeit vom 22.12.2024 bis
-28.02.2025 Abschiebungen dahingehend zu priorisieren, dass grundsätzlich lediglich
+58.1.0.4. Rückführungen in der Zeit vom 22.12.202 5 bis 28.02.202 6
+Auf Weisung der für Inneres und Sport zuständigen Senatsverwaltung vom 26.11.2025 sind in der Zeit vom 22.12.2025 bis
+28.02.2026 Abschiebungen dahingehend zu priorisieren, dass grundsätzlich lediglich
 Straftäter mit Verurteilungen wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat oberhalb der sogenannten Bagatellgrenze (mehr als 50 Tagessätze bzw. mehr als 90 Tagessätze wegen Straftaten, die nach dem AufenthG oder dem Asylgesetz nur von Ausländern begangen werden können),
 Personen, gegen die zum Zeitpunkt der Festlegung des Abschiebungstermins mindestens drei strafrechtliche Ermittlungsverfahren wegen Vergehen oder ein Ermittlungsverfahren wegen eines Verbrechens (Gem. § 12 Abs. 1 StGB sind Verbrechen rechts-widrige Taten, die im Mindestmaß mit Freiheitsstrafe von einem Jahr oder darüber bedroht sind.) eingeleitet worden sind ode r
 aufenthaltsrechtliche Gefährder im Sinne der für die AHEG BE geltenden Weisungslage

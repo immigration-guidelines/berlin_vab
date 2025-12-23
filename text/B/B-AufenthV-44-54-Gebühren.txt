@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 23.05.2025; ÄndVO PAuswV u.a.; 05.06.2025)
+(FreizügG/EU-AnpG; ÄndVO PAuswV u.a.; 05.06.2025; 23.10.2025)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -23,7 +23,7 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; 23.05.2025; ÄndVO PAuswV u.a.; 05.06.2025)
+(FreizügG/EU-AnpG; ÄndVO PAuswV u.a.; 05.06.2025; 23.10.2025)
 Merkblatt Gebühren (Stand: 12.01.2024)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
@@ -57,7 +57,7 @@ Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu 
 B.AufenthV.46. Gebühren für das Visum
 frei
 B.AufenthV.47. Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
-B.AufenthV.47.1. Für die von Amts wegen ergangene Befristung eines Einreise- und Aufenthaltsverbots nach § 11 AufenthG wird keine Gebühr erhoben, während für deren nachträgliche Aufhebung, Verkürzung oder Verlängerung 169 Euro zu erheben sind. Dies gilt allerdings nicht für die Fälle, in denen das Einreise- und Aufenthaltsverbot nach § 11 Abs. 4 Satz 2 AufenthG aufgehoben werden soll (z.B. Aufhebung eines nach § 11 Abs. 7 AufenthG durch das BAMF verfügten Einreise- und Aufenthaltsverbotes bei Erteilung einer AE nach § 23a AufenthG). Denn § 47 Abs. 1 Nr. 1a erlaubt die Erhebung einer Gebühr ausschließlich für die Fälle der Aufhebung oder Verkürzung nach § 11 Abs. 4 Satz 1 AufenthG. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 18 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Auch sofern gem. § 59 Abs. 7 auf einem Vordruck nach Anlage D11 oder D11a zu dokumentieren ist, dass ein Aufenthaltstitel für Zwecke der Aufnahme oder Ausübung einer Erwerbstätigkeit nach § 84 Abs. 2 Satz 2 AufenthG als fortbestehend gilt, ist von dem Gebührentatbestand des § 47 Abs. 1 Nr. 9 Gebrauch zu machen. Befreiungen sind nur bei Vorliegen der Voraussetzungen des § 52 f. möglich.
+B.AufenthV.47.1. Für die von Amts wegen ergangene Befristung eines Einreise- und Aufenthaltsverbots nach § 11 AufenthG wird keine Gebühr erhoben, während für deren nachträgliche Aufhebung, Verkürzung oder Verlängerung 169 Euro zu erheben sind. Dies gilt allerdings nicht für die Fälle, in denen das Einreise- und Aufenthaltsverbot nach § 11 Abs. 4 Satz 2 AufenthG aufgehoben werden soll (z.B. Aufhebung eines nach § 11 Abs. 7 AufenthG durch das BAMF verfügten Einreise- und Aufenthaltsverbotes bei Erteilung einer AE nach § 23a AufenthG). Denn § 47 Abs. 1 Nr. 1a erlaubt die Erhebung einer Gebühr ausschließlich für die Fälle der Aufhebung oder Verkürzung nach § 11 Abs. 4 Satz 1 AufenthG. Vom Gebührentatbestand des § 47 Abs. 1 Nr. 9 (Ausstellung einer Bescheinigung über das Aufenthaltsrecht, etwa im Rahmen der Beantragung von Kindergeld, Erziehungsgeld oder sonstigen öffentlichen Mitteln) soll umfänglich Gebrauch gemacht werden. Die Gebühr hierfür beträgt 18 Euro. Für eine Neuausstellung eines Zusatzblattes zum eAT (z.B. nach Verlust, Abhandenkommen des Zusatzblattes) ist ebenfalls die Gebühr nach § 47 Abs. 1 Nr. 9 zu erheben, soweit nicht die Gebühr nach § 47 Abs. 1 Nr. 3 zu erheben ist (Aufhebung oder Änderung der Nebenbestimmung). Auch sofern gem. § 59 Abs. 7 auf einem Vordruck nach Anlage D11 oder D11a zu dokumentieren ist, dass ein Aufenthaltstitel für Zwecke der Aufnahme oder Ausübung einer Erwerbstätigkeit nach § 84 Abs. 2 Satz 2 AufenthG als fortbestehend gilt, ist von dem Gebührentatbestand des § 47 Abs. 1 Nr. 9 Gebrauch zu machen. Befreiungen sind nur bei türkischen Staatsangehörigen, die über ARB-Rechte verfügen möglich, § 52a Abs. 3 Nr. 2.
 Der Gebührentatbestand des § 47 Abs. 1 Nr. 11 gilt nur für die in § 78a abs. 1 S. 1 AufenthG geregelten Ausnahmefälle. Wird also ein Aufenthaltstitel in den Fällen des § 78a Abs. 1 S. 1 AufenthG weiterhin in Form eines Klebeetiketts ausgestellt und ist das Klebeetikett in ein neues Personaldokument zu übertragen, so ist wie in den Fällen des bisherigen Übertrages eine Gebühr in Höhe von 12 Euro zu erheben.
 Gemäß § 47 Abs. 1 Nr. 15 AufenthV sind für die Durchführung des beschleunigten Fachkräfteverfahrens nach § 81a des Aufenthaltsgesetzes Gebühren i.H.v. 411,00 Euro zu erheben. § 81a Abs. 4 AufenthG regelt, dass dieses Verfahren auch den Familiennachzug des Ehegatten und minderjähriger lediger Kinder umfasst, deren Visumanträge in zeitlichem Zusammenhang gestellt werden. Die Gebühr wird nach § 49 Absatz 2 AufenthV als Bearbeitungsgebühr erhoben und umfasst auch den Familiennachzug (vgl. Anwendungshinweise BMI zum FEG Nr. 81a.1.0.8 – Gebührenpflicht – aktualisiert 01.06.2024)
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluss, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 5 0 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3).
@@ -90,7 +90,8 @@ B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
 B.AufenthV.52.1. Aufgrund der erhöhten Produktionskosten und des gestiegenen Bearbeitungs- und Informationsaufwands hinsichtlich der Ausstellung von eATs sind die vor dem 01.09.2011 bestehenden Gebührenbefreiungen nicht mehr im bisherigen Umfang aufrechterhalten worden. So ist die Gebührenbefreiung für Familienangehörige deutscher Staatsangehöriger weitgehend entfallen. Lediglich die Gebührenbefreiung für die Erteilung nationaler Visa bleibt bestehen. Diese Gebührenbefreiung gilt unabhängig davon, ob die Antragsteller ihr Aufenthaltsrecht von dem deutschen Staatsangehörigen ableiten. Sie ergibt sich allein aus dem beschriebenen verwandschaftlichen Verhältnis bzw. dem Status als Ehegatte oder Lebenspartner eines Deutschen.
 B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowie die nach § 45c notwendig werdenden Neuausstellungen ist jeweils eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr (derzeit 37,00 Euro) zu erheben bzw.
-- wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 22,80 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben. B.AufenthV.52.3.bis B.AufenthV.52.4.
+- wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 22,80 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben.
+B.AufenthV.52.3.bis B.AufenthV.52.4.
 Wird die Neuausstellung einer Niederlassungserlaubnis oder einer Aufenthaltserlaubnis in den Fällen des Ablaufs des Passes oder des eAT (§ 45 c Abs. 1 Nr. 1 und 2 AufenthV) erforderlich, sind Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Abs. 4 AufenthG, anerkannte Flüchtlinge nach § 3 AsylG, subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG sowie Personen mit einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG gemäß § 52 Abs. 3 Nr. 1, 2 und Abs. 4 AufenthV von der Zahlung der Gebühr befreit.
 Die Formulierung „in Ausnahmefällen“ am Ende von § 52 Abs. 3 Nr. 1, 2 sowie Abs. 4 bezieht sich nur auf die Befreiungstatbestände gemäß § 45b und § 47 Abs. 1 Nr. 11.
 B.AufenthV.52.5. Ausländer, die für ihren Aufenthalt im Bundesgebiet ein Stipendium aus öffentlichen Mitteln erhalten, sind befreit von den Gebühren zur Erteilung einer Aufenthaltserlaubnis sowie der Ausstellung einer Fiktionsbescheinigung – dazu zählen:
@@ -170,8 +171,7 @@ Universidad Católica del Perú
 Der Nachweis ist von den Begünstigten durch Vorlage der Einladung, des Bescheides über die Stipendiumgewährung oder einer Bescheinigung der betreuenden Stelle zu führen.
 B.AufenthV.52.5.1.1. bis B.AufenthV.52.5.2. frei
 B.AufenthV.52.6.1. Anderen Ausländern, denen der Aufenthalt zur Aus- oder Fortbildung erlaubt wird, ist kein allgemeiner Gebührenerlass zu gewähren. Die Möglichkeit, diesem Personenkreis die Gebühren im Einzelfall wegen Bedürftigkeit gemäß § 53 Abs. 2 zu erlassen, bleibt unberührt. Dabei soll ein strenger Maßstab angelegt werden.
-B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel sowie der Ausstellung einer Fiktionsbescheinigung die Gebühren zu erlassen:
-Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
+B.AufenthV.52.7. Im Interesse der Entwicklungshilfe sowie zur Wahrung kultureller, außenpolitischer, sportlicher und sonstiger Belange der Bundesrepublik Deutschland sind den nachfolgend aufgeführten Personengruppen bei der Erteilung und Verlängerung der Aufenthaltstitel sowie der Ausstellung einer Fiktionsbescheinigung die Gebühren zu erlassen: Austauschlehrer und Fremdsprachenassistenten, die vom Sekretariat der Ständigen Konferenz der Kultusminister der Länder der Bundesrepublik Deutschland - Pädagogischer Austauschdienst - vermittelt werden,
 Mitarbeiter der Vertretung Taipeh in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 nicht entsandte Mitarbeiter des Wirtschafts- und Handelsbüros der Sonderverwaltungsregion Hongkong in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
 Mitarbeiter der Türkisch-Zypriotischen Repräsentanz in der Bundesrepublik Deutschland sowie deren Ehegatten und minderjährigen ledigen Kinder
@@ -193,7 +193,8 @@ Für die Erteilung, die Verlängerung und den Übertrag von Titeln für alle tü
 Aufenthaltstitel Gebühr Rechtsgrundlage
 Unter 24 Jahre 24 Jahre und älter
 Erteilung von unbefristeten 22,80 € 37,00 € § 52a Abs. 2 S. 1 u. 2
-Aufenthaltstiteln i.V.m.
+Aufenthaltstiteln
+i.V.m.
 (NE, Daueraufenthalt- EU) §§ 44-45
 jeweils als eAT
 Erteilung/ Verlängerung von 22,80 € 37,00 €
@@ -223,7 +224,8 @@ Aufenthaltstitels als eAT mit dem i.V.m.
 Zusatz Ausweisersatz
 § 48 Abs. 1 S. 1 Nr. 15
 Erteilung von unbefristeten 8,00 € § 52a Abs. 2 S. 3
-Aufenthaltstiteln i.V.m.
+Aufenthaltstiteln
+i.V.m.
 (NE, Daueraufenthalt- EU) §§ 45b Abs. 2, 44, 44a
 jeweils als Etikett
 Überträge von unbefristeten 8,00 € § 52a Abs. 2 S. 3
@@ -267,7 +269,7 @@ VAB B.AufenthV.55. - 61. Ordnungsrechtliche- und
 Verfahrensvorschriften
 Inhaltsverzeichnis
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(ÄnderungsVO zur AufenthV; 28.09.2023; 04.07.2024; FEWG)
+(ÄnderungsVO zur AufenthV; 04.07.2024; FEWG; 23.10.2025)
 B.AufenthV.55. Ausweisersatz
 B.AufenthV.56. Ausweisrechtliche Pflichten
 B.AufenthV.57. Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente
@@ -278,15 +280,17 @@ B.AufenthV.59a. Hinweis auf Gewährung internationalen Schutzes bei Inhabern ein
 B.AufenthV.59b. Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU B.AufenthV.60. Lichtbild
 B.AufenthV.61. Sicherheitsstandard, Ausstellungstechnik
 B.AufenthV.55. - 61. Ordnungsrechtliche- und Verfahrensvorschriften
-(ÄnderungsVO zur AufenthV; 28.09.2023; 04.07.2024; FEWG)
+(ÄnderungsVO zur AufenthV; 04.07.2024; FEWG; 23.10.2025)
 B.AufenthV.55. Ausweisersatz
-55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann. Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht. Entsprechend § 4 Abs. 6 Satz 1 kann der Eintrag „Personalien beruhen auf eigenen Angaben“ in den Ausweisersatz eingetragen werden. Bei der Entscheidung, ob der Eintrag vorgenommen wird, handelt es sich um eine Ermessensentscheidung. Der Eintrag ist dann vorzunehmen, wenn die Identität nicht durch ein amtliches Identitätsdokument nachgewiesen wurde. Amtliche Identitätsdokumente sind der Pass des Heimatstaates, hilfsweise auch ein anerkannter Passersatz oder ein anderes amtliches Identitätsdokument mit Lichtbild des Heimatstaates (z.B. Personalausweis oder Identitätskarte), jeweils im Original. Es ist nicht erforderlich, dass die Identitätsdokumente gültig sein müssen.
+55.1.1.1. Gemäß § 55 Abs. 1 Satz 1 Nr. 1 ist auf Antrag ein Ausweisersatz auszustellen, wenn der Ausländer einen anerkannten und gültigen Pass oder Passersatz nicht besitzt und nicht in zumutbarer Weise erlangen kann.
+Ohne entsprechende Nachweise, dass der Ausländer die erforderlichen und ihm zumutbaren Schritte zur Erlangung eines Passes bzw. Passersatzpapiers eingeleitet hat, kommt die Ausstellung eines Ausweisersatzes nicht in Betracht.
+Entsprechend § 4 Abs. 6 Satz 1 kann der Eintrag „Personalien beruhen auf eigenen Angaben“ in den Ausweisersatz eingetragen werden. Bei der Entscheidung, ob der Eintrag vorgenommen wird, handelt es sich um eine Ermessensentscheidung. Der Eintrag ist dann vorzunehmen, wenn die Identität nicht durch ein amtliches Identitätsdokument nachgewiesen wurde. Amtliche Identitätsdokumente sind der Pass des Heimatstaates, hilfsweise auch ein anerkannter Passersatz oder ein anderes amtliches Identitätsdokument mit Lichtbild des Heimatstaates (z.B. Personalausweis oder Identitätskarte), jeweils im Original. Es ist nicht erforderlich, dass die Identitätsdokumente gültig sein müssen.
 Merke: Verfügt der Antragsteller über ein unbefristetes Aufenthaltsrecht, genügt es für die Ausstellung des Ausweisersatzes der Nachweis, dass ein Pass oder Passersatz nicht kurzfristig zu erlangen ist. In diesen Fällen werden in der Vergangenheit liegende Versäumnisse bei der Passbeschaffung dem Antragsteller nicht entgegengehalten. Erforderlich bleibt aber der Nachweis, dass die Passbeschaffung nunmehr betrieben wird.
 Legt ein Ausländer, der einen befristeten Titel oder eine Duldung besitzt, eine Bescheinigung der Auslandsvertretung seines Heimatstaates vor, wonach die Ausstellung eines neuen Passes sich um längere Zeit verzögert oder derzeit ausgeschlossen ist, so kann ihm auf Antrag ein Ausweisersatz gem. § 55 Abs. 1 Nr. 1 oder bei Titelinhabern ggf. – etwa bei dringenden Auslandsreisen – ein vorläufiger Reiseausweis für Ausländer nach Maßgabe der § 5 Abs. 6 ausgestellt werden (vgl. hierzu auch B.AufenthV.5). Die Gültigkeit des Reiseausweises bzw. des Ausweisersatzes sollte mindestens 6 Monate betragen, so der Titel bzw. die Duldung entsprechend lang gültig sind.
 Merke: Die Unzumutbarkeit einen Antrag auf (Wieder-) Einbürgerung zu stellen, folgt bei geduldeten oder sonst ausreisepflichtigen Personen nicht aus Art. 28 S. 1 StlÜbk. Diese Regelung setzt ein bestehendes Aufenthaltsrecht voraus. Nur in den Fällen eines feststehenden Aufenthaltsrechts, müssen die betreffenden Personen keinen Wiedereinbürgerungsantrag stellen, um in den Besitz eines Passes zu gelangen. Dieser Personenkreis hat aber dann einen Anspruch auf einen Reiseausweis für Staatenlose und benötigt aus diesem Grund keinen Ausweisersatz (zur den Voraussetzungen für die Ausstellung eines Reiseausweises für Staatenlose vgl. VAB.A.3.1.3).
 Geduldete und sonst ausreisepflichtigen Personen, insbesondere ehemalige türkische Staatsangehörige, die ihre Staatsangehörigkeit wegen Nichtableisten des Wehrdienstes verloren haben, haben den Verlust der Staatsangehörigkeit und damit auch das Abschiebungshindernis zu vertreten. Sie können es durch Ableistung des Wehrdienstes und einen Antrag auf Wiedereinbürgerung in zumutbarer Weise auch beseitigen. Die Erteilung eines Ausweisersatzes kommt bei diesen Personen nicht in Betracht.
 55.1.1.2. § 55 Abs. 1 S. 1 Nr. 2 regelt insbesondere auch die Fälle, in denen Reisedokumente Ausreisepflichtiger einbehalten werden (§ 50 Abs. 5 AufenthG). Die bloße Ausstellung einer sogenannten PEB ist damit aber nur unzulässig, wenn die Abschiebung des Betroffenen ausgesetzt ist. Stellt der Ausländer keinen Antrag auf Ausstellung eines Ausweisersatzes, so begeht er eine Ordnungswidrigkeit (§ 56 Nr. 4 i.V.m. § 77 Nr. 2).
-55.1.2. frei
+5 5. 1. 2. f r ei
 55.1.3. Durch den Verweis des § 55 Abs. 1 Satz 3 auf § 5 Abs. 2 werden Fallbeispiele für die Auslegung des unbestimmten Begriffes der Zumutbarkeit der Passerlangung benannt, die denen bei der Erteilung eines Reiseausweises für Ausländer entsprechen.
 Hängt etwa die Ausstellung eines Nationalpasses von der Erfüllung der Wehrpflicht ab, so kommt die Ausstellung eines Ausweisersatzes dann in Betracht, wenn die Erfüllung der Wehrpflicht unzumutbar ist.
 Eine Unzumutbarkeit der Erfüllung der Wehrpflicht im Heimatstaat aus zwingenden Gründen (§ 5 Absatz 2 Nummer 3) liegt nach Nr. 3.3.1.2 AufenthG- VwV regelmäßig vor:
@@ -319,8 +323,11 @@ Die Neuausstellung einer eAT-Karte wegen des Ablaufs des bisherigen Personaldoku
 Demzufolge handelt es sich bei der unrichtigen Neuausstellung bzw. Übertragung eines Aufenthaltstitels in ein neues Personaldokument nicht um einen rechtswidrigen Verwaltungsakt, der gem. § 48 VwVfG zurückzunehmen wäre, sondern lediglich um eine fehlerhafte Eintragung mit nicht konstitutivem Charakter. Diese Eintragung ist somit als offenbare Unrichtigkeit gem. § 42 VwVfG jederzeit korrigierbar. Im Fall eines Aufenthaltstitels in Form eines eAT ist eine neue eAT-Karte zu bestellen und die fehlerhafte zu entwerten.
 Zu berücksichtigen ist allerdings in solchen Fällen, wie der "Erklärungsempfänger" die Eintragung bei objektiver Auslegung verstehen durfte ("objektiver Empfängerhorizont"). Hat ein Bürgeramt eine solche Neuausstellung oder unrichtige Eintragung vorgenommen, musste der Betroffene die Unrichtigkeit erkennen können, weil sein Wissen darüber, dass das Bürgeramt zur Erteilung von Aufenthaltstiteln nicht befugt ist, zu unterstellen ist.
 Wird die Neuausstellung bzw. Übertragung eines noch längerfristig gültigen Aufenthaltstitels durch die ABH vorgenommen und das Gültigkeitsdatum des übertragenen Titels versehentlich überschritten, so kann ebenfalls davon ausgegangen werden, dass der Empfänger die Unrichtigkeit der Übertragung erkennen konnte.
-Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom 01.04.2020 wurde der neue Abs. 7 eingefügt. Die Neuregelung ist aufgrund uneinheitlicher Verwaltungspraxis erforderlich. Mit ihr soll erreicht werden, dass in den Fällen, in denen die Voraussetzungen des § 84 Abs. 2 S. 2 AufenthG vorliegen, auf Antrag des Ausländers die Wirkung des § 84 Abs. 2 S. 2 AufenthG grundsätzlich (deklaratorisch) bescheinigt wird, vgl. A.84.2.2. Hierfür ist gem. § 47 Abs. 1 Nr. 9 eine Gebühr von 18 Euro zu erheben (vgl. B.47.1.).
-Dies erfolgt grundsätzlich auf einem gesonderten Zusatzblatt. Die Gültigkeit des Zusatzblattes orientiert sich am Einzelfall. In den Fällen, in denen ein befristeter Aufenthaltstitel existiert, ist ein zugunsten des Betroffenen wirkender Rechtsschein zu vermeiden. Die Bescheinigung nach § 59 Abs. 7 AufenthV ist dann für die Dauer dieses fiktiven (bereits mit der Zustellung der Ausweisung erloschenen) Titels auszustellen (vgl. A.84.2.1, A.84.2.2). Neben den entsprechenden Nebenbestimmungen zur Erwerbstätigkeit, ist ggf. auch die Nebenbestimmung
+Durch die Verordnung zur Änderung der Beschäftigungsverordnung und der Aufenthaltsverordnung vom 01.04.2020 wurde Abs. 7 eingefügt.. In den Fällen, in denen die Voraussetzungen des § 84 Abs. 2 S. 2
+AufenthG vorliegen, wird auf Antrag des Ausländers die Wirkung des § 84 Abs. 2 S. 2 AufenthG grundsätzlich (deklaratorisch) bescheinigt, vgl. A.84.2.2. Hierfür ist gem. § 47 Abs. 1 Nr. 9 eine Gebühr von 18 Euro zu erheben (vgl. B.47.1.).
+Dies erfolgt grundsätzlich auf einem gesonderten Zusatzblatt. Die Gültigkeit des Zusatzblattes orientiert sich am Einzelfall. In den Fällen, in denen ein befristeter Aufenthaltstitel existiert, ist ein zugunsten des Betroffenen wirkender Rechtsschein zu vermeiden. Die Bescheinigung nach § 59 Abs. 7 ist dann für die Dauer dieses letzten Titels
+auszustellen (vgl. A.84.2.1, A.84.2.2). Neben den entsprechenden Nebenbestimmungen zur Erwerbstätigkeit aus dem zuletzt gültigen Aufenthaltstitel, ist mit Ausnahme der Ausstellung während der noch laufenden
+Rechtsbehelfsfrist auch stets die Nebenbestimmung
 "Der Inhaber ist zur Ausreise verpflichtet; die Vollziehbarkeit der Ausreisepflicht ist derzeit entfallen"
 mit aufzunehmen.
 Mit Änderungsverordnung vom 20.08.2021 wurde der Abs. 9 eingeführt. Von diesem umfasst sind Betroffene, die eigentlich vom Erfordernis eines Aufenthaltstitels nach §§ 1 Abs. 2 Nr. 2 oder 3 oder 27 AufenthG befreit sind, zugleich aber eine Rechtsstellung nach dem Austrittsabkommen innehaben. Ihnen wird dieses Recht in einem gesonderten Zusatzblatt (nur eAT-Zusatzblatt) gebührenfrei bescheinigt, beachte hierzu AusReg2Info: Titel/Historie. Das Zusatzblatt muss folgende Nebenbestimmungen, die in AusReg auch zur Verfügung stehen, enthalten
@@ -338,15 +345,15 @@ Estnisch: „Rahvusvahelise kaitse andis EST (=Name des Mitgliedstaats) (Datum)�
 Finnisch: „FIN (=Name des Mitgliedstaats) myöntänyt kansainvälistä suojelua (Datum).“
 Französisch: “FRA (=Name des Mitgliedstaats) a accordé la protection internationale le (Datum)”.
 Griechisch: “ GRC (=Name des Mitgliedstaats) (Datum)”.
-Italienisch: “Protezione internazionale concessa da ITA (=Name des Mitgliedstaats) il (Datum)”.
-Lettisch: “Starptautisk aizsardzba, piešrusi LVA (=Name des Mitgliedstaats) (Datum)”.
+Italienisch: “Protezione internazionale concessa da ITA (=Name des Mitgliedstaats) il (Datum)”. Lettisch: “Starptautisk aizsardzba, piešrusi LVA (=Name des Mitgliedstaats) (Datum)”.
 Litauisch: „(Datum) tarptautin apsaug suteik LTU (=Name des Mitgliedstaats).“
 Maltesisch: „Protezzjoni internazzjonali mogtija minn MLT (=Name des Mitgliedstaats) fi (Datum)“.
 Niederländisch: „Internationale bescherming verleend op (Datum) door NLD (=Name des Mitgliedstaats)”.
 Polnisch: „Ochrona midzynarodowa przyznana przez POL (=Name des Mitgliedstaats) w dniu (Datum)“.
 Portugiesisch: “Protecção internacional concedida por PRT (=Name des Mitgliedstaats), em (Datum)”.
 Rumänisch: „Protecie internaional acordat de ROU (=Name des Mitgliedstaats) la (Datum)“.
-Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnutá v SVK (=Name des Mitgliedstaats) (Datum)“. Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
+Slowakisch: „Poznámky‘ túto poznámku: ‚Medzinárodná ochrana poskytnutá v SVK (=Name des Mitgliedstaats) (Datum)“.
+Slowenisch: „Mednarodna zašita priznana v SVN (=Name des Mitgliedstaats) dne (Datum)“.
 Schwedisch: „Internationellt skydd beviljat av SWE (=Name des Mitgliedstaats) den (Datum)“.
 Spanisch: “protección internacional concedida por ESP (=Name des Mitgliedstaats) con fecha de (Datum)”.
 Tschechisch: „Poznámky“ tuto poznámku: ‚Mezinárodní ochrana poskytnuta CZE (=Name des Mitgliedstaats) dne (Datum).“
