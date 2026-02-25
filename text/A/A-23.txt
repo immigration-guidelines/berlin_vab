@@ -2,7 +2,7 @@ VAB A 23
 VAB A 23
 Inhaltsverzeichnis
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 22.07.2025; 08.09.2025)
+(FEG; 08.09.2025; 01.01.2026)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 23.1.1.1. Spätaussiedler
 23.1.1.2. Traumatisierte, Lebensältere und Zeugen bosnischer Staatsangehörigkeit
@@ -99,7 +99,7 @@ A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
 7. Familiennachzug
 8. Gebühren
 A.23. Aufenthaltsgewährung durch die obersten Landesbehörden
-(FEG; 22.07.2025; 08.09.2025)
+(FEG; 08.09.2025; 01.01.2026)
 23.1. Zu den vor Inkrafttreten des Aufenthaltsgesetzes beschlossenen Bleiberechtsregelungen
 Die vor dem Inkrafttreten des Aufenthaltsgesetzes zum 1.1.2005 beschlossenen Bleiberechtsregelungen gelten auf der Rechtsgrundlage des § 23 Abs. 1 unverändert fort. Kommt eine Verlängerung nicht mehr in Betracht, ist immer auch § 25 Abs. 4 S. 2 bzw. § 25 Abs. 5 i.V.m. Art. 8 EMRK mit zu prüfen.
 23.1.1.1. Spätaussiedler
@@ -391,7 +391,7 @@ Die Senatsverwaltung für Inneres und Sport hat am 21.10.2022 eine weitere Anord
 Im Übrigen gilt der Erlass vom 04.12.2017 in der Fassung vom 08.10.2021 fort. Im Einzelnen ist wie folgt zu verfahren:
 1. Zum Einreiseverfahren
 1.1. Die einreisewilligen Personen haben vor Einreise zwingend ein entsprechendes Visumverfahren durchzuführen. Die Erteilung einer Aufenthaltserlaubnis nach Einreise ohne das erforderliche Visum auf der Grundlage des § 23 Abs. 1 scheidet damit aus.
-Grundsätzlich sollen die Erteilungsvoraussetzungen für das Visum durch die Berliner Ausländerbehörde auf der Grundlage der Angaben und Nachweise der sich in Berlin rechtmäßig aufhaltenden Verwandten geprüft werden und soll dies der zuständigen deutschen Auslandsvertretung im Rahmen einer Vorabzustimmung gem. § 31 Abs. 3 AufenthV mitgeteilt werden (). Die Prüfung der Auslandsvertretung soll sich damit in der Regel auf die Identitätsfeststellung des Nachziehenden, die Sicherheitsanfrage sowie die Erfassung biometrischer Daten beschränken.
+Grundsätzlich sollen die Erteilungsvoraussetzungen für das Visum durch die Berliner Ausländerbehörde auf der Grundlage der Angaben und Nachweise der sich in Berlin rechtmäßig aufhaltenden Verwandten geprüft werden und soll dies der zuständigen deutschen Auslandsvertretung im Rahmen einer Vorabzustimmung gem. § 31 Abs. 3 AufenthV mitgeteilt werden. Die Prüfung der Auslandsvertretung soll sich damit in der Regel auf die Identitätsfeststellung des Nachziehenden, die Sicherheitsanfrage sowie die Erfassung biometrischer Daten beschränken.
 Soweit die Erteilungsvoraussetzungen nicht vollständig geprüft werden können - etwa weil Nachweise zur Sicherung des Lebensunterhalts fehlen, ist keine Vorabzustimmung zu erteilen, sondern sind die Angehörigen über die Möglichkeit eines geregelten Visumverfahrens zu informieren oder ist die Möglichkeit eines Aufnahmevorschlages nach A.23.s.5. zu prüfen. In Einzelfällen kann die Vorabzustimmung unter der aufschiebenden Bedingung des Nachweises bestimmter Erteilungsvoraussetzungen – etwa des Nachweises des Verwandtschaftsverhältnisses - gegenüber der deutschen Auslandsvertretung erteilt werden.
 1.2. Visumanträge müssen unabhängig vom Zeitpunkt der Abgabe der Verpflichtungserklärung bis 31.Dezember 2024 bei einer zuständigen deutschen Auslandsvertretung (Amman, Ankara, Bagdad, Beirut, Erbil, Istanbul, Izmir, Kairo, Kuwait City, Riad oder Teheran) vorliegen. Die erteilten Vorabzustimmungen sind ebenso wie die Ablehnungen einer Vorabzustimmung nach Beratung seit dem 1.10.2013 statistisch zu erfassen und quartalsweise der Senatsverwaltung für Inneres und Sport zu melden.
 2. Begünstigter Personenkreis
@@ -520,7 +520,7 @@ Deutschland hat sich im Rahmen der EU-Ratsbeschlüsse vom 14.09.2015 (2015/1523)
 Die Auswahl der Schutzbedürftigen durch das BAMF orientiert sich an folgenden Kriterien:
 Wahrung der Familieneinheit
 Familiäre oder sonstige integrationsförderliche Bindungen nach Deutschland,
-Integrationsfähigkeit (Indikatoren sind beispielsweise: Grad der Schul- und Berufsausbildung, Berufserfahrung, Sprachkenntnisse,, geringes Alter),
+Integrationsfähigkeit (Indikatoren sind beispielsweise: Grad der Schul- und Berufsausbildung, Berufserfahrung, Sprachkenntnisse, geringes Alter),
 Grad der Schutzbedürftigkeit,
 ggf. weitere Kriterien, die im Rahmen von gemeinsamen Verfahrensleitlinien auf EU-Ebene mit der Türkei vereinbart werden.
 Auch schwerstkranke Personen können aufgenommen werden, wobei deren Anteil an der Gesamtzahl der aufgenommenen Personen 3% nicht überschreiten soll.
@@ -544,8 +544,7 @@ In den Fällen, in denen kein gültiger Nationalpass vorliegt, gilt für die Ers
 Kann der aufgenommene Schutzbedürftige seine Identität nicht nachweisen und wurde von der Botschaft für die Einreise ein Reiseausweis mit dem Eintrag
 „Personalien beruhen auf eigenen Angaben“
 ausgestellt, ist das nach § 4 Abs. 6 Satz 1 AufenthV eröffnete Ermessen in der Regel zugunsten eines permanenten Eintrags auszuüben.
-Im Falle der Verlängerung der Aufenthaltserlaubnis soll laut des Begleitschreibens des BMI zur
-Aufnahmeanordnung bei der Prüfung der Zumutbarkeitsregelung des § 5 Abs. 1 und 2 AufenthV die Tatsache Berücksichtigung finden, dass den aufgenommenen Personen zur Wahrung besonders gelagerter politischer Interessen der Bundesrepublik Deutschland nach § 23 Abs. 2 AufenthG eine Aufnahmezusage erteilt worden ist, und dass bei dem vergleichbaren Personenkreis, der gemäß § 23 Abs. 4 AufenthG über Resettlementaufnahmen aus anderen Staaten wie Libanon oder Jordanien aufgenommen wurde, nach § 6 Satz 4 AufenthV (vgl. VAB B.AufenthV.6.) die Passerlangung regelmäßig nicht zumutbar ist.
+Im Falle der Verlängerung der Aufenthaltserlaubnis soll laut des Begleitschreibens des BMI zur Aufnahmeanordnung bei der Prüfung der Zumutbarkeitsregelung des § 5 Abs. 1 und 2 AufenthV die Tatsache Berücksichtigung finden, dass den aufgenommenen Personen zur Wahrung besonders gelagerter politischer Interessen der Bundesrepublik Deutschland nach § 23 Abs. 2 AufenthG eine Aufnahmezusage erteilt worden ist, und dass bei dem vergleichbaren Personenkreis, der gemäß § 23 Abs. 4 AufenthG über Resettlementaufnahmen aus anderen Staaten wie Libanon oder Jordanien aufgenommen wurde, nach § 6 Satz 4 AufenthV (vgl. VAB B.AufenthV.6.) die Passerlangung regelmäßig nicht zumutbar ist.
 6. Aufenthaltsrechtliche Verfestigung
 6.1. Eine spätere Aufenthaltsverfestigung durch Erteilung einer Niederlassungserlaubnis ist nach § 26 Abs. 4 möglich, wenn die AE nach § 23 Abs. 2 fünf Jahre besteht und die weiteren für die Niederlassungserlaubnis erforderlichen Erteilungsvoraussetzungen nach § 9 Abs. 2 S. 1 Nr. 2 bis 9 vorliegen.
 6.2. Daneben ist auch die Erteilung einer Erlaubnis zum Daueraufenthalt-EU nach § 9a möglich, denn vom Anwendungsausschluss für Aufenthaltstitel nach dem 5. Abschnitt des AufenthG sind Titel nach § 23 Abs. 2 ausdrücklich ausgenommen (§ 9a Abs. 3 Nr. 1).

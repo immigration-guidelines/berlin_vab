@@ -10,8 +10,9 @@ Rücknahme einer rechtswidrigen Einbürgerung
 35.5. Rücknahme eines rechtswidrigen Verwaltungsaktes gegenüber betroffenen Dritten
 35.5.1. Auswirkungen der Rücknahme auf die Rechtmäßigkeit von Verwaltungsakten nach dem StAG
 35.5.2. Beteiligung des Dritten
+35.6. rückwirkender Verlust der deutschen Staatsangehörigkeit oder Rücknahme einer rechtswidrigen Bescheinigung nach dem BVFG
 Rücknahme einer rechtswidrigen Einbürgerung
-(' 27.06.2024 StARModG; 04.09.2025)
+(27.06.2024 StARModG; 04.09.2025)
 35.0. Allgemeines
 § 35 enthält spezialgesetzliche Regelungen zur Rücknahme von rechtswidrigen Verwaltungsakten nach dem Staatsangehörigkeitsgesetz und ist insofern lex specialis zu § 48 VwVfG, soweit diese zum Verlust der deutschen Staatsangehörigkeit führen (vergleiche VAB S.17.).
 Bei anderen Verwaltungsakten nach dem StAG, deren Rücknahme für die Vergangenheit nicht automatisch zum Verlust der deutschen Staatsangehörigkeit führt, sind für die Rücknahme die Vorschriften des VwVfG anwendbar, z. B. bei der Erteilung der Einbürgerungszusicherung oder bei der Feststellung der deutschen Staatsangehörigkeit. Im Übrigen bleibt die Anwendung von verwaltungsverfahrensrechtlichen Regelungen außerhalb der Spezialregelung des § 35 unberührt, zum Beispiel bei der Einziehung von Urkunden (vergleiche § 52 VwVfG).
@@ -40,12 +41,12 @@ Ebenso betroffen sind Einbürgerungen nach § 10 Absatz 2 (Miteinbürgerung des 
 Nicht betroffen von § 35 Absatz 5, sondern ein Fall des § 17 Satz 3 sind der Erwerb der deutschen Staatsangehörigkeit nach §§ § 4–7, somit aufgrund Geburt, Erklärung oder Annahme als Kind.
 Für jede betroffene Person ist eine eigene Rücknahmeentscheidung und eigene Ermessenserwägungen anzustellen. Dabei wiegt auch gegenüber dritten betroffenen Personen das öffentliche Interesse an der Wiederherstellung gesetzmäßiger Zustände auf dem Gebiet des Staatsangehörigkeitsrechts schwer.
 35.5.2. Beteiligung des Dritten
-Haben dritte Personen (zum Beispiel Ehegatte, ältere Kinder) an der Erschleichung der Einbürgerung mitgewirkt oder wussten sie davon, so entfällt der Vertrauensschutz.
-Schutzwürdige Belange der Betroffenen können in diesen Fällen - wie beim Hauptbetroffenen - nur bei in der Person liegenden besonderen Gründen berücksichtigt werden.
+Haben dritte Personen (zum Beispiel Ehegatte, ältere Kinder) an der Erschleichung der Einbürgerung mitgewirkt oder wussten sie davon, so entfällt der Vertrauensschutz.Schutzwürdige Belange der Betroffenen können in diesen Fällen - wie beim Hauptbetroffenen - nur bei in der Person liegenden besonderen Gründen berücksichtigt werden.
 Waren die dritten Personen an der Erschleichung der Einbürgerung nicht beteiligt, so sind außerdem noch folgende schutzwürdige Belange dieser Personen abzuwägen:
 inzwischen erworbener eigener Einbürgerungsanspruch,
 Grad der Integration in Deutschland,
 bei minderjährigen Kindern Beachtung des Kindeswohls.
 Bei Beachtung des Kindeswohls gilt:
 Kinder unter fünf Jahren teilen regelmäßig das staatsangehörigkeitsrechtliche Schicksal ihrer Eltern, außer bei dadurch eintretender Staatenlosigkeit. Je älter und selbständiger das Kind ist, umso mehr ist auch die eigene Integration in Deutschland (Schul-, Berufsausbildung, deutsches Umfeld) zu berücksichtigen und abzuwägen.
-35.6. rückwirkender Verlust der deutschen Staatsangehörigkeit oder Rücknahme einer rechtswidrigen Bescheinigung nach dem BVFG Frei
+35.6. rückwirkender Verlust der deutschen Staatsangehörigkeit oder Rücknahme einer rechtswidrigen Bescheinigung nach dem BVFG
+Frei

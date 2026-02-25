@@ -2,7 +2,7 @@ VAB A 21
 VAB A 21
 Inhaltsverzeichnis
 A.21. Selbstständige Tätigkeit
-(FEWG; 01.01.2025; 07.02.2025; 28.08.2025)
+(FEWG; 28.08.2025; 01.01.2026)
 21.0. Allgemeines
 Repräsentanzen
 Begriff der Selbstständigkeit
@@ -35,7 +35,7 @@ Grundsatz
 Einschränkungen
 Erlaubnis der selbstständigen Tätigkeit für Inhaber einer aus sonstigen Gründen erteilten Aufenthaltserlaubnis resp. ausgestellten Duldung oder Aufenthaltsgestattung
 A.21. Selbstständige Tätigkeit
-(FEWG; 01.01.2025; 07.02.2025; 28.08.2025)
+(FEWG; 28.08.2025; 01.01.2026)
 Antrag Statusprüfung Katalog Berufsgruppen
 21.0. Allgemeines
 Bei § 21 Abs. 1, 2a, 2b und 5 handelt es sich um Ermessensnormen, die gleichermaßen für Ausländer gelten, die im Ausland bereits ein Unternehmen betreiben und nach Deutschland übersiedeln wollen, wie auch für Existenzgründer, die aus dem Ausland zu diesem Zweck einreisen wollen oder sich bereits mit einem Aufenthaltstitel in Deutschland aufhalten.
@@ -192,13 +192,13 @@ eigenes Vermögen in jeglicher Form,
 im Aus- und/oder Inland erworbene Rentenanwartschaften oder
 Betriebsvermögen
 nachgewiesen wird.
-Von einer angemessenen Altersversorgung ist auszugehen, wenn zu dem genannten Zeitpunkt ein seriöses Versicherungsangebot über eine private Renten- oder Lebensversicherung vorgelegt wird, die Antragstellende in den Stand setzen, mit Vollendung des 67. Lebensjahres entweder über einen monatlichen Betrag ab 01.07.2024 von 1.565,03 € (von 01.07.2023 - 30.06.2024: 1.503,34 €) über 12 Jahre oder über ein Vermögen von 225.364,00 € (vom 01.07.2023 - 30.06.2024: 216.481,00 €) zu verfügen. Auch bei einem Nachweis aktuell vorhandenen (Betriebs-)Vermögens in der genannten Höhe ist davon auszugehen, dass eine angemessene Altersversorgung vorliegt.
+Von einer angemessenen Altersversorgung ist auszugehen, wenn zu dem genannten Zeitpunkt ein seriöses Versicherungsangebot über eine private Renten- oder Lebensversicherung vorgelegt wird, die Antragstellende in den Stand setzen, mit Vollendung des 67. Lebensjahres entweder über einen monatlichen Betrag ab 0 1.07.2025 von 1.612,53 € (von 01.07.2024- 30.06.2025: 1.565,03 €) über 12 Jahre oder über ein Vermögen von 232.204,00 € (vom 01.07.2024-30.06.2025: 225.364,00 €) zu verfügen. Auch bei einem Nachweis aktuell vorhandenen (Betriebs-)Vermögens in der genannten Höhe ist davon auszugehen, dass eine angemessene Altersversorgung vorliegt.
 Dabei ist unerheblich, ob Betroffene ihren Aufenthalt zusammen mit ihrem Ehegatten bzw. Lebenspartner oder ihren unterhaltsberechtigten, minderjährigen Kindern im Bundesgebiet begründen wollen.
 Besteht etwa in den Fällen des Abs. 2a ein besonderes öffentliches Interesse an der Aufenthaltserteilung, kann auf den Nachweis einer angemessenen Altersversorgung im Einzelfall verzichtet werden. Eine solche Entscheidung bleibt der Sachgebiets- bzw. der Referats- oder Abteilungsleitung vorbehalten.
 Zur Erläuterung: Als Ausgangspunkt für die Ermittlung der untersten Grenze einer angemessenen Altersversorgung ist von der Berechnung der Rente für einen sogenannten Eckrentner sowie der durchschnittlichen Lebenserwartung in Deutschland anhand der Sterbetafel des Statistischen Bundesamtes für einen heute 45-Jährigen auszugehen.
-Der „Eckrentner“ ist eine für statistische Vergleichszwecke (allgemeines Rentenniveau) erfundene Musterperson. Sie ist 65 Jahre alt, hat 45 Jahre lang gearbeitet und über diesen gesamten Zeitraum hinweg Beiträge in die Rentenversicherung eingezahlt. Der Verdienst des „Eckrentners“ während seines gesamten Arbeitslebens entspricht dem durchschnittlich gezahlten Bruttogehalt/-lohn. So erreicht z.B. eine sozialversicherungspflichtige Person, deren Biografie mit dem Standardrentner übereinstimmt, eine Monatsrente von 1.565,03 € (01.07.2023 - 30.06.2024 1.503,34 €) (Quellen: Rentenversicherungsbericht 2023 und 2024 der Bundesregierung, Übersicht 12).
-Ausweislich der Periodensterbetafel 2021/2023 des Statistischen Bundesamtes beträgt die durchschnittliche Lebenserwartung eines heute 40-jährigen Mannes 79 Jahre, die einer Frau 84 Jahre. Hier wird zugunsten der Betroffenen der auf Männer bezogene o.a. Durchschnittswert zugrunde gelegt.
-Somit sollte selbstständig Tätigen bei Vollendung des 67. Lebensjahres mindestens 1.565,03 € (01.07.2023 - 30.06.2024: 1.50,34 €) monatlich gerechnet auf 12 Jahre zur Verfügung stehen, um von einer angemessenen Altersversorgung im Sinne des § 21 Abs. 3 ausgehen zu können. Daraus ergibt sich als ungefähre Bemessungsgröße für ein vorhandenes oder zu ersparendes Vermögen ein Betrag von 225.364,00 € (01.07.2023 - 30.06.2024: 216.481,00 €).
+Der „Eckrentner“ ist eine für statistische Vergleichszwecke (allgemeines Rentenniveau) erfundene Musterperson. Sie ist 65 Jahre alt, hat 45 Jahre lang gearbeitet und über diesen gesamten Zeitraum hinweg Beiträge in die Rentenversicherung eingezahlt. Der Verdienst des „Eckrentners“ während seines gesamten Arbeitslebens entspricht dem durchschnittlich gezahlten Bruttogehalt/-lohn. So erreicht z.B. eine sozialversicherungspflichtige Person, deren Biografie mit dem Standardrentner übereinstimmt, eine Monatsrente von 1.612,53 € (01.07.2024-30.06.2025: 1.565,03 €) (Quellen: Statistik der Deutschen Rentenversicherung „Rentenversicherung in Zahlen 2025“, S.10).
+Ausweislich der Periodensterbetafel 2022/2024 des Statistischen Bundesamtes beträgt die durchschnittliche Lebenserwartung eines heute 40-jährigen Mannes 79 Jahre, die einer Frau 84 Jahre. Hier wird zugunsten der Betroffenen der auf Männer bezogene o.a. Durchschnittswert zugrunde gelegt.
+Somit sollte selbstständig Tätigen bei Vollendung des 67. Lebensjahres mindestens 1.612,53 € (01.07.2024-30.06.2025: 1.565,03 €) monatlich gerechnet auf 12 Jahre zur Verfügung stehen, um von einer angemessenen Altersversorgung im Sinne des § 21 Abs. 3 ausgehen zu können. Daraus ergibt sich als ungefähre Bemessungsgröße für ein vorhandenes oder zu ersparendes Vermögen ein Betrag von 232.204,00 € (01.07.2024- 30.06.2025: 225.364,00 €).
 Trägt eine selbstständig tätige Person vor, in einem Staat, mit dem ein Sozialversicherungsabkommen geschlossen wurde (vgl. hierzu Ausführungen unter 9.2.1.3a.), Rentenansprüche erworben zu haben und möchte diese Altersvorsorge als ausreichende Vorsorge in das Verfahren einbringen, hat sie nachzuweisen, in welcher Höhe eine künftige Rentenzahlung erfolgt. Allein 60 Pflichtbeiträge nachzuweisen, reicht für Inhaber von Titeln nach § 21 AufenthG nicht aus (s. oben). Jedoch ist in jedem Fall A.21.2. zu beachten.
 Merke: Bei über 67-jährigen Personen wird hingegen eine Prüfung der angemessenen Altersversorgung nicht vorgenommen. Diese Personen befinden sich bereits im Rentenalter, so dass eine Vorsorge damit entbehrlich ist.
 21.4. Gültigkeit der Aufenthaltserlaubnis und Niederlassungserlaubnis
@@ -270,8 +270,7 @@ Dies gilt insbesondere für Au-pair-Beschäftigungen (§ 12 BeschV), Haushaltshi
 Erlaubnis der selbstständigen Tätigkeit für Inhaber einer aus sonstigen Gründen erteilten Aufenthaltserlaubnis resp. ausgestellten Duldung oder Aufenthaltsgestattung
 Bei der Erteilung einer AE aus humanitären Gründen (§§ 22 - 25a) wird ähnlich wie im Leistungsrecht (vgl. §§ 1, 1a AsylbLG) bzw. anknüpfend an § 26 Abs. 1 differenziert (vgl. auch B.BeschV.31):
 In den Fällen des § 25 Abs. 4a und Abs. 4b ist
-„Beschäftigung …. nur nach Erlaubnis der Ausländerbehörde (§ 4 Abs. 2 AufenthG). Selbstständige Tätigkeit nicht erlaubt.“
-zu verfügen, solange sich der Betroffene noch keine 18 Monate rechtmäßig im Bundesgebiet aufgehalten hat und kein besonderes öffentliches Interesse (besonderes wissenschaftliches oder künstlerisches Interesse) an einer selbständigen Tätigkeit besteht.
+„Beschäftigung …. nur nach Erlaubnis der Ausländerbehörde (§ 4 Abs. 2 AufenthG). Selbstständige Tätigkeit nicht erlaubt.“ zu verfügen, solange sich der Betroffene noch keine 18 Monate rechtmäßig im Bundesgebiet aufgehalten hat und kein besonderes öffentliches Interesse (besonderes wissenschaftliches oder künstlerisches Interesse) an einer selbständigen Tätigkeit besteht.
 Bei einer AE nach § 25 Abs. 4 S. 1 ist als Nebenbestimmung hingegen zu verfügen (vgl. B.BeschV.31): „Erwerbstätigkeit nicht erlaubt.“
 Im Übrigen ist bei der Erteilung einer Aufenthaltserlaubis aus humanitären Gründen die selbstständige Tätigkeit zu gestatten und dies im eAT zu vermerken. Dies ergibt sich für die Fälle des § 25 Abs. 3 bereits aus der so genannten Qualifikationsrichtlinie.
 Bzgl. der Ermöglichung einer selbstständigen Tätigkeit bei Inhabern einer Aufenthaltserlaubnis nach § 16' b', vgl. A.16b. Zur Ermöglichung der selbstständigen Tätigkeit für Geduldete und Asylsuchende wird auf die Ausführungen unter

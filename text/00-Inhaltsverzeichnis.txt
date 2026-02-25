@@ -266,6 +266,7 @@ D 24
 D 26
 D 29
 D 29a
+D 29b
 D 30
 D 30a
 D 34
@@ -343,6 +344,7 @@ VAB S 32b. Datenübermittlung der Staatsanwaltschaften
 VAB S.33. Register staatsangehörigkeitsrechtlicher Entscheidungen (EStA)
 VAB S.34. Datenübermittlung im Optionsverfahren
 VAB S.35. Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
+VAB S.35a Sperrfrist
 VAB S.36. Einbürgerungsstatistik
 VAB S.37. Verfahrensvorschriften
 VAB S.38. Gebühren
