@@ -1,7 +1,7 @@
 VAB D 36
 VAB D 36
-D.36. Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und
-offensichtlicher Unbegründetheit
-(AsylVfBeschlG; IntG)
-Normadressat dieser Vorschrift ist das BAMF. Das BAMF erstellt in den Asylverfahren bei offensichtlicher Unbegründetheit (z.B. im Fall des § 29a AsylG- sichere Herkunftsstaaten) Bescheide, die mit einer Abschiebungsandrohung versehen sind. Die Klage gegen die Abschiebungsandrohung entfaltet keine aufschiebende Wirkung; es kann aber einstweiliger Rechtsschutz nach § 80 Abs. 5 VwGO beantragt werden. Die Abschiebung ist bei rechtzeitiger Antragstellung nicht vor der gerichtlichen Entscheidung zulässig. Für den Vollzug ist immer die Vollziehbarkeitsanordnung durch das BAMF abzuwarten.
+D.36. Verfahren bei Fällen des Artikels 68 Absatz 3 der
+Verordnung (EU) 2024/1348
+(AsylVfBeschlG; IntG; GEASAnpassG)
+Normadressat dieser Vorschrift ist das BAMF. Das BAMF erstellt in den Asylverfahren bei offensichtlicher Unbegründetheit (z.B. im Fall des Artikel 68 Abs. 3 a) der Verordnung (EU) 2024/1348 – als unbegründet oder offensichtlich unbegründet abgelehnter Antrag) Bescheide, die mit einer Abschiebungsandrohung versehen sind. Die Klage gegen die Abschiebungsandrohung entfaltet keine aufschiebende Wirkung; es kann aber einstweiliger Rechtsschutz nach § 80 Abs. 5 VwGO beantragt werden. Die Abschiebung ist bei rechtzeitiger Antragstellung nicht vor der gerichtlichen Entscheidung zulässig. Für den Vollzug ist immer die Vollziehbarkeitsanordnung durch das BAMF abzuwarten.
 Anträge auf Gewährung vorläufigen Rechtschutzes gegen die Befristung eines Einreise- und Aufenthaltsverbots nach § 11 Abs. 2 AufenthG sowie die Anordnung und Befristung nach § 11 Abs. 7 AufenthG sind zwar ebenfalls zulässig, haben aber keinen Einfluss auf die Vollziehbarkeit der Abschiebungsandrohung.

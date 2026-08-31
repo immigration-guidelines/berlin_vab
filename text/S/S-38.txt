@@ -1,7 +1,6 @@
 VAB S.38.
 VAB S.38.
 Inhaltsverzeichnis
-Gebühren
 38.1. Kostenpflicht
 38.2. Einbürgerungsgebühren
 38.2.1. Grundgebühren
@@ -9,8 +8,7 @@ Gebühren
 38.2.3. Gebühr bei Widerruf, Rücknahme, Ablehnung, Zurückweisung
 38.3. Gebührenfreie Antragsarten
 38.4. Gebührenermäßigung oder –befreiung aus Gründen der Billigkeit oder des öffentlichen Interesses
-Gebühren
-(StaRModG; 04.07.2024; 28.01.2025)
+(StaRModG; 28.01.2024; 07.05.2026)
 38.1. Kostenpflicht
 frei
 38.2. Einbürgerungsgebühren
@@ -25,7 +23,8 @@ Wird ein minderjähriges Kind ohne ein Elternteil eingebürgert, gilt die allgem
 Beachte: Die Gebührenregelung für die Einbürgerung heimatloser Ausländer sowie die Miteinbürgerung ihrer Ehegatten und minderjährigen ledigen Kinder, ist weiterhin speziell in § 21 Absatz 1 Satz 3 des Gesetzes über die Rechtsstellung heimatloser Ausländer im Bundesgebiet geregelt. Die Gebühr beläuft sich in diesen Fällen auf 51,00 € pro Person.
 38.2.3. Gebühr bei Widerruf, Rücknahme, Ablehnung, Zurückweisung
 Wird ein Antrag zurückgenommen bevor mit der sachlichen Bearbeitung begonnen wurde, fällt keine Gebühr an.
-Andernfalls beträgt die Gebühr für die Rücknahme eines Antrages aufgrund des entstandenen Verwaltungsaufwandes die Hälfte der ursprünglich geforderten Gebühr nach § 38 Abs. 2 Nr. 1 bis 5.
+Bei der Rücknahme von eigenständigen Einbürgerungsanträgen von Kindern unter 16 Jahren ohne deutschen Elternteil ist die Gebühr vollständig zurückzuerstatten.
+Andernfalls beträgt die Gebühr für die Rücknahme eines Antrages aufgrund des entstandenen Verwaltungsaufwandes die Hälfte der ursprünglich geforderten Gebühr nach § 38 Abs. 2 Nr. 1 bis 5. Zum Umgang mit Gebührenrückzahlungen vgl.
 Im Falle der Ablehnung eines Antrages wird die vollständige ursprünglich geforderte Gebühr nach § 38 Abs. 2 Nr. 1 bis 5 fällig.
 38.3. Gebührenfreie Antragsarten
 frei

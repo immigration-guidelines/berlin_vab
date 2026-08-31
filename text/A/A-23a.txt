@@ -41,7 +41,7 @@ In der Regel unzulässig ist der Antrag für eine Person,
 3. für die ein Rückführungstermin bereits konkret feststeht oder
 4. die sich in einem Asylverfahren befindet, für dessen Durchführung ein anderer Mitgliedstaat der Europäischen Union als die Bundesrepublik Deutschland aufgrund einer auf Art. 78 Absatz 2 Buchstabe e) des Vertrages über die Arbeitsweise der europäischen Union gestützten Verordnung zuständig ist.
 Kommt das LEA zu dem Ergebnis, dass zwingende oder regelmäßige Ausschlussgründe vorliegen, wird dies der für Inneres zuständigen Senatsverwaltung ohne Übersendung der Akte unverzüglich mitgeteilt. Befindet sich der Vorgang bereits im Rückführungsbereich (R 2 oder R 3) hat diese Mitteilung innerhalb von 72 Stunden nach Eingang der Aktenanforderung zu erfolgen.
-Die Entscheidung der Zulässigkeit eines Härtefallantrags obliegt der für Inneres zuständigen Senatsverwaltung. Etwaige in die Wege geleitete Rückführungsmaßnahmen werden in diesen Fällen nur ausdrücklich auf Weisung der Geschäftsstelle der Härtefallkommission storniert. '
+Die Entscheidung der Zulässigkeit eines Härtefallantrags obliegt der für Inneres zuständigen Senatsverwaltung. Etwaige in die Wege geleitete Rückführungsmaßnahmen werden in diesen Fällen nur ausdrücklich auf Weisung der Geschäftsstelle der Härtefallkommission storniert.
 Hinsichtlich des „feststehenden Rückführungstermins“ gilt folgendes:
 Ein Rückführungstermin steht konkret fest, sobald der Termin datumsmäßig bestimmt ist. Hingegen genügt es nicht, dass bereits ein Ersuchen an die Polizei gesandt wurde.
 Wurde ein Rückführungstermin konkret festgesetzt und geht an demselben Tag ein Antrag bei der Geschäftsstelle der Härtefallkommission ein, so sind die Anträge auf Weisung der für Inneres zuständigen Senatsverwaltung vom 12.04.2016 dennoch aus Billigkeitsgründen als zulässig zu erachten. Der Betroffene ist also so zu stellen, als ob ein Termin noch nicht feststünde. Genauso ist nach der genannten Weisung der für Inneres zuständigen Senatsverwaltung zu verfahren, wenn das LEA - im Regelfall per Fax oder elektronischer Post - von einem eingegangenen HFK-Antrag unterrichtet wird und der HFK-Geschäftsstelle nicht innerhalb von 72 Stunden mitgeteilt wird, dass ein Termin konkret feststeht. Es handelt sich also um eine von der Fachaufsicht festgesetzte echte Verschweigensfrist, die § 23 a Abs. 1 S. 3 aus Billigkeitsgründen unbeachtlich macht. Dabei kommen aber nur die Stunden von montags bis freitags zur Anrechnung. Maßgeblich ist der Eingang der Nachricht in der Ausländerbehörde und nicht beim zuständigen Rückführungssachbearbeiter. Bei gesetzlichen Feiertagen wird der Fristlauf gleichfalls gehemmt.
@@ -68,8 +68,41 @@ Werden die Maßgaben von der für Inneres zuständigen Senatsverwaltung für die
 23a.2.1.7. Verlängerung der Aufenthaltserlaubnis
 Zur Verlängerung der AE nach § 23a gilt, auch wenn die AE in einem anderen Bundesland erteilt wurde, Folgendes: Eine nach § 23a erteilte AE wird auch nach § 23a verlängert, solange keine Erteilung einer Niederlassungserlaubnis nach § 26 Abs. 4 in Betracht kommt (vgl. § 8 Abs. 1).
 Hat der Betroffene nach der Ersterteilung Ausweisungsinteressen oberhalb der Schwelle des § 25 a Abs. 3 begründet, so kommt eine Verlängerung für diesen nicht in Betracht. Ehegatten, Lebenspartner einer gleichgeschlechtlichen Lebensgemeinschaft und minderjährige ledige Kinder sollten nicht von dem Fehlverhalten betroffen sein und grundsätzlich den Titel verlängert bekommen. Dies gilt nicht bei minderjährigen ledigen Kindern von Alleinerziehenden. Hier folgt das aufenthaltsrechtliche Schicksal dem allein personensorgeberechtigten Elternteil.
-Soweit vorgegebene Vorbehalte für die Verlängerung insbesondere bzgl. der Arbeitsaufnahme und/oder Lebensunterhaltssicherung nicht erfüllt werden, ist dies für junge Erwachsene immer unbeachtlich, wenn sich der Betroffene (bei Familien mindestens ein Elternteil)
-in einer Ausbildung befindet, die zu einem anerkannten schulischen oder beruflichen Bildungsabschluss oder einen Hochschulabschluss führt (sofern die Betroffenen erwerbstätig sind, genügt auch der Besuch einer Abendschule; Verlängerung für die Dauer der Ausbildung plus drei Monate, max. 2 Jahre);
+Soweit vorgegebene Vorbehalte für die Verlängerung insbesondere bzgl. der Arbeitsaufnahme und/oder Lebensunterhaltssicherung (nicht erfüllt werden,
+.. .ist.)dies für jungenicht
+Erwachsene
+erfüllt werden,
+immer ist dies
+unbeachtlich,
+für junge
+wenn sich
+Erwachsene
+der Betroffene
+immer
+unbeachtlich,
+(bei Familien wenn
+mindestens
+sich der
+einBetroffene
+Elternteil) in
+(bei
+einer
+Familien
+Ausbildung
+mindestens
+befindet,
+ein die zu
+Elternteil)
+einem anerkannten schulischen oder beruflichen
+Bildungsabschluss oderbefindet,
+in einer Ausbildung einen Hochschulabschluss
+die zu einem anerkannten führt (sofern die Betroffenen
+schulischen erwerbstätig
+oder beruflichen sind, genügt auch
+Bildungsabschluss oderder Besuch
+einen
+einer Abendschule; Verlängerung für die Dauer der Ausbildung plus drei Monate, max.
+Hochschulabschluss führt (sofern die Betroffenen erwerbstätig sind, genügt auch der Besuch einer Abendschule; Verlängerung für die Dauer der Ausbildung plus drei Monate, max. 2 Jahre);
 oder er
 einer Vollerwerbstätigkeit nachgeht (mind. 35 Wochenstunden, wobei auch verschiedene Tätigkeiten ausgeübt werden können), das Einkommen aber zur Sicherung der Bedarfsgemeinschaft nicht genügt (bei befristeten Verträgen oder während der Probezeit Verlängerung für die Dauer des Arbeitsvertrages bzw. der Probezeit plus drei Monate; im Übrigen regelmäßig drei Jahre) und dies auf Änderungen der persönlichen Verhältnisse (Eheschließung, Geburt eines Kindes) zurückzuführen ist.
 Eine Verlängerung erfolgt auch bei Alleinerziehenden, wenn und solange ein Kind unter zwei Jahren betreut wird bzw. bei zwei Elternteilen, wenn einer vollerwerbstätig ist (zur Begrifflichkeit s.o.; Verlängerung bis zur Vollendung des zweiten Lebensjahres plus drei Monate).

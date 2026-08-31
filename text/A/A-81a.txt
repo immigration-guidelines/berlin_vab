@@ -2,7 +2,7 @@ VAB A 81a
 VAB A 81a
 Inhaltsverzeichnis
 A.81a. Beschleunigtes Fachkräfteverfahren
-(BQFGModG; 18.11.2023; FEWG; 28.08.2025)
+(18.11.2023; FEWG; 28.08.2025; MDWG)
 81a.0. Grundsätzliches
 81a.1.1.1. Sachliche und örtliche Zuständigkeit
 81a.1.1.2 Beginn und Ende des Verfahrens
@@ -19,7 +19,7 @@ A.81a. Beschleunigtes Fachkräfteverfahren
 81a.4.
 81a.5.
 A.81a. Beschleunigtes Fachkräfteverfahren
-(BQFGModG; 18.11.2023; FEWG; 28.08.2025)
+(18.11.2023; FEWG; 28.08.2025; MDWG)
 81a.0. Grundsätzliches
 § 81a ist das Kernstück des Fachkräfteeinwanderungsgesetzes. Mit dem hier beschriebenen festgelegten Verfahren erhält der künftige Arbeitgeber im Zusammenspiel mit seiner künftigen Fachkraft und ggf. dessen nachzugswilligen Familienangehörigen die Möglichkeit, Verfahrensverzögerungen insbesondere beim Verfahren zur Anerkennung ausländischer Berufsqualifikationen sowie im Visumsverfahren zu umgehen, indem diese die Ausländerbehörde mit der Koordinierung der Verfahren beauftragen (vgl. zur Begründung vgl. Gesetzesentwurf BT/Drs. 19/8285, S. 108).
 Damit folgt der Gesetzgeber grundsätzlich dem auch im Land Berlin verfolgten Modell des Business Immigration Service (BIS) im Sinne einer „One-Stop-Agency“ als koordinierende Stelle. Für den zukünftigen Arbeitgeber ausländischer Fachkräfte werden hier alle Services der IHK, Berlin Partner, dem Bürgeramt und der Ausländerbehörde aus einer Hand angeboten. Das Inkrafttreten des Gesetzes wird deshalb zum Anlass genommen, diesen integrierten Ansatz auszubauen, indem auch die Bundesagentur für Arbeit sowie die Handwerkskammer als Partner mit eingebunden und der Service auch auf alle Fachkräfte, die den Katalog des § 81a Abs. 1 und 5 erfüllen, ausgeweitet werden.
@@ -52,8 +52,9 @@ entweder mit der Übermittlung der Vorabzustimmung und der Mitteilung an den Arb
 oder mit einer schriftlichen Mitteilung an den Arbeitgeber, warum die Vorabzustimmung nicht erfolgen kann. Letztere ist immer zu begründen. Im Rahmenvertrag ist deklaratorisch festgelegt, dass Arbeitgeber und Arbeitnehmer anerkennen, dass es sich bei der Vorabzustimmung nicht um einen Verwaltungsakt handelt, sondern um ein reines Verwaltungsinternum. Rechtsmittel sind nur gegen die Ablehnung der Erteilung des Visums möglich.
 Hierfür ist der Arbeitgeber mit der ablehnenden Mitteilung auf die zuständige Auslandsvertretung und die Notwendigkeit der Visumsbeantragung vor Ablehnung zu verweisen. Der Auslandsvertretung sind auf Anforderung die Unterlagen zu übersenden. Auch hierfür ist das Einverständnis im Rahmenvertrag zu geben.
 81a.1.2. Bevollmächtigung
-Die Vollmacht stellt die Fachkraft und ggf. ihre Familienangehörigen dem zukünftigen Arbeitgeber aus. Dieser kann darüber hinaus mittels Untervollmachten auch Relocation-Dienstleister bzw. Anwaltskanzleien beauftragen. Insbesondere zur Entlastung von kleinen und mittleren Unternehmen stellen die IHK, Berlin Partner sowie die HdwK auch für eine Koordinierung des Verfahrens als Unterbevollmächtigte zur Verfügung.
-Wird der Arbeitgeber von einem Rechtsanwalt vertreten, reicht es im Sinne der Verfahrensbeschleunigung aus, dass die Vollmacht anwaltlich versichert wird. Die Ausländerbehörde oder die Auslandsvertretung kann in Zweifelsfällen von dem Rechtsanwalt jederzeit verlangen, eine schriftliche Vollmacht nachzureichen.
+Die Vollmacht stellt die Fachkraft und ggf. ihre Familienangehörigen dem zukünftigen Arbeitgeber aus. Im Sinne der Verfahrensbeschleunigung genügt es, wenn der Arbeitgeber versichert, dass er durch den Ausländer bevollmächtigt ist und ggf. auch berechtigt ist, Untervollmacht zu erteilen. Der Arbeitgeber kann mittels
+Untervollmachten Relocation-Dienstleister bzw. Anwaltskanzleien beauftragen. Insbesondere zur Entlastung von kleinen und mittleren Unternehmen stellen die IHK, Berlin Partner sowie die HdwK auch für eine Koordinierung des Verfahrens als Unterbevollmächtigte zur Verfügung.
+Wird der Arbeitgeber von einem Rechtsanwalt vertreten, reicht es ebenfalls aus, dass die Vollmacht anwaltlich versichert wird. Die Ausländerbehörde oder die Auslandsvertretung kann in Zweifelsfällen verlangen, die schriftliche Vollmacht bzw. Untervollmacht nachzureichen.
 Sachverhaltsaufklärende Rückfragen direkt bei der Fachkraft bleiben zur Verfahrensbeschleunigung weiterhin möglich, sollen aber grundsätzlich über den Bevollmächtigten erfolgen. Sofern weitere Nachweise und Unterlagen nachgefordert werden sollen, muss dies jedoch ggf. zusätzlich schriftlich unter Einhaltung der Vollmachtslage erfolgen.
 Für die Vollmacht ist nach Rahmenvereinbarung das online abrufbare Muster zu verwenden.
 A.81a.2.1.-7.frei

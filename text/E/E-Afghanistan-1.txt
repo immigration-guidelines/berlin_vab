@@ -11,7 +11,7 @@ II. keine Zustimmungsvorlage an SenInnSport
 II.1. (Erst-)Erteilung der Duldung
 II. 2. Verlängerung der Duldung
 E.Afghan.1. Rückführung ausreisepflichtiger afghanischer Staatsangehöriger
-(24.11.2022, 12.02.2026)
+(12.02.2026, 06.05.2026)
 Derzeit liegt keine einheitliche Beschlusslage der ständigen Konferenz der Innenminister und-senatoren der Länder zu Rückführungen nach Afghanistan vor.
 Grundsätzlich vorrangiges Ziel vor einer Rückführung ist weiterhin die freiwillige Rückkehr. Den zur Rückkehr verpflichteten afghanischen Staatsangehörigen soll regelmäßig eine angemessene Frist eingeräumt werden, innerhalb derer sie ihre freiwillige Ausreise vorbereiten und ggf. unter Inanspruchnahme vorhandener Möglichkeiten der Rückkehrberatung, -förderung oder sonstiger rückkehrbegleitender Maßnahmen organisieren und durchführen können.
 Erst wenn sämtliche Voraussetzungen zur Durchsetzung der Ausreisepflicht vorliegen, ist zu prüfen, ob der Vorgang der für Inneres zuständigen Senatsverwaltung mit der Bitte um Zustimmung zur Abschiebung vorzulegen ist oder nicht. Im Umkehrschluss ist deshalb bei Ersterteilung der Duldung zunächst eine „Belehrungsduldung“ für 6 Monate nach § 60 a Abs. 2 S. 1 bei Passlosigkeit zu erteilen (vgl. VAB.A.60b).
@@ -20,10 +20,44 @@ I. Zustimmungsvorlage an SenInnSport
 Liegen die Voraussetzungen zur Durchsetzung der Ausreisepflicht vor, erfolgt durch die Ausländerbehörde ausschließlich in den folgenden Fällen eine Zustimmungsvorlage.
 Vorgänge von
 • Straftätern, wobei Strafen von weniger als 50 Tagessätzen bzw. 90 Tagessätzen (additiv) nach aufenthaltsrechtlichen Vorschriften (Bagatellgrenze) außer Betracht bleiben,
-• aufenthaltsrechtlichen Gefährdern
-• Personen, die sich hartnäckig der Identitätsfeststellung verweigern und / oder
-• Personen, für die eine Unterbringung im Rahmen des Maßregelvollzugs angeordnet wurde,
-sind unter Beifügung/Übermittlung der Ausländerakte und mit einem Anschreiben, in dem um Zustimmung zur beabsichtigten Abschiebung unter Darstellung des ausländerrechtlichen Werdeganges sowie ggf. in der Vergangenheit geltend gemachter Abschiebungshindernisse und deren Bewertung gebeten wird, der für Inneres zuständigen Senatsverwaltung über die Referatsleitung zu übersenden. Vor der Vorlage an die für Inneres zuständige Senatsverwaltung ist zu prüfen, ob der vollziehbar Ausreisepflichtige Opfer einer Gewaltstraftat im Zusammenhang mit Hasskriminalität mit erheblichen Folgen geworden ist und unter die Weisung A.60a.2.2. fällt. Das Prüfergebnis ist stets - auch bei negativem Befund – in dem Schreiben an die für Inneres zuständige Senatsverwaltung zu vermerken.
+• aufenthaltsrechtlichen Gefährdern, • Personen, die sich hartnäckig der Identitätsfeststellung verweigern und / oder •
+•Personen,
+Personen,für
+die
+die
+sich
+eine
+hartnäckig
+Unterbringung
+der im Rahmen
+Identitätsfeststellung
+des verweigern
+Maßregelvollzugs
+und / oder
+angeordnet wurde, sind unter
+• Personen,
+Beifügung/Übermittlung
+für die eine der
+Unterbringung
+Ausländerakte
+im und
+Rahmen
+mit des
+einem
+Maßregelvollzugs
+Anschreiben, in dem
+angeordnet
+um Zustimmung
+wurde, zur beabsichtigten
+Abschiebung unter Darstellung des ausländerrechtlichen Werdeganges sowie ggf. in der Vergangenheit geltend gemachter sind unter Beifügung/Übermittlung
+Abschiebungshindernisse der Ausländerakte
+und deren Bewertung unddermit
+gebeten wird, einem Anschreiben,
+für Inneres in dem um Zustimmung
+zuständigen Senatsverwaltung über die zur
+beabsichtigten Abschiebung unter Darstellung des ausländerrechtlichen Werdeganges sowie ggf. in der Vergangenheit Referatsleitung
+geltend zu übersenden.
+gemachter Abschiebungshindernisse und deren Bewertung gebeten wird, der für Inneres zuständigen Senatsverwaltung über die Referatsleitung zu übersenden. Vor der Vorlage an die für Inneres zuständige Senatsverwaltung ist zu prüfen, ob der vollziehbar Ausreisepflichtige Opfer einer Gewaltstraftat im Zusammenhang mit Hasskriminalität mit erheblichen Folgen geworden ist und unter die Weisung A.60a.2.2. fällt. Das Prüfergebnis ist stets - auch bei negativem Befund – in dem Schreiben an die für Inneres zuständige Senatsverwaltung zu vermerken.
 Liegen im Einzelfall weitere besondere Umstände vor, ist auf diese im Rahmen der Vorlage hinzuweisen.
 Als „hartnäckige“ Identitätsverweigerer gelten vollziehbar ausreisepflichtige afghanische Staatsangehörige, die mehr als zwei Identitäten benutzt oder mehrfach getäuscht haben und eine Aufklärung nicht selbst veranlasst bzw. unterstützt haben. Aliasidentitäten, die lediglich geringe Abweichungen in der Schreibweise des Namens, ansonsten aber identische Daten aufweisen, bleiben unberücksichtigt.
 Für die Dauer der Prüfung erhalten die Betroffenen eine Duldung auf der Grundlage des § 60a Abs. 2 S. 1 AufenthG für die Dauer von drei Monaten mit der auflösenden Nebenbestimmung
@@ -42,7 +76,7 @@ oder
 zu versehen.
 In den Fällen, in denen der Betroffene bisher unzureichend oder gar nicht bei seiner Identitätsklärung mitgewirkt hat, ist die Duldung zusätzlich mit dem rechtlichen Hinweis
 „Gültiges Reisedokument o. Nachweis über die Beantragung ist vorzulegen“
-zu versehen. Darüber hinaus ist das zur Verfügung stehende Schreiben „Hinweis zu E.Afghanistan.1. und E.Irak.2.“ vom Betroffenen zu unterschreiben. Der Betroffene erhält eine Durchschrift dieses Schreibens. Das unterschriebene Exemplar ist aktenkundig z u machen.
+zu versehen. Darüber hinaus ist das zur Verfügung stehende Schreiben „Hinweis E.Afghanistan.1. E.Syrien 2. E.Irak.2.“ vom Betroffenen zu unterschreiben. Der Betroffene erhält eine Durchschrift dieses Schreibens. Das unterschriebene Exemplar ist aktenkundig z u machen.
 Die freiwillige Ausreise nach Afghanistan bleibt mit dem sog. Transit Pass for Returning to Afghanistan weiterhin möglich, so dass eine Titelerteilung nach § 25 Abs. 5 AufenthG ausscheidet. Personen, bei denen sich allerdings schutzwürdige Belange ergeben, die eine freiwillige Ausreise faktisch hindern bzw. ein Abschiebungsverbot begründen können, können darauf hingewiesen werden, einen Asyl- (folge) Antrag beim BAMF zu stellen. Schutzwürdige Belange können sich etwa aus dem Umstand, dass es sich um Familien mit betreuungsbedürftigen oder kürzlich geborene Kindern, pflegebedürftige Personen, alleinstehende Frauen, gleichgeschlechtliche Paare oder minderjährige unbegleitete Kinder handelt, ergeben.
 4. Erneute Vorlage zur Zustimmung
 Erfolgt innerhalb der 18 Monate keine Passvorlage oder werden entsprechende nachhaltige und glaubhafte Bemühungen zur Passbeschaffung nicht nachgewiesen, erfolgt eine erneute Zustimmungsvorlage an die für Inneres zuständige Senatsverwaltung unter Hinweis auf die unterbliebene oder unzureichende Mitwirkung. Die für Inneres zuständige Senatsverwaltung prüft im Wege der Hausleitungsvorlage, ob eine hartnäckige Verweigerung der Identitätsfeststellung vorliegt, die eine Zustimmung zur Abschiebung rechtfertigen kann. Für die Dauer der Prüfung wird die Duldung auf der Grundlage des § 60a Abs. 2 S. 3 AufenthG für drei Monate und mit der zusätzlichen auflösenden Nebenbestimmung „Erlischt bei Zustimmung der für Inneres zuständigen Senatsverwaltung zur Rückführung“ sowie „Bei Eintritt der auflösenden Bedingung können Sie jederzeit abgeschoben werden“ verlängert.
@@ -57,4 +91,4 @@ oder
 zu versehen.
 II. 2. Verlängerung der Duldung
 Im Rahmen der Prüfung zur Verlängerung der Duldung sind die oben genannten vier Spiegelstriche, die eine Zustimmungsvorlage rechtfertigen, erneut zu prüfen. Liegen die Voraussetzungen vor, erfolgt erstmalig eine Zustimmungsvorlage an die für Inneres zuständige Senatsverwaltung. Von einer hartnäckigen Identitätsverweigerung ist dann auch dann auszugehen, wenn innerhalb von 18 Monaten nach Erteilung der Duldung nach § 60a Abs. 2 S. 3 AufenthG seitens des afghanischen Staatsangehörigen, der nicht im Besitz eines gültigen Identitätsdokumentes ist, keine Passvorlage erfolgt oder entsprechende nachhaltige und glaubhafte Bemühungen nicht glaubhaft gemacht werden. Die Pflichten des Ausländers ergeben sich aus der besonderen Passbeschaffungspflicht des § 60b Abs. 2 S. 1 und den sich aus der besonderen Passbeschaffungspflicht wiederum in § 60b Abs. 3 näher konkretisierten Pflichten (vgl. A.60b.2. – 60b.3.).
-Die freiwillige Ausreise nach Afghanistan bleibt mit dem sog. Transit Pass for Returning to Afghanistan weiterhin möglich, so dass eine Titelerteilung nach § 25 Abs. 5 AufenthG ausscheidet. Personen, bei denen sich allerdings schutzwürdige Belange ergeben, die eine freiwillige Ausreise faktisch hindern bzw. ein Abschiebungsverbot begründen können, können darauf hingewiesen werden, einen Asyl- (folge) Antrag beim BAMF zu stellen. Schutzwürdige Belange können sich etwa aus dem Umstand, dass es sich um Familien mit betreuungsbedürftigen oder kürzlich geborene n Kindern, pflegebedürftige Personen, alleinstehenden Frauen, gleichgeschlechtlichen Paaren oder minderjährige unbegleitete Kinder handelt, ergeben.
+Die freiwillige Ausreise nach Afghanistan bleibt mit dem sog. Transit Pass for Returning to Afghanistan weiterhin möglich, so dass eine Titelerteilung nach § 25 Abs. 5 AufenthG ausscheidet. Personen, bei denen sich allerdings schutzwürdige Belange ergeben, die eine freiwillige Ausreise faktisch hindern bzw. ein Abschiebungsverbot begründen können, können darauf hingewiesen werden, einen Asyl- (folge) Antrag beim BAMF zu stellen. Schutzwürdige Belange können sich etwa aus dem Umstand, dass es sich um Familien mit betreuungsbedürftigen oder kürzlich geborenen Kindern, pflegebedürftige Personen, alleinstehenden Frauen, gleichgeschlechtlichen Paaren oder minderjährige unbegleitete Kinder handelt, ergeben. </span>

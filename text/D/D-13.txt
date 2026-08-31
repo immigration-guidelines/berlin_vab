@@ -1,88 +1,22 @@
 VAB D 13
 VAB D 13
 Inhaltsverzeichnis
-D.13. Asylantrag
-13.s.1.
-13.s.2. Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom 18.02.2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist (Dublin II)
-13.s.3. Verordnung (EG) Nr. 604/2013 des Rates der Europäischen Union vom 26.06.2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Dublin III)
-Verfahren bei freiwilliger Ausreise in den Mitgliedstaat
-Rückführungen nach Italien
-Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
-D.13. Asylantrag
-(2. ÄndGAusreisepflicht; 14.10.2021; 17.02.2025)
+D.13. Stellung eines Asylantrags
+13.s.1. Verordnung (EU) Nr. 2024/1351 des Europäischen Parlaments und des Rates vom 14.05.2024 über Asyl- und Migrationsmanagement (AMM-VO)
+13.s.2.
+13.s.3.
+D.13. Stellung eines Asylantrags
+(2. ÄndGAusreisepflicht; 17.02.2025; GEASAnpassG; 12.06.2026)
 Anlage
-13.1. Mit Umsetzung der Richtlinie 2011/95/EU beinhaltet ein formloser Asylantrag i.S.d. § 13 neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst den Flüchtlingsschutz und den subsidiären Schutz nach der Richtlinie 2011/95/EU. Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und Flüchtling im Sinne des § 3 nicht erfüllt sind. Die Prüfung des subsidiären Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
-Beruft sich der Ausländer auf subsidiären Schutz im Sinne des § 4, liegt die Zuständigkeit für die Prüfung und Entscheidung – da es sich um Asylanträge handelt – ausschließlich beim BAMF. Für Entscheidungen über inlandsbezogene Abschiebungsverbote nach § 60 Abs. 5 und 7 AufenthG ist die Ausländerbehörde zuständig.
-13.2. Grundsätzlich erfolgt eine einheitliche Antragstellung, eine Beschränkung des Antrags auf die Gewährung internationalen Schutzes im Sinne der Richtlinie 2011/95/EU ist möglich. Die Belehrungspflicht trifft ausschließlich das Bundesamt.
-13.3. Mit § 13 Abs. 3 Satz 3 hat der Gesetzgeber nunmehr klargestellt, dass ein Ausländer, der ein Asylgesuch äußert, bzw. sein gesetzlicher Vertreter oder (Amts-) Vormund im Anschluss unverzüglich – ohne schuldhaftes Zögern – einen Asylantrag stellen muss. In der Praxis wird nach D.14.2.1.3 eine befristete U18-Bescheinigung ausgestellt. Eine Verlängerung der U18-Bescheinigung oder des Ankunftsnachweises über den vom BAMF angebotenen Termin hinaus kommt nicht in Betracht.
-13.s.1.
-13.s.2. Verordnung (EG) Nr. 343/2003 des Rates der Europäischen Union vom
-18.02.2003 zur Festlegung der Kriterien und Verfahren zur Bestimmung des
-Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in
-einem Mitgliedstaat gestellten Asylantrags zuständig ist (Dublin II)
-Stellt ein Drittausländer in einem der Vertragsstaaten des Dubliner Übereinkommens (DÜ) einen Asylantrag, wird über diesen unter Berücksichtigung der im einzelnen festgelegten Zuständigkeitsregelungen nur von einem Staat entschieden, mit der Folge, dass der danach zuständige Staat den Ausländer für das Asylverfahren übernehmen muss, wenn dieser den Antrag in einem nicht zuständigen Staat gestellt hat. Allerdings muss das Übernahmeersuchen binnen 3 Monaten nach Stellung des Asylantrages erfolgen (soweit Dublin III Anwendung findet - s. nachfolgend 13.s.3.-, im Falle einer EURODAC-Treffermeldung innerhalb von 2 Monaten nach Erhalt der Treffermeldung). Wird das Gesuch um Auf-/Übernahme nicht innerhalb der Frist von drei resp. zwei Monaten unterbreitet, so ist der Mitgliedstaat, in dem der letzte Asylantrag gestellt wurde, für die Prüfung zuständig (Art. 17 Abs. 1 DÜ II resp. Art. 21 Abs. 1 DÜ III). Die in der Anlage beigefügte Dublin-II-Verordnung galt für alle Gesuche um Aufnahme oder Wiederaufnahme von Asylbewerbern, die ihren Asylantrag in Deutschland oder einem anderen Signatarstaat seit dem 01.09.2003 gestellt hatten. Damit löste sie das DÜ vom 15.06.1990 in allen Mitgliedstaaten der Europäischen Union sowie in Norwegen und Island ab (Anwendung durch Dänemark erst seit dem 01.04.2006). Der Geltungsbereich dieser Verordnung wie auch der Dublin-III-Verordnung ist deckungsgleich mit dem der EURODAC-VO (s. A.49. S.1.). Im AsylG wird an mehreren Stellen auf Zuständigkeitsregelungen auf Grund eines völkerrechtlichen Vertrages hingewiesen. Für die Anwendung der Vorschriften des AsylG, die indirekt das Dubliner Übereinkommen in Bezug nehmen (§§ 18 Abs. 4 Nr. 1, 22 a S. 1, 26 a Abs. 1 Nr. 2, 34a Abs. 1 S. 2, 71 a Abs. 1 sowie 88 Abs. 1 AsylG), kommt die Dublin - II rsp. III - Verordnung zur Anwendung. Völkerrechtlicher Vertrag im Sinne der genannten Vorschriften ist somit die Dublin - II resp. III - Verordnung. Die Ausführung der Verordnung obliegt dem Ref. 32A des BAMF.
-Dublin II stellte einen weiteren Schritt auf dem Weg zu einem gemeinsamen europäischen Asylsystem mit dem Ziel der Garantie der Behandlung von Asylbegehren einerseits und der Vermeidung der Durchführung von mehreren Asylverfahren andererseits dar und beinhaltete weitere über das DÜ hinausgehende Zuständigkeitskriterien:
-Für begleitete bzw. nachgeborene Minderjährige ist der Mitgliedstaat zuständig, der für das Verfahren des Elternteils bzw. Vormunds zuständig ist, auch dann, wenn für das Kind kein Asylantrag gestellt wurde -Art. 4 Abs. 3-. Für unbegleitete Minderjährige ist der Staat zuständig, in dem sich ein Familienangehöriger rechtmäßig aufhält (sofern dies im Interesse des Minderjährigen liegt). Ist kein Familienangehöriger anwesend, ist der Staat zuständig, in dem der Antrag gestellt wurde -Art. 6 Abs. 1 und 2-. Nach einer Entscheidung des EuGH vom 06.06.2013 – C 648/11 – ist Art. 6 Abs. 2 der Dublin II-Verordnung bei einem unbegleiteten Minderjährigen, der keinen sich im Hoheitsgebiet eines Mitgliedstaates rechtmäßig aufhaltenden Familienangehörigen hat und in mehr als einem Mitgliedstaat einen Asylantrag gestellt hat, derjenige Mitgliedstaat zuständig, in dem der Minderjährige sich aufhält, nachdem er dort seinen letzten Asylantrag gestellt hat.
-Hält sich ein Familienangehöriger in einem anderen Mitgliedstaat auf, über dessen Asylantrag noch keine erste Sachentscheidung getroffen wurde, so ist dieser Staat auch für den im Inland Asylantragstellenden zuständig (sofern vom Antragsteller und dem Familienangehörigen gewünscht) -Art. 8-.
-Ist der Einreisestaat nicht bekannt bzw. ist ein Mitgliedstaat nicht oder nicht mehr zuständig und hat sich ein Asylbewerber vor seiner Antragstellung nachweislich mind. 5 Monate in einem Mitgliedstaat aufgehalten, so ist dieser zuständig. Bei mind. 5 Monaten Aufenthalt in verschiedenen Mitgliedstaaten ist der letzte Staat zuständig -Art. 10 Abs. 2-.
-Bei zeitnaher Antragstellung mehrerer Familienmitglieder hat der Mitgliedstaat die Zuständigkeit zu übernehmen, der für den größten Teil der Familie zuständig ist; anderenfalls ist der Mitgliedstaat zuständig, der für das Verfahren des ältesten Familienmitgliedes zuständig ist -Art. 14 a) + b).
-Die Zuständigkeitskriterien und deren Rangfolge einschl. der schon mit dem DÜ geschaffenen Zuständigkeiten (z.B. bei noch gültiger oder weniger als 2 Jahre ungültigen AE) sind im Kapitel III in den Art. 5 –14 festgehalten. Die Grundsätze zur Aufnahme und Wiederaufnahme von Asylbewerbern und ehemaligen Asylbewerbern sowie die dabei zu beachtenden Fristen sind im Kapitel V in den Art. 16 – 20 geregelt. Insbesondere zu beachten ist hier Art. 17 Abs. 1, wonach das Gesuch um Aufnahme bzw. Wiederaufnahme so bald wie möglich, in jedem Fall aber innerhalb von drei Monaten nach Einreichung des Antrages zu stellen ist. Wird diese Frist versäumt, geht die Zuständigkeit auf den Mitgliedstaat über, in dem der Antrag gestellt wurde.
-Voraussetzung für den Einstieg des BAMF in ein Prüfverfahren nach der Dublin II-Verordnung ist – zusätzlich zum positiven EURODAC-Treffer - das Vorliegen eines Asylgesuchs.
-13.s.3. Verordnung (EG) Nr. 604/2013 des Rates der Europäischen Union vom
-26.06.2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des
-Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder
-Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz
-zuständig ist (Dublin III)
-Mit der VO (EU) Nr. 604/2013 (Abl.-EU L 180/31 v. 29.06.2013) – Dublin-III-VO - wird die Einführung eines Gemeinsamen Europäischen Asylsystems (GEAS) eingeleitet, das neben der Dublin-III-VO noch die „Verfahrensrichtlinie“, die „Aufnahmerichtlinie“ und die EURODAC-VO umfasst. Anders als Dublin III werden die Änderungen in der Verfahrens- und Aufnahmerichtlinie sowie der EURODAC-VO erst in 2015 wirksam.
-Durch die Dublin-III-VO wird die bisherige Dublin-II-VO grundsätzlich aufgehoben und ersetzt und das Dublin-Zuständigkeitssystem über Asylanträge hinaus auf Anträge auf internationalen Schutz (§§ 3 und 4) ausgeweitet. Neben der Ausdehnung des Anwendungsbereichs beinhaltet Dublin-III div. detaillierte Bestimmungen zum Verfahrensablauf, führt weitere Definitionen ein (Art. 2), verstärkt den Schutz Minderjähriger (Art. 6), dehnt das Recht auf Information aus (Art.4), regelt Fristen neu (Art. 21, 23, 28), schreibt ein innerstaatliches Rechtsmittelverfahren vor (Art. 27) und regelt in Umsetzung entsprechender EuGH-Rechtsprechung, dass nicht in einen anderen Mitgliedstaat überstellt werden darf, wenn dort Menschenrechtsverletzungen drohen (Art. 3).
-Dublin III ist am 19.07.2013 in Kraft getreten und ist gem. Art. 49 ab dem 01.01.2014 unmittelbar anzuwenden bei allen Anträgen, die ab diesem Zeitpunkt gestellt werden, unabhängig davon, ob bereits vor dem 01.01.2014 in einem anderen Signatarstaat ein Antrag gestellt wurde. Für früher eingereichte Anträge auf internationalen Schutz wird der zuständige Staat nach den Kriterien der Dublin-II-VO bestimmt.
-Dänemark hat sich an der Annahme der Dublin-III-VO nicht beteiligt, so dass im Verhältnis zu Dänemark weiterhin die Dublin-II-VO (s. vorstehend 13.s.2.) Anwendung findet.
-Zur Gliederung der Dublin-III-VO:
-Kapitel I Gegenstand und Definitionen Art. 1 - 2
-Kapitel II Allgemeine Grundsätze und Schutzgarantien Art. 3 - 6
-Kapitel III Kriterien zur Bestimmung des zuständigen Mitgliedstaats Art. 7 - 15
-Kapitel IV Abhängige Personen und Ermessensklauseln Art. 16 - 17
-Kapitel V Pflichten des zuständigen Mitgliedstaats Art. 18 - 19
-Kapitel VI Aufnahme- und Wiederaufnahmeverfahren Art. 20 - 33
-Kapitel VII Informationsaustausch Art. 34 - 36
-Kapitel VIII Schlichtung Art. 37
-Kapitel IX Übergangs- und Schlussbestimmungen Art. 38 - 49 (Berechnung der Fristen Art. 42)
-Zuständigkeitskriterium Dublin-II Dublin-III
-Unbegleitete Minderjährige Art. 6 Art. 8
-Familienzusammenführung Art. 7, 8, 14 Art. 9, 10, 11
-Ausstellerstaat AT Art. 9 Abs. 1 Art. 12 Abs. 1
-Ausstellerstaat Visum Art. 9 Abs. 2 Art. 12 Abs. 2
-Illegale Ersteinreise Art. 10 Art. 13
-Visumfreie Ersteinreise Art. 11 Art. 14
-Erstantrag im Transitbereich Art. 12 Art. 15
-Hilfsweise Erstantragsstaat Art. 13 Art. 3 Abs. 2
-Selbsteintrittsrecht Art. 3 Abs. 2 Art. 17 Abs. 1
-Begibt sich eine Person, für deren Asylverfahren ein anderer Dublin-Staat zuständig ist, in Deutschland ins Kirchenasyl, übt das BAMF das Selbsteintrittsrecht nur aus, wenn die aufnehmende Kirche das BAMF am Tag des Eintritts in das Kirchenasyl unterrichtet und darüber hinaus vom BAMF eine besondere, unverhältnismäßige Härte bejaht wird. Allein die Tatsache, dass der Asylantrag bereits in einem anderen Mitgliedstaat abgelehnt wurde, ist kein ausreichender Grund für die Gewährung von Kirchenasyl in Deutschland.
-Auf der IMK im Juni 2018 wurde beschlossen, dass ab dem 01.08.2018 die 18-monatige Überstellungsfrist nach Art. 29 Abs. 2 DÜ III zugrunde gelegt wird, wenn die Vorgaben des BAMF im Rahmen von Kirchenasylmeldungen nicht eingehalten werden.
-Zum Dublin III-Verfahren und der Frage, welches Dokument vor bzw. nach dem Ablauf der Überstellungsfrist auszustellen ist, siehe VAB D 55.0.2.
-Verfahren bei freiwilliger Ausreise in den Mitgliedstaat
-Das Bundesamt stellte in der Sitzung der UAG BAMF am 12.05.2014 klar, dass der deutsche Gesetzgeber sich mit dem neuen § 34a für eine kontrollierte Ausreise entschieden hat. Gleichwohl prüft das BAMF in geeigneten Einzelfällen, ob eine freiwillige Rücküberstellung ermöglicht werden kann.
-Voraussetzung hierfür ist, dass der Betroffene oder Dritte die hierfür anfallenden Reisekosten übernehmen. Eine Finanzierung aus dem REAG/GARP-Programm ist in diesen Fällen nicht möglich.
-Im Falle einer freiwilligen Ausreise hat der Antragsteller die Kosten zu tragen. Eine freiwillige Ausreise kann nur in enger Abstimmung zwischen BAMF, ABH und dem jeweiligen Mitgliedstaat erfolgen und bedarf daher der Zustimmung des BAMF. Der Ankunftstermin ist dem Mitgliedstaat mitzuteilen, ein durch das BAMF ausgestellter Laissez-Passer wird benötigt sowie ein Ausreisenachweis (GÜB) um sicherzustellen, dass die freiwillige Rücküberstellung tatsächlich stattgefunden hat. Es sollte außerdem gewährleistet sein, dass im Falle einer Weigerung der freiwilligen Rücküberstellung, innerhalb der Dublin-Frist noch ausreichend Zeit für eine zwangsweise Rücküberstellung bleibt.
-Das BAMF hat in diesem Zusammenhang die Empfehlung ausgesprochen, Fahrkarten oder Flugtickets erst dann zu kaufen, wenn die Zustimmung des BAMF vorliegt.
-Rückführungen nach Italien
-Aufgrund höchstrichterlicher Rechtsprechung durch den Europäischen Gerichtshof für Menschenrechte und durch das Bundesverfassungsgericht (EGMR Tarakhel / Schweiz, Urteil vom 04.11.2014, Nr. 29217/12 und BVerfG, Beschluss vom 17.09.2014 - 2 BvR 939/14) beschränkte das Bundesamt im Fall von Italien die Durchführung des Dublin-Verfahrens bei Familien mit minderjährigen Kindern auf Fälle von Familien mit Kindern ab 16 Jahren.
-Inzwischen hat sich die Aufnahmekapazität in Italien insgesamt erhöht sowie für Familien mit minderjährigen Kindern als ausreichend erwiesen. Auch die von Italien gegebenen Zusicherungen für diesen Personenkreis bezüglich Aufnahme und Unterkunft (kindgerecht und ohne Trennung der Familie voneinander) wurden bei der Durchführung von Dublin-Verfahren durch andere Mitgliedstaaten als zuverlässig und rechtskonform angesehen. Der Europäische Gerichtshof für Menschenrechte bestätigte, dass die von den italienischen Behörden abgegebenen Garantien für die Unterbringung von Familien als ausreichend anzusehen sind (EGMR Ali / Schweiz und Italien, Urteil vom 04.10.2016, Nr. 30474/14). Vor diesem Hintergrund führt das Bundesamt Dublinverfahren auch betreffend Familien mit Kindern (mit Ausnahme von Säuglingen und Kleinstkindern) nach Italien ab dem 01.06.2017 wieder durch.
-Diese Ausführungen gelten grundsätzlich auch für Rückführungen nach dem Rückübernahmeübereinkommen. Allerdings ist bei einem Familienverbund mit Säuglingen und Kleinstkindern stets eine Anfrage an das BAMF nach § 72 Abs. 2 AufenthG zu stellen. Die Betroffenen erhalten währenddessen eine Duldung.
-Interne Zuständigkeiten des BAMF für die Bearbeitung von Überstellungen
-Für das Überstellungsverfahren gelten - weggefallen- folgende Zuständigkeiten:
-BAMF Nürnberg - Referat 32A:
-Operative Steuerung des Dublinverfahrens
-EURODAC-Angelegenheiten
-Kirchenasyl im Dublinverfahren
-BAMF Nürnberg – Referat 32B:
-Bearbeitung, Prüfung und Entscheidung von Ersuchen um Übernahme aus den Dublin-Mitgliedstaaten an die Bundesrepublik Deutschland
-Planung und Koordination des Überstellungsverfahrens aus den Mitgliedstaaten an die Bundesrepublik Deutschland inklusive der Abstimmung mit den beteiligten Behörden (BPOL, ABH etc.)
-Beantwortung von Anfragen der Mitgliedstaaten gem. Art. 34 Dublin-III-Verordnung an die Bundesrepublik Deutschland BAMF Nürnberg - Referat 32C:
-Koordinierung und Prüfung der rechtlichen Voraussetzungen für Übersetllungen in die Mitgliedsstaaten inklusive der Abstimmung mit den beteiligten Behörden (BPOL, ABH, Mitgliedsstaat etc.)
-Koordinierung von Überstellungen aus Abschiebehaftanstalten (insbesondere in Aufgriffsverfahren) Korrdinierung und Organisation von Chartermaßnahmen im Dublinverfahren
-fachlichen Begleitung von Prozessverfahren hinsichtlich überstellungsrelevanter Sachverhalte
-Dublinzentren Berlin (Ref. 32D), Dortmund (Ref. 32E) und Bayreuth (Ref. 32F):
-Koordination, Planung und Abstimmung sämtlicher Überstellungsverfahren von der Bundesrepublik Deutschland an die Mitgliedstaaten.
-Haft- und Aufgriff-Fälle, in denen ein anderer Dublin-Mitgliedstaat zuständig ist und ein Schutzersuchen geäußert wurde sowie Haft- und Aufgriff-Fälle, in denen kein Schutzersuchen gestellt wurde
-Weiterleitung von Akten ins nationale Verfahren nach Abbruch, Einstellung oder Beendigung des Dublin-Verfahrens jedes Zentrum ist für festgelegte Bundesländer zuständig; Berliner Fälle werden vom Referat 32D bearbeitet
+13.1. Mit Umsetzung der ...weggefallen.. Verordnung (EU) 2024/1347. beinhaltet ein formloser Asylantrag i.S.d. § 13 neben dem Antrag auf Gewährung der Asylberechtigung nach Art. 16a GG grundsätzlich auch den Antrag auf Zuerkennung von internationalem Schutz. Dieser Antrag umfasst die Rechtstellung der Flüchtlinge und den subsidiären Schutz nach der Verordnung (EU) 2024/1347. Der Asylantrag kann durch den Ausländer auf die Zuerkennung des internationalen Schutzes beschränkt werden. Die Belehrungspflicht trifft ausschließlich das BAMF. Der subsidiäre Schutz kann nur gewährt werden, wenn die Voraussetzungen für die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft nicht erfüllt sind. Die Prüfung des subsidiären
+Schutzes setzt eine Prüfung und Verneinung sowohl der Asylberechtigung als auch der Flüchtlingsanerkennung voraus, solange der Antrag nicht ausdrücklich beschränkt wird.
+Beruft sich der Ausländer auf subsidiären Schutz, liegt die Zuständigkeit für die Prüfung und Entscheidung – da es sich um Asylanträge handelt – ausschließlich beim BAMF. Für Entscheidungen über inlandsbezogene Abschiebungsverbote nach § 60 Abs. 5 und 7 AufenthG ist die Ausländerbehörde zuständig.
+13.2. Bei unerlaubter Einreise hat sich der Ausländer unverzüglich zwecks Asylantragstellung bei einer Aufnahmeeinrichtung, der Ausländerbehörde oder der Polizei zu melden.
+13.3.
+13.s.1. Verordnung (EU) Nr. 2024/1351 des Europäischen Parlaments und des
+Rates vom 14.05.2024 über Asyl- und Migrationsmanagement (AMM-VO)
+Die AMM-VO ist Kernstück des Gemeinsamen Europäischen Asylsystems (GEAS), das ab 12.06.2026 die Dublin-III-VO (Verordnung (EU) 604/2016 vom 26.06.2013) ersetzt. Neben einem Solidaritätsmechanismus zur Lastenverteilung, zielt sie auf die Eindämmung von Sekundärmigration und die Beschleunigung von Verfahren ab. Die Verordnung regelt verbindlich, welcher Mitgliedstaat für Asylverfahren zuständig ist.
+Hinsichtlich des Zuständigkeitsbestimmungsverfahrens (ZBV) liegt wie zuvor beim Dublin-Verfahren die Zuständigkeit beim BAMF.
+Zum Zustimmungsbestimmungsverfahren und der Frage, welches Dokument vor bzw. nach dem Ablauf der Überstellungsfrist auszustellen ist, siehe D.55.0.2.
+13.s.2.
+13.s.3.

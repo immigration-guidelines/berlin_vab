@@ -2,7 +2,7 @@ VAB S.12a.
 VAB S.12a.
 Inhaltsverzeichnis
 Entscheidung bei Straffälligkeit
-(27.06.2024 StARModG, 26.09.2024, 03.02.2025)
+(27.06.2024 StARModG, 03.02.2025, 03.03.2026)
 12a.1. Einbürgerungsunschädliche Verurteilungen
 12a.1.1. Bagatellgrenzen
 12a.1.1.1. Verfehlungen Jugendlicher, die nicht mit Jugendstrafe geahndet werden
@@ -16,7 +16,7 @@ Entscheidung bei Straffälligkeit
 12a.3. Aussetzung der Entscheidung
 12a.4. Aufführen ausländischer Straf- und Ermittlungsverfahren
 Entscheidung bei Straffälligkeit
-(27.06.2024 StARModG, 26.09.2024, 03.02.2025)
+(27.06.2024 StARModG, 03.02.2025, 03.03.2026)
 12a.1. Einbürgerungsunschädliche Verurteilungen
 Gemäß § 12a Absatz 1 bleiben bestimmte Verurteilungen wegen Straftaten bei Einbürgerungen außer Betracht. Sofern aus dem BZR Strafen ersichtlich sind, die der Einbürgerung entgegenstehen, ist zugunsten des Antragstellers die Rücknahme des Einbürgerungsantrages zu empfehlen und es ist auf die Möglichkeit der erneuten Antragstellung nach Ablauf der Tilgungsfrist hinzuweisen.
 12a.1.1. Bagatellgrenzen
@@ -33,9 +33,10 @@ Bei rechtskräftigen Verurteilungen, die sonst nach § 12a Abs. 1 S. 1 außer Be
 Bei mehreren Verurteilungen (Geld- oder Freiheitsstrafe) sind diese zusammen zu zählen. Bei Bildung einer Gesamtstrafe, die niedriger ist als die Kumulierung, ist die niedrigere Gesamtstrafe der Maßstab.
 Bei einem Zusammentreffen von Geld- und Freiheitsstrafen entspricht ein Tagessatz einem Tag Freiheitsstrafe.
 12a.1.4. Ermessen bei Geringfügigkeit
-Eine Ermessensentscheidung bei geringfügiger Überschreitung des Strafrahmens kommt nur bei S.12.a.1.1.1. (Verfehlungen Jugendlicher, die nicht mit Jugendstrafe geahndet werden) und S.12a.1.1.2. (Geldstrafen) sowie S.12a.1.3. (Kumulierung) in Betracht.
-Geringfügig ist die Überschreitung, wenn die Strafe oder die Summe der Strafen die Bagatellgrenze um nicht mehr als 21 Tagessätze beziehungsweise drei Wochen Freiheitsstrafe übersteigt.
+Eine Ermessensentscheidung bei geringfügiger Überschreitung des Strafrahmens kommt nur bei
+S.12a.1.1.2. (Geldstrafen), S.12a.1.1.3. (Freiheitsstrafen) sowie S.12a.1.3. (Kumulierung) in Betracht. Geringfügig ist die Überschreitung, wenn die Strafe oder die Summe der Strafen die Bagatellgrenze um nicht mehr als 21 Tagessätze beziehungsweise drei Wochen Freiheitsstrafe übersteigt.
 In diesen Fällen kann die Strafe außer Betracht bleiben, wenn zum Beispiel die Sozialprognose des Einbürgerungsbewerbers günstig ist, seine Integration im Übrigen gut ist (zum Beispiel er seinen Unterhalt selbst bestreiten kann) oder eine Tilgung der Verurteilung in nächster Zeit zu erwarten ist.
+Merke: Erziehungsmaßregeln oder Zuchtmitteln nach dem Jugendgerichtsgesetz gemäß Nr. 1 sind keine Strafen im Sinne von § 12a Abs. 1 Satz 4, so dass es hier auf eine Geringfügigkeit nicht ankommt; sie sind nach Satz 1 Nr. 1 daher stets unbeachtlich. Darunter fällt auch das Zuchtmittel Jugendarrest nach § 16 JGG, da dieser maximal für die Dauer von 4 Wochen, also 28 Tage, angeordnet werden kann. Einbürgerungshindernd ist somit nur eine Verurteilung zur Jugendstrafe, da hier das Mindestmaß 6 Monate Freiheitsentzug ist.
 12a.1.5. Ermessen bei Anordnung einer Maßregel der Besserung und Sicherung
 Maßregeln der Besserung und Sicherung sind nur dann beachtlich, wenn sie anstatt einer Strafe angeordnet worden sind, weil der Einbürgerungsbewerber bei Begehung der Tat schuldunfähig war.
 Nach § 12a Absatz 1 Satz 4 können nur Maßregeln nach § 61 Nummer 5 (Entziehung der Fahrerlaubnis) und 6 (Berufsverbot) StGB im Einzelfall außer Betracht bleiben.

@@ -23,7 +23,7 @@ Beschäftigung für Studienbewerber
 16b.3.2.2. Praktika und Hospitationen
 16b.3.2.3. selbstständige Tätigkeit
 16b.4. Wechsel des Aufenthaltszwecks/Niederlassungserlaubnis
-16b.4.1. Zweckwechsel ohne erfolgreichen Abschluss des Studiums. 153
+16b.4.1. Zweckwechsel ohne erfolgreichen Abschluss des Studiums. 156
 16b.4.1.4 Studiengangwechsel
 16b.4.1.5. zulässige Schwerpunktverlagerung
 16b.4.1.6. zulässiges Aufbau-, Zusatz- oder Ergänzungsstudium
@@ -105,7 +105,7 @@ Soweit gemäß VAB A.16f.3. ein Zweckwechsel von einem Sprachaufenthalt nach § 
 Der Nachweis der Sprachkenntnisse wird zur Vermeidung unnötiger Doppelprüfungen von uns grundsätzlich nicht verlangt, da die Berliner Hochschulen einen solchen Nachweis bereits zur Bedingung für die Zulassung machen bzw. diese Sprachkenntnisse im Rahmen einer studienvorbereitenden Maßnahme zunächst erworben werden sollen. Abs. 1 S. 4 ist damit praktisch nicht von Bedeutung.
 16b.2. Gültigkeitsdauer der Aufenthaltserlaubnis
 16b.2.1. Die Aufenthaltserlaubnis zum Zweck des Studiums und auch den studienvorbereitenden
-Maßnahmen (Pflichtpraktikum, Sprachkurs und Studienkolleg) soll in der Regel für zwei Jahre erteilt und verlängert werden. Bei einer Aufenthaltserlaubnis zum Studium ist eine Gültigkeit aber auch für mehr als zwei Jahre möglich. Nur ausnahmsweise soll die Geltungsdauer ein Jahr oder weniger betragen, z.B. bei einjährigen Studiengängen oder bei begründeten Zweifeln an ausreichenden Studienfortschritten. (vgl. § 16b Abs. 2 S. 1) Die Aufenthaltserlaubnis ist mit der folgenden Nebenbestimmung zu erteilen:
+Maßnahmen (Pflichtpraktikum, Sprachkurs und Studienkolleg) soll in der Regel für zwei Jahre erteilt und verlängert werden. Bei einer Aufenthaltserlaubnis zum Studium ist eine Gültigkeit aber auch für mehr als zwei Jahre möglich. Nur ausnahmsweise soll die Geltungsdauer ein Jahr oder weniger betragen, z.B. bei einjährigen Studiengängen oder bei begründeten Zweifeln an ausreichenden Studienfortschritten. (vgl. § 16b Abs. 2 S. 1 sowie zur Geltungsdauer... zu ) Die Aufenthaltserlaubnis ist mit der folgenden Nebenbestimmung zu erteilen:
 „AE erlischt mit der Beendigung des Studiums an einer staatlich anerkannten Hochschule ohne Hochschulabschluss“. Zudem ist § 59 Abs. 4a AufenthV zu beachten und in allen Fällen des § 16b Abs. 1 stets ergänzend „Student“ einzutragen.
 16b.2.2. Steht das Studium in Zusammenhang mit einem Unions- oder multilateralen Programm mit Mobilitätsmaßnahmen oder einer Vereinbarung zwischen zwei oder mehr Hochschuleinrichtungen, ist die Aufenthaltserlaubnis darüber mit der Nebenbestimmung „Studium im Rahmen des Programms…“ unter Benennung des Programms oder der Vereinbarung zu versehen (z.B. „Studium im Rahmen des Programms IES Abroad“.
 Das BAMF als nationale Kontaktstelle nach § 91d für die REST-Richtlinie führt eine Datenbank zu den entsprechenden Programmen und Vereinbarungen.
@@ -116,7 +116,30 @@ Voraussetzung ist einerseits, dass noch kein Abschluss erworben wurde und andere
 Die Aufenthaltserlaubnis zur Fortsetzung des Studiums ist grundsätzlich nur zu verlängern, wenn ausreichende Studienfortschritte vorliegen. und der Abschluss des Studiums in einem angemessenen Zeitraum erreicht werden kann. Ausreichende Studienfortschritte liegen regelmäßig vor, solange der Ausländer die durchschnittliche Studiendauer in dem jeweiligen Studiengang um nicht mehr als drei Bonus-Semester überschreitet. Die Hochschule teilt die durchschnittliche Fachstudiendauer in den einzelnen Studiengängen der Ausländerbehörde auf Anfrage mit. Bei der Berechnung der Fachsemesterzahl bleiben Zeiten der Studienvorbereitung (z.B. Sprachkurse, Studienkollegs, Praktika) außer Betracht. Wird bei der Verlängerung der Aufenthaltserlaubnis festgestellt, dass mit Ablauf der Geltungsdauer der zu verlängernden Aufenthaltserlaubnis der oben beschriebene zeitliche Rahmen erreicht oder - ggf. erneut - überschritten wird, wird in das Zusatzblatt der
 „Zur Verlängerung zu Studienzwecken ist eine Studienprognose erforderlich.“
 eingetragen.
-16b.2.5. Satz 5 setzt Art. 21 Abs. 3 der REST-RL in nationales Recht um. Um eine sachgerechte Entscheidung über die Verlängerung der Aufenthaltserlaubnis sicherzustellen, kann die Bildungseinrichtung bei der Frage, ob ein ordnungsgemäßes Studium vorliegt, Studienfortschritte erzielt werden und daher das Studium in angemessener Zeit noch abgeschlossen werden kann, beteiligt werden. Vor dem Hintergrund des unverändert geltenden § 87 Abs. 1, der Bildungseinrichtungen wie Hochschulen von Übermittlungspflichten ausnimmt, sind Studienprognosen nach wie vor vorrangig über den ausländischen Studierenden zu verlangen. Ihn trifft eine Mitwirkungspflicht, § 82 Abs. 1 S. 3. In Einzelfällen kann eine Studienprognose bereits dann gefordert werden, wenn aufgrund der bisherigen Leistungen bzw. des Studienverlaufs Zweifel bestehen, dass das Studium innerhalb des oben genannten Zeitrahmens (durchschnittliche Studiendauer + 3 Bonussemester) abgeschlossen werden kann.
+16b.2.5. Satz 5 setzt Art. 21 Abs. 3 der REST-RL in nationales Recht um. Um eine sachgerechte Entscheidung über die Verlängerung der Aufenthaltserlaubnis sicherzustellen, kann die Bildungseinrichtung bei der Frage, ob ein ordnungsgemäßes Studium vorliegt, Studienfortschritte erzielt werden und daher das Studium in angemessener Zeit noch abgeschlossen werden kann, beteiligt werden. Vor dem Hintergrund des unverändert geltenden § 87 Abs. 1, der Bildungseinrichtungen wie Hochschulen von Übermittlungspflichten ausnimmt, sind Studienprognosen nach wie vor vorrangig über den ausländischen Studierenden zu verlangen. Ihn trifft eine Mitwirkungspflicht, § 82 Abs. 1 S. 3. In Einzelfällen kann eine Studienprognose (bereits dann gefordert werden, .wenn) aufgrund der bisherigen bereits
+Leistungen
+dann bzw.
+gefordert
+des Studienverlaufs
+werden, wenn aufgrund
+Zweifel
+der bestehen,
+bisherigendass
+Leistungen bzw. des
+das Studium innerhalb des
+Studienverlaufs
+oben Zweifel
+genannten
+bestehen,
+Zeitrahmens
+dass das
+(durchschnittliche
+Studium innerhalb
+Studiendauer
+des oben + 3 Bonussemester)
+genannten Zeitrahmens abgeschlossen werden
+(durchschnittliche kann. + 3 Bonussemester) abgeschlossen werden kann.
+Studiendauer
 Eine weitere Verlängerung kommt regelmäßig nur in Betracht, wenn die Ausbildungsstelle unter Berücksichtigung der individuellen Situation des ausländischen Studierenden den ordnungsgemäßen Verlauf des Studiums trotz Überschreitens der oben beschriebenen Frist (z.B. anhand erkennbarer Studienfortschritte wie Leistungspunkte in BA und MA Studiengängen, Teilnahme an Prüfungen und Pflichtpraktika) nachvollziehbar bescheinigt sowie die voraussichtliche weitere Dauer des Studiums in Semestern angibt.
 Wird eine diesen Anforderungen genügende und von der Ausländerbehörde geforderte Studienprognose nicht vorgelegt, ist die Voraussetzung eines Studienabschlusses in angemessener Zeit nicht nachgewiesen und wirkt bei der Abwägung über die Verlängerung der Aufenthaltserlaubnis zu Lasten des Studenten. Die Vorlage einer Studienprognose, die Studienfortschritte bescheinigt, ohne dass hieraus ein ordnungsgemäßer Verlauf erkennbar wäre, reicht für die Verlängerung ebenso nicht aus. Insofern ist bei der Prüfung der Studienprognose, unter Berücksichtigung des Grundsatzes der Gleichbehandlung sowohl die Dauer und Art des Studiums als auch die individuelle Situation des ausländischen Studierenden zu berücksichtigen.
 Ergibt sich aus der Mitteilung der Ausbildungsstelle, dass das Studium ohne erkennbare Studienfortschritte betrieben wurde, ist die beantragte Verlängerung i.d.R. abzulehnen. Besteht allerdings ein besonderes öffentliches Interesse am erfolgreichen Studienabschluss oder kann der Student eine besondere Härte nachweisen, kann die Aufenthaltserlaubnis verlängert werden. Gleiches gilt, wenn der Studienabschluss voraussichtlich innerhalb eines Jahres erreicht wird und das aktuelle Studienverhalten den Studienabschluss innerhalb dieses Zeitraumes konkret erwarten lässt.

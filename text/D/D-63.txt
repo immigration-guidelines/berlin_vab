@@ -1,9 +1,10 @@
 VAB D 63
 VAB D 63
 D.63. Bescheinigung über die Aufenthaltsgestattung
-(15.03.2016; 09.11.2023; RückführungsVG)
-63.1.
-Während des Kirchenasyls hat der Betreffende keinen Anspruch auf Ausstellung einer Aufenthaltsgestattung. Insoweit fehlt es während des Kirchenasyls an einem diesbezüglichen Sachbescheidungsinteresse, weil der Betroffene sich ausschließlich in den Kirchenräumen aufhält und dort versorgt wird. Dies gilt auch für alle anderen Bescheinigungen. Eine Person befindet sich im Kirchenasyl, wenn hierüber ein schriftlicher Beschluss der betreffenden Kirchengemeinde vorliegt. Das Kirchenasyl gilt solange als gewährt, bis dieses durch einen ausdrücklichen Beschluss der Kirchengemeinde wieder aufgehoben wurde und eine Anmeldung außerhalb der Kirche erfolgt.
-63.2.1. frei
-63.2.2 Mit der Bescheinigung über die Aufenthaltsgestattung wird diese lediglich deklaratorisch verlautbart; sie wird von Amts wegen ausgestellt und verlängert. Die gesetzlich vorgegebene Frist von zwölf Monaten orientiert sich dabei an den üblichen Verfahrensdauern. Vor dem Hintergrund der erheblich angestiegenen Verfahrenslaufzeiten ist daher nach Sinn und Zweck der Regelung des § 63 Abs. 2 S. 2 aus Gründen der Kundenorientierung und der Verwaltungseffizienz ein großzügiger Maßstab anzulegen und sollte die Gestattung mit einer Geltungsdauer von 18 Monaten ausgestellt werden. Einzelfallbezogene Abweichungen – etwa wenn ein Abschluss des Verfahrens kurz bevorsteht – sind angezeigt. Gleiches gilt auch, wenn die Ausländerbehörde bereits die Ersterteilung der Gestattung vornimmt.
-63.3. – 63.5. frei
+(09.11.2023; RückführungsVG; GEASAnpassG; 12.06.2026)
+63.0. Mit der Bescheinigung über die Aufenthaltsgestattung wird diese lediglich deklaratorisch verlautbart; sie wird von Amts wegen ausgestellt und verlängert. Die rechtlich vorgegebene Frist beträgt nach Art. 29 Abs. 9 (EU) 2024/ 1348 regelmäßig zwölf Monate.
+63.1. Während des Kirchenasyls hat der Betreffende keinen Anspruch auf Ausstellung einer Aufenthaltsgestattung. Insoweit fehlt es während des Kirchenasyls an einem diesbezüglichen Sachbescheidungsinteresse, weil der Betroffene sich ausschließlich in den Kirchenräumen aufhält und dort versorgt wird. Dies gilt auch für alle anderen Bescheinigungen. Eine Person befindet sich im Kirchenasyl, wenn hierüber ein schriftlicher Beschluss der betreffenden Kirchengemeinde vorliegt. Das Kirchenasyl gilt solange als gewährt, bis dieses durch einen ausdrücklichen Beschluss der Kirchengemeinde wieder aufgehoben wurde und eine Anmeldung außerhalb der Kirche erfolgt.
+63.2.1. -2.
+Mit Inkrafttreten des sog. GEAS-Anpassungsgesetzes zum 12.06.2026 ist das BAMF nunmehr auch für die Ausstellung der Aufenthaltsgestattung in den Fällen nach § 14 Abs. 2 und 71 Abs. 2 Satz 2 zuständig, d.h. für Aufenthaltsgestattungen von Personen, die aus den dort aufgeführten Gründen am persönlichen Erscheinen beim BAMF gehindert sind sowie für minderjährige Kinder, deren Eltern nicht verpflichtet sind in einer Aufnahmeeinrichtung zu wohnen.
+Das LEA ist im Umkehrschluss für die Verlängerung der Aufenthaltsgestattung zuständig, wenn die Verpflichtung des Antragstellers zur Wohnsitznahme in einer Aufnahmeeinrichtung entfallen ist.
+63. 3. – 63. 4. frei

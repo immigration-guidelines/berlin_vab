@@ -1,7 +1,8 @@
 VAB D 75
 VAB D 75
-D.75. Aufschiebende Wirkung der Klage
-(QualRiLiUmsG; 3. ÄndG AsylG; AsylVfBG)
+D.75. Aufschiebende Wirkung der Klage, Recht auf Verbleib
+(QualRiLiUmsG; 3. ÄndG AsylG; AsylVfBG; GEASAnpassG)
+75.1. Klagen gegen den Entzug, den Widerruf und die Rücknahme des internationalen Schutzes haben grundsätzlich keine aufschiebende Wirkung. Dies gilt nur dann nicht, wenn der Ausländer nach Art. 68 der Verordnung (EU) 2024/1348 ein Recht auf Verbleib hat oder ihm dieses ausdrücklich eingeräumt wird und nach Art. 43 der Verordnung (EU) 2024/1351 eine aufschiebende Wirkung zusammen mit dem Rechtsbehelf beantragt wird.
 75.1.1. Zusätzlich zur bislang geltenden Rechtslage haben mit Inkrafttreten des Qualifikationsrichtlinienumsetzungsgesetzes zum 1.12.2013 nicht nur Klagen gegen den Widerruf und die Rücknahme der Flüchtlingseigenschaft und der Asylberechtigung, sondern auch Klagen gegen den Widerruf und die Rücknahme subsidiären Schutzes und den Widerruf und die Rücknahme von Abschiebungsverboten aufschiebende Wirkung.
 75.1.2. Hält das BAMF in Widerrufs- oder Rücknahmeverfahren den Betroffen mit den Mitteln des Verwaltungszwanges zur Einhaltung seiner Mitwirkungspflicht an, hat die Klage gegen die Maßnahmen keine aufschiebende Wirkung.
 75.2.1. Die Klage gegen einen Widerruf oder eine Rücknahme (§ 48 VwVfG) einer Asylanerkennung oder einer Zuerkennung der Flüchtlingseigenschaft hat dann keine aufschiebende Wirkung, wenn die Entscheidung wegen der Voraussetzungen von § 3 Abs. 2 oder § 60 Abs. 8 AufenthG erfolgt ist. Die aufschiebende Wirkung entfällt auch in "Altfällen", d.h. Fällen, in denen die Rücknahme- oder Widerrufsentscheidung des Bundesamtes schon vor dem 28.08.2007 (Datum des Inkrafttreten des bisherigen § 75 S. 2, der sich seit dem 01.12.2013 nunmehr § 75 Abs. 2 S. 1 wiederfindet) getroffen worden ist bzw. die Klage gegen eine solche Entscheidung vor Inkrafttreten erhoben worden ist (vgl. dazu im Detail OVG Berlin-Brandenburg, Beschluss vom 29.06.2009 - OVG 12 S 63.08).

@@ -1,14 +1,13 @@
 VAB A 84
 VAB A 84
 A.84. Wirkungen von Widerspruch und Klage
-(Gesetz über Duldung bei Ausbildung und Beschäftigung; 16.02.2023, RückführungsVG; 23.10.2025)
+(RückführungsVG; 23.10.2025; GEASAnpassG)
 84.1.1.1. bis 84.1.1.2. frei
 84.1.1.2a. Ein Widerspruch gegen Auflagen zur Sicherung und Durchsetzung der vollziehbaren Ausreisepflicht nach § 61 Abs. 1e (z.B. Meldepflichten bei der Ausländerbehörde) hat keine aufschiebende Wirkung. Damit soll u.a. erreicht werden, dass der Betroffene trotz Widerspruchs sofort die Auflagen erfüllen muss.
+84.1.1.2b. frei
 84.1.1.3. Durch § 84 Abs. 1 S. 1 Nr. 3 in der Fassung des Gesetz zur Verbesserung der Rechte von international Schutzberechtigten und ausländischen Arbeitnehmern entfällt auch bei Widerspruch und Klage gegen die Änderung oder Aufhebung von Nebenbestimmungen, die die Ausübung einer Beschäftigung (vgl. § 60b Abs. 6, A.60b.6.) oder einer selbständigen Tätigkeit (§ 21) betreffen, die aufschiebende Wirkung.
 84.1.1.4. bis 84.1.1.6. frei
-84.1.1.7. Widerspruch und Klage gegen die auf der Grundlage des § 11 erfolgte Anordnung und Befristung eines Einreise- und Aufenthaltsverbots entfalten keine aufschiebende Wirkung. Ein
-Rechtsbehelf gegen die Befristungsentscheidung lässt die Durchsetzung der Ausreisepflicht unberührt. Statthaft ist ein Antrag auf Anordnung der aufschiebenden Wirkung des eingelegten
-Rechtsbehelfs nach § 80 Abs. 5 VwGO.
+84.1.1.7. Widerspruch und Klage gegen die auf der Grundlage des § 11 erfolgte Anordnung und Befristung eines Einreise- und Aufenthaltsverbots entfalten keine aufschiebende Wirkung. Ein Rechtsbehelf gegen die Befristungsentscheidung lässt die Durchsetzung der Ausreisepflicht unberührt. Statthaft ist ein Antrag auf Anordnung der aufschiebenden Wirkung des eingelegten Rechtsbehelfs nach § 80 Abs. 5 VwGO.
 Ordnet das Verwaltungsgericht die aufschiebende Wirkung des Rechtsbehelfs an, so ist die Befristungsentscheidung bis zum Abschluss des Hauptsacheverfahrens nicht (mehr) vollziehbar. Sie kann damit dem Betreffenden unabhängig von dessen Ausreisepflicht vorläufig nicht entgegen gehalten werden (z.B. im Rahmen eines Wiedereinreisebegehrens oder der Erteilung eines Aufenthaltstitels).
 Merke: Deutet das Verwaltungsgericht im Rechtsschutzverfahren an, dass insbesondere die Ermessensausübung fehlerhaft sein könnte, ist zu prüfen, ob diesem Umstand durch ein Nachholen von Ermessenserwägungen oder einer Reduzierung der Sperrfrist begegnet werden kann (§ 114 Satz 2 VwGO).
 Gegebenenfalls kommt auch eine Anpassung der Sperrfrist in Fällen erkennbarer Ermessensüberschreitung in Betracht. Ist der Rechtsschutzantrag hingegen erfolgreich (bspw. bei einem Ermessensausfall) ist unverzüglich zu prüfen, inwieweit die aufgezeigten Fehler beseitigt werden können. Ist dies möglich, bspw. bei einer bisher nicht erfolgten Ermessensausübung, ist die fehlerhafte Befristungsentscheidung aufzuheben und unter Beachtung der Rechtsauffassung des Verwaltungsgerichts neu zu bescheiden. Dadurch wird vermieden, dass sich der Betreffende umgehend auf aufenthaltsrechtliche Positionen beruft, obwohl eine Sperrfrist in seinem Fall rechtsfehlerfrei verfügt werden könnte.

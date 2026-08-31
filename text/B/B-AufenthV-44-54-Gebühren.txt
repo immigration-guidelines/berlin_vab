@@ -2,7 +2,7 @@ VAB B.AufenthV.44. - 54. Gebühren
 VAB B.AufenthV.44. - 54. Gebühren
 Inhaltsverzeichnis
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; ÄndVO PAuswV u.a.; 05.06.2025; 23.10.2025)
+(ÄndVO PAuswV u.a.; 23.10.2025; 09.04.2026; 16.04.2026; GEASAnpassG; GEAS)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 B.AufenthV.44a. Gebühren für die Erlaubnis zum Daueraufenthalt-EU
@@ -23,8 +23,8 @@ B.AufenthV.52a.Befreiung und Ermäßigung bei Assoziationsberechtigung
 B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 B.AufenthV.54. Zwischenstaatliche Vereinbarungen
 B.AufenthV.44. - 54. Gebühren
-(FreizügG/EU-AnpG; ÄndVO PAuswV u.a.; 05.06.2025; 23.10.2025)
-Merkblatt Gebühren (Stand: 12.01.2024)
+(ÄndVO PAuswV u.a.; 23.10.2025; 09.04.2026; 16.04.2026; GEASAnpassG; GEAS)
+Merkblatt Gebühren (Stand: 12.06.2026)
 B.AufenthV.44.1.
 B.AufenthV.44.2. Elektronischer Aufenthaltstitel
 Es ist zu beachten, dass die Gebührenregelungen die Erteilung eines eAT als Normalfall ansehen, d.h. dass sich alle Gebührentatbestände soweit in der Verordnung nicht ausdrücklich anders geregelt, immer auf die eAT-Ausstellung beziehen. Die demgegenüber speziellen Regelungen in Bezug auf den Ausnahmefall der Papiererteilung befinden sich in § 45b, § 47 Abs. 1 Nr. 11 (Übertrag als Papiertitel), § 47 Abs. 4 (Aufenthaltskarten EU in Papierform) und § 48 Abs. 1 Nr. 10-12 (Ausweisersatz in Papierform). Ein Auszug aus der Aufenthaltsverordnung n.F. zu den seit 01.09.2017 geltenden Gebühren ist in einem Merkblatt (s.o.) zusammengestellt.
@@ -61,7 +61,7 @@ B.AufenthV.47.1. Für die von Amts wegen ergangene Befristung eines Einreise- un
 Der Gebührentatbestand des § 47 Abs. 1 Nr. 11 gilt nur für die in § 78a abs. 1 S. 1 AufenthG geregelten Ausnahmefälle. Wird also ein Aufenthaltstitel in den Fällen des § 78a Abs. 1 S. 1 AufenthG weiterhin in Form eines Klebeetiketts ausgestellt und ist das Klebeetikett in ein neues Personaldokument zu übertragen, so ist wie in den Fällen des bisherigen Übertrages eine Gebühr in Höhe von 12 Euro zu erheben.
 Gemäß § 47 Abs. 1 Nr. 15 AufenthV sind für die Durchführung des beschleunigten Fachkräfteverfahrens nach § 81a des Aufenthaltsgesetzes Gebühren i.H.v. 411,00 Euro zu erheben. § 81a Abs. 4 AufenthG regelt, dass dieses Verfahren auch den Familiennachzug des Ehegatten und minderjähriger lediger Kinder umfasst, deren Visumanträge in zeitlichem Zusammenhang gestellt werden. Die Gebühr wird nach § 49 Absatz 2 AufenthV als Bearbeitungsgebühr erhoben und umfasst auch den Familiennachzug (vgl. Anwendungshinweise BMI zum FEG Nr. 81a.1.0.8 – Gebührenpflicht – aktualisiert 01.06.2024)
 Hinsichtlich der bei assoziationsberechtigten türkischen Staatsangehörigen zu erhebenden Gebühren vgl. B.AufenthV.52a. B.AufenthV.47.2. Gem. § 47 Abs. 2 werden keine Gebühren erhoben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen. Aus der Vorschrift folgt aber im Umkehrschluss, dass bei Geduldeten, bei denen eine Nebenbestimmung zur Beschäftigung geändert wird, eine Gebühr von 5 0 Euro zu erheben ist, so die Betroffenen nicht Sozialleistungen beziehen (vgl. § 47 Abs. 1 Nr. 7, § 53 Abs. 1 Nr. 3).
-B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte (§ 5 Abs. 1 S. 1 und Abs. 7 FreizügG/EU), einer Daueraufenthaltskarte (§ 5 Abs. 5 S. 2 FreizügG/EU), eines Aufenthaltsdokuments-GB (§ 16 Absatz 2 Satz 1 des FreizügG/EU) und eines Aufenthaltsdokuments für Grenzgänger-GB (§ 16 Absatz 3 des FreizügG/EU) beträgt die Gebühr 37,00 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Hiervon abweichend wird ein Aufenthaltsdokument-GB an bisherige Inhaber einer Daueraufenthaltskarte gebührenfrei ausgestellt. Für die Neuausstellung einer eAT-Karte im Rahmen von § 45c, enthält die Norm durch den mit dem FreizügG/EU-AnpG erfolgten Einschub des neuen Satzes 2 und einem nicht der neuen Satznummerierung angepassten Verweis in Satz 4 einen offenkundigen redaktionellen Fehler. Daher ist für die in § 45c geregelten Fälle der Neuausstellung der eAT-Karte (Übertrag) die Auslegung nach Sinn und Zweck des Gesetzes und Art. 25 Abs. 2 der RL 2004/38/EG erforderlich. Für die Neuausstellung der eAT-Karte betragen die Gebühren danach grundsätzlich 37,00 Euro bzw. bei unter 24-Jährigen 22,80 Euro. Die Gebührenbefreiung für ehemalige Inhaber einer Daueraufenthaltskarte gilt hingegen nicht für die Neuausstellung der eAT-Karte nach § 45c.
+B.AufenthV.47.3. Für die Ausstellung einer Aufenthaltskarte (§ 5 Abs. 1 S. 1 und Abs. 7 FreizügG/EU), einer Daueraufenthaltskarte (§ 5 Abs. 5 S. 2 FreizügG/EU), eines Aufenthaltsdokuments-GB (§ 16 Absatz 2 Satz 1 des FreizügG/EU) und eines Aufenthaltsdokuments für Grenzgänger-GB (§ 16 Absatz 3 des FreizügG/EU) beträgt die Gebühr 46,00 Euro bzw. bei unter 24-Jährigen 27,60 Euro. Hiervon abweichend wird ein Aufenthaltsdokument-GB an bisherige Inhaber einer Daueraufenthaltskarte gebührenfrei ausgestellt. Für die Neuausstellung einer eAT-Karte im Rahmen von § 45c, enthält die Norm durch den mit dem FreizügG/EU-AnpG erfolgten Einschub des neuen Satzes 2 und einem nicht der neuen Satznummerierung angepassten Verweis in Satz 4 einen offenkundigen redaktionellen Fehler. Daher ist für die in § 45c geregelten Fälle der Neuausstellung der eAT-Karte (Übertrag) die Auslegung nach Sinn und Zweck des Gesetzes und Art. 25 Abs. 2 der RL 2004/38/EG erforderlich. Für die Neuausstellung der eAT-Karte betragen die Gebühren danach grundsätzlich 46,00 Euro bzw. bei unter 24-Jährigen 27,60 Euro. Die Gebührenbefreiung für ehemalige Inhaber einer Daueraufenthaltskarte gilt hingegen nicht für die Neuausstellung der eAT-Karte nach § 45c.
 Beachte: Für den Übertrag eines Aufenthaltsdokuments-GB oder eines Aufenthaltsdokuments für Grenzgänger-GB mit einer kürzeren eAT-Kartengültigkeit als 01.01.2027 sind in Anwendung von § 52 Abs. 7 keine Gebühren zu erheben. Für die Bescheinigung des Daueraufenthalts nach § 5 Abs. 5 S. 1 FreizügigG/EU beträgt die Gebühr 10 Euro. B.AufenthV.47.4.
 B.AufenthV.48. Gebühren für pass- und ausweisrechtliche Maßnahmen
 Zu beachten sind die unterschiedlichen Gebührensätze für biometrische und vorläufige deutsche Reiseausweise sowie der Gebührensatz für Dokumente, die bis zum vollendeten 24. Lebensjahr ausgestellt werden.
@@ -89,11 +89,12 @@ Wird gegen die Ablehnung einer nach §§ 44 bis 48 Abs. 1 und § 50 gebührenpfl
 B.AufenthV.52. Befreiungen und Ermäßigungen
 B.AufenthV.52.0. Die partielle Gebührenfreiheit für Unionsbürger und deren freizügigkeitsberechtigte Familienangehörige ergibt sich aus § 2 Abs. 6 FreizügG/EU. Die Fälle des § 23 Abs. 2 AufenthG (Stichwort: jüdische Zuwanderer (§ 52 Abs. 4)) sowie von Familienangehörigen von Stipendiaten (§ 52 Abs. 5 S. 2) genießen desgleichen Gebührenfreiheit. Für Schweizer Staatsangehörig ist eine Gebührenermäßigung angeordnet (§ 52 Abs. 2).
 B.AufenthV.52.1. Aufgrund der erhöhten Produktionskosten und des gestiegenen Bearbeitungs- und Informationsaufwands hinsichtlich der Ausstellung von eATs sind die vor dem 01.09.2011 bestehenden Gebührenbefreiungen nicht mehr im bisherigen Umfang aufrechterhalten worden. So ist die Gebührenbefreiung für Familienangehörige deutscher Staatsangehöriger weitgehend entfallen. Lediglich die Gebührenbefreiung für die Erteilung nationaler Visa bleibt bestehen. Diese Gebührenbefreiung gilt unabhängig davon, ob die Antragsteller ihr Aufenthaltsrecht von dem deutschen Staatsangehörigen ableiten. Sie ergibt sich allein aus dem beschriebenen verwandschaftlichen Verhältnis bzw. dem Status als Ehegatte oder Lebenspartner eines Deutschen.
-B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowie die nach § 45c notwendig werdenden Neuausstellungen ist jeweils eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr (derzeit 37,00 Euro) zu erheben bzw.
-- wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 22,80 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben.
+B.AufenthV.52.2. Für die auf Antrag ausgestellten Aufenthaltserlaubnisse für Schweizer Staatsbürger in Form des eAT nach § 78 Abs. 1 S. 2 AufenthG sowie die nach § 45c notwendig werdenden Neuausstellungen ist jeweils eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche erhobenen Gebühr (derzeit 46,00 Euro) zu erheben bzw.
+- wenn die Personen zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt sind - eine Gebühr in Höhe der für die Ausstellung von Personalausweisen an Deutsche diesen Alters erhobene Gebühr (derzeit 27,60 Euro). Wird die Aufenthaltserlaubnis-Schweiz in Papierform ausgestellt, ist wie bisher eine Gebühr in Höhe von 8 Euro zu erheben.
 B.AufenthV.52.3.bis B.AufenthV.52.4.
-Wird die Neuausstellung einer Niederlassungserlaubnis oder einer Aufenthaltserlaubnis in den Fällen des Ablaufs des Passes oder des eAT (§ 45 c Abs. 1 Nr. 1 und 2 AufenthV) erforderlich, sind Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Abs. 4 AufenthG, anerkannte Flüchtlinge nach § 3 AsylG, subsidiär Schutzberechtigte nach § 4 Abs. 1 AsylG sowie Personen mit einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG gemäß § 52 Abs. 3 Nr. 1, 2 und Abs. 4 AufenthV von der Zahlung der Gebühr befreit.
+Wird die Neuausstellung einer Niederlassungserlaubnis oder einer Aufenthaltserlaubnis in den Fällen des Ablaufs des Passes oder des eAT (§ 45 c Abs. 1 Nr. 1 und 2 AufenthV) erforderlich, sind Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Abs. 4 AufenthG, anerkannte Flüchtlinge nach § 3 AsylG, subsidiär Schutzberechtigte nach Art. 3 Nr. 2 der Verordnung (EU) 2024/1347 sowie Personen mit einer Aufenthaltserlaubnis nach § 23 Abs. 2 AufenthG gemäß § 52 Abs. 3 Nr. 1, 2 und Abs. 4 AufenthV von der Zahlung der Gebühr befreit.
 Die Formulierung „in Ausnahmefällen“ am Ende von § 52 Abs. 3 Nr. 1, 2 sowie Abs. 4 bezieht sich nur auf die Befreiungstatbestände gemäß § 45b und § 47 Abs. 1 Nr. 11.
+Die Gebührenfreiheit nach § 52 Abs. 3 gilt nicht für die Familienangehörigen mit Feststellung nach Art. 23 VO (EU) 2024/1347, da diese nicht selbst die Rechtsstellung ausländischer Flüchtlinge oder subsidiär Schutzberechtigter im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2024/1347 inne haben.
 B.AufenthV.52.5. Ausländer, die für ihren Aufenthalt im Bundesgebiet ein Stipendium aus öffentlichen Mitteln erhalten, sind befreit von den Gebühren zur Erteilung einer Aufenthaltserlaubnis sowie der Ausstellung einer Fiktionsbescheinigung – dazu zählen:
 Stipendiaten des ERASMUS-, TEMPUS- und SOKRATES-Programms,
 Stipendiaten des "Berlin Programms" der FU Berlin,
@@ -191,17 +192,16 @@ Die Gebührenermäßigung ist nicht auf türkische Arbeitnehmer begrenzt und set
 B.AufenthV.52a.2. Gebührenermäßigungen
 Für die Erteilung, die Verlängerung und den Übertrag von Titeln für alle türkischen Staatsangehörigen gelten nach Abs. 2 der Vorschrift folgende ermäßigte Gebührensätze:
 Aufenthaltstitel Gebühr Rechtsgrundlage
-Unter 24 Jahre 24 Jahre und älter
-Erteilung von unbefristeten 22,80 € 37,00 € § 52a Abs. 2 S. 1 u. 2
-Aufenthaltstiteln
-i.V.m.
+Unter 24 Jahre Über 24 Jahre
+Erteilung von unbefristeten 27,60 € 46,00 € § 52a Abs. 2 S. 1 u. 2
+Aufenthaltstiteln i.V.m.
 (NE, Daueraufenthalt- EU) §§ 44-45
 jeweils als eAT
-Erteilung/ Verlängerung von 22,80 € 37,00 €
+Erteilung/ Verlängerung von 27,60 € 46,00 €
 befristeten Aufenthaltstiteln und
 Blauen Karten EU
 jeweils als eAT
-Überträge, 22,80 € 37,00 € § 52a Abs. 2 S. 1 u. 2
+Überträge, 27,60 € 46,00 € § 52a Abs. 2 S. 1 u. 2
 Notwendigkeit der Neuausstellung i.V.m.
 des eAT aufgrund § 45c Abs. 1
 Ablauf der Gültigkeit der
@@ -219,13 +219,12 @@ Gebrauch bzw. auf einer
 unsachgemäßen
 Verwendung des
 Ausländers beruht
-Neuausstellung eines 22,80 € 37,00 € § 52a Abs.2 S. 1 u. 2
+Neuausstellung eines 27,60 € 46,00 € § 52a Abs.2 S. 1 u. 2
 Aufenthaltstitels als eAT mit dem i.V.m.
 Zusatz Ausweisersatz
 § 48 Abs. 1 S. 1 Nr. 15
 Erteilung von unbefristeten 8,00 € § 52a Abs. 2 S. 3
-Aufenthaltstiteln
-i.V.m.
+Aufenthaltstiteln i.V.m.
 (NE, Daueraufenthalt- EU) §§ 45b Abs. 2, 44, 44a
 jeweils als Etikett
 Überträge von unbefristeten 8,00 € § 52a Abs. 2 S. 3
@@ -234,8 +233,7 @@ Daueraufenthalt-EU) jeweils als
 §§ 47 Abs. 1 Nr. 11, 44, 44a
 Etikett
 B.AufenthV.52a.3. Gebührenbefreiungen
-Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben:
-Aufenthaltstitel Rechtsgrundlage
+Für folgende Tatbestände sind nach Abs. 3 für alle türkischen Staatsangehörigen keine Gebühren zu erheben: Aufenthaltstitel Rechtsgrundlage
 Erteilung/ Verlängerung von § 52a Abs. 3 Nr. 1
 befristeten Aufenthaltstiteln jeweils als Etikett i.V.m.
 § 45b Abs. 2, § 45
@@ -255,7 +253,24 @@ B.AufenthV.53. Befreiung und Ermäßigung aus Billigkeitsgründen
 Der Verordnungsgeber hat in § 53 Abs. 1 HS 1 AufenthV die Gebührentatbestände aufgezählt, bei denen er wegen der Notwendigkeit des Bezugs von Leistungen nach dem SGB II, XII bzw. dem AsylbLG aus Billigkeitsgründen eine Gebührenbefreiung generell für geboten hält.
 Eine Gebührenbefreiung nach § 53 Abs. 1 AufenthV kommt nur in Betracht, sofern der Ausländer den Lebensunterhalt nicht ohne Inanspruchnahme öffentlicher Leistungen nach dem SGB II, SGB XII bzw. dem AsylblG bestreiten kann. Aus der Regelung des § 7 Abs. 2 Nr. 1 SGB II ergibt sich eine Regelvermutung hinsichtlich der Leistungsfähigkeit in den ersten drei Monaten des Aufenthalts.
 Insofern ist bei Neueinreisenden zunächst davon auszugehen, dass sie über eigene Mittel verfügen, nicht auf die Inanspruchnahme öffentlicher Leistungen angewiesen sind und daher gebührenpflichtig sind. Eine Gebührenbefreiung erfolgt grundsätzlich nur bei Vorlage des Bewilligungsbescheids, der den Leistungsbezug konkret für den Betreffenden nachweist, oder entsprechender Nachweise der Mittellosigkeit.
-Merke: Die Aufforderung zur Zahlung einer Gebühr im Rahmen der Kundenbedienung enthält immer den mündlichen Erlass eines entsprechenden Gebührenbescheides. Da dieser Bescheid ohne Rechtsmittelbelehrung ergeht, ist hiergegen grundsätzlich eine Rechtsmittelfrist von einem Jahr gegeben. Wird innerhalb eines Jahres nach Zahlung der Gebühr nachgewiesen, dass ein Befreiungstatbestand vorlag und insofern die Gebührenerstattung gefordert, ist diesbezüglich dem Widerspruch abzuhelfen Erfolgt die Gebührenrückforderung nach Ablauf der Jahresfrist, ist eine Gebührenrückerstattung unter Hinweis auf die Rechtskraft der Gebührenforderung abzulehnen.
+Merke: Die Aufforderung zur Zahlung einer Gebühr im Rahmen der Kundenbedienung enthält immer den mündlichen Erlass eines entsprechenden Gebührenbescheides. Da dieser Bescheid ohne Rechtsmittelbelehrung ergeht, ist hiergegen grundsätzlich eine Rechtsmittelfrist von einem Jahr gegeben. Wird innerhalb eines Jahres nach Zahlung der Gebühr nachgewiesen, dass ein Befreiungstatbestand vorlag und insofern die Gebührenerstattung gefordert, ist diesbezüglich dem Widerspruch abzuhelfen (.Erfolgt die.... .)
+Gebührenrückforderung
+Erfolgt die nach Ablauf
+Gebührenrückforderung
+der Jahresfrist,
+nach
+ist eine
+Ablauf der
+Gebührenrückerstattung
+Jahresfrist, ist eine
+Gebührenrückerstattung
+unter Hinweis auf die Rechtskraft
+unter Hinweis
+der auf die
+Gebührenforderung
+Rechtskraft der
+abzulehnen.
+Gebührenforderung abzulehnen.
 Insbesondere die Gebühren für die Ausstellung eines Reiseausweises für Ausländer, für Flüchtlinge sowie für Staatenlose (§ 48 Abs. 1 -2), die Erteilung einer Niederlassungserlaubnis und die Erlaubnis zum Daueraufenthalt-EU (§§ 44, 44 a) sowie die entsprechende Bearbeitungsgebühr (§§ 49 Abs. 1, 50 Abs. 1 S. 1 und 2) gehören nicht dazu. Von den Gebührentatbeständen bei Erteilung einer Niederlassungserlaubnis bzw. einer Erlaubnis zum Daueraufenthalt-EU sind nur Ausländer mit besonderem Status befreit; Asylberechtigte und Flüchtlinge für die Antragsgebühr der § 44 Nr. 3 sowie die Bearbeitungsgebühr gem. §§ 49 Abs. 1, 50 Abs. 1 S. 1 und 2 (§ 52 Abs. 3 Nr. 1 und 4) sowie Begünstigte nach § 23 Abs. 2 AufenthG für die Antragsgebühr der § 44 Nr. 3 sowie die Bearbeitungsgebühr gem. §§ 49 Abs. 1, 50 Abs. 1 S. 1 (§ 52 Abs. 4). Die genannten Gebührenbefreiungen des § 52 Abs. 3 und 4 gelten also auch für die Konstellation des § 50 Abs. 1 S. 1 und 2 (Ermäßigung der Bearbeitungsgebühr für Minderjährige bei Beantragung einer Niederlassungserlaubnis gem. § 35 Abs. 1 S. 1 auf 55 Euro bzw. in den sonstigen Fällen der Beantragung einer Niederlassungserlaubnis durch Minderjährige auf die Hälfte). Dies deshalb, weil § 50 Abs. 1 S. 1 und 2 keinen eigenen Gebührentatbestand kodifiziert, sondern lediglich den des § 49 Abs. 1 abwandelt.
 Merke: Aus der diesem Regelungsgefüge zu entnehmenden Wertung des Verordnungsgebers, der geringen Höhe der ausländerrechtlichen Gebühren und dem großen öffentlichen Interesse an einem möglichst hohen Grad der Kostendeckung durch Gebühreneinnahmen folgt, dass allein der Bezug von Leistungen nach dem SGB II, XII bzw. dem AsylbLG nie ausreicht, um von der Erhebung der Gebühr für die Bearbeitung bzw. Erteilung der Niederlassungserlaubnis abzusehen (im Ergebnis ebenso bei Erteilung einer Niederlassungserlaubnis bzw. einer Erlaubnis zum Daueraufenthalt-EU, VG Berlin, Urteil vom 13.05.2009 – VG 10 A 189.07 sowie wohl auch Nr. 3.3.4.6 und 3.3.5.2 AufenthG VwV bei der Ausstellung von Reiseausweisen).
 Das in § 53 Abs. 1 2. HS eröffnete Ermessen ist in diesen Fällen daher grundsätzlich zu Lasten des Ausländers auszuüben. Ein hinreichender Anlass für eine Ermessensausübung entsteht erst, wenn Umstände für eine Gebührenermäßigung oder ein Absehen von der Gebühr benannt und zumindest glaubhaft gemacht werden. Ggf. kann die Ermessensentscheidung im Widerspruchsbescheid nachgeholt werden.
@@ -385,7 +400,7 @@ VAB B.AufenthV.61a. - 84. Datenverarbeitung,
 Ordnungswidrigkeiten, Schlussvorschriften
 Inhaltsverzeichnis
 B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten, Schlussvorschriften
-(04.07.2013; 25.03.2020)
+(25.03.2020; 16.04.2026)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
 B.AufenthV.63. Ausländerdatei A
@@ -408,10 +423,10 @@ B.AufenthV.83. Erfüllung ausweisrechtlicher Verpflichtungen
 B.AufenthV.84. Beginn der Anerkennung von Forschungseinrichtungen
 B.AufenthV.61a. – 84. Datenverarbeitung, Ordnungswidrigkeiten,
 Schlussvorschriften
-(04.07.2013; 25.03.2020)
+(25.03.2020; 16.04.2026)
 B.AufenthV.61a. -h. Datenerfassung, Datenverarbeitung und Datenschutz
-In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg.
-Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung eingescannte Lichtbild und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert (sie sind wegen ihrer Dateigröße jedoch für spätere Reiseausweis-Antragsverfahren nicht verwendbar). Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des Passbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht. Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt.
+In weiterer Umsetzung der Verordnung (EG) Nr. 2252/2004 des Rates vom 13.12.2004 über Normen für Sicherheitsmerkmale und biometrische Daten in von den Mitgliedstaaten ausgestellten Pässen und Reisedokumenten sind seit dem 29.06.2009 neben dem Lichtbild auch die Fingerabdrücke im biometrischen Reiseausweis zu erfassen. Nach dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 zur Änderung der Verordnung (EG) Nr. 1030-2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatsangehörige sind ab dem 01.09.2011 Aufenthaltstitel in der Regel als mit einem Speicher- und Verarbeitungsmedium versehene eigenständige Dokumente in Scheckartenformat auszugeben. Auf dem im Kartenkörper enthaltenen Chip werden neben personenbezogenen Daten auch biometrische Merkmale (zwei Fingerabdrücke und ein Lichtbild) gespeichert. Die Übermittlung an die Bundesdruckerei erfolgt verschlüsselt auf automatisiertem Weg. (Hinweise zur Verarbeitung sind unter
+Mit der Eingabe der Aushändigung des biometrischen Reiseausweises im Fachverfahren werden das im Rahmen der Antragstellung verwendete digitale Lichtbild durch Point-ID oder Photocloud und die Unterschrift des Reiseausweisinhabers in der KK Bilder gespeichert. Die restlichen Antragsdaten (z.B. die Fingerabdrücke) werden automatisch gelöscht. Gleichzeitig wird (ebenfalls automatisiert) ein Eintrag in der nach § 66 zu führenden Passersatzpapierdatei mit Löschdatum angelegt. Auch beim eAT werden (mit Ausnahme des digitalen Lichtbildes) die an die Bundesdruckerei übermittelten eAT-Bestelldaten automatisch aus dem Fachverfahren gelöscht. Mit dem Gesetz zur Anpassung des deutschen Rechts an die Verordnung (EG) Nr. 380-2008 des Rates vom 18.04.2008 ist festgelegt, den eAT technisch so auszugestalten, dass die Nutzung einer Online-Ausweisfunktion (elektronischer Identitätsnachweis) möglich ist. § 78 Abs. 5 S. 2 AufenthG verweist insoweit auf die im Personalausweisgesetz einschlägigen Vorschriften. Mit § 61 h werden die Regelungen in der Personalausweisverordnung unter anderem zum Verfahren, den technischen Anforderungen sowie zum Sperrmanagement für anwendbar erklärt. (Beachte die IV
 B.AufenthV.62. Dateiführungspflicht der Ausländerbehörden
 frei
 B.AufenthV.63. Ausländerdatei A

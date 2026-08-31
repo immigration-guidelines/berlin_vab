@@ -2,21 +2,29 @@ VAB S.35a.
 VAB S.35a.
 Inhaltsverzeichnis
 35a. Sperrfrist
-(G zur Bestimmung sicherer HKL u.a.)
+(G zur Bestimmung sicherer HKL u.a.; 03.03.2026; 09.06.2026)
 35a.1.1. Sperrfrist bei unanfechtbarer Rücknahme der Einbürgerung
 35a.1.2. Sperrfrist bei Täuschungsversuchen und unzulässiger Einflussnahme
 35a.2. Rechtsmittel
 35a. Sperrfrist
-(G zur Bestimmung sicherer HKL u.a.)
+(G zur Bestimmung sicherer HKL u.a.; 03.03.2026; 09.06.2026)
+Rundschreiben BMI
 Die Sperrfrist bei erschlichener Einbürgerung soll verhindern, dass jemand durch Täuschung eingebürgert wird. Sie soll das Vertrauen in staatliche Entscheidungen schützen.
 Für die Sperrfrist sieht der Gesetzgeber eine Dauer von zehn Jahren vor.
 Beachte: Ein Antrag auf Einbürgerung ist während der Dauer der Sperrfrist als unzulässig abzulehnen.
+Entscheidungen, die eine Sperrfrist nach § 35a auslösen, sind in das Register für Entscheidungen in Staatsangehörigkeitsangelegenheiten (EStA) einzutragen; dies schließt neben den bereits vor Geltung des § 35a zu speichernden Angaben auch den Beginn und das Ende der Sperrfrist ein (§ 33 Absatz 1 Satz 2 Nummer 3 und Absatz 2 Nummer 2).
 35a.1.1. Sperrfrist bei unanfechtbarer Rücknahme der Einbürgerung
 Wurde die Einbürgerung nach S.35. zurückgenommen und ist die Rücknahme unanfechtbar geworden, tritt die Sperrfrist von Gesetzes wegen ein.
 Merke: Die Sperrfrist ist umgehend an das EStA-Register zu melden.
+§ 35a Satz 1 Nummer 1 gilt nicht für Rücknahmeentscheidungen, die schon vor dem 24.12.2025 (Inkrafttreten der Norm) unanfechtbar waren. Er gilt aber für Rücknahmeentscheidungen, die zwar vor dem 24.12.2025 ergangen sind, aber erst ab dem 24.12.2025 unanfechtbar geworden sind bzw. unanfechtbar werden.
 35a.1.2. Sperrfrist bei Täuschungsversuchen und unzulässiger Einflussnahme
-Hat ein Einbürgerungsbewerber arglistig getäuscht, gedroht, bestochen oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Einbürgerungsvoraussetzungen gemacht, um für sich oder einen anderen die Einbürgerung zu erwirken, ist mittels Erlasses eines feststellenden Verwaltungsakts des LEA eine Sperrfrist zu verhängen.
+Hat ein Einbürgerungsbewerber arglistig getäuscht, gedroht, bestochen oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Einbürgerungsvoraussetzungen gemacht, um für sich oder einen anderen die Einbürgerung zu erwirken, ist mittels Erlasses eines feststellenden Verwaltungsakts des LEA eine Sperrfrist zu verhängen. Im Falle einer im Einbürgerungsverfahren begangenen unredlichen Handlung besteht kein Ermessen, ob eine Feststellungsentscheidung getroffen wird. Nach höchst- und obergerichtlicher Rechtsprechung ist gleichwohl selbst bei gebundenen Entscheidungen eine auf die Umstände des Einzelfalles bezogene Verhältnismäßigkeitsprüfung durchzuführen.
+Bei einer arglistigen Täuschung wird gezielt und bewusst ein falscher Eindruck erzeugt, damit die Einbürgerung bewilligt wird, z.B. indem gefälschten Unterlagen eingereicht werden. Bei unrichtigen oder unvollständigen Angaben macht der Antragsteller wissentlich falsche Angaben oder lässt bewusst Wichtiges weg (z.B. Verschweigen von Verurteilungen, Angabe falscher Aufenthaltszeiten). In beiden Fällen muss der Antragsteller erkennen, dass seine Angaben falsch oder unvollständig sind und dies in Kauf nehmen, um die Einbürgerung zu erwirken.
+Eine Feststellungsentscheidung kommt dagegen nicht in Betracht, wenn vorsätzlich unrichtige oder unvollständige Angaben in Bezug auf solche strafrechtlichen Verurteilungen erfolgen, die gemäß § 12a Absatz 1 Satz 1 bei der Einbürgerung außer Betracht bleiben. Dies gilt jedoch nicht, wenn der Antragsteller wegen einer rechtswidrigen antisemitischen, rassistischen oder sonstigen menschenverachtenden Tat im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches zu einer Freiheits-, Geld- oder Jugendstrafe verurteilt und ein solcher Beweggrund im Rahmen des Urteils festgestellt worden ist, vgl. § 12 a Absatz 1 Satz 2.
+Täuschungen, Drohungen, Bestechungen oder vorsätzlich unrichtige oder unvollständige Angaben zu wesentlichen Einbürgerungsvoraussetzungen können den Antragsteller zehn Jahre ab Begehung der Handlung vorgehalten werden.
+Auch unredliche Handlungen, die vor dem 24.12.2025 erfolgt sind, können Grundlage für eine Feststellungsentscheidung nach § 35a Satz 1 Nummer 2 sein. Dies gilt, wenn das Einbürgerungsverfahren, in dem die unredliche Handlung vorgenommen wurde, im Zeitpunkt des Inkrafttretens des § 35a StAG noch anhängig war. Ist das Einbürgerungsverfahren in diesen Fällen im Zeitpunkt der Feststellungsentscheidung nicht mehr anhängig (z.B. wegen bereits erfolgter negativer Sachentscheidung durch die Behörde oder wegen Antragsrücknahme durch den Antragsteller), steht dies einer Feststellungsentscheidung nach § 35a Satz 1 Nummer 2 dennoch nicht entgegen. Die Feststellungsentscheidung nach § 35a Satz 1 Nummer 2 setzt tatbestandlich nicht voraus, dass das Einbürgerungsverfahren im Zeitpunkt der Feststellungsentscheidung noch anhängig ist.
+Die Feststellung ist grundsätzlich während des laufenden Einbürgerungsverfahrens zusammen mit der Ablehnung des Einbürgerungsantrags zu treffen. Ist dies nicht möglich (z.B. wegen bereits erfolgter negativer Sachentscheidung durch die Behörde oder wegen Antragsrücknahme durch den Antragsteller), kann eine Feststellungsentscheidung dennoch getroffen werden. Entscheidend ist allein, dass die unredliche Handlung im Einbürgerungsverfahren erfolgt ist.
+Eine Feststellung kann auch dann getroffen werden, wenn der Antragsteller nachträglich einen richtigen bzw. echten Nachweis vorlegt.
 Merke: Die strafrechtliche Ahndung der Tat folgt in beiden Konstellationen nach S.42.
 35a.2. Rechtsmittel
 Der feststellende Verwaltungsakt nach S.35a.1.2. ist sofort vollziehbar, das heißt Widerspruch und Klage entfalten von Gesetzes wegen keine aufschiebende Wirkung.
-Merke: Die Sperrfrist ist umgehend an das EStA-Register zu melden.

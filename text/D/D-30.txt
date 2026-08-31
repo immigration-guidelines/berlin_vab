@@ -1,7 +1,8 @@
 VAB D 30
 VAB D 30
 D.30. Offensichtlich unbegründete Asylanträge
-(IntG; RückführungsVG)
+(IntG; RückführungsVG; GEASAnpassG)
 30.0.
-Die Neufassung des § 30 durch das Rückführungsverbesserungsgesetz dient der Umsetzung der Asylverfahrensrichtlinie und erfasst die bisher unionsrechtskonform ausgelegten Fälle der offensichtlichen Unbegründetheit nach § 30 Abs. 1, Abs. 2, Abs. 3 Nr. 1 bis 6, Abs. 4 und Abs. 5 AsylG a.F. Der bisherige § 30 Abs. 3 Nr. 7 (unbegründeter Asylantrag, der für einen Handlungsunfähigen gestellt wurde oder gem. § 14 a als gestellt galt) entfällt mit dem Rückführungsverbesserungsgesetz, da diese Fallgruppe in der abschließenden Aufzählung des Art. 31 Abs. 8 der Richtlinie 2013/32/EU nicht enthalten ist. Als neue Fallgruppe der Entscheidung als offensichtlich unbegründet wird durch das Rückführungsverbesserungsgesetz in § 30 Abs. 1 Nr. 8 die ablehnende Entscheidung über einen Folge- oder Zweitantrag aufgenommen, sofern ein Folge- oder Zweitverfahren durchzuführen ist. Ebenso neu wurde die Fallgruppe der Einreise entgegen eines Einreise- und Aufenthaltsverbots aufgenommen.
-30.1. - 30.5. ...weggefallen
+Die Neufassung des § 30 durch das GEAS-Anpassungsgesetz erfasst die
+Fälle der offensichtlichen Unbegründetheit.
+Die Gründe, nach denen das BAMF einen Asylantrag als offensichtlich unbegründet ablehnen kann, finden sich in Art. 42 Abs. 1 Verordnung (EU) 2024/1348.

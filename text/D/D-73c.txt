@@ -1,6 +1,5 @@
 VAB D 73c
 VAB D 73c
 D.73c. Ausländische Anerkennung als Flüchtling
-(QualRiLiUmsG; AsylVfBG)
-73c.0. Die §§ 72 bis 73b zum Erlöschen der Anerkennung als Flüchtling wie die Vorschriften zum Widerruf und zur Rücknahme des Schutzstatus gelten grundsätzlich entsprechend im Fall der ausländischen Anerkennung als Flüchtling. Beachte D.72. bis D.73b.
-73c.1. bis 73c. 2. frei
+(QualRiLiUmsG; AsylVfBG; GEASAnpassG)
+73c.0. Die §§ 72 und 73b zum Erlöschen der Anerkennung als Flüchtling wie die Vorschriften zum Widerruf und zur Rücknahme des Schutzstatus gelten grundsätzlich entsprechend im Fall der ausländischen Anerkennung als Asylberechtigter oder Zuerkennung des internationalen Schutzes. Beachte D.72. bis D.73b. 73c.1. bis 73c. 2. frei

@@ -1,14 +1,4 @@
 VAB D 14a
 VAB D 14a
 D.14a. Familieneinheit
-(2.ÄndG; AsylVfBeschlG; 19.09.2019; 28.09.2023)
-14a.1. Frei
-14a.2.1. frei
-14a.2.2. Die Ausländerbehörde ist von der Regelung insofern betroffen, als ihr grundsätzlich eine Meldepflicht für hier geborene bzw. nachgezogene minderjährige ledige Kinder obliegt.
-Merke: Vor einer Meldung an das BAMF, ist das Neugeborene zunächst im AZR zu erfassen. Der Meldung sind Dokumente beizufügen, die die Geburt des Kindes belegen können (vorzugsweise Geburtsurkunde, Geburtsbescheinigung bzw. ein Registereintrag); sofern diese nicht vorgelegt werden (können), genügt z.B. auch die Kopie des Untersuchungsheftes für das Kind. Eine Meldung ohne jegliches Dokument ist nicht ausreichend.
-Die Meldepflicht der Ausländerbehörde gilt immer dann, wenn beide Eltern oder der alleinsorgeberechtigte Elternteil im Besitz einer Aufenthaltsgestattung oder Aufenthaltserlaubnis nach § 25 Abs. 5 AufenthG sind bzw. sich nach Abschluss eines Asylverfahrens ohne Aufenthaltstitel hier aufhalten.
-Merke: Eine allein am Wortlaut orientierte Auslegung des Gesetzes („ein Elternteil“) widerspricht dem vom Gesetzgeber verfolgten Zweck (vgl. BT-Drs. 15/420 S. 108; Bayerischer Verwaltungsgerichtshof, Beschluss vom 23. März 2009 – 20 ZB 09.30058 –, juris). Die Anzeigepflicht entfällt nach sinngemäßer Auslegung des § 14a Abs. 2 Satz 1, sofern wenigstens ein sorgeberechtigter Elternteil einen Aufenthaltsstatus besitzt, der über die drei in dieser Vorschrift explizit genannten Aufenthaltsrechte hinausgeht. Kommt demnach die Antragsfiktion nicht zum Tragen, ist ohne Beteiligung des BAMF eine Aufenthaltserlaubnis zum Familiennachzug zu prüfen (vgl. A.33.0.2.).
-14a.2.3. frei
-14a.3.1 Frei
-14a.3.2 Frei
-14a.4. Frei
+(GEASAnpassG)

@@ -198,6 +198,7 @@ A.91c. Innergemeinschaftliche Auskünfte zur Durchführung der Daueraufenthaltsr
 A.91d. Auskünfte zur Durchführung der Richtlinie 2016/801/EU
 A.91f. Auskünfte zur Durchführung der Hochqualifiziertenrichtlinie
 A.91g. Auskünfte zur Durchführung der Richtline 2014/66/EU
+A.91j. Datenübermittlung zur Ausführung der Verordnung (EU) 2024/1358 (Eurodac-III-Verordnung)
 Kapitel 8 - Beauftragte für Flüchtlinge, Migration und Integration
 Kapitel 9 - Straf- und Bußgeldvorschriften
 A.95. Strafvorschriften
@@ -257,6 +258,7 @@ D8
 D 12
 D 12a
 D 13
+D 13a
 D 14
 D 14a
 D 15
@@ -293,6 +295,7 @@ D 75
 D 83a
 D 85
 D 87c
+D 87e
 D 88a
 Teil E
 E.Afghan.1. Rückführung ausreisepflichtiger afghanischer Staatsangehöriger
@@ -344,7 +347,7 @@ VAB S 32b. Datenübermittlung der Staatsanwaltschaften
 VAB S.33. Register staatsangehörigkeitsrechtlicher Entscheidungen (EStA)
 VAB S.34. Datenübermittlung im Optionsverfahren
 VAB S.35. Rücknahme einer rechtswidrigen Einbürgerung oder Beibehaltungsgenehmigung
-VAB S.35a Sperrfrist
+VAB S.35a. Sperrfrist
 VAB S.36. Einbürgerungsstatistik
 VAB S.37. Verfahrensvorschriften
 VAB S.38. Gebühren

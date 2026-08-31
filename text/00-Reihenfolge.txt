@@ -135,6 +135,7 @@ A 91c
 A 91d
 A 91f
 A 91g
+A 91j
 A 95
 A 97a
 A 98
@@ -185,6 +186,7 @@ D 8
 D 12
 D 12a
 D 13
+D 13a
 D 14
 D 14a
 D 15
@@ -221,6 +223,7 @@ D 75
 D 83a
 D 85
 D 87c
+D 87e
 D 88a
 E Afghanistan 1
 E Afghanistan 2

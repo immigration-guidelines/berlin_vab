@@ -17,7 +17,7 @@ Erhebung biometrischer Daten von Freizügigkeitsberechtigten
 Anwendung des Aufenthaltsgesetzes nach Feststellung des Verlusts des Freizügigkeitsrechts
 11.15. Anrechnung von Zeiten rechtmäßigen Aufenthalts auf zeitliche Voraussetzungen des Aufenthaltsgesetzes
 C.11. Anwendung des Aufenthaltsgesetzes
-(05.08.2021; Gesetz zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240 sowie zur Änderung des Freizügigkeitsgesetzes/EU; RückführungsVG)
+(05.08.2021; Gesetz zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240 sowie zur Änderung des Freizügigkeitsgesetzes/EU; RückführungsVG; 06.07.2026)
 C.11. 0.
 § 11 FreizügG/EU regelt alle Ausnahmen von dem Grundsatz, dass das Aufenthaltsgesetz keine Anwendung auf Ausländer findet, deren Rechtsstellung durch das FreizügG/EU geregelt ist. Der Kreis dieser Personen ist in § 1 Abs. 1 FreizügG/EU abschließend geregelt.
 11.1. Anwendung des Aufenthaltsgesetzes
@@ -64,15 +64,39 @@ C.11.1. 2.
 § 65 Nr. 7 AufenthV ist die die hintergründige Rechtsgrundlage für die Verpflichtung von Unionsbürgern, ein biometrietaugliches Lichtbild vorzulegen oder bei seiner Herstellung mitzuwirken. Die Senatsverwaltung für Inneres und Sport hat am 02.07.2007 zugestimmt, dass bis zur Ausstellung einer Bescheinigung über das Daueraufenthaltsrecht auf ein Lichtbild des Unionsbürgers verzichtet wird. Eventuelle Anfragen der Sicherheitsbehörden sind entsprechend dem jeweiligen Stand des AusReg2-Datensatzes zu beantworten. Grundsätzlich bieten sie keinen Anlass, vom Unionsbürger ein Lichtbild nachzufordern.
 Auf drittstaatsangehörige Familienangehörige findet dagegen § 82 Abs. 5 AufenthG volle Anwendung, d.h. sie haben auf Verlangen der Ausländerbehörde auch an der Abnahme ihrer Fingerabdrücke mitzuwirken.
 11.2. Sicherheitsabfragen bei Freizügigkeitsberechtigten
-C.11. 2. Abs. 2 ergänzt die Aufzählung des § 73 AufenthG in Satz 1. Sicherheitsabfragen können sowohl von Auslandsvertretungen im Rahmen der Visumentscheidung gegenüber drittstaatsangehörigen Familienangehörigen oder drittstaatsangehörigen nahestehenden Personen als auch von der Ausländerbehörde bei Entscheidungen gem. § 5 Abs. 1 und 5 gegenüber Unionsbürgern, EWR-Staatsangehörigen und britischen Staatsangehörigen mit Aufenthaltsrecht nach dem Austrittsabkommen' sowie ihren jeweiligen Familienangehörigen oder nahestehenden Personen durchgeführt werden, wenn die Abfragen auf Tatsachen, die für eine Feststellung nach § 6 Abs. 1 relevant sind, begrenzt werden. Werden (dann) durch die Sicherheitsbehörden Erkenntnisse übermittelt, die eine Feststellung gem. § 6 Abs. 1 rechtfertigen, ist der Verlust des gemeinschaftsrechtlichen Aufenthaltsrechts festzustellen. Gem. § 6 Abs. 5 letzter Halbsatz gilt dies grundsätzlich auch für Daueraufenthaltsberechtigte und Betroffene, die nur noch aus zwingenden Gründen der öffentlichen Sicherheit und Ordnung ihr Freizügigkeitsrecht verlieren können.
+C.11. 2. Abs. 2 ergänzt die Aufzählung des § 73 AufenthG in Satz 1. Sicherheitsabfragen können
+(Beachte die
+sowohl von
+Hinweise in IV
+Auslandsvertretungen
+A.XXIII.!) können sowohl
+im von
+Rahmen der
+Auslandsvertretungen
+Visumentscheidung
+im Rahmen
+gegenüber
+der Visumentscheidung
+drittstaatsangehörigen
+gegenüber
+Familienangehörigen
+drittstaatsangehörigen
+oder
+Familienangehörigen
+drittstaatsangehörigen oder drittstaatsangehörigen
+nahestehenden nahestehenden
+Personen als auch von der Personen als bei
+Ausländerbehörde auch von der Ausländerbehörde bei
+Entscheidungen gem.
+Entscheidungen gem. § 5 Abs. 1 und 5 gegenüber Unionsbürgern, EWR-Staatsangehörigen und britischen Staatsangehörigen mit Aufenthaltsrecht nach dem Austrittsabkommen' sowie ihren jeweiligen Familienangehörigen oder nahestehenden Personen durchgeführt werden, wenn die Abfragen auf Tatsachen, die für eine Feststellung nach § 6 Abs. 1 relevant sind, begrenzt werden. Werden (dann) durch die Sicherheitsbehörden Erkenntnisse übermittelt, die eine Feststellung gem. § 6 Abs. 1 rechtfertigen, ist der Verlust des gemeinschaftsrechtlichen Aufenthaltsrechts festzustellen. Gem. § 6 Abs. 5 letzter Halbsatz gilt dies grundsätzlich auch für Daueraufenthaltsberechtigte und Betroffene, die nur noch aus zwingenden Gründen der öffentlichen Sicherheit und Ordnung ihr Freizügigkeitsrecht verlieren können.
 11.3. Ausstellung als elektronischer Aufenthaltstitel
 C.11. 3. Aus Gründen der Dokumentensicherheit müssen seit dem 24.11.2020 an Drittstaatsangehörige Aufenthaltsdokumente nach dem FreizügG/EU immer als eAT ausgestellt werden. Die bisher im Gesetz enthaltene Möglichkeit der Verwendung eines „einheitlichen Vordruckmusters“ (Papiervordruck, früherer § 11 Abs. 1 S. 6 FreizügG/EU) ist entfallen.
 Vor dem 31.08.2011 auf Papiervordruck ausgestellte Karten behalten nach Satz 7 in Anwendung des § 105b AufenthG ihre Gültigkeit nur bis zum 31.08.2021. Aufenthaltskarten sowie Daueraufenthaltskarten von drittstaatsangehörigen Familienangehörigen britischer Staatsangehöriger verlieren nach § 16 Abs. 6 Satz 2 FreizügG/EU ab dem 01.01.2022 ihre Gültigkeit, wenn der Inhaber infolge des Austritts des Vereinigten Königreichs Großbritannien und Nordirland kein Recht mehr nach § 2 Abs. 1 FreizügG/EU besitzt. Stattdessen ist der Wechsel zum Aufenthaltsdokument-GB erforderlich.
 Gemäß § 11 Abs. 3 S. 2 wird für die Ausstellung von Aufenthaltskarten, Daueraufenthaltskarten, Aufenthaltsdokumenten-GB und Aufenthaltsdokumenten für Grenzgänger-GB auf den Eintrag der Seriennummer und der Gültigkeitsdauer des Passes verzichtet. Die sonst übliche Kopplung der Kartengültigkeit an die Passgültigkeit entfällt. Die eAT können daher mit einer längeren Gültigkeit als der Passgültigkeit ausgestellt werden. Ein Übertrag des eAT ist erst bei Ablauf der eAT-Karte oder der Titelgültigkeit erforderlich.
 11.4. Austellung von Fiktionsbescheinigungen
 C.11.4. Trägt ein Antragsteller vor, im Zeitraum zwischen Bestellung und Aushändigung des eAT Reisen zu müssen oder einen Nachweis über sein Aufenthaltsrecht zur Vorlage bei Arbeitgeber oder Sozialbehörden zu benötigen, kann eine Fiktionsbescheinigung ausgestellt werden.
-Ist eine Aufenthaltskarte, Daueraufenthaltskarte oder ein Aufenthaltsdokument-GB von Amts wegen auszustellen, so erfolgt auf Antrag die Ausstellung der Fiktionsbescheinigung gemäß § 81 Abs. 5 AufenthG i.V.m. § 11 Abs. 4 FreizügG/EU. Es i st das Feld „Der Inhaber/die Inhaberin hat die Dokumentation eines Aufenthaltsrechts nach dem FreizügG/EU oder dem Abkommen EU-Schweiz beantragt, das hiermit vorläufig bescheinigt wird.“ anzukreuzen. Die Ausstellung einer Fiktionsbescheinigung ist jedoch nicht möglich, wenn die Prüfung des Aufenthaltsrechts nach dem FreizügG/EU, dem Abkommen-EU-Schweiz oder dem Austrittsabkommen noch andauert. § 81 Abs. 3 und 4 AufenthG findet für diesen Personenkreis keine Anwendung.
-Während der Prüfung zur Verleihung eines Freizügigkeitsrechts auf Antrag, also im Fall von nahestehenden Personen gem. § 3a FreizügG/EU, ist § 81 AufenthG entsprechend anzuwenden, § 81 Abs. 5 AufenthG findet hier jedoch keine Anwendung . D.h. bei Einreise mit einem D-Visum ist in diesen Fällen eine Fiktionsbescheinigung nach § 81 Abs. 4 AufenthG auszustellen, bei einer visafreien Einreise eine Fiktionsbescheinigung nach § 81 Abs. 3 AufenthG. Für die Ausstellung wird gem. § 47 Abs. 1 Nr. 8 AufenthV eine Gebühr von 13 Euro erhoben.
+Ist eine Aufenthaltskarte, Daueraufenthaltskarte oder ein Aufenthaltsdokument-GB von Amts wegen auszustellen, so erfolgt auf Antrag die Ausstellung der Fiktionsbescheinigung gemäß § 81 Abs. 5 AufenthG i.V.m. § 11 Abs. 4 FreizügG/EU. Es ist das Feld „Der Inhaber/die Inhaberin hat die Dokumentation eines Aufenthaltsrechts nach dem FreizügG/EU oder dem Abkommen EU-Schweiz beantragt, das hiermit vorläufig bescheinigt wird.“ anzukreuzen. Die Ausstellung einer Fiktionsbescheinigung ist jedoch nicht möglich, wenn die Prüfung des Aufenthaltsrechts nach dem FreizügG/EU, dem Abkommen-EU-Schweiz oder dem Austrittsabkommen noch andauert. § 81 Abs. 3 und 4 AufenthG findet für diesen Personenkreis keine Anwendung.
+Während der Prüfung zur Verleihung eines Freizügigkeitsrechts auf Antrag, also im Fall von nahestehenden Personen gem. § 3a FreizügG/EU, ist § 81 AufenthG entsprechend anzuwenden, § 81 Abs. 5 AufenthG findet hier jedoch keine Anwendung. D.h. bei Einreise mit einem D-Visum ist in diesen Fällen eine Fiktionsbescheinigung nach § 81 Abs. 4 AufenthG auszustellen, bei einer visafreien Einreise eine Fiktionsbescheinigung nach § 81 Abs. 3 AufenthG. Für die Ausstellung wird gem. § 47 Abs. 1 Nr. 8 AufenthV eine Gebühr von 13 Euro erhoben.
 Gemäß § 81 Abs. 3 AufenthG ausgestellte Fiktionsbescheinigungen berechtigen nicht zu Kurzaufenthalten in anderen Schengenstaaten.
 11.5. Regelungen für nahestehende Personen
 C.11.5. Für die Fälle des § 3a (nahestehende Personen) gelten durch die entsprechende Anwendung der allgemeinen Erteilungsvoraussetzungen des § 5 Abs. 1, 2 und 4 AufenthG, der Visumsbestimmungen nach § 6 Abs. 3 S. 2 AufenthG, der Verkürzungsmöglichkeit der Aufenthaltskarte nach § 7 Abs. 2 S. 2 AufenthG und der Mitwirkungspflichten des § 82 Abs. 1, 2 und 3 AufenthG deutlich strengere Regeln, als für den übrigen Personenkreis des FreizügG/EU.
@@ -101,7 +125,7 @@ Zum Familiennachzug zu Inhabern einer Blauen Karte EU
 Britische Staatsangehörige, die Inhaber eines Aufenthaltsrechts nach dem Austrittsabkommen sind, wenn die Familienangehörigen nicht unter das Austrittsabkommen fallen
 Zu § 11 Abs. 11 -Entsprechenden Anwendung des § 3a FreizügG/EU für nahestehende Angehörige von britischen Staatsangehörigen- siehe die Ausführungen unter C.3a.0.
 11.13. Datenübermittlung zu Integrationskursen
-C.11.13. § 88 Abs. 1 Satz 1, 3 und 4 AufenthG findet Anwendung, soweit die Datenübermittlung im Zusammenhang mit der Durchführung von Integrationskursen, zur Überwachung einer Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch oder zur Durchführung eines Einbürgerungsverfahrens notwendig ist.
+C.11.13. § 88 Abs. 1 Satz 1, 3 und 4 AufenthG findet Anwendung, soweit die Datenübermittlung im Zusammenhang mit der Durchführung von Integrationskursen, zur Überwachung des Kooperationsplans nach dem Zweiten Buch Sozialgesetzbuch oder zur Durchführung eines Einbürgerungsverfahrens notwendig ist.
 11.14. Meistbegünstigungsklausel
 C.11. 14. § 11 Abs. 14 beinhaltet eine Meistbegünstigungsklausel und deckt sich insofern mit Art. 37 der UnionsRL. Danach findet das Aufenthaltsgesetz auch dann Anwendung, wenn es dem betroffenen Ausländer eine günstigere Rechtsstellung vermittelt, als das FreizügG/EU oder das Austrittsabkommen.
 Die Erteilung eines Aufenthaltstitels an Freizügigkeitsberechtigte kommt regelmäßig nicht in Betracht, da die Erteilung eines – im Übrigen gebührenpflichtigen und mit biometrischen Merkmalen zu versehenden – Aufenthaltstitels keine über die Freizügigkeit hinausgehenden Rechte, z.B. hinsichtlich der Reiserechte in der EU bzw. dem Schengen-Raum, der Aufnahme einer Erwerbstätigkeit oder der Inanspruchnahme von sozialen Leistungen wie bspw. Kinder- oder Elterngeld vermittelt. Bei Anträgen von Freizügigkeitsberechtigten auf Erteilung eines Aufenthaltstitels fehlt es damit an einem Sachbescheidungsinteresse.

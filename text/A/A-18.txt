@@ -19,9 +19,11 @@ Beschäftigung in Drittstaaten
 18.2.5.1.-3. Nach Vollendung des 45. Lj. Mindestgehalt bzw. angemessene Altersvorsorge erforderlich
 18.3. Definition von Fachkräften
 18.4.1.-2 Gültigkeitsdauer und Nebenbestimmung
+18.5. Verkürzung der Aufenthaltserlaubnis
 A.18. Grundsatz der Fachkräfteeinwanderung; allgemeine Bestimmungen
 Änderungsdatum
-(FEG; FEWG, 23.01.2025; 01.01.2026)
+(FEG; FEWG, 23.01.2025; 01.01.2026; MDWG)
+Aufenthaltstitel für Gastwissenschaftler aus proliferationsrelevanten Ländern
 18.0. Grundsätze
 Bei § 18 handelt es sich um eine Grundsatznorm für ausländische Fach – und Arbeitskräfte, deren Erteilungsvoraussetzungen, neben denen des § 5, grundsätzlich für alle Aufenthalte zum Zwecke der Beschäftigung (§§ 18a – 20) gelten.
 Grundsätzlich sollte bei der Erteilung von Titeln zum Zwecke der Beschäftigung die folgende Prüfungsreihenfolge eingehalten werden:
@@ -74,6 +76,7 @@ Bei Erteilung der Chancenkarte nach § 20a Abs. 3 gelten abweichend davon die fo
 „Selbständige Tätigkeit nicht gestattet“
 „Beschäftigung bis zu 20 Stunden pro Woche erlaubt“
 „Probebeschäftigungen bis zu zwei Wochen erlaubt“
+Beachte auch die Ausführungen zu einer möglichen Verkürzung der Aufenthaltserlaubnis unter 18.5.
 18.2.2.3. Verlängerung der Aufenthaltserlaubnis
 Bei der Verlängerung einer Aufenthaltserlaubnis zum Zwecke der Beschäftigung nach §§ 18 ff ist immer § 9 BeschV zu beachten. Bei Vorliegen der Voraussetzungen des § 9 BeschV ist die AE - ohne vorangegangene Anfrage bei der BA - mit der Nebenbestimmung "Erwerbstätigkeit erlaubt" zu verlänger n (vgl auch Ausführungen unter B.BeschV.9.) Beachte: Die Vergünstigungen des § 9 BeschV können hingegen in den folgenden Fällen nicht Grundlage für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis (oder eine Blauen Karte EU) sein:
 Geduldete oder Gestattete beantragen einen Aufenthaltstitel nach Abschnitt 4 unter Berufung etwa auf § 9 Abs. 1 BeschV
@@ -116,8 +119,12 @@ Merke: Bei Ärzten erfolgt mit der Erteilung der Approbation die Anerkennung der
 Sollten dennoch Zweifel bestehen, ob ein ausländischer Hochschulabschluss vergleichbar ist, bzw. schon Zweifel bestehen, ob es sich überhaupt um einen Hochschulabschluss handelt, kann auf entsprechende Informationen der Zentralstelle für ausländisches Bildungswesen (ZAB) zurückgegriffen werden (). Im Einzelfall – etwa wenn die allgemeine Information nicht aussagekräftig ist oder die Datenbank keine Aussage enthält – ist der Betroffene zu verpflichten, bei der ZAB eine individuelle Bewertung zu beantragen und diese vorzulegen. Diese Bewertung ist allerdings gebührenpflichtig (Näheres unter ZAB-Zeugnisbewertungen).
 18.4.1.-2 Gültigkeitsdauer und Nebenbestimmung
 Die Aufenthaltserlaubnis nach den §§ 18a, 18b, und 19c wird grundsätzlich für vier Jahre erteilt, es sei denn, oder die Zustimmung der BA ist auf eine kürzere Dauer befristet. Für die Bewertung, ob ein mindestens vierjähriger Arbeitsvertrag abgeschlossen worden ist, bleibt die Vereinbarung einer etwaigen Probezeit außer Betracht.
-Wenn die Zustimmung der BA für einen kürzeren Zeitraum gilt als die Dauer des Arbeitsvertrages, wird der Titel für die Dauer der Zustimmung der BA zuzüglich eines Zeitraumes von drei Monaten erteilt oder verlängert erteilt. Mit dieser Regelung wird es den Inhabern des Titels ermöglicht, während des Verfahrens zur Verlängerung des Titels, der Erteilung einer Niederlassungserlaubnis die Beschäftigung unproblematisch fortsetzen zu können oder ein neues Beschäftigungsverhältnis zu finden. Entsprechend sind solche Kunden, die eine Verlängerung 3 Monate vor Ablauf des Titels beantragen, nicht auf einen späteren Zeitpunkt zu vertrösten.
+Wenn die Zustimmung der BA für einen kürzeren Zeitraum gilt als die Dauer des Arbeitsvertrages, wird der Titel für die Dauer der Zustimmung der BA zuzüglich eines Zeitraumes von sechs Monaten erteilt oder verlängert erteilt. Mit dieser Regelung wird es den Inhabern des Titels ermöglicht, während des Verfahrens zur Verlängerung des Titels, der Erteilung einer Niederlassungserlaubnis die Beschäftigung unproblematisch fortsetzen zu können oder ein neues Beschäftigungsverhältnis zu finden. Entsprechend sind solche Kunden, die eine Verlängerung 3 Monate vor Ablauf des Titels beantragen, nicht auf einen späteren Zeitpunkt zu vertrösten.
 Die Aufenthaltserlaubnis nach § 18d, die zustimmungsfreie Blaue Karte nach § 18g sowie alle Titel zum Zweck der Beschäftigung, in denen die Voraussetzung nach § 9 BeschV erfüllt sind, werden für eine Dauer von 4 Jahren erteilt, unabhängig von der Dauer des Arbeitsvertrages. Damit soll in den Fällen von Blauen Karten und Wissenschaftlern dem hohen Grad der Qualifikation Rechnung getragen werden, der im Falle des Jobverlustes regelmäßig dazu führt, dass schnell eine neue Arbeitsstelle gefunden wird. Dasselbe ist in den Fällen des § 9 BeschV anzunehmen, da bereits ein freier Arbeitsmarktzugang vorliegt.
 Die Aufenthaltserlaubnis nach den §§ 18a, 18b, 19c sind in den Fällen, in denen sie zustimmungsfrei erteilt werden mit der Nebenbestimmung:
-„Beschäftigung nicht erlaubt mit Ausnahme der Tätigkeit als …….. Selbstständige Tätigkeit erlaubt.“ zu versehen. Für die Blaue Karte EU gelten gesonderte Nebenbestimmungen, siehe A.18g.
+„Beschäftigung nicht erlaubt mit Ausnahme der Tätigkeit als …. Selbstständige Tätigkeit erlaubt.“ zu versehen. Für die Blaue Karte EU gelten gesonderte Nebenbestimmungen, siehe A.18g.
 In zustimmungspflichtigen Fällen sind die Nebenbestimmungen der Agentur für Arbeit zu übernehmen.
+18.5. Verkürzung der Aufenthaltserlaubnis
+Wurde das LEA vom Ausländer selbst oder seinem Arbeitgeber darüber informiert, dass die Beschäftigung vorzeitig beendet ist, wird geprüft, ob – aufgrund der verbleibenden Geltungsdauer der Aufenthaltserlaubnis – eine Verkürzung oder doch vorrangig die Erteilung nach § 20 Abs. 1 (s. hierzu 18.2.2.2) in Betracht kommt.
+Die Verkürzung nach § 7 Abs. 2 S. 2 ist so zu verfügen, dass die Aufenthaltserlaubnis ab Beendigung der Beschäftigung noch mindestens 6 Monate gültig ist. Hat der Betroffene besonders ausbeuterische Arbeitsbedingungen erfahren, soll die Aufenthaltserlaubnis ab Beendigung des Arbeitsverhältnisses noch mindestens 9 Monate gültig sein.
+Beachte: Die ursprüngliche Geltungsdauer der Aufenthaltserlaubnis darf nicht überschritten werden.
