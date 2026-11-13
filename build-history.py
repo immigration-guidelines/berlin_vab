@@ -272,7 +272,7 @@ def main():
 
     if rebuild:
         (ROOT / ".gitignore").write_text("*.pdf\n", encoding="utf-8")
-        extras = [f for f in (".gitignore", "build-history.py", "download-versions.py", "download-missing.sh", "publish-pdfs.sh", "README.md") if (ROOT / f).exists()]
+        extras = [f for f in (".gitignore", "build-history.py", "download-versions.py", "download-missing.sh", "README.md") if (ROOT / f).exists()]
         git("add", *extras)
         git("commit", "-q", "-m", "Add extraction script and readme")
 
