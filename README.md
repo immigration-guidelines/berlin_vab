@@ -11,6 +11,7 @@ This repository turns each PDF version into plain text and stores it as one git 
 | `text/` | The VAB as text, one file per section. This is what the commits track. |
 | `build-history.py` | Script that extracts the text from the PDFs and builds the git history. |
 | `download-versions.py` | Script that downloads every known copy of the PDF into this folder. |
+| `publish-pdfs.sh` | Script that copies the PDFs, the download scripts and a generated README into a clone of the PDF repository and commits there. |
 | `download-missing.sh` | Smaller script with only the sources found last, for a folder that already has the rest. |
 | `*.pdf` | The source PDFs. They are git-ignored here and published separately at [brinlyau/vabpdfs](https://github.com/brinlyau/vabpdfs). |
 
