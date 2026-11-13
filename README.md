@@ -111,7 +111,7 @@ Duplicate PDFs and PDFs with the same creation date are skipped automatically.
 - `pdftotext` and `pdfinfo` from poppler-utils
 - git
 
-## Versions and sources
+## Versions
 
 This table is rewritten by `build-history.py` on every run; each date is also a git tag.
 
@@ -141,6 +141,27 @@ This table is rewritten by `build-history.py` on every run; each date is also a 
 | 2025 | 4 | 18.02. 18.06. 30.09. 23.12. |
 | 2026 | 2 | 25.02. 31.08. |
 <!-- versions:end -->
+
+## Known missing versions
+
+The office's download page shows the date of the version that is live. Archived copies of that page prove that these versions were published, but no copy of the PDF has been found:
+
+| Version | Download page archived on |
+|---|---|
+| 25.02.2022 | 03.03.2022 |
+| 18.03.2022 | 20.03.2022 |
+| 22.03.2022 | 23.04.2022 |
+| 08.09.2022 | 04.10.2022 |
+| 21.11.2023 | 29.11.2023 |
+| 31.10.2024 | 24.11.2024 |
+| 30.12.2024 | 23.01.2025 |
+| 12.06.2026 | 18.06.2026 |
+
+The list is not complete: it only covers 2020 onwards, and about a third of the archived pages could not be read. Nothing earlier than September 2007 has been found either, although the oldest copies carry amendment notes going back to 2005.
+
+If you have one of these, see "Contributing a version".
+
+## Sources
 
 The PDFs come from:
 
