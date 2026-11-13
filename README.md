@@ -157,6 +157,8 @@ The office's download page shows the date of the version that is live. Archived 
 | 30.12.2024 | 23.01.2025 |
 | 12.06.2026 | 18.06.2026 |
 
+A version from around January 2023 (846 pages) is also missing; it is known only from an excerpt published by the Flüchtlingsrat NRW.
+
 The list is not complete: it only covers 2020 onwards, and about a third of the archived pages could not be read. Nothing earlier than September 2007 has been found either, although the oldest copies carry amendment notes going back to 2005.
 
 If you have one of these, see "Contributing a version".
