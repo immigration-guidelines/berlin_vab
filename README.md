@@ -12,7 +12,7 @@ This repository turns each PDF version into plain text and stores it as one git 
 | `build-history.py` | Script that extracts the text from the PDFs and builds the git history. |
 | `download-versions.py` | Script that downloads every known copy of the PDF into this folder. |
 | `download-missing.sh` | Smaller script with only the sources found last, for a folder that already has the rest. |
-| `*.pdf` | The source PDFs. They are git-ignored here and published separately at [brinlyau/vabpdfs](https://github.com/brinlyau/vabpdfs). |
+| `*.pdf` | The source PDFs. They are git-ignored here and published separately at [immigration-guidelines/vabpdfs](https://github.com/immigration-guidelines/vabpdfs). |
 
 Each version is one commit, dated and tagged with the day its PDF was generated (for example `2026-08-31`). `git tag` lists all versions.
 
@@ -31,11 +31,11 @@ Each version is one commit, dated and tagged with the day its PDF was generated 
 
 ## Getting the PDFs
 
-All source PDFs are downloadable from **<https://github.com/brinlyau/vabpdfs>**, one file per version, named by the date the PDF was generated.
+All source PDFs are downloadable from **<https://github.com/immigration-guidelines/vabpdfs>**, one file per version, named by the date the PDF was generated.
 
 ## Contributing a version
 
-If you have a version that is missing from the table below, open a pull request against [brinlyau/vabpdfs](https://github.com/brinlyau/vabpdfs) that adds the PDF. Nothing needs to change in this repository: once the PDF is merged, the text history here is regenerated from the full set of PDFs.
+If you have a version that is missing from the table below, open a pull request against [immigration-guidelines/vabpdfs](https://github.com/immigration-guidelines/vabpdfs) that adds the PDF. Nothing needs to change in this repository: once the PDF is merged, the text history here is regenerated from the full set of PDFs.
 
 - Add the PDF unmodified, as it was published.
 - Name it `YYYY-MM-DD-vab-berlin.pdf`, using the date printed on its first page ("Dieses PDF wurde erstellt am", or "Erstellt am" in versions before 2011).
